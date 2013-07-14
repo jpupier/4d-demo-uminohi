@@ -1,0 +1,37 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<xliff 
+	version="1.0" 
+	xmlns:d4="http://www.4d.com/d4-ns">
+	
+	<file 
+		datatype="x-4DK#" 
+		original="undefined" 
+		source-language="en-US" 
+		target-language="en-US"
+		product-version="v13">
+		
+		<header>
+			<note>
+			
+			</note>
+		</header>
+				
+		<body>
+
+			<group restype="x-4DK#">
+			
+				<trans-unit id="Uminohi forum" d4:value="海の日フォーラム:S">
+				   <source>Uminohi forum</source>
+				</trans-unit>	
+
+				<trans-unit id="Aikotoba" d4:value="合言葉は？:S">
+				   <source>Aikotoba</source>
+				</trans-unit>
+																																			
+			 </group>
+			 
+		</body>	
+	
+	</file>
+	
+</xliff>

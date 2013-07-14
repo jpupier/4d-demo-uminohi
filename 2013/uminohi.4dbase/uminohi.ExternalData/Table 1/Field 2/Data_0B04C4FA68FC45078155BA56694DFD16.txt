@@ -1,0 +1,1065 @@
+﻿<!DOCTYPE html>
+<html lang="ja" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>心筋梗塞 - Wikipedia</title>
+<meta name="generator" content="MediaWiki 1.22wmf9" />
+<link rel="alternate" type="application/x-wiki" title="編集" href="/w/index.php?title=%E5%BF%83%E7%AD%8B%E6%A2%97%E5%A1%9E&amp;action=edit" />
+<link rel="edit" title="編集" href="/w/index.php?title=%E5%BF%83%E7%AD%8B%E6%A2%97%E5%A1%9E&amp;action=edit" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (ja)" />
+<link rel="EditURI" type="application/rsd+xml" href="//ja.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="WikipediaのAtomフィード" href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E6%9C%80%E8%BF%91%E3%81%AE%E6%9B%B4%E6%96%B0&amp;feed=atom" />
+<link rel="canonical" href="/wiki/%E5%BF%83%E7%AD%8B%E6%A2%97%E5%A1%9E" />
+<link rel="stylesheet" href="//bits.wikimedia.org/ja.wikipedia.org/load.php?debug=false&amp;lang=ja&amp;modules=ext.gadget.WikiMiniAtlas%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmw.PopUpMediaTransform%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/ja.wikipedia.org/load.php?debug=false&amp;lang=ja&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: jawiki:resourceloader:filter:minify-css:7:88044ad88990661c9a83e63d97bb215d */</style>
+
+<script src="//bits.wikimedia.org/ja.wikipedia.org/load.php?debug=false&amp;lang=ja&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"心筋梗塞","wgTitle":"心筋梗塞","wgCurRevisionId":48471926,"wgArticleId":75887,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["書きかけの節のある項目","医学関連のスタブ項目","循環器病"],"wgBreakFrames":false,"wgPageContentLanguage":"ja","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"ja","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"心筋梗塞","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"急性心筋梗塞","wgVectorEnabledModules":{"collapsiblenav":true,"expandablesearch":false,"footercleanup":false,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"ja","pageLanguageDir":"ltr","magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf9/skins/common/images/magnify-clip.png"},"wikilove-recipient":"","wikilove-anon":0,"wgULSAcceptLanguageList":[],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","wgWikibaseItemId":"q12152"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,
+"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"uls-preferences":"","variant":"ja","language":"ja","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs102":false,"searchNs103":false,"searchNs828":false,"searchNs829":false,"gadget-mySandbox":1,"gadget-WikiMiniAtlas":1,"gadget-ReferenceTooltips":1});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: jawiki:resourceloader:filter:minify-js:7:e81032cacd79c697a43bc41dd0303860 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf9/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-心筋梗塞 skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="ja"><span dir="auto">心筋梗塞</span></h1>
+			<div id="bodyContent">
+								<div id="siteSub">出典: フリー百科事典『ウィキペディア（Wikipedia）』</div>
+								<div id="contentSub">（<a href="/w/index.php?title=%E6%80%A5%E6%80%A7%E5%BF%83%E7%AD%8B%E6%A2%97%E5%A1%9E&amp;redirect=no" title="急性心筋梗塞">急性心筋梗塞</a>から転送）</div>
+																<div id="jump-to-nav" class="mw-jump">
+					移動:					<a href="#mw-navigation">案内</a>、					<a href="#p-search">検索</a>
+				</div>
+								<div id="mw-content-text" lang="ja" dir="ltr" class="mw-content-ltr"><table class="infobox" style="width:22em;">
+<tr>
+<th colspan="2" style="text-align:center; font-size:125%; font-weight:bold; background-color: lightgrey">心筋梗塞</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">分類及び外部参照情報</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:AMI_scheme.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/AMI_scheme.png/230px-AMI_scheme.png" width="230" height="297" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/AMI_scheme.png/345px-AMI_scheme.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/AMI_scheme.png/460px-AMI_scheme.png 2x" /></a>
+<div style="">心筋梗塞の図<br />
+閉塞 (1) した先の心筋 (2) が壊死している</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left; white-space:nowrap;"><a href="/wiki/%E7%96%BE%E7%97%85%E5%8F%8A%E3%81%B3%E9%96%A2%E9%80%A3%E4%BF%9D%E5%81%A5%E5%95%8F%E9%A1%8C%E3%81%AE%E5%9B%BD%E9%9A%9B%E7%B5%B1%E8%A8%88%E5%88%86%E9%A1%9E" title="疾病及び関連保健問題の国際統計分類">ICD</a>-<a href="//en.wikipedia.org/wiki/ICD-10#List" class="extiw" title="en:ICD-10">10</a></th>
+<td><a href="//en.wikipedia.org/wiki/ICD-10_Chapter_I" class="extiw" title="en:ICD-10 Chapter I">I</a><a rel="nofollow" class="external text" href="http://apps.who.int/classifications/apps/icd/icd10online/?gi20.htm+i21">21.</a>-<a href="//en.wikipedia.org/wiki/ICD-10_Chapter_I" class="extiw" title="en:ICD-10 Chapter I">I</a><a rel="nofollow" class="external text" href="http://apps.who.int/classifications/apps/icd/icd10online/?gi20.htm+i22">22.</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left; white-space:nowrap;"><a href="/wiki/%E7%96%BE%E7%97%85%E5%8F%8A%E3%81%B3%E9%96%A2%E9%80%A3%E4%BF%9D%E5%81%A5%E5%95%8F%E9%A1%8C%E3%81%AE%E5%9B%BD%E9%9A%9B%E7%B5%B1%E8%A8%88%E5%88%86%E9%A1%9E" title="疾病及び関連保健問題の国際統計分類">ICD</a>-<a href="//en.wikipedia.org/wiki/List_of_ICD-9_codes" class="extiw" title="en:List of ICD-9 codes">9</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.icd9data.com/getICD9Code.ashx?icd9=410">410</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left; white-space:nowrap;"><a href="//en.wikipedia.org/wiki/Diseases_Database" class="extiw" title="en:Diseases Database">DiseasesDB</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.diseasesdatabase.com/ddb8664.htm">8664</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left; white-space:nowrap;"><a href="/wiki/MedlinePlus" title="MedlinePlus">MedlinePlus</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.nlm.nih.gov/medlineplus/ency/article/000195.htm">000195</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left; white-space:nowrap;"><a href="//en.wikipedia.org/wiki/eMedicine" class="extiw" title="en:eMedicine">eMedicine</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.emedicine.com/med/topic1567.htm">med/1567</a> <a rel="nofollow" class="external text" href="http://www.emedicine.com/emerg/topic327.htm#">emerg/327</a> <a rel="nofollow" class="external text" href="http://www.emedicine.com/ped/topic2520.htm#">ped/2520</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left; white-space:nowrap;"><a href="/wiki/MeSH" title="MeSH">MeSH</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.nlm.nih.gov/cgi/mesh/2011/MB_cgi?field=uid&amp;term=D009203">D009203</a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center; border-top: 1px solid #aaa;"><a href="/wiki/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88:%E7%97%85%E6%B0%97" title="プロジェクト:病気">プロジェクト:病気</a>／<a href="/wiki/Portal:%E5%8C%BB%E5%AD%A6%E3%81%A8%E5%8C%BB%E7%99%82" title="Portal:医学と医療">Portal:医学と医療</a></td>
+</tr>
+<tr class="noprint">
+<td colspan="2" style="text-align:right; font-size:85%;"><a href="/wiki/Template:Infobox_Disease" title="Template:Infobox Disease">テンプレートを表示</a></td>
+</tr>
+</table>
+<p><b>心筋梗塞</b>（しんきんこうそく、<a href="/wiki/%E8%8B%B1%E8%AA%9E" title="英語">英</a>: <span lang="en" xml:lang="en">Myocardial Infarction</span>）は、<a href="/wiki/%E8%99%9A%E8%A1%80%E6%80%A7%E5%BF%83%E7%96%BE%E6%82%A3" title="虚血性心疾患">虚血性心疾患</a>のうちの一つ。<a href="/wiki/%E5%BF%83%E8%87%93" title="心臓">心臓</a>が栄養としている<a href="/wiki/%E5%86%A0%E5%8B%95%E8%84%88" title="冠動脈">冠動脈</a>が閉塞や狭窄などを起こして<a href="/wiki/%E8%A1%80%E6%B6%B2" title="血液">血液</a>の流量が下がり、<a href="/wiki/%E5%BF%83%E7%AD%8B" title="心筋">心筋</a>が<a href="/wiki/%E8%99%9A%E8%A1%80" title="虚血">虚血</a>状態になり<a href="/wiki/%E5%A3%8A%E6%AD%BB" title="壊死">壊死</a>してしまった状態<sup id="cite_ref-Kom146_1-0" class="reference"><a href="#cite_note-Kom146-1">[1]</a></sup>。通常は急性に起こる「急性心筋梗塞 (AMI) 」のことを指す。<b>心臓麻痺</b>・<b>心臓発作</b>（ハートアタック、<a href="/wiki/%E8%8B%B1%E8%AA%9E" title="英語">英</a>: <span lang="en" xml:lang="en"><a href="//en.wikipedia.org/wiki/Heart_attack" class="extiw" title="w:Heart attack">Heart attack</a></span>）とも呼ばれる。</p>
+<p>心筋が虚血状態に陥っても<a href="/wiki/%E5%A3%8A%E6%AD%BB" title="壊死">壊死</a>にまで至らない前段階を<a href="/wiki/%E7%8B%AD%E5%BF%83%E7%97%87" title="狭心症">狭心症</a>といい、狭心症から急性心筋梗塞までの一連の病態を総称して<a href="/wiki/%E6%80%A5%E6%80%A7%E5%86%A0%E7%97%87%E5%80%99%E7%BE%A4" title="急性冠症候群">急性冠症候群</a> (acute coronary syndrome; ACS) という概念が提唱されている。</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>目次</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#.E7.99.BA.E7.97.87.E5.BD.A2.E5.BC.8F"><span class="tocnumber">1</span> <span class="toctext">発症形式</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#.E5.8E.9F.E5.9B.A0"><span class="tocnumber">2</span> <span class="toctext">原因</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#.E7.97.87.E7.8A.B6"><span class="tocnumber">3</span> <span class="toctext">症状</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#.E7.99.BA.E7.97.85.E5.9B.A0.E5.AD.90"><span class="tocnumber">4</span> <span class="toctext">発病因子</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#.E6.A4.9C.E6.9F.BB"><span class="tocnumber">5</span> <span class="toctext">検査</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#.E5.BF.83.E9.9B.BB.E5.9B.B3"><span class="tocnumber">5.1</span> <span class="toctext">心電図</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#.E5.BF.83.E8.87.93.E8.B6.85.E9.9F.B3.E6.B3.A2.E6.A4.9C.E6.9F.BB"><span class="tocnumber">5.2</span> <span class="toctext">心臓超音波検査</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Swan-Ganz.E3.82.AB.E3.83.86.E3.83.BC.E3.83.86.E3.83.AB.E6.A4.9C.E6.9F.BB"><span class="tocnumber">5.3</span> <span class="toctext">Swan-Ganzカテーテル検査</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#.E5.BF.83.E7.AD.8B.E3.82.B7.E3.83.B3.E3.83.81.E3.82.B0.E3.83.A9.E3.83.95.E3.82.A3.E3.83.BC"><span class="tocnumber">5.4</span> <span class="toctext">心筋シンチグラフィー</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#.E5.86.A0.E5.8B.95.E8.84.88.E9.80.A0.E5.BD.B1CT"><span class="tocnumber">5.5</span> <span class="toctext">冠動脈造影CT</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#.E8.83.B8.E9.83.A8.E3.83.AC.E3.83.B3.E3.83.88.E3.82.B2.E3.83.B3"><span class="tocnumber">5.6</span> <span class="toctext">胸部レントゲン</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#.E8.A1.80.E6.B6.B2.E6.A4.9C.E6.9F.BB"><span class="tocnumber">5.7</span> <span class="toctext">血液検査</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#.E6.B2.BB.E7.99.82"><span class="tocnumber">6</span> <span class="toctext">治療</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href="#.E6.80.A5.E6.80.A7.E6.9C.9F"><span class="tocnumber">6.1</span> <span class="toctext">急性期</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#.E5.AE.89.E5.AE.9A.E6.9C.9F"><span class="tocnumber">6.2</span> <span class="toctext">安定期</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#.E5.90.88.E4.BD.B5.E7.97.87"><span class="tocnumber">7</span> <span class="toctext">合併症</span></a>
+<ul>
+<li class="toclevel-2 tocsection-17"><a href="#.E4.B8.8D.E6.95.B4.E8.84.88"><span class="tocnumber">7.1</span> <span class="toctext">不整脈</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#.E5.BF.83.E4.B8.8D.E5.85.A8"><span class="tocnumber">7.2</span> <span class="toctext">心不全</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#.E4.B9.B3.E9.A0.AD.E7.AD.8B.E6.96.AD.E8.A3.82"><span class="tocnumber">7.3</span> <span class="toctext">乳頭筋断裂</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#.E5.BF.83.E7.A0.B4.E8.A3.82"><span class="tocnumber">7.4</span> <span class="toctext">心破裂</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#.E5.BF.83.E5.AE.A4.E7.98.A4"><span class="tocnumber">7.5</span> <span class="toctext">心室瘤</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#.E5.BF.83.E7.AD.8B.E6.A2.97.E5.A1.9E.E5.BE.8C.E7.97.87.E5.80.99.E7.BE.A4.EF.BC.88Dressler.E7.97.87.E5.80.99.E7.BE.A4.EF.BC.89"><span class="tocnumber">7.6</span> <span class="toctext">心筋梗塞後症候群（Dressler症候群）</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-23"><a href="#.E4.BA.88.E5.BE.8C"><span class="tocnumber">8</span> <span class="toctext">予後</span></a></li>
+<li class="toclevel-1 tocsection-24"><a href="#.E5.BF.83.E7.AD.8B.E6.A2.97.E5.A1.9E.E3.81.A7.E4.BA.A1.E3.81.8F.E3.81.AA.E3.81.A3.E3.81.9F.E8.91.97.E5.90.8D.E4.BA.BA"><span class="tocnumber">9</span> <span class="toctext">心筋梗塞で亡くなった著名人</span></a></li>
+<li class="toclevel-1 tocsection-25"><a href="#.E8.84.9A.E6.B3.A8"><span class="tocnumber">10</span> <span class="toctext">脚注</span></a></li>
+<li class="toclevel-1 tocsection-26"><a href="#.E5.8F.82.E8.80.83.E6.96.87.E7.8C.AE"><span class="tocnumber">11</span> <span class="toctext">参考文献</span></a></li>
+<li class="toclevel-1 tocsection-27"><a href="#.E9.96.A2.E9.80.A3.E9.A0.85.E7.9B.AE"><span class="tocnumber">12</span> <span class="toctext">関連項目</span></a></li>
+<li class="toclevel-1 tocsection-28"><a href="#.E5.A4.96.E9.83.A8.E3.83.AA.E3.83.B3.E3.82.AF"><span class="tocnumber">13</span> <span class="toctext">外部リンク</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id=".E7.99.BA.E7.97.87.E5.BD.A2.E5.BC.8F">発症形式</span><span class="mw-editsection">[<a href="/w/index.php?title=%E5%BF%83%E7%AD%8B%E6%A2%97%E5%A1%9E&amp;action=edit&amp;section=1" title="節を編集: 発症形式">編集</a>]</span></h2>
+<ul>
+<li>急性心筋梗塞 (AMI:Acute Myocardial Infarction) ：発症から3日以内</li>
+<li>亜急性心筋梗塞 (Subsequent Myocardial Infarction)：発症から30日以内</li>
+<li>陳旧性心筋梗塞 (OMI：Old Myocardial Infarction) ：発症から30日以上</li>
+</ul>
+<h2><span class="mw-headline" id=".E5.8E.9F.E5.9B.A0">原因</span><span class="mw-editsection">[<a href="/w/index.php?title=%E5%BF%83%E7%AD%8B%E6%A2%97%E5%A1%9E&amp;action=edit&amp;section=2" title="節を編集: 原因">編集</a>]</span></h2>
+<p>冠動脈の血流量減少は、主に<a href="/wiki/%E5%8B%95%E8%84%88%E7%A1%AC%E5%8C%96" title="動脈硬化" class="mw-redirect">動脈硬化</a>などの何らかの要因によって狭窄（きょうさく）を起こすことによる。この要因には冠動脈部分での<a href="/wiki/%E5%8B%95%E8%84%88%E7%A1%AC%E5%8C%96%E7%97%87#.E3.82.A2.E3.83.86.E3.83.AD.E3.83.BC.E3.83.A0.E6.80.A7.E5.8B.95.E8.84.88.E7.A1.AC.E5.8C.96.2Fatherosclerosis" title="動脈硬化症">粥種</a>の破裂 (plaque rupture) や<a href="/wiki/%E6%94%A3%E7%B8%AE" title="攣縮">攣縮</a> (spasm) が深く関係するが、他にも<a href="/wiki/%E6%A2%85%E6%AF%92" title="梅毒">梅毒</a>性動脈炎が起こす冠動脈起始部狭窄、解離性大動脈瘤が冠動脈に進展して起こる閉塞、<a href="/wiki/%E5%B7%9D%E5%B4%8E%E7%97%85" title="川崎病">川崎病</a>などによる冠動脈での<a href="/wiki/%E8%A1%80%E6%A0%93" title="血栓">血栓</a>（<a href="/wiki/%E5%A1%9E%E6%A0%93" title="塞栓">塞栓</a>）形成などもある<sup id="cite_ref-Kom146_1-1" class="reference"><a href="#cite_note-Kom146-1">[1]</a></sup>。</p>
+<h2><span class="mw-headline" id=".E7.97.87.E7.8A.B6">症状</span><span class="mw-editsection">[<a href="/w/index.php?title=%E5%BF%83%E7%AD%8B%E6%A2%97%E5%A1%9E&amp;action=edit&amp;section=3" title="節を編集: 症状">編集</a>]</span></h2>
+<p>強い胸部の痛みや苦悶感が生じ15分以上持続するが、虚血状態が解消されなければ数時間以上続く。顔面蒼白になり、冷や汗、<a href="/w/index.php?title=%E9%99%A4%E8%84%88&amp;action=edit&amp;redlink=1" class="new" title="除脈 (存在しないページ)">除脈</a>、<a href="/wiki/%E8%A1%80%E5%9C%A7" title="血圧">血圧</a>の低下、<a href="/wiki/%E8%84%88%E6%8B%8D" title="脈拍" class="mw-redirect">脈拍</a>の上昇などを伴い、意識不明に陥ることもある<sup id="cite_ref-Kom146_1-2" class="reference"><a href="#cite_note-Kom146-1">[1]</a></sup>。</p>
+<p>左心不全を伴う症例が多く、湿性ラ音が広範囲で聴取できるようになる。Killipらはこのラ音所見を重症度の判定表にまとめ、これはKillip表と言う<sup id="cite_ref-Kom146_1-3" class="reference"><a href="#cite_note-Kom146-1">[1]</a></sup>。</p>
+<h2><span class="mw-headline" id=".E7.99.BA.E7.97.85.E5.9B.A0.E5.AD.90">発病因子</span><span class="mw-editsection">[<a href="/w/index.php?title=%E5%BF%83%E7%AD%8B%E6%A2%97%E5%A1%9E&amp;action=edit&amp;section=4" title="節を編集: 発病因子">編集</a>]</span></h2>
+<ul>
+<li><a href="/wiki/%E5%96%AB%E7%85%99" title="喫煙">喫煙</a></li>
+<li><a href="/wiki/%E9%AB%98%E8%84%82%E8%A1%80%E7%97%87" title="高脂血症" class="mw-redirect">高コレステロール血症</a>（特に高LDLコレステロール血症）</li>
+<li><a href="/wiki/%E7%B3%96%E5%B0%BF%E7%97%85" title="糖尿病">糖尿病</a></li>
+<li><a href="/wiki/%E9%AB%98%E8%A1%80%E5%9C%A7" title="高血圧">高血圧</a></li>
+<li>狭心症･心筋梗塞の家族歴</li>
+<li>加齢（男性45歳以上、女性65歳以上）</li>
+<li><a href="/wiki/%E3%82%B9%E3%83%88%E3%83%AC%E3%82%B9_(%E7%94%9F%E4%BD%93)" title="ストレス (生体)">ストレス</a></li>
+<li><a href="/wiki/%E8%82%A5%E6%BA%80" title="肥満">肥満</a></li>
+<li><a href="/wiki/%E7%94%B7%E6%80%A7" title="男性">男性</a>＞<a href="/wiki/%E5%A5%B3%E6%80%A7" title="女性">女性</a></li>
+<li><a href="/wiki/%E7%97%9B%E9%A2%A8" title="痛風">痛風</a>（<a href="/wiki/%E9%AB%98%E5%B0%BF%E9%85%B8%E8%A1%80%E7%97%87" title="高尿酸血症">高尿酸血症</a>）</li>
+<li><a href="/wiki/%E4%BA%BA%E5%B7%A5%E9%80%8F%E6%9E%90" title="人工透析">血液透析</a></li>
+<li><a href="/wiki/%E3%83%9B%E3%83%A2%E3%82%B7%E3%82%B9%E3%83%86%E3%82%A4%E3%83%B3" title="ホモシステイン">高ホモシステイン血症</a></li>
+<li><a href="/wiki/%E6%AD%AF%E5%91%A8%E7%97%85" title="歯周病">歯周病</a></li>
+</ul>
+<h2><span class="mw-headline" id=".E6.A4.9C.E6.9F.BB">検査</span><span class="mw-editsection">[<a href="/w/index.php?title=%E5%BF%83%E7%AD%8B%E6%A2%97%E5%A1%9E&amp;action=edit&amp;section=5" title="節を編集: 検査">編集</a>]</span></h2>
+<h3><span class="mw-headline" id=".E5.BF.83.E9.9B.BB.E5.9B.B3">心電図</span><span class="mw-editsection">[<a href="/w/index.php?title=%E5%BF%83%E7%AD%8B%E6%A2%97%E5%A1%9E&amp;action=edit&amp;section=6" title="節を編集: 心電図">編集</a>]</span></h3>
+<p><a href="/wiki/%E5%BF%83%E9%9B%BB%E5%9B%B3" title="心電図">心電図</a> (ECG) の所見としては ST上昇<sup id="cite_ref-Kom146_1-4" class="reference"><a href="#cite_note-Kom146-1">[1]</a></sup>や異常Q波が特徴的であり、これがどの誘導肢に現れるかで梗塞部位や責任血管部位の診断が行える。もちろんミラーイメージの ST低下も含む<sup id="cite_ref-Kom146_1-5" class="reference"><a href="#cite_note-Kom146-1">[1]</a></sup>。hyper acute T は臨床所見と組み合わせて判断する。</p>
+<table class="wikitable" border="1" cellspacing="0" cellpadding="5" align="center">
+<tr>
+<th>障害部位</th>
+<th>ST上昇誘導</th>
+<th>ST下降誘導（Reciprocal image)</th>
+<th>責任血管</th>
+</tr>
+<tr>
+<td>中隔（Septal）</td>
+<td>V<sub>1</sub>, V<sub>2</sub></td>
+<td>（－）</td>
+<td>左冠動脈前下行枝（LAD）</td>
+</tr>
+<tr>
+<td>前壁（Anterior）</td>
+<td>V<sub>3</sub>, V<sub>4</sub></td>
+<td>（－）</td>
+<td>左冠動脈前下行枝（LAD）</td>
+</tr>
+<tr>
+<td>前壁中隔（Anteroseptal）</td>
+<td>V<sub>1</sub>, V<sub>2</sub>, V<sub>3</sub>, V<sub>4</sub></td>
+<td>（－）</td>
+<td>左冠動脈前下行枝（LAD）</td>
+</tr>
+<tr>
+<td>前壁側壁（Anterolateral）</td>
+<td>V<sub>3</sub>, V<sub>4</sub>, V<sub>5</sub>, V<sub>6</sub>, I, aVL</td>
+<td>II, III, aVF</td>
+<td>左冠動脈前下降枝（LAD）、左冠動脈回旋枝（LCX）、左冠動脈主幹部（LMT）</td>
+</tr>
+<tr>
+<td>広汎前壁（Extensive anterior）</td>
+<td>V<sub>1</sub>,V<sub>2</sub>,V<sub>3</sub>, V<sub>4</sub>, V<sub>5</sub>, V<sub>6</sub>, I, aVL</td>
+<td>II, III, aVF</td>
+<td>左冠動脈（LCA）</td>
+</tr>
+<tr>
+<td>下壁（Inferior）</td>
+<td>II, III, aVF</td>
+<td>I, aVL</td>
+<td>右冠動脈（RCA）、左冠動脈回旋枝（LCX）</td>
+</tr>
+<tr>
+<td>側壁（Lateral）</td>
+<td>I, aVL, V<sub>5</sub>, V<sub>6</sub></td>
+<td>II, III, aVF</td>
+<td>左冠動脈回旋枝（LCX）、左冠動脈主幹部（LMT）</td>
+</tr>
+<tr>
+<td>後壁（Posterior）</td>
+<td>V<sub>7</sub>, V<sub>8</sub>, V<sub>9</sub></td>
+<td>V<sub>1</sub>,V<sub>2</sub>,V<sub>3</sub>, V<sub>4</sub></td>
+<td>後下行枝（PDA）</td>
+</tr>
+<tr>
+<td>右室梗塞（RV）</td>
+<td>II, III, aVF, V<sub>1</sub>, V<sub>4</sub>R</td>
+<td>I, aVL</td>
+<td>右冠動脈（RCA）</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id=".E5.BF.83.E8.87.93.E8.B6.85.E9.9F.B3.E6.B3.A2.E6.A4.9C.E6.9F.BB">心臓超音波検査</span><span class="mw-editsection">[<a href="/w/index.php?title=%E5%BF%83%E7%AD%8B%E6%A2%97%E5%A1%9E&amp;action=edit&amp;section=7" title="節を編集: 心臓超音波検査">編集</a>]</span></h3>
+<p>心臓<a href="/wiki/%E8%B6%85%E9%9F%B3%E6%B3%A2%E6%A4%9C%E6%9F%BB" title="超音波検査">超音波検査</a>（エコー）は、ごく軽度の心筋梗塞を検出する上で心電図や血清生化学検査に勝る最も有用な検査であり、心筋の壁運動低下を検出することにより診断する<sup id="cite_ref-Kom146_1-6" class="reference"><a href="#cite_note-Kom146-1">[1]</a></sup>。ただし、心尖部や下壁に限局した梗塞の場合など、明らかな壁運動異常（asynergy）を検出しにくい場合もある。さらに副側血行路がある場合壁運動異常（asynergy）を呈さず、心電図も異常を示さず診断が困難になる場合も多々ある。</p>
+<p>心筋梗塞による MR（僧帽弁閉鎖不全症）の有無の診断にも役立つ。三尖弁の圧格差（TRPG）を計測することで肺動脈圧を推定することが可能であり、心不全の評価にも役立っている。すでに壁運動低下部位が薄くなって輝度が亢進していればそれは陳旧性病変である。</p>
+<h3><span class="mw-headline" id="Swan-Ganz.E3.82.AB.E3.83.86.E3.83.BC.E3.83.86.E3.83.AB.E6.A4.9C.E6.9F.BB">Swan-Ganzカテーテル検査</span><span class="mw-editsection">[<a href="/w/index.php?title=%E5%BF%83%E7%AD%8B%E6%A2%97%E5%A1%9E&amp;action=edit&amp;section=8" title="節を編集: Swan-Ganzカテーテル検査">編集</a>]</span></h3>
+<p><a href="/wiki/%E3%82%AB%E3%83%86%E3%83%BC%E3%83%86%E3%83%AB" title="カテーテル">カテーテル</a>検査では、鼠形動脈から差し込んだカテーテルを右心室・心房を経由して<a href="/wiki/%E8%82%BA%E5%8B%95%E8%84%88" title="肺動脈">肺動脈</a>まで進め、ここでバルーンを用いて間接的に左心房の圧力（肺動脈楔入圧）を計測する方法が取られる。また、先端から冷水を注入してセンサーを用いた温度測定を行い、血流の量を知る方法もある<sup id="cite_ref-Kom146_1-7" class="reference"><a href="#cite_note-Kom146-1">[1]</a></sup>。</p>
+<p>これらで得た肺動脈楔入圧（mmHg）と心係数（CI、心拍出量/体表面積、L/分/m<sup>2</sup>）で分類したものがForresterの分類である。心係数2.2以下を末端循環不全、肺動脈楔入圧18以上を肺うっ血状態とし、それぞれの区分から重症度を判定し投与する<a href="/wiki/%E5%8C%BB%E8%96%AC%E5%93%81" title="医薬品">医薬品</a>の種類や治療法を定めている<sup id="cite_ref-Kom146_1-8" class="reference"><a href="#cite_note-Kom146-1">[1]</a></sup>。</p>
+<h3><span class="mw-headline" id=".E5.BF.83.E7.AD.8B.E3.82.B7.E3.83.B3.E3.83.81.E3.82.B0.E3.83.A9.E3.83.95.E3.82.A3.E3.83.BC">心筋シンチグラフィー</span><span class="mw-editsection">[<a href="/w/index.php?title=%E5%BF%83%E7%AD%8B%E6%A2%97%E5%A1%9E&amp;action=edit&amp;section=9" title="節を編集: 心筋シンチグラフィー">編集</a>]</span></h3>
+<p>心筋梗塞はないか、血流の少ないところはないか、心筋は正常に動いているか、心臓の働きを果たしているかなどを調べる検査。シンチグラフィーとは、体内に投与した<a href="/wiki/%E3%82%B0%E3%83%AB%E3%82%B3%E3%83%BC%E3%82%B9" title="グルコース">グルコース</a>など<a href="/wiki/%E6%94%BE%E5%B0%84%E6%80%A7%E5%90%8C%E4%BD%8D%E4%BD%93" title="放射性同位体">放射性同位体</a>から放出される<a href="/wiki/%E6%94%BE%E5%B0%84%E7%B7%9A" title="放射線">放射線</a>を検出し、その分布を画像化したもの<sup id="cite_ref-Kom146_1-9" class="reference"><a href="#cite_note-Kom146-1">[1]</a></sup>。陽電子放射型断層撮影法 (PET) と呼ばれる<sup id="cite_ref-Kom146_1-10" class="reference"><a href="#cite_note-Kom146-1">[1]</a></sup>画像診断法の一つ。腫瘍（がん）や各種臓器の機能の診断にも使われる。また、核種の組織親和性を利用して、異所性胃粘膜の検出、甲状腺や唾液腺の検査にも使われる。</p>
+<p>心筋梗塞の部位は<a href="/wiki/%E3%83%86%E3%82%AF%E3%83%8D%E3%83%81%E3%82%A6%E3%83%A0" title="テクネチウム">テクネチウム</a>-99m<a href="/wiki/%E3%83%94%E3%83%AD%E3%83%AA%E3%83%B3%E9%85%B8" title="ピロリン酸" class="mw-redirect">ピロリン酸</a>を取り込み、逆に正常な心筋は<a href="/wiki/%E3%82%BF%E3%83%AA%E3%82%A6%E3%83%A0" title="タリウム">タリウム</a>-201を取り込む性質を持つ。これを利用しシンチグラフィーを行えば心筋梗塞の進展具合を確認できる<sup id="cite_ref-Kom146_1-11" class="reference"><a href="#cite_note-Kom146-1">[1]</a></sup>。</p>
+<h3><span class="mw-headline" id=".E5.86.A0.E5.8B.95.E8.84.88.E9.80.A0.E5.BD.B1CT">冠動脈造影CT</span><span class="mw-editsection">[<a href="/w/index.php?title=%E5%BF%83%E7%AD%8B%E6%A2%97%E5%A1%9E&amp;action=edit&amp;section=10" title="節を編集: 冠動脈造影CT">編集</a>]</span></h3>
+<p>近年、医療機器の発達により、ごく少数施設のみではあるものの、64列マルチスライスCT (MDCT) による冠動脈病変の評価が可能となりつつある。心臓カテーテル検査よりも簡便で、入院や複雑な合併症なども少ないため、今後は多用される可能性が高い。ただし、心拍数や不整脈の影響を受ける、ステント内部の評価が困難であるなど、まだ万人の評価が可能とは言えず、今後の技術的発展が待たれる分野である。</p>
+<h3><span class="mw-headline" id=".E8.83.B8.E9.83.A8.E3.83.AC.E3.83.B3.E3.83.88.E3.82.B2.E3.83.B3">胸部レントゲン</span><span class="mw-editsection">[<a href="/w/index.php?title=%E5%BF%83%E7%AD%8B%E6%A2%97%E5%A1%9E&amp;action=edit&amp;section=11" title="節を編集: 胸部レントゲン">編集</a>]</span></h3>
+<p>胸部の<a href="/wiki/X%E7%B7%9A" title="X線">X線</a>検査は、心筋梗塞に対する特異的な所見は得られないが、重症度の判定や動脈瘤を除くための診断に用いられる<sup id="cite_ref-Kom146_1-12" class="reference"><a href="#cite_note-Kom146-1">[1]</a></sup>。</p>
+<h3><span class="mw-headline" id=".E8.A1.80.E6.B6.B2.E6.A4.9C.E6.9F.BB">血液検査</span><span class="mw-editsection">[<a href="/w/index.php?title=%E5%BF%83%E7%AD%8B%E6%A2%97%E5%A1%9E&amp;action=edit&amp;section=12" title="節を編集: 血液検査">編集</a>]</span></h3>
+<dl>
+<dt><a href="/wiki/%E3%83%88%E3%83%AD%E3%83%9D%E3%83%8B%E3%83%B3" title="トロポニン">トロポニン</a></dt>
+<dd>トロポニンTとIは非常に<a href="/wiki/%E7%89%B9%E7%95%B0%E5%BA%A6" title="特異度">特異度</a>が高く、発症3時間以上経過した心筋梗塞の診断に役立っている<sup id="cite_ref-Kom146_1-13" class="reference"><a href="#cite_note-Kom146-1">[1]</a></sup>。</dd>
+<dt>H-FABP（=Heart-type fatty acid-binding protein</dt>
+<dd><a href="/w/index.php?title=%E5%BF%83%E8%87%93%E7%94%B1%E6%9D%A5%E8%84%82%E8%82%AA%E9%85%B8%E7%B5%90%E5%90%88%E8%9B%8B%E7%99%BD&amp;action=edit&amp;redlink=1" class="new" title="心臓由来脂肪酸結合蛋白 (存在しないページ)">心臓由来脂肪酸結合蛋白</a>）（ラピチェック®）<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></dd>
+<dd>より早期（約1時間半）で、<a href="/wiki/%E6%84%9F%E5%BA%A6" title="感度">感度</a>、<a href="/wiki/%E7%89%B9%E7%95%B0%E5%BA%A6" title="特異度">特異度</a>の高いという15分間で診断できるものも市販されている。ただし腎不全患者などでは心筋のダメージと関係なくTnT、H-FABPともに陽性になることがあることが知られている。</dd>
+<dt>CK-MB</dt>
+<dd>心筋特異性が高い。また<a href="/wiki/%E5%BF%83%E7%AD%8B" title="心筋">心筋</a>の障害（壊死）の程度を反映する<sup id="cite_ref-Kom146_1-14" class="reference"><a href="#cite_note-Kom146-1">[1]</a></sup>。</dd>
+</dl>
+<p>特異的でないが必ずみられる所見として、一番最初に上昇する白血球<sup id="cite_ref-Kom146_1-15" class="reference"><a href="#cite_note-Kom146-1">[1]</a></sup>、AST（GOT）、LDH、CK、ミオシン軽鎖 の上昇があり、それぞれ上昇し始めた時期は発症時間の予測に役立つ。</p>
+<p>一般的な血液検査で異常を来す時間は、<a href="/wiki/%E7%99%BD%E8%A1%80%E7%90%83" title="白血球">白血球</a> 2〜3時間、<a href="/wiki/%E3%82%AF%E3%83%AC%E3%82%A2%E3%83%81%E3%83%B3%E3%82%AD%E3%83%8A%E3%83%BC%E3%82%BC" title="クレアチンキナーゼ">CK</a> 2〜4時間、AST 6〜12時間、LDH 12〜24時間、CRP 1〜3日、ESR 2〜3日である。</p>
+<h2><span class="mw-headline" id=".E6.B2.BB.E7.99.82">治療</span><span class="mw-editsection">[<a href="/w/index.php?title=%E5%BF%83%E7%AD%8B%E6%A2%97%E5%A1%9E&amp;action=edit&amp;section=13" title="節を編集: 治療">編集</a>]</span></h2>
+<h3><span class="mw-headline" id=".E6.80.A5.E6.80.A7.E6.9C.9F">急性期</span><span class="mw-editsection">[<a href="/w/index.php?title=%E5%BF%83%E7%AD%8B%E6%A2%97%E5%A1%9E&amp;action=edit&amp;section=14" title="節を編集: 急性期">編集</a>]</span></h3>
+<p>絶対安静が原則である。発症後急性期には致死的不整脈が容易に起こり死亡する危険性が非常に高い。また、虚血の時間が長引くほど心筋の死滅が進み心機能の不可逆的低下が進行していく。発病を疑った際は患者から目を離さず直ちに救急車を要請すること、患者の意識が消失し脈拍を触れない際には躊躇せず心臓マッサージを行うことが必要である。機能的な心停止に陥った際には3〜5分以上の無処置は社会復帰率をほとんど0にしてしまう。救急隊の到着を待たず直ちに救命処置（心臓マッサージなど）に掛かる必要がある。</p>
+<p>心筋梗塞は、心筋に対する相対的・絶対的酸素供給不足が原因であり、安静にして酸素吸入を行う。また鎮痛および体の酸素消費低下目的で、<a href="/wiki/%E3%83%A2%E3%83%AB%E3%83%92%E3%83%8D" title="モルヒネ">モルヒネ</a>を投与する場合もある。急性期には心筋梗塞の病巣拡大を防ぐことが最大の目的となる。一般的に「<a href="/wiki/%E3%83%A2%E3%83%AB%E3%83%92%E3%83%8D" title="モルヒネ">モルヒネ</a>」「<a href="/wiki/%E9%85%B8%E7%B4%A0%E5%90%B8%E5%85%A5" title="酸素吸入">酸素吸入</a>」「<a href="/wiki/%E7%A1%9D%E9%85%B8%E8%96%AC" title="硝酸薬">硝酸薬</a>」「<a href="/wiki/%E3%82%A2%E3%82%B9%E3%83%94%E3%83%AA%E3%83%B3" title="アスピリン" class="mw-redirect">アスピリン</a>内服」などが中心に行われ、<a href="//en.wikipedia.org/wiki/Morphine" class="extiw" title="w:Morphine">Morphine</a>, <a href="//en.wikipedia.org/wiki/Oxygen" class="extiw" title="w:Oxygen">Oxygen</a>, <a href="//en.wikipedia.org/wiki/Nitrate" class="extiw" title="w:Nitrate">Nitrate</a>, <a href="//en.wikipedia.org/wiki/Aspirin" class="extiw" title="w:Aspirin">Aspirin</a>の頭文字をとって「MONA（モナー）」という名称で心筋梗塞の応急処置（<a href="//en.wikipedia.org/wiki/First_aid" class="extiw" title="w:First aid">First Aid</a>）として知られている。</p>
+<p>発症6時間以内の心筋梗塞の場合、積極的に閉塞した冠動脈の再灌流療法を行うことで、心筋の壊死範囲を縮小可能である。これに限らず、発症から24時間以内の症例では、再灌流療法を行う意義が高いとされる。大別して<a href="/wiki/%E7%B5%8C%E7%9A%AE%E7%9A%84%E5%86%A0%E5%8B%95%E8%84%88%E5%BD%A2%E6%88%90%E8%A1%93" title="経皮的冠動脈形成術">カテーテル的治療 (PTCA, PCI)</a> を行う場合と、<a href="/wiki/%E8%A1%80%E6%A0%93%E6%BA%B6%E8%A7%A3" title="血栓溶解" class="mw-redirect">血栓溶解</a>療法 (PTCR) があり、国により、保険により、医師の判断により治療方針が分かれていることがある。日本では、PCIの可能な施設も多く、急性期であればPCIが行われることが多い。ただし、動脈を介した検査・処置であることから合併症も多い。特に心電図上STの上昇が見られた場合、如何に早くPCIを行うかが重要であるが、救急搬入後直ちに同療法を行える体勢を取っている病院は、心臓病治療の先進国である米国でも僅かである<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>。</p>
+<p>狭窄部位が3つ以上であった場合などに、緊急<a href="/wiki/%E5%86%A0%E5%8B%95%E8%84%88%E5%A4%A7%E5%8B%95%E8%84%88%E3%83%90%E3%82%A4%E3%83%91%E3%82%B9%E7%A7%BB%E6%A4%8D%E8%A1%93" title="冠動脈大動脈バイパス移植術">冠動脈大動脈バイパス移植術</a> (CABG) が行われる施設もある。PCI と CABG を比較すると PCI では25〜30％再狭窄を来すとされていたため、1枝病変であっても CABG に優位性があるという説もある。しかし、2004年から薬剤溶出性ステント (<a href="//en.wikipedia.org/wiki/drug-eluting_stent" class="extiw" title="w:drug-eluting stent">Drug-eluting stent</a>, <a href="//en.wikipedia.org/wiki/Drug-eluting_stent" class="extiw" title="w:Drug-eluting stent">DES</a>) が保険適応となり、PCI の成績向上が期待されている。</p>
+<h3><span class="mw-headline" id=".E5.AE.89.E5.AE.9A.E6.9C.9F">安定期</span><span class="mw-editsection">[<a href="/w/index.php?title=%E5%BF%83%E7%AD%8B%E6%A2%97%E5%A1%9E&amp;action=edit&amp;section=15" title="節を編集: 安定期">編集</a>]</span></h3>
+<p>急性期にインターベンションが成功すると、比較的予後は保たれることが多い。安定期には安静、内服加療が中心となり、疾患の特徴上糖尿病、高血圧、高脂血症などが併存することが多いため、これらに対する検査・治療、患者教育などが中心となる。</p>
+<p>インターベンション不成功例、発症から時間が経過していた例などは下記の様な合併症を生じることが多い。</p>
+<h2><span class="mw-headline" id=".E5.90.88.E4.BD.B5.E7.97.87">合併症</span><span class="mw-editsection">[<a href="/w/index.php?title=%E5%BF%83%E7%AD%8B%E6%A2%97%E5%A1%9E&amp;action=edit&amp;section=16" title="節を編集: 合併症">編集</a>]</span></h2>
+<p>狭窄が生じた冠動脈の部位と発生からの時間で大まかに分別される。</p>
+<h3><span class="mw-headline" id=".E4.B8.8D.E6.95.B4.E8.84.88">不整脈</span><span class="mw-editsection">[<a href="/w/index.php?title=%E5%BF%83%E7%AD%8B%E6%A2%97%E5%A1%9E&amp;action=edit&amp;section=17" title="節を編集: 不整脈">編集</a>]</span></h3>
+<p>心筋梗塞による急性期の死亡の多くは発症後の<a href="/wiki/%E4%B8%8D%E6%95%B4%E8%84%88" title="不整脈">不整脈</a>による。急性期24時間以内に最も多く発生し、心筋梗塞の死因の第1位である。</p>
+<dl>
+<dt><a href="/wiki/%E6%9C%9F%E5%A4%96%E5%8F%8E%E7%B8%AE" title="期外収縮">期外収縮</a></dt>
+<dd>ほとんどに合併する。</dd>
+<dt><a href="/wiki/%E5%BF%83%E5%AE%A4%E7%B4%B0%E5%8B%95" title="心室細動">心室細動</a></dt>
+<dd>左冠動脈 (LCA) 梗塞で特に前壁梗塞に生じやすい。発症後数時間以内に生じるものが多い。致死的な合併症である。</dd>
+<dt><a href="/wiki/%E6%88%BF%E5%AE%A4%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF" title="房室ブロック">房室ブロック</a></dt>
+<dd>右冠動脈 (RCA) 梗塞の結果として伝導経路が障害されると起こる。洞房結節そのものが障害されると Sick Sinus Syndrome (SSS) をおこしうる。</dd>
+</dl>
+<h3><span class="mw-headline" id=".E5.BF.83.E4.B8.8D.E5.85.A8">心不全</span><span class="mw-editsection">[<a href="/w/index.php?title=%E5%BF%83%E7%AD%8B%E6%A2%97%E5%A1%9E&amp;action=edit&amp;section=18" title="節を編集: 心不全">編集</a>]</span></h3>
+<p>頻度は低いが、<a href="/wiki/%E5%BF%83%E4%B8%8D%E5%85%A8" title="心不全">心不全</a>は発症すると死亡率が高い。Swan-Ganzカテーテルで心機能を評価する Forrester分類に応じ、対症的に治療する。</p>
+<h3><span class="mw-headline" id=".E4.B9.B3.E9.A0.AD.E7.AD.8B.E6.96.AD.E8.A3.82">乳頭筋断裂</span><span class="mw-editsection">[<a href="/w/index.php?title=%E5%BF%83%E7%AD%8B%E6%A2%97%E5%A1%9E&amp;action=edit&amp;section=19" title="節を編集: 乳頭筋断裂">編集</a>]</span></h3>
+<p>発症数日後に生じることが多く、右冠動脈 (RCA) 梗塞の下壁梗塞に生じることが多い。たいていは発症すると重篤な僧帽弁閉鎖不全を伴い、心不全の原因となる。治療として CABG をおこなう場合は、同時に僧帽弁置換術をおこなうこともある。</p>
+<h3><span class="mw-headline" id=".E5.BF.83.E7.A0.B4.E8.A3.82">心破裂</span><span class="mw-editsection">[<a href="/w/index.php?title=%E5%BF%83%E7%AD%8B%E6%A2%97%E5%A1%9E&amp;action=edit&amp;section=20" title="節を編集: 心破裂">編集</a>]</span></h3>
+<p>心筋が壊死し、心臓の血圧に耐えられずに外壁が破裂する症状。基本的にこれが起こると失血と<a href="/wiki/%E5%BF%83%E3%82%BF%E3%83%B3%E3%83%9D%E3%83%8A%E3%83%BC%E3%83%87" title="心タンポナーデ">心タンポナーデ</a>によって即死となる場合が多く、助かることは難しい。因みに右心室と左心室の間に穴が開くことを心室中隔穿孔という。</p>
+<h3><span class="mw-headline" id=".E5.BF.83.E5.AE.A4.E7.98.A4">心室瘤</span><span class="mw-editsection">[<a href="/w/index.php?title=%E5%BF%83%E7%AD%8B%E6%A2%97%E5%A1%9E&amp;action=edit&amp;section=21" title="節を編集: 心室瘤">編集</a>]</span></h3>
+<p>心室瘤は、左冠動脈前下降枝 (LAD) 梗塞の結果として心尖部に生じることが多い。心筋梗塞治療後も遷延する ST上昇の原因の一つである。破裂しやすく、心タンポナーデの原因となる。</p>
+<h3><span class="mw-headline" id=".E5.BF.83.E7.AD.8B.E6.A2.97.E5.A1.9E.E5.BE.8C.E7.97.87.E5.80.99.E7.BE.A4.EF.BC.88Dressler.E7.97.87.E5.80.99.E7.BE.A4.EF.BC.89">心筋梗塞後症候群（Dressler症候群）</span><span class="mw-editsection">[<a href="/w/index.php?title=%E5%BF%83%E7%AD%8B%E6%A2%97%E5%A1%9E&amp;action=edit&amp;section=22" title="節を編集: 心筋梗塞後症候群（Dressler症候群）">編集</a>]</span></h3>
+<p>発症数週間後に生じる自己免疫性心外膜炎。</p>
+<h2><span class="mw-headline" id=".E4.BA.88.E5.BE.8C">予後</span><span class="mw-editsection">[<a href="/w/index.php?title=%E5%BF%83%E7%AD%8B%E6%A2%97%E5%A1%9E&amp;action=edit&amp;section=23" title="節を編集: 予後">編集</a>]</span></h2>
+<p>発症すると<a href="/w/index.php?title=%E8%87%B4%E6%AD%BB%E7%8E%87&amp;action=edit&amp;redlink=1" class="new" title="致死率 (存在しないページ)">致死率</a>は20％と非常に高い。そのほとんどは急性期に生じる<a href="/wiki/%E4%B8%8D%E6%95%B4%E8%84%88" title="不整脈">不整脈</a>を合併した例である。発症後48時間以内の致死率が特に高いため、それを乗り切れば救命できる確率も高くなる。</p>
+<h2><span class="mw-headline" id=".E5.BF.83.E7.AD.8B.E6.A2.97.E5.A1.9E.E3.81.A7.E4.BA.A1.E3.81.8F.E3.81.AA.E3.81.A3.E3.81.9F.E8.91.97.E5.90.8D.E4.BA.BA">心筋梗塞で亡くなった著名人</span><span class="mw-editsection">[<a href="/w/index.php?title=%E5%BF%83%E7%AD%8B%E6%A2%97%E5%A1%9E&amp;action=edit&amp;section=24" title="節を編集: 心筋梗塞で亡くなった著名人">編集</a>]</span></h2>
+<ul>
+<li><a href="/wiki/%E7%A7%8B%E5%B1%B1%E5%A5%BD%E5%8F%A4" title="秋山好古">秋山好古</a> - 陸軍軍人</li>
+<li><a href="/wiki/%E5%A4%A7%E9%87%8E%E4%BC%B4%E7%9D%A6" title="大野伴睦">大野伴睦</a> - 政治家</li>
+<li><a href="/wiki/%E5%90%89%E7%94%B0%E8%8C%82" title="吉田茂">吉田茂</a> - 政治家</li>
+<li><a href="/wiki/%E9%A6%99%E6%9C%88%E6%B3%B0%E7%94%B7" title="香月泰男">香月泰男</a> - 画家</li>
+<li><a href="/wiki/%E6%9C%A8%E6%9D%91%E5%8D%9C%E5%A0%82" title="木村卜堂">木村卜堂</a> - 書家</li>
+<li><a href="/wiki/%E6%9D%89%E7%8B%82%E5%85%90" title="杉狂児">杉狂児</a> - 歌手、俳優</li>
+<li><a href="/wiki/%E7%99%BD%E9%B3%A5%E7%94%B1%E6%A0%84" title="白鳥由栄">白鳥由栄</a> - 元受刑者</li>
+<li><a href="/wiki/%E5%A4%A7%E4%B8%8B%E5%BC%98" title="大下弘">大下弘</a> - 元プロ野球選手（外野手）</li>
+<li><a href="/wiki/%E6%A4%8D%E8%8D%89%E7%94%9A%E4%B8%80" title="植草甚一">植草甚一</a> - 欧米文学、ジャズ、映画評論家</li>
+<li><a href="/wiki/%E5%BC%95%E7%94%B0%E5%A4%A9%E5%8A%9F_(%E5%88%9D%E4%BB%A3)" title="引田天功 (初代)">引田天功 (初代)</a> - 奇術師</li>
+<li><a href="/wiki/%E6%96%B0%E7%94%B0%E6%AC%A1%E9%83%8E" title="新田次郎">新田次郎</a> - 作家</li>
+<li><a href="/wiki/%E5%A4%A7%E5%B9%B3%E6%AD%A3%E8%8A%B3" title="大平正芳">大平正芳</a> - 政治家</li>
+<li><a href="/wiki/%E5%B8%82%E5%B7%9D%E6%88%BF%E6%9E%9D" title="市川房枝">市川房枝</a> - 婦人運動家、政治家</li>
+<li><a href="/wiki/%E8%83%BD%E8%A6%8B%E6%AD%A3%E6%AF%94%E5%8F%A4" title="能見正比古">能見正比古</a> - 文筆家</li>
+<li><a href="/wiki/%E3%82%AA%E3%83%BC%E3%82%BD%E3%83%B3%E3%83%BB%E3%82%A6%E3%82%A7%E3%83%AB%E3%82%BA" title="オーソン・ウェルズ">オーソン・ウェルズ</a> - 映画監督、脚本家、俳優</li>
+<li><a href="/wiki/%E8%89%B2%E5%B7%9D%E6%AD%A6%E5%A4%A7" title="色川武大">色川武大</a> - 作家</li>
+<li><a href="/wiki/%E8%97%A4%E6%9C%AC%E8%8B%B1%E9%9B%84" title="藤本英雄">藤本英雄</a> - 元プロ野球選手（投手）</li>
+<li><a href="/wiki/%E6%A0%B9%E6%9C%AC%E9%99%B8%E5%A4%AB" title="根本陸夫">根本陸夫</a> - 元プロ野球選手（捕手）</li>
+<li><a href="/wiki/%E6%9D%89%E6%B5%A6%E5%BF%A0" title="杉浦忠">杉浦忠</a> - 元プロ野球選手（投手）</li>
+<li><a href="/wiki/%E5%B0%8F%E6%9E%97%E6%94%BF%E6%95%8F" title="小林政敏">小林政敏</a> - 元リュージュ選手</li>
+<li><a href="/wiki/%E4%B8%8B%E6%9D%91%E4%B8%80%E5%A4%AB" title="下村一夫">下村一夫</a> - 照明技師、<a href="/w/index.php?title=%E6%97%A5%E6%9C%AC%E3%83%86%E3%83%AC%E3%83%93%E7%85%A7%E6%98%8E%E5%8D%94%E4%BC%9A&amp;action=edit&amp;redlink=1" class="new" title="日本テレビ照明協会 (存在しないページ)">日本テレビ照明協会</a>会長</li>
+<li><a href="/wiki/%E9%A3%AF%E7%94%B0%E4%B8%89%E9%83%8E" title="飯田三郎">飯田三郎</a> - 作曲家</li>
+<li><a href="/wiki/%E4%BD%90%E7%AB%B9%E4%B8%80%E5%BD%A6" title="佐竹一彦">佐竹一彦</a> - 作家</li>
+<li><a href="/wiki/%E4%BC%B4%E9%87%8E%E6%9C%97" title="伴野朗">伴野朗</a> - 小説家</li>
+<li><a href="/wiki/%E4%B8%89%E6%A9%8B%E9%81%94%E4%B9%9F" title="三橋達也">三橋達也</a> - 俳優</li>
+<li><a href="/wiki/%E5%B2%A1%E9%83%A8%E5%86%AC%E5%BD%A6" title="岡部冬彦">岡部冬彦</a> - 漫画家</li>
+<li><a href="/wiki/%E4%B8%8A%E6%9C%AC%E5%AD%9D%E4%B8%80" title="上本孝一">上本孝一</a> - プロ野球審判員</li>
+<li><a href="/wiki/%E5%BF%97%E6%91%A9%E7%9B%B4%E4%BA%BA" title="志摩直人">志摩直人</a> - 詩人、競馬評論家</li>
+<li><a href="/wiki/%E9%AB%98%E6%9D%BE%E8%8B%B1%E9%83%8E" title="高松英郎">高松英郎</a> - 俳優　</li>
+<li><a href="/wiki/%E6%89%93%E6%B5%B7%E6%96%87%E4%B8%89" title="打海文三">打海文三</a> - 作家</li>
+<li><a href="/wiki/%E4%BA%95%E4%B8%8A%E5%BF%A0%E8%A1%8C" title="井上忠行">井上忠行</a> - 元プロ野球審判</li>
+<li><a href="/wiki/%E5%B7%9D%E6%9D%91%E4%BA%8C%E9%83%8E" title="川村二郎">川村二郎</a> - ドイツ文学者、文芸評論家</li>
+<li><a href="/wiki/%E7%A5%9E%E7%94%B0%E5%8E%9A" title="神田厚">神田厚</a> - 政治家</li>
+<li><a href="/wiki/%E5%B9%B3%E9%87%8E%E9%9B%85%E7%AB%A0" title="平野雅章">平野雅章</a> - 食物史家</li>
+<li><a href="/wiki/%E5%90%89%E5%B2%A1%E5%90%89%E5%85%B8" title="吉岡吉典">吉岡吉典</a> - 政治家</li>
+<li><a href="/wiki/%E7%9F%B3%E7%94%B0%E6%99%B4%E4%B9%85" title="石田晴久">石田晴久</a> - <a href="/wiki/%E6%9D%B1%E4%BA%AC%E5%A4%A7%E5%AD%A6" title="東京大学">東京大学</a>名誉教授</li>
+<li><a href="/wiki/%E4%B8%AD%E5%B7%9D%E6%98%AD%E4%B8%80" title="中川昭一">中川昭一</a> - 政治家</li>
+<li><a href="/wiki/%E6%B5%9C%E7%94%B0%E5%AF%85%E5%BD%A6" title="浜田寅彦">浜田寅彦</a> - 俳優</li>
+<li><a href="/wiki/%E6%A9%8B%E6%9C%AC%E6%98%8C%E4%BA%8C" title="橋本昌二">橋本昌二</a> - 囲碁棋士</li>
+<li><a href="/wiki/%E7%94%B0%E3%81%AE%E4%B8%AD%E5%8B%87" title="田の中勇">田の中勇</a> - 声優　</li>
+<li><a href="/wiki/%E3%81%AF%E3%82%84%E3%81%97%E5%AE%B6%E6%9E%97%E8%94%B5" title="はやし家林蔵">はやし家林蔵</a> - 落語家</li>
+<li><a href="/wiki/%E3%81%97%E3%81%B0%E3%81%9F%E3%81%AF%E3%81%A4%E3%81%BF" title="しばたはつみ">しばたはつみ</a> - 歌手</li>
+<li><a href="/wiki/%E5%87%BA%E7%BE%BD%E5%B5%90%E5%A4%A7%E8%BC%94" title="出羽嵐大輔">出羽嵐大輔</a> - 元大相撲力士</li>
+<li><a href="/wiki/%E5%AF%BA%E5%86%85%E5%B0%8F%E6%98%A5" title="寺内小春">寺内小春</a> - 脚本家</li>
+<li><a href="/wiki/%E3%81%BF%E3%82%84%E3%82%8F%E3%81%8D%E5%BF%83%E5%A4%AA%E9%83%8E" title="みやわき心太郎">みやわき心太郎</a> - 漫画家</li>
+<li><a href="/wiki/%E9%88%B4%E6%9C%A8%E8%8B%B1%E5%A4%AB" title="鈴木英夫">鈴木英夫</a> - 歌人</li>
+<li><a href="/wiki/%E5%BC%98%E5%8E%9F%E6%B5%B7%E6%B8%85" title="弘原海清">弘原海清</a> - <a href="/wiki/%E5%A4%A7%E9%98%AA%E5%B8%82%E7%AB%8B%E5%A4%A7%E5%AD%A6" title="大阪市立大学">大阪市立大学</a>名誉教授</li>
+<li><a href="/wiki/%E3%83%99%E3%83%AB%E3%83%B3%E3%83%88%E3%83%BB%E3%82%A2%E3%82%A4%E3%83%92%E3%83%B3%E3%82%AC%E3%83%BC" title="ベルント・アイヒンガー">ベルント・アイヒンガー</a> - 映画プロデューサー</li>
+<li><a href="/wiki/%E5%B2%A1%E4%B8%8A%E9%88%B4%E6%B1%9F" title="岡上鈴江">岡上鈴江</a> - 児童文学者、翻訳家</li>
+<li><a href="/wiki/%E8%8A%B1%E5%B2%A1%E4%BF%A1%E6%98%AD" title="花岡信昭">花岡信昭</a> - 政治評論家、<a href="/wiki/%E6%8B%93%E6%AE%96%E5%A4%A7%E5%AD%A6" title="拓殖大学">拓殖大学</a>大学院教授、元<a href="/wiki/%E7%94%A3%E7%B5%8C%E6%96%B0%E8%81%9E%E7%A4%BE" title="産経新聞社" class="mw-redirect">産経新聞</a>政治部長</li>
+<li><a href="/wiki/%E6%B8%85%E6%B0%B4%E6%98%B6" title="清水昶">清水昶</a> - 詩人、評論家</li>
+<li><a href="/wiki/%E6%B8%A1%E8%BE%BA%E9%95%B7%E5%8A%A9" title="渡辺長助">渡辺長助</a> - 元プロ野球選手（捕手）、<a href="/wiki/%E9%98%AA%E7%A5%9E%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC%E3%82%B9" title="阪神タイガース">阪神</a>チーフスコアラー</li>
+<li><a href="/wiki/%E5%98%89%E6%B2%BB%E5%85%83%E9%83%8E" title="嘉治元郎">嘉治元郎</a> - <a href="/wiki/%E6%9D%B1%E4%BA%AC%E5%A4%A7%E5%AD%A6" title="東京大学">東京大学</a>名誉教授</li>
+<li><a href="/wiki/%E6%9D%BE%E7%94%B0%E7%9B%B4%E6%A8%B9" title="松田直樹">松田直樹</a> - 元サッカー選手</li>
+<li><a href="/wiki/%E5%B1%B1%E5%B2%A1%E6%B4%8B%E4%B8%80" title="山岡洋一">山岡洋一</a> - 翻訳家</li>
+<li><a href="/wiki/%E4%BA%94%E5%8D%81%E5%B5%90%E5%96%9C%E8%8A%B3" title="五十嵐喜芳">五十嵐喜芳</a> - 声楽家、テノール歌手</li>
+<li><a href="/wiki/%E9%87%91%E6%AD%A3%E6%97%A5" title="金正日">金正日</a> - 独裁者</li>
+<li><a href="/wiki/%E5%B2%A9%E7%94%B0%E5%BC%98" title="岩田弘">岩田弘</a> - 経営学者、<a href="/wiki/%E7%AB%8B%E6%AD%A3%E5%A4%A7%E5%AD%A6" title="立正大学">立正大学</a>名誉教授</li>
+<li><a href="/wiki/%E5%85%AB%E6%9C%A8%E6%95%8F%E9%9B%84" title="八木敏雄">八木敏雄</a> - <a href="/wiki/%E6%88%90%E5%9F%8E%E5%A4%A7%E5%AD%A6" title="成城大学">成城大学</a>名誉教授</li>
+<li><a href="/wiki/%E6%9D%B1%E5%87%BA%E5%BA%B7%E5%8D%9A" title="東出康博">東出康博</a> - 元プロ野球選手（内野手）、南海職員</li>
+<li><a href="/wiki/%E6%AD%A6%E7%94%B0%E7%AF%80%E5%AD%90" title="武田節子">武田節子</a> - 政治家</li>
+<li><a href="/wiki/%E9%81%A0%E8%97%A4%E5%A4%AA%E6%B4%A5%E6%9C%97" title="遠藤太津朗">遠藤太津朗</a> - 俳優</li>
+<li><a href="/wiki/%E9%95%B7%E5%AF%8C%E7%A5%90%E4%B8%80%E9%83%8E" title="長富祐一郎">長富祐一郎</a> - 元官僚、元<a href="/wiki/%E5%A4%A7%E8%94%B5%E7%9C%81" title="大蔵省">大蔵省</a>関税局長</li>
+<li><a href="/wiki/%E5%85%B7%E7%8E%89%E5%A7%AB" title="具玉姫">具玉姫</a> - 女子プロゴルファー</li>
+</ul>
+<h2><span class="mw-headline" id=".E8.84.9A.E6.B3.A8">脚注</span><span class="mw-editsection">[<a href="/w/index.php?title=%E5%BF%83%E7%AD%8B%E6%A2%97%E5%A1%9E&amp;action=edit&amp;section=25" title="節を編集: 脚注">編集</a>]</span></h2>
+<table class="noprint" style="float:right; font-size:90%;">
+<tr>
+<td>[<a href="/wiki/Help:%E8%84%9A%E6%B3%A8/%E8%AA%AD%E8%80%85%E5%90%91%E3%81%91" title="Help:脚注/読者向け"><span title="この欄の操作法">ヘルプ</span></a>]</td>
+</tr>
+</table>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Kom146-1">^ <a href="#cite_ref-Kom146_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Kom146_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Kom146_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Kom146_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Kom146_1-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Kom146_1-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Kom146_1-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-Kom146_1-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-Kom146_1-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-Kom146_1-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-Kom146_1-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-Kom146_1-11"><sup><i><b>l</b></i></sup></a> <a href="#cite_ref-Kom146_1-12"><sup><i><b>m</b></i></sup></a> <a href="#cite_ref-Kom146_1-13"><sup><i><b>n</b></i></sup></a> <a href="#cite_ref-Kom146_1-14"><sup><i><b>o</b></i></sup></a> <a href="#cite_ref-Kom146_1-15"><sup><i><b>p</b></i></sup></a> <span class="reference-text"><a href="#.E5.B0.8F.E5.AE.A4.282004.29">小室(2004)、p.146-153、II.循環器疾患を深く学ぼう、A.虚血性心疾患、心筋梗塞</a></span></li>
+<li id="cite_note-2"><b><a href="#cite_ref-2">^</a></b> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.wakunaga.co.jp/reagent/products/rabbi.html">http://www.wakunaga.co.jp/reagent/products/rabbi.html</a></span></li>
+<li id="cite_note-3"><b><a href="#cite_ref-3">^</a></b> <span class="reference-text">Moscucci M, Eagle KA. "Reducing the door-to-balloon time for myocardial infarction with ST-segment elevation." <i><a href="/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E3%83%BB%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%8A%E3%83%AB%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%83%A1%E3%83%87%E3%82%A3%E3%82%B7%E3%83%B3" title="ニューイングランド・ジャーナル・オブ・メディシン">NEJM</a>.</i> 2006 Nov 30;355(22):2364-5. Epub 2006 Nov 13. <a class="external mw-magiclink-pmid" rel="nofollow" href="//www.ncbi.nlm.nih.gov/pubmed/17101618?dopt=Abstract">PMID 17101618</a></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id=".E5.8F.82.E8.80.83.E6.96.87.E7.8C.AE">参考文献</span><span class="mw-editsection">[<a href="/w/index.php?title=%E5%BF%83%E7%AD%8B%E6%A2%97%E5%A1%9E&amp;action=edit&amp;section=26" title="節を編集: 参考文献">編集</a>]</span></h2>
+<ul>
+<li><cite class="book" style="font-style:normal" id=".E5.B0.8F.E5.AE.A4.282004.29">編集：小室一成、編集協力：川名正敏 萩原誠久 中村文隆 吉田勝哉 『講義録 循環器学』 メディカルビュー社、<span title="">2006年</span>、第1版第2刷。<a href="/wiki/%E7%89%B9%E5%88%A5:%E6%96%87%E7%8C%AE%E8%B3%87%E6%96%99/4758300569" class="internal mw-magiclink-isbn">ISBN 4-7583-0056-9</a>。</cite></li>
+</ul>
+<h2><span class="mw-headline" id=".E9.96.A2.E9.80.A3.E9.A0.85.E7.9B.AE">関連項目</span><span class="mw-editsection">[<a href="/w/index.php?title=%E5%BF%83%E7%AD%8B%E6%A2%97%E5%A1%9E&amp;action=edit&amp;section=27" title="節を編集: 関連項目">編集</a>]</span></h2>
+<table class="mbox-small plainlinks sisterproject noprint" style="border:1px solid #aaa; background-color:#f9f9f9; width:20em;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" /></td>
+<td class="mbox-text" style="font-size:100%;">ウィキメディア・コモンズには、<b><span class="plainlinks"><a class="external text" href="//commons.wikimedia.org/wiki/Category:Myocardial_infarction?uselang=ja">心筋梗塞</a></span></b>に関連するカテゴリがあります。</td>
+</tr>
+</table>
+<ul>
+<li><a href="/wiki/%E8%99%9A%E8%A1%80%E6%80%A7%E5%BF%83%E7%96%BE%E6%82%A3" title="虚血性心疾患">虚血性心疾患</a></li>
+<li><a href="/wiki/%E7%8B%AD%E5%BF%83%E7%97%87" title="狭心症">狭心症</a></li>
+<li><a href="/wiki/%E5%BF%83%E9%9B%BB%E5%9B%B3" title="心電図">心電図</a></li>
+<li><a href="/wiki/%E5%8B%95%E8%84%88%E7%A1%AC%E5%8C%96" title="動脈硬化" class="mw-redirect">動脈硬化</a></li>
+<li><a href="/wiki/%E5%BE%AA%E7%92%B0%E5%99%A8%E5%AD%A6" title="循環器学">循環器学</a></li>
+<li><a href="/wiki/%E4%BA%8C%E6%AC%A1%E6%95%91%E5%91%BD%E5%87%A6%E7%BD%AE" title="二次救命処置">二次救命処置</a></li>
+<li><a href="/wiki/LOX-index" title="LOX-index">LOX-index</a></li>
+</ul>
+<h2><span class="mw-headline" id=".E5.A4.96.E9.83.A8.E3.83.AA.E3.83.B3.E3.82.AF">外部リンク</span><span class="mw-editsection">[<a href="/w/index.php?title=%E5%BF%83%E7%AD%8B%E6%A2%97%E5%A1%9E&amp;action=edit&amp;section=28" title="節を編集: 外部リンク">編集</a>]</span></h2>
+<table class="plainlinks ambox mbox-small-left ambox-content noprint" style=";">
+<tr>
+<td class="mbox-image"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Wiki_letter_w_cropped.svg" class="image"><img alt="[icon]" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/20px-Wiki_letter_w_cropped.svg.png" width="20" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/30px-Wiki_letter_w_cropped.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/40px-Wiki_letter_w_cropped.svg.png 2x" /></a></td>
+<td class="mbox-text" style="">この節の<a class="external text" href="//ja.wikipedia.org/w/index.php?title=%E5%BF%83%E7%AD%8B%E6%A2%97%E5%A1%9E&amp;action=edit">加筆</a>が望まれています。</td>
+</tr>
+</table>
+<table class="navbox" cellspacing="0" style=";">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks collapsible autocollapsed;" style="width:100%;background:transparent;color:inherit;;">
+<tr>
+<th style=";" colspan="2" class="navbox-title">
+<div style="float:left; width:6em;text-align:left;">
+<div class="noprint plainlinks" style="background-color:transparent; padding:0; font-size:75%; color:#000000; white-space:nowrap; font-weight:normal;&#160;;;border:none;;"><a href="/wiki/Template:%E5%BF%83%E8%A1%80%E7%AE%A1%E7%96%BE%E6%82%A3" title="Template:心血管疾患"><span title="このテンプレートを表示します" style=";;border:none;;">表</span></a><span style="font-size:80%;">・</span><a href="/w/index.php?title=Template%E2%80%90%E3%83%8E%E3%83%BC%E3%83%88:%E5%BF%83%E8%A1%80%E7%AE%A1%E7%96%BE%E6%82%A3&amp;action=edit&amp;redlink=1" class="new" title="Template‐ノート:心血管疾患 (存在しないページ)"><span style="color:#002bb8;;;border:none;;" title="このテンプレートのノートを表示します">話</span></a><span style="font-size:80%;">・</span><a class="external text" href="//ja.wikipedia.org/w/index.php?title=Template:%E5%BF%83%E8%A1%80%E7%AE%A1%E7%96%BE%E6%82%A3&amp;action=edit"><span style="color:#002bb8;;;border:none;;" title="このテンプレートを編集します。保存の前にプレビューを忘れずに。">編</span></a><span style="font-size:80%;">・</span><a class="external text" href="//ja.wikipedia.org/w/index.php?title=Template:%E5%BF%83%E8%A1%80%E7%AE%A1%E7%96%BE%E6%82%A3&amp;action=history"><span style="color:#002bb8;;;border:none;;" title="このテンプレートの過去の版を表示します">歴</span></a></div>
+</div>
+<span style="font-size:110%;"><a href="/wiki/%E5%BF%83%E8%A1%80%E7%AE%A1%E7%96%BE%E6%82%A3" title="心血管疾患">心血管疾患</a></span></th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="width:100%;;;;">
+<tr>
+<th style=";;" colspan="2" class="navbox-title">
+<div style="float:left; width:6em;text-align:left;">&#160;</div>
+<span style="font-size:100%;">疾患</span></th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;text-align:left;;;">
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E5%BF%83%E8%87%93%E7%97%85" title="心臓病">心疾患</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;">
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align:left;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E4%B8%8D%E6%95%B4%E8%84%88" title="不整脈">不整脈</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;">
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align:left;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E5%BE%90%E8%84%88" title="徐脈">徐脈性</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="/wiki/%E6%B4%9E%E4%B8%8D%E5%85%A8%E7%97%87%E5%80%99%E7%BE%A4" title="洞不全症候群">洞不全症候群</a> | <a href="/wiki/%E6%88%BF%E5%AE%A4%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF" title="房室ブロック">房室ブロック</a> | <a href="/wiki/%E8%84%9A%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF" title="脚ブロック">脚ブロック</a>（<a href="/wiki/%E5%8F%B3%E8%84%9A%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF" title="右脚ブロック">右脚ブロック</a>&#160;<b>·</b> <a href="/wiki/%E5%AE%8C%E5%85%A8%E5%8F%B3%E8%84%9A%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF" title="完全右脚ブロック">完全右脚ブロック</a>&#160;<b>·</b> <a href="/wiki/%E5%B7%A6%E8%84%9A%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF" title="左脚ブロック">左脚ブロック</a>）</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align:left;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E9%A0%BB%E8%84%88" title="頻脈">頻脈性</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;">
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align:left;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E4%B8%8D%E6%95%B4%E8%84%88#.E4.B8.8A.E5.AE.A4.E6.80.A7" title="不整脈">上室性</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="/w/index.php?title=%E6%B4%9E%E6%80%A7%E9%A0%BB%E8%84%88&amp;action=edit&amp;redlink=1" class="new" title="洞性頻脈 (存在しないページ)">洞性頻脈</a> | <a href="/wiki/%E5%BF%83%E6%88%BF%E7%B4%B0%E5%8B%95" title="心房細動">心房細動</a> | <a href="/w/index.php?title=%E5%BF%83%E6%88%BF%E7%B2%97%E5%8B%95&amp;action=edit&amp;redlink=1" class="new" title="心房粗動 (存在しないページ)">心房粗動</a> | <a href="/wiki/%E3%83%96%E3%83%AB%E3%82%AC%E3%83%80%E7%97%87%E5%80%99%E7%BE%A4" title="ブルガダ症候群">ブルガダ症候群</a> | <a href="/wiki/QT%E5%BB%B6%E9%95%B7%E7%97%87%E5%80%99%E7%BE%A4" title="QT延長症候群">QT延長症候群</a> | <a href="/wiki/WPW%E7%97%87%E5%80%99%E7%BE%A4" title="WPW症候群">WPW症候群</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align:left;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E4%B8%8D%E6%95%B4%E8%84%88#.E5.BF.83.E5.AE.A4.E6.80.A7" title="不整脈">心室性</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="/wiki/%E5%BF%83%E5%AE%A4%E7%B4%B0%E5%8B%95" title="心室細動">心室細動</a> | <a href="/wiki/%E5%BF%83%E5%AE%A4%E9%A0%BB%E6%8B%8D" title="心室頻拍">心室頻拍</a></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align:left;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E8%99%9A%E8%A1%80%E6%80%A7%E5%BF%83%E7%96%BE%E6%82%A3" title="虚血性心疾患">虚血性心疾患</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="/wiki/%E7%8B%AD%E5%BF%83%E7%97%87" title="狭心症">狭心症</a> | <a href="/wiki/%E6%80%A5%E6%80%A7%E5%86%A0%E7%97%87%E5%80%99%E7%BE%A4" title="急性冠症候群">急性冠症候群</a> | <strong class="selflink">心筋梗塞</strong> | <a href="/wiki/%E5%86%A0%E5%8B%95%E8%84%88%E8%A1%80%E6%A0%93%E7%97%87" title="冠動脈血栓症">冠動脈血栓症</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align:left;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E5%BF%83%E8%87%93%E5%BC%81%E8%86%9C%E7%97%87" title="心臓弁膜症">弁膜性心疾患</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="/wiki/%E5%83%A7%E5%B8%BD%E5%BC%81%E7%8B%AD%E7%AA%84%E7%97%87" title="僧帽弁狭窄症">僧帽弁狭窄症</a> | <a href="/wiki/%E5%83%A7%E5%B8%BD%E5%BC%81%E9%96%89%E9%8E%96%E4%B8%8D%E5%85%A8%E7%97%87" title="僧帽弁閉鎖不全症" class="mw-redirect">僧帽弁閉鎖不全症</a> | <a href="/wiki/%E4%B8%89%E5%B0%96%E5%BC%81%E7%8B%AD%E7%AA%84%E7%97%87" title="三尖弁狭窄症" class="mw-redirect">三尖弁狭窄症</a> | <a href="/wiki/%E4%B8%89%E5%B0%96%E5%BC%81%E9%96%89%E9%8E%96%E4%B8%8D%E5%85%A8%E7%97%87" title="三尖弁閉鎖不全症" class="mw-redirect">三尖弁閉鎖不全症</a> | <a href="/wiki/%E5%A4%A7%E5%8B%95%E8%84%88%E5%BC%81%E7%8B%AD%E7%AA%84%E7%97%87" title="大動脈弁狭窄症">大動脈弁狭窄症</a> | <a href="/wiki/%E5%A4%A7%E5%8B%95%E8%84%88%E5%BC%81%E9%96%89%E9%8E%96%E4%B8%8D%E5%85%A8%E7%97%87" title="大動脈弁閉鎖不全症" class="mw-redirect">大動脈弁閉鎖不全症</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align:left;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E5%85%88%E5%A4%A9%E6%80%A7%E5%BF%83%E7%96%BE%E6%82%A3" title="先天性心疾患">先天性心疾患</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="/wiki/%E5%BF%83%E6%88%BF%E4%B8%AD%E9%9A%94%E6%AC%A0%E6%90%8D" title="心房中隔欠損">心房中隔欠損</a> | <a href="/wiki/%E5%BF%83%E5%AE%A4%E4%B8%AD%E9%9A%94%E6%AC%A0%E6%90%8D" title="心室中隔欠損">心室中隔欠損</a> | <a href="/wiki/%E5%BF%83%E5%86%85%E8%86%9C%E5%BA%8A%E6%AC%A0%E6%90%8D%E7%97%87" title="心内膜床欠損症">心内膜床欠損症</a> | <a href="/wiki/%E5%8B%95%E8%84%88%E7%AE%A1%E9%96%8B%E5%AD%98%E7%97%87" title="動脈管開存症">動脈管開存症</a> | <a href="/wiki/%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC%E5%9B%9B%E5%BE%B4%E7%97%87" title="ファロー四徴症">ファロー四徴症</a>（<a href="/wiki/%E6%A5%B5%E5%9E%8B%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC%E5%9B%9B%E5%BE%B4%E7%97%87" title="極型ファロー四徴症">極型ファロー四徴症</a>） | <a href="/wiki/%E5%A4%A7%E8%A1%80%E7%AE%A1%E8%BB%A2%E4%BD%8D" title="大血管転位">大血管転位</a>（<a href="/wiki/%E5%B7%A6%E6%97%8B%E6%80%A7%E5%A4%A7%E8%A1%80%E7%AE%A1%E8%BB%A2%E4%BD%8D" title="左旋性大血管転位">左旋性</a>&#160;<b>·</b> <a href="/wiki/%E5%8F%B3%E6%97%8B%E6%80%A7%E5%A4%A7%E8%A1%80%E7%AE%A1%E8%BB%A2%E4%BD%8D" title="右旋性大血管転位">右旋性</a>） | <a href="/wiki/%E7%B7%8F%E8%82%BA%E9%9D%99%E8%84%88%E9%82%84%E6%B5%81%E7%95%B0%E5%B8%B8%E7%97%87" title="総肺静脈還流異常症">総肺静脈還流異常症</a> | <a href="/wiki/%E5%A4%A7%E5%8B%95%E8%84%88%E7%B8%AE%E7%AA%84" title="大動脈縮窄">大動脈縮窄</a> | <a href="/wiki/%E5%B7%A6%E5%BF%83%E4%BD%8E%E5%BD%A2%E6%88%90%E7%97%87%E5%80%99%E7%BE%A4" title="左心低形成症候群">左心低形成症候群</a> | <a href="/w/index.php?title=%E4%B8%A1%E5%A4%A7%E8%A1%80%E7%AE%A1%E5%8F%B3%E5%AE%A4%E8%B5%B7%E5%A7%8B%E7%97%87&amp;action=edit&amp;redlink=1" class="new" title="両大血管右室起始症 (存在しないページ)">両大血管右室起始症</a> | <a href="/w/index.php?title=%E4%B8%89%E5%B0%96%E5%BC%81%E9%96%89%E9%8E%96&amp;action=edit&amp;redlink=1" class="new" title="三尖弁閉鎖 (存在しないページ)">三尖弁閉鎖</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align:left;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E5%BF%83%E5%86%85%E8%86%9C" title="心内膜">心内膜</a>・<a href="/wiki/%E5%BF%83%E7%AD%8B" title="心筋">心筋</a><br />
+・<a href="/wiki/%E5%BF%83%E8%86%9C" title="心膜">心膜</a>疾患</div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;">
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align:left;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E5%BF%83%E5%86%85%E8%86%9C" title="心内膜">心内膜疾患</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="/wiki/%E6%84%9F%E6%9F%93%E6%80%A7%E5%BF%83%E5%86%85%E8%86%9C%E7%82%8E" title="感染性心内膜炎">感染性心内膜炎</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align:left;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E5%BF%83%E8%86%9C" title="心膜">心膜疾患</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="/wiki/%E5%BF%83%E8%86%9C%E7%82%8E" title="心膜炎">心膜炎</a>（<a href="/wiki/%E6%80%A5%E6%80%A7%E5%BF%83%E8%86%9C%E7%82%8E" title="急性心膜炎" class="mw-redirect">急性心膜炎</a>&#160;<b>·</b> <a href="/wiki/%E6%85%A2%E6%80%A7%E5%8F%8E%E7%B8%AE%E6%80%A7%E5%BF%83%E8%86%9C%E7%82%8E" title="慢性収縮性心膜炎" class="mw-redirect">慢性収縮性心膜炎</a>） | <a href="/wiki/%E5%BF%83%E3%82%BF%E3%83%B3%E3%83%9D%E3%83%8A%E3%83%BC%E3%83%87" title="心タンポナーデ">心タンポナーデ</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align:left;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E5%BF%83%E7%AD%8B" title="心筋">心筋疾患</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="/wiki/%E5%BF%83%E7%AD%8B%E7%97%87" title="心筋症">心筋症</a>（<a href="/wiki/%E7%89%B9%E7%99%BA%E6%80%A7%E6%8B%A1%E5%BC%B5%E5%9E%8B%E5%BF%83%E7%AD%8B%E7%97%87" title="特発性拡張型心筋症" class="mw-redirect">特発性拡張型心筋症</a>&#160;<b>·</b> <a href="/wiki/%E8%82%A5%E5%A4%A7%E5%9E%8B%E5%BF%83%E7%AD%8B%E7%97%87" title="肥大型心筋症" class="mw-redirect">肥大型心筋症</a>&#160;<b>·</b> <a href="/wiki/%E6%8B%98%E6%9D%9F%E5%9E%8B%E5%BF%83%E7%AD%8B%E7%97%87" title="拘束型心筋症">拘束型心筋症</a>&#160;<b>·</b> <a href="/w/index.php?title=%E7%89%B9%E7%99%BA%E6%80%A7%E5%BF%83%E7%AD%8B%E7%97%87&amp;action=edit&amp;redlink=1" class="new" title="特発性心筋症 (存在しないページ)">特発性心筋症</a>） | <a href="/wiki/%E5%BF%83%E7%AD%8B%E7%82%8E" title="心筋炎">心筋炎</a></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="/w/index.php?title=%E5%BF%83%E8%87%93%E8%85%AB%E7%98%8D&amp;action=edit&amp;redlink=1" class="new" title="心臓腫瘍 (存在しないページ)">心臓腫瘍</a> | <a href="/w/index.php?title=%E5%BF%83%E8%87%93%E7%A5%9E%E7%B5%8C%E7%97%87&amp;action=edit&amp;redlink=1" class="new" title="心臓神経症 (存在しないページ)">心臓神経症</a> | <a href="/wiki/%E5%BF%83%E8%87%93%E6%80%A7%E5%96%98%E6%81%AF" title="心臓性喘息">心臓性喘息</a> | <a href="/wiki/%E8%82%BA%E6%80%A7%E5%BF%83" title="肺性心">肺性心</a></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E8%A1%80%E7%AE%A1%E7%96%BE%E6%82%A3" title="血管疾患">血管疾患</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;">
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align:left;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E5%8B%95%E8%84%88" title="動脈">動脈</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="/wiki/%E5%8B%95%E8%84%88%E7%A1%AC%E5%8C%96" title="動脈硬化" class="mw-redirect">動脈硬化</a> | <a href="/wiki/%E5%A4%A7%E5%8B%95%E8%84%88%E7%98%A4" title="大動脈瘤">大動脈瘤</a> | <a href="/wiki/%E5%A4%A7%E5%8B%95%E8%84%88%E8%A7%A3%E9%9B%A2" title="大動脈解離">大動脈解離</a> | <a href="/wiki/%E5%A4%A7%E5%8B%95%E8%84%88%E7%82%8E%E7%97%87%E5%80%99%E7%BE%A4" title="大動脈炎症候群">大動脈炎症候群</a> | <a href="/wiki/%E5%8B%95%E9%9D%99%E8%84%88%E7%98%BB" title="動静脈瘻">動静脈瘻</a> | <a href="/wiki/%E9%96%89%E5%A1%9E%E6%80%A7%E5%8B%95%E8%84%88%E7%A1%AC%E5%8C%96%E7%97%87" title="閉塞性動脈硬化症">閉塞性動脈硬化症</a> | <a href="/wiki/%E9%96%89%E5%A1%9E%E6%80%A7%E8%A1%80%E6%A0%93%E6%80%A7%E8%A1%80%E7%AE%A1%E7%82%8E" title="閉塞性血栓性血管炎">閉塞性血栓性血管炎</a> | <a href="/wiki/%E3%83%AC%E3%82%A4%E3%83%8E%E3%83%BC%E7%97%85" title="レイノー病">レイノー病</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align:left;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E9%9D%99%E8%84%88" title="静脈">静脈</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="/wiki/%E9%9D%99%E8%84%88%E7%98%A4" title="静脈瘤">静脈瘤</a> | <a href="/wiki/%E8%A1%80%E6%A0%93%E6%80%A7%E9%9D%99%E8%84%88%E7%82%8E" title="血栓性静脈炎">血栓性静脈炎</a> | <a href="/wiki/%E9%9D%99%E8%84%88%E8%A1%80%E6%A0%93%E5%A1%9E%E6%A0%93%E7%97%87" title="静脈血栓塞栓症">静脈血栓塞栓症</a> | <a href="/wiki/%E8%84%82%E8%82%AA%E5%A1%9E%E6%A0%93%E7%97%87" title="脂肪塞栓症">脂肪塞栓症</a></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="width:100%;;;;">
+<tr>
+<th style=";;" colspan="2" class="navbox-title">
+<div style="float:left; width:6em;text-align:left;">&#160;</div>
+<span style="font-size:100%;">病態・症候</span></th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;text-align:left;;;">
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E5%BF%83%E4%B8%8D%E5%85%A8" title="心不全">心不全</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="/wiki/%E5%B7%A6%E5%BF%83%E4%B8%8D%E5%85%A8" title="左心不全" class="mw-redirect">左心不全</a> | <a href="/wiki/%E5%8F%B3%E5%BF%83%E4%B8%8D%E5%85%A8" title="右心不全" class="mw-redirect">右心不全</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E8%A1%80%E5%9C%A7" title="血圧">血圧</a><a href="//ja.wiktionary.org/wiki/%E7%95%B0%E5%B8%B8" class="extiw" title="wikt:異常">異常</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;">
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align:left;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E9%AB%98%E8%A1%80%E5%9C%A7" title="高血圧">高血圧</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="/w/index.php?title=%E6%9C%AC%E6%85%8B%E6%80%A7%E9%AB%98%E8%A1%80%E5%9C%A7%E7%97%87&amp;action=edit&amp;redlink=1" class="new" title="本態性高血圧症 (存在しないページ)">本態性高血圧症</a> | <a href="/w/index.php?title=%E4%BA%8C%E6%AC%A1%E6%80%A7%E9%AB%98%E8%A1%80%E5%9C%A7&amp;action=edit&amp;redlink=1" class="new" title="二次性高血圧 (存在しないページ)">二次性高血圧</a> | <a href="/w/index.php?title=%E6%82%AA%E6%80%A7%E9%AB%98%E8%A1%80%E5%9C%A7%E7%97%87&amp;action=edit&amp;redlink=1" class="new" title="悪性高血圧症 (存在しないページ)">悪性高血圧症</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="/wiki/%E4%BD%8E%E8%A1%80%E5%9C%A7" title="低血圧">低血圧</a></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="/wiki/%E5%BF%83%E8%87%93%E7%99%BA%E4%BD%9C" title="心臓発作">心臓発作</a> | <a href="/wiki/%E5%BF%83%E8%87%93%E8%82%A5%E5%A4%A7" title="心臓肥大">心臓肥大</a> | <a href="/wiki/%E5%BF%83%E5%81%9C%E6%AD%A2" title="心停止">心停止</a> | <a href="/wiki/%E5%BF%83%E8%82%BA%E5%81%9C%E6%AD%A2" title="心肺停止">心肺停止</a></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="width:100%;;;;">
+<tr>
+<th style=";;" colspan="2" class="navbox-title">
+<div style="float:left; width:6em;text-align:left;">&#160;</div>
+<span style="font-size:100%;">所見・検査</span></th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="/wiki/%E8%A1%80%E5%9C%A7%E8%A8%88" title="血圧計">血圧計</a> | <a href="/wiki/%E8%81%B4%E8%A8%BA#.E5.BF.83.E8.87.93.E9.9F.B3.E3.81.AE.E8.81.B4.E8.A8.BA" title="聴診">聴診</a> | <a href="/wiki/%E5%BF%83%E9%9B%91%E9%9F%B3" title="心雑音">心雑音</a> | <a href="/wiki/%E5%BF%83%E9%9B%BB%E5%9B%B3" title="心電図">心電図</a> | <a href="/wiki/%E5%BF%83%E9%9B%BB%E5%9B%B3%E3%83%A2%E3%83%8B%E3%82%BF" title="心電図モニタ">心電図モニタ</a> | <a href="/wiki/%E5%BF%83%E8%87%93%E8%B6%85%E9%9F%B3%E6%B3%A2%E6%A4%9C%E6%9F%BB" title="心臓超音波検査">心臓超音波検査</a> | <a href="/wiki/X%E7%B7%9A%E6%92%AE%E5%BD%B1#.E8.83.B8.E9.83.A8X.E7.B7.9A.E5.86.99.E7.9C.9F" title="X線撮影">胸部X線写真</a> | <a href="/wiki/X%E7%B7%9A%E6%92%AE%E5%BD%B1#.E8.83.B8.E9.83.A8X.E7.B7.9ACT" title="X線撮影">胸部X線CT</a> | <a href="/wiki/%E5%BF%83%E8%87%93%E3%82%AB%E3%83%86%E3%83%BC%E3%83%86%E3%83%AB%E6%A4%9C%E6%9F%BB" title="心臓カテーテル検査">心臓カテーテル検査</a>（<a href="/wiki/%E8%82%BA%E5%8B%95%E8%84%88%E3%82%AB%E3%83%86%E3%83%BC%E3%83%86%E3%83%AB" title="肺動脈カテーテル">肺動脈カテーテル</a>） | <a href="/wiki/%E5%BF%83%E8%87%93%E6%A0%B8%E5%8C%BB%E5%AD%A6%E6%A4%9C%E6%9F%BB" title="心臓核医学検査">心臓核医学検査</a></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="width:100%;;;;">
+<tr>
+<th style=";;" colspan="2" class="navbox-title">
+<div style="float:left; width:6em;text-align:left;">&#160;</div>
+<span style="font-size:100%;">治療</span></th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;">
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align:left;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E5%BF%83%E8%87%93%E8%A1%80%E7%AE%A1%E5%A4%96%E7%A7%91%E5%AD%A6" title="心臓血管外科学">外科的治療</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="/wiki/%E5%86%A0%E5%8B%95%E8%84%88%E5%A4%A7%E5%8B%95%E8%84%88%E3%83%90%E3%82%A4%E3%83%91%E3%82%B9%E7%A7%BB%E6%A4%8D%E8%A1%93" title="冠動脈大動脈バイパス移植術">冠動脈大動脈バイパス移植術</a> | <a href="/wiki/%E7%B5%8C%E7%9A%AE%E7%9A%84%E5%86%A0%E5%8B%95%E8%84%88%E5%BD%A2%E6%88%90%E8%A1%93" title="経皮的冠動脈形成術">経皮的冠動脈形成術</a> | <a href="/wiki/%E6%A4%8D%E3%81%88%E8%BE%BC%E3%81%BF%E5%9E%8B%E9%99%A4%E7%B4%B0%E5%8B%95%E5%99%A8" title="植え込み型除細動器">植え込み型除細動器</a> | <a href="/wiki/%E3%83%90%E3%83%81%E3%82%B9%E3%82%BF%E6%89%8B%E8%A1%93" title="バチスタ手術">バチスタ手術</a> | <a href="/wiki/%E4%BA%BA%E5%B7%A5%E5%BF%83%E8%87%93" title="人工心臓">人工心臓</a> | <a href="/wiki/%E5%BF%83%E8%87%93%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC" title="心臓ペースメーカー">心臓ペースメーカー</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align:left;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E5%BE%AA%E7%92%B0%E5%99%A8%E5%AD%A6" title="循環器学">内科的治療</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;">
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align:left;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E5%BF%83%E8%87%93" title="心臓">心臓</a>作動薬</div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;">
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align:left;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E6%8A%97%E4%B8%8D%E6%95%B4%E8%84%88%E8%96%AC" title="抗不整脈薬">抗不整脈薬</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">Ia群: <a href="/wiki/%E3%83%97%E3%83%AD%E3%82%AB%E3%82%A4%E3%83%B3%E3%82%A2%E3%83%9F%E3%83%89" title="プロカインアミド">プロカインアミド</a>, <a href="/wiki/%E3%82%AD%E3%83%8B%E3%82%B8%E3%83%B3" title="キニジン">キニジン</a><br />
+Ib群: <a href="/wiki/%E3%83%AA%E3%83%89%E3%82%AB%E3%82%A4%E3%83%B3" title="リドカイン">リドカイン</a>, <a href="/wiki/%E3%83%95%E3%82%A7%E3%83%8B%E3%83%88%E3%82%A4%E3%83%B3" title="フェニトイン">フェニトイン</a><br />
+Ic群: <a href="/w/index.php?title=%E3%83%95%E3%83%AC%E3%82%AB%E3%82%A4%E3%83%8B%E3%83%89&amp;action=edit&amp;redlink=1" class="new" title="フレカイニド (存在しないページ)">フレカイニド</a>, <a href="/w/index.php?title=%E3%83%97%E3%83%AD%E3%83%91%E3%83%95%E3%82%A7%E3%83%8E%E3%83%B3&amp;action=edit&amp;redlink=1" class="new" title="プロパフェノン (存在しないページ)">プロパフェノン</a><br />
+II群: <a href="/wiki/%E4%BA%A4%E6%84%9F%E7%A5%9E%E7%B5%8C%CE%B2%E5%8F%97%E5%AE%B9%E4%BD%93%E9%81%AE%E6%96%AD%E8%96%AC" title="交感神経β受容体遮断薬">交感神経β受容体遮断薬</a>（<a href="/wiki/%E3%83%97%E3%83%AD%E3%83%97%E3%83%A9%E3%83%8E%E3%83%AD%E3%83%BC%E3%83%AB" title="プロプラノロール">プロプラノロール</a>など）<br />
+III群: <a href="/wiki/%E3%82%A2%E3%83%9F%E3%82%AA%E3%83%80%E3%83%AD%E3%83%B3" title="アミオダロン">アミオダロン</a>, <a href="/w/index.php?title=%E3%82%BD%E3%82%BF%E3%83%AD%E3%83%BC%E3%83%AB&amp;action=edit&amp;redlink=1" class="new" title="ソタロール (存在しないページ)">ソタロール</a><br />
+IV群: <a href="/wiki/%E3%82%AB%E3%83%AB%E3%82%B7%E3%82%A6%E3%83%A0%E6%8B%AE%E6%8A%97%E5%89%A4" title="カルシウム拮抗剤">カルシウム拮抗剤</a>（<a href="/wiki/%E3%83%99%E3%83%A9%E3%83%91%E3%83%9F%E3%83%AB" title="ベラパミル">ベラパミル</a>, <a href="/wiki/%E3%82%B8%E3%83%AB%E3%83%81%E3%82%A2%E3%82%BC%E3%83%A0" title="ジルチアゼム">ジルチアゼム</a>など）</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align:left;;">
+<div style="padding:0em 0.75em;"><a href="/w/index.php?title=%E5%BF%83%E4%B8%8D%E5%85%A8%E6%B2%BB%E7%99%82%E8%96%AC&amp;action=edit&amp;redlink=1" class="new" title="心不全治療薬 (存在しないページ)">心不全治療薬</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="/wiki/%E5%88%A9%E5%B0%BF%E8%96%AC" title="利尿薬">利尿薬</a> | <a href="/wiki/%E8%A1%80%E7%AE%A1%E6%8B%A1%E5%BC%B5%E8%96%AC" title="血管拡張薬">血管拡張薬</a> | <a href="/wiki/%E5%BC%B7%E5%BF%83%E9%85%8D%E7%B3%96%E4%BD%93" title="強心配糖体">強心配糖体</a> | <a href="/wiki/%E6%98%87%E5%9C%A7%E5%89%A4#.E5.BC.B7.E5.BF.83.E5.89.A4" title="昇圧剤">強心剤</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align:left;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E7%8B%AD%E5%BF%83%E7%97%87%E6%B2%BB%E7%99%82%E8%96%AC" title="狭心症治療薬">狭心症治療薬</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="/wiki/%E4%BA%A4%E6%84%9F%E7%A5%9E%E7%B5%8C%CE%B2%E5%8F%97%E5%AE%B9%E4%BD%93%E9%81%AE%E6%96%AD%E8%96%AC" title="交感神経β受容体遮断薬">交感神経β受容体遮断薬</a> | <a href="/wiki/%E7%A1%9D%E9%85%B8%E8%96%AC" title="硝酸薬">硝酸薬</a></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align:left;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E8%A1%80%E7%AE%A1" title="血管">血管</a>作動薬</div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;">
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align:left;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E9%AB%98%E8%A1%80%E5%9C%A7%E6%B2%BB%E7%99%82%E8%96%AC" title="高血圧治療薬">高血圧治療薬</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="/wiki/%E5%88%A9%E5%B0%BF%E8%96%AC" title="利尿薬">利尿薬</a> | <a href="/wiki/%E4%BA%A4%E6%84%9F%E7%A5%9E%E7%B5%8C%CE%B2%E5%8F%97%E5%AE%B9%E4%BD%93%E9%81%AE%E6%96%AD%E8%96%AC" title="交感神経β受容体遮断薬">交感神経β受容体遮断薬</a> | <a href="/wiki/%E3%83%AC%E3%83%8B%E3%83%B3-%E3%82%A2%E3%83%B3%E3%82%B8%E3%82%AA%E3%83%86%E3%83%B3%E3%82%B7%E3%83%B3%E7%B3%BB" title="レニン-アンジオテンシン系">レニン-アンジオテンシン系</a> (<a href="/wiki/ACE%E9%98%BB%E5%AE%B3%E8%96%AC" title="ACE阻害薬">ACE阻害薬</a>、<a href="/wiki/%E3%82%A2%E3%83%B3%E3%82%B8%E3%82%AA%E3%83%86%E3%83%B3%E3%82%B7%E3%83%B3II%E5%8F%97%E5%AE%B9%E4%BD%93%E6%8B%AE%E6%8A%97%E8%96%AC" title="アンジオテンシンII受容体拮抗薬">アンジオテンシンII受容体拮抗薬</a>、<a href="/w/index.php?title=%E3%83%AC%E3%83%8B%E3%83%B3%E9%98%BB%E5%AE%B3%E8%96%AC&amp;action=edit&amp;redlink=1" class="new" title="レニン阻害薬 (存在しないページ)">レニン阻害薬</a>) | <a href="/wiki/%E3%82%AB%E3%83%AB%E3%82%B7%E3%82%A6%E3%83%A0%E6%8B%AE%E6%8A%97%E5%89%A4" title="カルシウム拮抗剤">カルシウム拮抗剤</a> | <a href="/wiki/%E3%82%A2%E3%83%89%E3%83%AC%E3%83%8A%E3%83%AA%E3%83%B3%E4%BD%9C%E5%8B%95%E8%96%AC" title="アドレナリン作動薬">アドレナリン作動薬</a> | <a href="/wiki/%E8%84%82%E8%B3%AA%E9%99%8D%E4%B8%8B%E8%96%AC" title="脂質降下薬">脂質降下薬</a></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" style=";" colspan="2"><a href="/wiki/Template:%E5%BE%AA%E7%92%B0%E5%99%A8%E7%B3%BB" title="Template:循環器系"><b>循環器系の正常構造・生理</b></a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<div class="metadata plainlinks stub">
+<table cellspacing="2" cellpadding="3" style="border:solid #999 1px; background:#F8F8F8; margin:0.5em 10%; clear:both">
+<tr>
+<td class="mbox-image"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Esclapius_stick.svg" class="image" title="執筆の途中です"><img alt="執筆の途中です" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Esclapius_stick.svg/10px-Esclapius_stick.svg.png" width="10" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Esclapius_stick.svg/15px-Esclapius_stick.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Esclapius_stick.svg/20px-Esclapius_stick.svg.png 2x" /></a></td>
+<td class="mbox-text">この項目は、<b><a href="/wiki/%E5%8C%BB%E5%AD%A6" title="医学">医学</a></b>に関連した<b><a href="/wiki/Wikipedia:%E3%82%B9%E3%82%BF%E3%83%96" title="Wikipedia:スタブ">書きかけの項目</a></b>です。<a class="external text" href="//ja.wikipedia.org/w/index.php?title=%E5%BF%83%E7%AD%8B%E6%A2%97%E5%A1%9E&amp;action=edit">この項目を加筆・訂正</a>などしてくださる<a href="/wiki/Category:%E5%8C%BB%E5%AD%A6%E9%96%A2%E9%80%A3%E3%81%AE%E3%82%B9%E3%82%BF%E3%83%96%E9%A0%85%E7%9B%AE" title="Category:医学関連のスタブ項目">協力者を求めています</a>（<a href="/wiki/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88:%E5%8C%BB%E5%AD%A6" title="プロジェクト:医学">プロジェクト:医学</a>／<a href="/wiki/Portal:%E5%8C%BB%E5%AD%A6%E3%81%A8%E5%8C%BB%E7%99%82" title="Portal:医学と医療">Portal:医学と医療</a>）。</td>
+</tr>
+</table>
+</div>
+<p><span id="interwiki-de-ga" style="display:none;"></span> <span id="interwiki-es-ga" style="display:none;"></span></p>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 9679/1000000
+Preprocessor generated node count: 45987/1500000
+Post‐expand include size: 264231/2048000 bytes
+Template argument size: 208522/2048000 bytes
+Highest expansion depth: 32/40
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key jawiki:pcache:idhash:75887-0!*!0!!ja!4!* and timestamp 20130713051907 -->
+</div>								<div class="printfooter">
+				「<a href="http://ja.wikipedia.org/w/index.php?title=心筋梗塞&amp;oldid=48471926">http://ja.wikipedia.org/w/index.php?title=心筋梗塞&amp;oldid=48471926</a>」から取得				</div>
+												<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA" title="特別:カテゴリ">カテゴリ</a>: <ul><li><a href="/wiki/Category:%E5%BE%AA%E7%92%B0%E5%99%A8%E7%97%85" title="Category:循環器病">循環器病</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">隠しカテゴリ: <ul><li><a href="/wiki/Category:%E6%9B%B8%E3%81%8D%E3%81%8B%E3%81%91%E3%81%AE%E7%AF%80%E3%81%AE%E3%81%82%E3%82%8B%E9%A0%85%E7%9B%AE" title="Category:書きかけの節のある項目">書きかけの節のある項目</a></li><li><a href="/wiki/Category:%E5%8C%BB%E5%AD%A6%E9%96%A2%E9%80%A3%E3%81%AE%E3%82%B9%E3%82%BF%E3%83%96%E9%A0%85%E7%9B%AE" title="Category:医学関連のスタブ項目">医学関連のスタブ項目</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>案内メニュー</h2>
+			<div id="mw-head">
+				<div id="p-personal" role="navigation" class="">
+	<h3>個人用ツール</h3>
+	<ul>
+<li id="pt-createaccount"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3&amp;returnto=%E5%BF%83%E7%AD%8B%E6%A2%97%E5%A1%9E&amp;type=signup">アカウント作成</a></li><li id="pt-login"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3&amp;returnto=%E5%BF%83%E7%AD%8B%E6%A2%97%E5%A1%9E" title="ログインすることを推奨します。ただし、必須ではありません。 [o]" accesskey="o">ログイン</a></li>	</ul>
+</div>
+				<div id="left-navigation">
+					<div id="p-namespaces" role="navigation" class="vectorTabs">
+	<h3>名前空間</h3>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/%E5%BF%83%E7%AD%8B%E6%A2%97%E5%A1%9E"  title="本文を閲覧 [c]" accesskey="c">ページ</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/%E3%83%8E%E3%83%BC%E3%83%88:%E5%BF%83%E7%AD%8B%E6%A2%97%E5%A1%9E"  title="本文ページについての議論 [t]" accesskey="t">ノート</a></span></li>
+			</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet">
+	<h3 id="mw-vector-current-variant">
+		</h3>
+	<h3><span>変種</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+				</div>
+				<div id="right-navigation">
+					<div id="p-views" role="navigation" class="vectorTabs">
+	<h3>表示</h3>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/%E5%BF%83%E7%AD%8B%E6%A2%97%E5%A1%9E" >閲覧</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=%E5%BF%83%E7%AD%8B%E6%A2%97%E5%A1%9E&amp;action=edit"  title="このページを編集できます。保存前にプレビューボタンを使用してください。 [e]" accesskey="e">編集</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=%E5%BF%83%E7%AD%8B%E6%A2%97%E5%A1%9E&amp;action=history"  title="このページの過去の版 [h]" accesskey="h">履歴表示</a></span></li>
+			</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet">
+	<h3><span>操作</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+<div id="p-search" role="search">
+	<h3><label for="searchInput">検索</label></h3>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" placeholder="検索" title="Wikipedia内を検索する [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="この文字列が含まれるページを探す" id="searchButton"><img src="//bits.wikimedia.org/static-1.22wmf9/skins/vector/images/search-ltr.png?303-4" alt="検索" width="12" height="13" /></button>								<input type='hidden' name="title" value="特別:検索"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+					<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/commons/a/ad/Wikipedia-logo-v2-ja.png);" href="/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8"  title="メインページに移動する"></a></div>
+				<div class="portal" role="navigation" id='p-navigation'>
+	<h3>案内</h3>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage"><a href="/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" title="メインページに移動する [z]" accesskey="z">メインページ</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%BB%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB" title="このプロジェクトについて、できること、情報を入手する場所">コミュニティ・ポータル</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:%E6%9C%80%E8%BF%91%E3%81%AE%E5%87%BA%E6%9D%A5%E4%BA%8B" title="最近の出来事の背景を知る">最近の出来事</a></li>
+			<li id="n-newpages"><a href="/wiki/%E7%89%B9%E5%88%A5:%E6%96%B0%E3%81%97%E3%81%84%E3%83%9A%E3%83%BC%E3%82%B8" title="最近新規に作成されたページの一覧">新しいページ</a></li>
+			<li id="n-recentchanges"><a href="/wiki/%E7%89%B9%E5%88%A5:%E6%9C%80%E8%BF%91%E3%81%AE%E6%9B%B4%E6%96%B0" title="このウィキにおける最近の更新の一覧 [r]" accesskey="r">最近の更新</a></li>
+			<li id="n-randompage"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%81%8A%E3%81%BE%E3%81%8B%E3%81%9B%E8%A1%A8%E7%A4%BA" title="無作為に選択されたページを読み込む [x]" accesskey="x">おまかせ表示</a></li>
+			<li id="n-sandbox"><a href="/wiki/Wikipedia:%E3%82%B5%E3%83%B3%E3%83%89%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9" title="練習用のページ">練習用ページ</a></li>
+			<li id="n-commonsupload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=ja" title="画像やメディアファイルをウィキメディア・コモンズにアップロード">アップロード (ウィキメディア・コモンズ)</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-help'>
+	<h3>ヘルプ</h3>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:%E7%9B%AE%E6%AC%A1" title="情報を得る場所">ヘルプ</a></li>
+			<li id="n-villagepump"><a href="/wiki/Wikipedia:%E4%BA%95%E6%88%B8%E7%AB%AF" title="プロジェクトについての意見交換">井戸端</a></li>
+			<li id="n-notice"><a href="/wiki/Wikipedia:%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B" title="プロジェクトについてのお知らせ">お知らせ</a></li>
+			<li id="n-bugreportspage"><a href="/wiki/Wikipedia:%E3%83%90%E3%82%B0%E3%81%AE%E5%A0%B1%E5%91%8A" title="ウィキペディア・ソフトウェアのバグ報告">バグの報告</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ja.wikipedia.org&amp;uselang=ja" title="ご支援ください">寄付</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:%E9%80%A3%E7%B5%A1%E5%85%88" title="ウィキペディアやウィキメディア財団に関する連絡先">ウィキペディアに関するお問い合わせ</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-tb'>
+	<h3>ツールボックス</h3>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%83%AA%E3%83%B3%E3%82%AF%E5%85%83/%E5%BF%83%E7%AD%8B%E6%A2%97%E5%A1%9E" title="ここにリンクしている全ウィキページの一覧 [j]" accesskey="j">リンク元</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/%E7%89%B9%E5%88%A5:%E9%96%A2%E9%80%A3%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%B3%81/%E5%BF%83%E7%AD%8B%E6%A2%97%E5%A1%9E" title="このページからリンクしているページの最近の更新 [k]" accesskey="k">関連ページの更新状況</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89" title="ファイルをアップロードする [u]" accesskey="u">ファイルをアップロード</a></li>
+			<li id="t-specialpages"><a href="/wiki/%E7%89%B9%E5%88%A5:%E7%89%B9%E5%88%A5%E3%83%9A%E3%83%BC%E3%82%B8%E4%B8%80%E8%A6%A7" title="特別ページの一覧 [q]" accesskey="q">特別ページ</a></li>
+			<li id="t-print"><a href="/w/index.php?title=%E5%BF%83%E7%AD%8B%E6%A2%97%E5%A1%9E&amp;printable=yes" rel="alternate" title="このページの印刷用ページ [p]" accesskey="p">印刷用バージョン</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=%E5%BF%83%E7%AD%8B%E6%A2%97%E5%A1%9E&amp;oldid=48471926" title="このページのこの版への固定リンク">この版への固定リンク</a></li>
+			<li id="t-info"><a href="/w/index.php?title=%E5%BF%83%E7%AD%8B%E6%A2%97%E5%A1%9E&amp;action=info">ページ情報</a></li>
+			<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q12152" title="関連付けられたデータリポジトリ項目へのリンク">データ項目</a></li>
+<li id="t-cite"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E5%BC%95%E7%94%A8&amp;page=%E5%BF%83%E7%AD%8B%E6%A2%97%E5%A1%9E&amp;id=48471926" title="このページの引用方法">このページを引用</a></li>		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-lang'>
+	<h3>他言語版</h3>
+	<div class="body">
+		<ul>
+			<li class="interwiki-an"><a href="//an.wikipedia.org/wiki/Infarcto_de_miocardio" title="Infarcto de miocardio" lang="an" hreflang="an">Aragonés</a></li>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%A7%D8%AD%D8%AA%D8%B4%D8%A7%D8%A1_%D8%B9%D8%B6%D9%84_%D8%A7%D9%84%D9%82%D9%84%D8%A8" title="احتشاء عضل القلب" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-be"><a href="//be.wikipedia.org/wiki/%D0%92%D0%BE%D1%81%D1%82%D1%80%D1%8B_%D1%96%D0%BD%D1%84%D0%B0%D1%80%D0%BA%D1%82_%D0%BC%D1%96%D1%8F%D0%BA%D0%B0%D1%80%D0%B4%D0%B0" title="Востры інфаркт міякарда" lang="be" hreflang="be">Беларуская</a></li>
+			<li class="interwiki-be-x-old"><a href="//be-x-old.wikipedia.org/wiki/%D0%92%D0%BE%D1%81%D1%82%D1%80%D1%8B_%D1%96%D0%BD%D1%84%D0%B0%D1%80%D0%BA%D1%82_%D0%BC%D1%96%D1%8F%D0%BA%D0%B0%D1%80%D0%B4%D0%B0" title="Востры інфаркт міякарда" lang="be-x-old" hreflang="be-x-old">Беларуская (тарашкевіца)‎</a></li>
+			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%98%D0%BD%D1%84%D0%B0%D1%80%D0%BA%D1%82_%D0%BD%D0%B0_%D0%BC%D0%B8%D0%BE%D0%BA%D0%B0%D1%80%D0%B4%D0%B0" title="Инфаркт на миокарда" lang="bg" hreflang="bg">Български</a></li>
+			<li class="interwiki-bs"><a href="//bs.wikipedia.org/wiki/Infarkt_miokarda" title="Infarkt miokarda" lang="bs" hreflang="bs">Bosanski</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Infart_miocard%C3%ADac" title="Infart miocardíac" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-ceb"><a href="//ceb.wikipedia.org/wiki/Atake_sa_kasingkasing" title="Atake sa kasingkasing" lang="ceb" hreflang="ceb">Cebuano</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/Infarkt_myokardu" title="Infarkt myokardu" lang="cs" hreflang="cs">Česky</a></li>
+			<li class="interwiki-cy"><a href="//cy.wikipedia.org/wiki/Trawiad_ar_y_galon" title="Trawiad ar y galon" lang="cy" hreflang="cy">Cymraeg</a></li>
+			<li class="interwiki-da"><a href="//da.wikipedia.org/wiki/Akut_myokardieinfarkt" title="Akut myokardieinfarkt" lang="da" hreflang="da">Dansk</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Myokardinfarkt" title="Myokardinfarkt" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-dv"><a href="//dv.wikipedia.org/wiki/%DE%80%DE%A7%DE%83%DE%93%DE%B0_%DE%87%DE%AC%DE%93%DE%AD%DE%86%DE%B0_%DE%96%DE%AC%DE%80%DE%AA%DE%82%DE%B0" title="ހާރޓް އެޓޭކް ޖެހުން" lang="dv" hreflang="dv">ދިވެހިބަސް</a></li>
+			<li class="interwiki-el"><a href="//el.wikipedia.org/wiki/%CE%88%CE%BC%CF%86%CF%81%CE%B1%CE%B3%CE%BC%CE%B1_%CF%84%CE%BF%CF%85_%CE%BC%CF%85%CE%BF%CE%BA%CE%B1%CF%81%CE%B4%CE%AF%CE%BF%CF%85" title="Έμφραγμα του μυοκαρδίου" lang="el" hreflang="el">Ελληνικά</a></li>
+			<li class="interwiki-en"><a href="//en.wikipedia.org/wiki/Myocardial_infarction" title="Myocardial infarction" lang="en" hreflang="en">English</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Korinfarkto" title="Korinfarkto" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Infarto_agudo_de_miocardio" title="Infarto agudo de miocardio" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-et"><a href="//et.wikipedia.org/wiki/M%C3%BCokardi_infarkt" title="Müokardi infarkt" lang="et" hreflang="et">Eesti</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Miokardio_infartu_akutu" title="Miokardio infartu akutu" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%B3%DA%A9%D8%AA%D9%87_%D9%82%D9%84%D8%A8%DB%8C" title="سکته قلبی" lang="fa" hreflang="fa">فارسی</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Syd%C3%A4ninfarkti" title="Sydäninfarkti" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Infarctus_du_myocarde" title="Infarctus du myocarde" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-gl"><a href="//gl.wikipedia.org/wiki/Infarto_agudo_de_miocardio" title="Infarto agudo de miocardio" lang="gl" hreflang="gl">Galego</a></li>
+			<li class="interwiki-gu"><a href="//gu.wikipedia.org/wiki/%E0%AA%B9%E0%AB%83%E0%AA%A6%E0%AA%AF%E0%AA%B0%E0%AB%8B%E0%AA%97%E0%AA%A8%E0%AB%8B_%E0%AA%B9%E0%AB%81%E0%AA%AE%E0%AA%B2%E0%AB%8B" title="હૃદયરોગનો હુમલો" lang="gu" hreflang="gu">ગુજરાતી</a></li>
+			<li class="interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%90%D7%95%D7%98%D7%9D_%D7%A9%D7%A8%D7%99%D7%A8_%D7%94%D7%9C%D7%91" title="אוטם שריר הלב" lang="he" hreflang="he">עברית</a></li>
+			<li class="interwiki-hi"><a href="//hi.wikipedia.org/wiki/%E0%A4%B9%E0%A5%83%E0%A4%A6%E0%A4%AF%E0%A4%BE%E0%A4%98%E0%A4%BE%E0%A4%A4" title="हृदयाघात" lang="hi" hreflang="hi">हिन्दी</a></li>
+			<li class="interwiki-hr"><a href="//hr.wikipedia.org/wiki/Infarkt_miokarda" title="Infarkt miokarda" lang="hr" hreflang="hr">Hrvatski</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/Sz%C3%ADvinfarktus" title="Szívinfarktus" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-hy"><a href="//hy.wikipedia.org/wiki/%D5%8D%D6%80%D5%BF%D5%A1%D5%B4%D5%AF%D5%A1%D5%B6%D5%AB_%D5%AB%D5%B6%D6%86%D5%A1%D6%80%D5%AF%D5%BF" title="Սրտամկանի ինֆարկտ" lang="hy" hreflang="hy">Հայերեն</a></li>
+			<li class="interwiki-id"><a href="//id.wikipedia.org/wiki/Serangan_jantung" title="Serangan jantung" lang="id" hreflang="id">Bahasa Indonesia</a></li>
+			<li class="interwiki-is"><a href="//is.wikipedia.org/wiki/Hjarta%C3%A1fall" title="Hjartaáfall" lang="is" hreflang="is">Íslenska</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Infarto_miocardico_acuto" title="Infarto miocardico acuto" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-kk"><a href="//kk.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BE%D0%BA%D0%B0%D1%80%D0%B4_%D0%B8%D0%BD%D1%84%D0%B0%D1%80%D0%BA%D1%82%D1%8B%D1%81%D1%8B" title="Миокард инфарктысы" lang="kk" hreflang="kk">Қазақша</a></li>
+			<li class="interwiki-kn"><a href="//kn.wikipedia.org/wiki/%E0%B2%B9%E0%B3%83%E0%B2%A6%E0%B2%AF%E0%B2%BE%E0%B2%98%E0%B2%BE%E0%B2%A4" title="ಹೃದಯಾಘಾತ" lang="kn" hreflang="kn">ಕನ್ನಡ</a></li>
+			<li class="interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EC%8B%AC%EA%B7%BC_%EA%B2%BD%EC%83%89" title="심근 경색" lang="ko" hreflang="ko">한국어</a></li>
+			<li class="interwiki-ku"><a href="//ku.wikipedia.org/wiki/Mirina_mas%C3%BBlkey%C3%AAn_dil" title="Mirina masûlkeyên dil" lang="ku" hreflang="ku">Kurdî</a></li>
+			<li class="interwiki-ky"><a href="//ky.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BE%D0%BA%D0%B0%D1%80%D0%B4%D0%B4%D1%8B%D0%BD_%D0%B8%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%D1%81%D1%8B" title="Миокарддын инфекциясы" lang="ky" hreflang="ky">Кыргызча</a></li>
+			<li class="interwiki-la"><a href="//la.wikipedia.org/wiki/Infarctus_cordis" title="Infarctus cordis" lang="la" hreflang="la">Latina</a></li>
+			<li class="interwiki-lt"><a href="//lt.wikipedia.org/wiki/Miokardo_infarktas" title="Miokardo infarktas" lang="lt" hreflang="lt">Lietuvių</a></li>
+			<li class="interwiki-lv"><a href="//lv.wikipedia.org/wiki/Miokarda_infarkts" title="Miokarda infarkts" lang="lv" hreflang="lv">Latviešu</a></li>
+			<li class="interwiki-mk"><a href="//mk.wikipedia.org/wiki/%D0%A1%D1%80%D1%86%D0%B5%D0%B2_%D0%BD%D0%B0%D0%BF%D0%B0%D0%B4" title="Срцев напад" lang="mk" hreflang="mk">Македонски</a></li>
+			<li class="interwiki-ml"><a href="//ml.wikipedia.org/wiki/%E0%B4%B9%E0%B5%83%E0%B4%A6%E0%B4%AF%E0%B4%BE%E0%B4%98%E0%B4%BE%E0%B4%A4%E0%B4%82" title="ഹൃദയാഘാതം" lang="ml" hreflang="ml">മലയാളം</a></li>
+			<li class="interwiki-mn"><a href="//mn.wikipedia.org/wiki/%D0%97%D2%AF%D1%80%D1%85%D0%BD%D0%B8%D0%B9_%D1%88%D0%B8%D0%B3%D0%B4%D1%8D%D1%8D%D1%81" title="Зүрхний шигдээс" lang="mn" hreflang="mn">Монгол</a></li>
+			<li class="interwiki-mr"><a href="//mr.wikipedia.org/wiki/%E0%A4%B9%E0%A5%83%E0%A4%A6%E0%A4%AF%E0%A4%BE%E0%A4%98%E0%A4%BE%E0%A4%A4" title="हृदयाघात" lang="mr" hreflang="mr">मराठी</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Hartinfarct" title="Hartinfarct" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-nn"><a href="//nn.wikipedia.org/wiki/Hjarte%C3%A5tak" title="Hjarteåtak" lang="nn" hreflang="nn">Norsk nynorsk</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Hjerteinfarkt" title="Hjerteinfarkt" lang="no" hreflang="no">Norsk bokmål</a></li>
+			<li class="interwiki-oc"><a href="//oc.wikipedia.org/wiki/Infart_miocardiac" title="Infart miocardiac" lang="oc" hreflang="oc">Occitan</a></li>
+			<li class="interwiki-or"><a href="//or.wikipedia.org/wiki/%E0%AC%B9%E0%AD%83%E0%AC%A6%E0%AD%8D%E2%80%8C%E0%AC%98%E0%AC%BE%E0%AC%A4" title="ହୃଦ୍‌ଘାତ" lang="or" hreflang="or">ଓଡ଼ିଆ</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Zawa%C5%82_mi%C4%99%C5%9Bnia_sercowego" title="Zawał mięśnia sercowego" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pnb"><a href="//pnb.wikipedia.org/wiki/%D8%AF%D9%84_%D8%AF%D8%A7_%D8%AF%D9%88%D8%B1%DB%81" title="دل دا دورہ" lang="pnb" hreflang="pnb">پنجابی</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Infarto_agudo_do_mioc%C3%A1rdio" title="Infarto agudo do miocárdio" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-qu"><a href="//qu.wikipedia.org/wiki/Sunqu_p%27itiy" title="Sunqu p'itiy" lang="qu" hreflang="qu">Runa Simi</a></li>
+			<li class="interwiki-ro"><a href="//ro.wikipedia.org/wiki/Infarct_miocardic" title="Infarct miocardic" lang="ro" hreflang="ro">Română</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%84%D0%B0%D1%80%D0%BA%D1%82_%D0%BC%D0%B8%D0%BE%D0%BA%D0%B0%D1%80%D0%B4%D0%B0" title="Инфаркт миокарда" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-sh"><a href="//sh.wikipedia.org/wiki/Sr%C4%8Dani_udar" title="Srčani udar" lang="sh" hreflang="sh">Srpskohrvatski / српскохрватски</a></li>
+			<li class="interwiki-si"><a href="//si.wikipedia.org/wiki/%E0%B7%84%E0%B7%98%E0%B6%AF%E0%B6%BA%E0%B7%8F%E0%B6%B6%E0%B7%8F%E0%B6%B0%E0%B6%BA" title="හෘදයාබාධය" lang="si" hreflang="si">සිංහල</a></li>
+			<li class="interwiki-simple"><a href="//simple.wikipedia.org/wiki/Myocardial_infarction" title="Myocardial infarction" lang="simple" hreflang="simple">Simple English</a></li>
+			<li class="interwiki-sl"><a href="//sl.wikipedia.org/wiki/Miokardni_infarkt" title="Miokardni infarkt" lang="sl" hreflang="sl">Slovenščina</a></li>
+			<li class="interwiki-sq"><a href="//sq.wikipedia.org/wiki/Infarkti_miokardial" title="Infarkti miokardial" lang="sq" hreflang="sq">Shqip</a></li>
+			<li class="interwiki-sr"><a href="//sr.wikipedia.org/wiki/%D0%A1%D1%80%D1%87%D0%B0%D0%BD%D0%B8_%D1%83%D0%B4%D0%B0%D1%80" title="Срчани удар" lang="sr" hreflang="sr">Српски / srpski</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Hj%C3%A4rtinfarkt" title="Hjärtinfarkt" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-ta"><a href="//ta.wikipedia.org/wiki/%E0%AE%AE%E0%AE%BE%E0%AE%B0%E0%AE%9F%E0%AF%88%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81" title="மாரடைப்பு" lang="ta" hreflang="ta">தமிழ்</a></li>
+			<li class="interwiki-te"><a href="//te.wikipedia.org/wiki/%E0%B0%97%E0%B1%81%E0%B0%82%E0%B0%A1%E0%B1%86%E0%B0%AA%E0%B1%8B%E0%B0%9F%E0%B1%81" title="గుండెపోటు" lang="te" hreflang="te">తెలుగు</a></li>
+			<li class="interwiki-th"><a href="//th.wikipedia.org/wiki/%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%99%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%88%E0%B8%95%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%AB%E0%B8%95%E0%B8%B8%E0%B8%82%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%94" title="กล้ามเนื้อหัวใจตายเหตุขาดเลือด" lang="th" hreflang="th">ไทย</a></li>
+			<li class="interwiki-tl"><a href="//tl.wikipedia.org/wiki/Atake_sa_puso" title="Atake sa puso" lang="tl" hreflang="tl">Tagalog</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/Kalp_krizi" title="Kalp krizi" lang="tr" hreflang="tr">Türkçe</a></li>
+			<li class="interwiki-tt"><a href="//tt.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BE%D0%BA%D0%B0%D1%80%D0%B4_%D0%B8%D0%BD%D1%84%D0%B0%D1%80%D0%BA%D1%82%D1%8B" title="Миокард инфаркты" lang="tt" hreflang="tt">Татарча/tatarça</a></li>
+			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%93%D0%BE%D1%81%D1%82%D1%80%D0%B8%D0%B9_%D1%96%D0%BD%D1%84%D0%B0%D1%80%D0%BA%D1%82_%D0%BC%D1%96%D0%BE%D0%BA%D0%B0%D1%80%D0%B4%D0%B0" title="Гострий інфаркт міокарда" lang="uk" hreflang="uk">Українська</a></li>
+			<li class="interwiki-ur"><a href="//ur.wikipedia.org/wiki/%D8%A7%D8%AD%D8%AA%D8%B4%D8%A7%D8%A1_%D8%B9%D8%B6%D9%84_%D9%82%D9%84%D8%A8" title="احتشاء عضل قلب" lang="ur" hreflang="ur">اردو</a></li>
+			<li class="interwiki-uz"><a href="//uz.wikipedia.org/wiki/Miokard_infarkti" title="Miokard infarkti" lang="uz" hreflang="uz">Oʻzbekcha</a></li>
+			<li class="interwiki-vi"><a href="//vi.wikipedia.org/wiki/Nh%E1%BB%93i_m%C3%A1u_c%C6%A1_tim" title="Nhồi máu cơ tim" lang="vi" hreflang="vi">Tiếng Việt</a></li>
+			<li class="interwiki-war"><a href="//war.wikipedia.org/wiki/Atake_ha_kasingkasing" title="Atake ha kasingkasing" lang="war" hreflang="war">Winaray</a></li>
+			<li class="interwiki-yi"><a href="//yi.wikipedia.org/wiki/%D7%94%D7%90%D7%A8%D7%A5_%D7%90%D7%98%D7%90%D7%A7%D7%A2" title="הארץ אטאקע" lang="yi" hreflang="yi">ייִדיש</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E5%BF%83%E8%82%8C%E6%A2%97%E6%AD%BB" title="心肌梗死" lang="zh" hreflang="zh">中文</a></li>
+			<li class="uls-p-lang-dummy"><a href="#"></a></li>
+			<li class="wbc-editpage"><a href="//www.wikidata.org/wiki/Q12152#sitelinks-wikipedia" title="言語間リンクを編集する">リンクを編集</a></li>
+		</ul>
+	</div>
+</div>
+			</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> 最終更新 2013年7月13日 (土) 05:19 （日時は<a href="/wiki/%E7%89%B9%E5%88%A5:%E5%80%8B%E4%BA%BA%E8%A8%AD%E5%AE%9A" title="特別:個人設定">個人設定</a>で未設定ならば<a href="/wiki/%E5%8D%94%E5%AE%9A%E4%B8%96%E7%95%8C%E6%99%82" title="協定世界時">UTC</a>）。<br /></li>
+											<li id="footer-info-copyright">テキストは<a href="//ja.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">クリエイティブ・コモンズ 表示-継承ライセンス</a>の下で利用可能です。追加の条件が適用される場合があります。詳細は<a href="//wikimediafoundation.org/wiki/%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84">利用規約</a>を参照してください。<br /></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC%E3%83%BB%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC" title="wikimedia:プライバシー・ポリシー">プライバシー・ポリシー</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%9A%E3%83%87%E3%82%A3%E3%82%A2%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6" title="Wikipedia:ウィキペディアについて">ウィキペディアについて</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:%E5%85%8D%E8%B2%AC%E4%BA%8B%E9%A0%85" title="Wikipedia:免責事項">免責事項</a></li>
+											<li id="footer-places-mobileview"><a href="//ja.m.wikipedia.org/wiki/%E5%BF%83%E7%AD%8B%E6%A2%97%E5%A1%9E" class="noprint stopMobileRedirectToggle">モバイルビュー</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.22wmf9/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.WikiMiniAtlas","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.navigationTiming","mw.PopUpMediaTransform"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/ja.wikipedia.org/load.php?debug=false&amp;lang=ja&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by mw1020 in 0.143 secs. -->
+	</body>
+</html>

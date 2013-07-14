@@ -1,0 +1,1205 @@
+﻿<!DOCTYPE html>
+<html lang="ja" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>結核 - Wikipedia</title>
+<meta name="generator" content="MediaWiki 1.22wmf9" />
+<link rel="alternate" type="application/x-wiki" title="編集" href="/w/index.php?title=%E7%B5%90%E6%A0%B8&amp;action=edit" />
+<link rel="edit" title="編集" href="/w/index.php?title=%E7%B5%90%E6%A0%B8&amp;action=edit" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (ja)" />
+<link rel="EditURI" type="application/rsd+xml" href="//ja.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="WikipediaのAtomフィード" href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E6%9C%80%E8%BF%91%E3%81%AE%E6%9B%B4%E6%96%B0&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/ja.wikipedia.org/load.php?debug=false&amp;lang=ja&amp;modules=ext.gadget.WikiMiniAtlas%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmw.PopUpMediaTransform%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/ja.wikipedia.org/load.php?debug=false&amp;lang=ja&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: jawiki:resourceloader:filter:minify-css:7:88044ad88990661c9a83e63d97bb215d */</style>
+
+<script src="//bits.wikimedia.org/ja.wikipedia.org/load.php?debug=false&amp;lang=ja&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"結核","wgTitle":"結核","wgCurRevisionId":47753827,"wgArticleId":45953,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["結核","感染症","細菌学","呼吸器疾患","人獣共通感染症"],"wgBreakFrames":false,"wgPageContentLanguage":"ja","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"ja","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"結核","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"expandablesearch":false,"footercleanup":false,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"ja","pageLanguageDir":"ltr","magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf9/skins/common/images/magnify-clip.png"},"wikilove-recipient":"","wikilove-anon":0,"wgULSAcceptLanguageList":[],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","wgWikibaseItemId":"q12204"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,
+"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"uls-preferences":"","variant":"ja","language":"ja","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs102":false,"searchNs103":false,"searchNs828":false,"searchNs829":false,"gadget-mySandbox":1,"gadget-WikiMiniAtlas":1,"gadget-ReferenceTooltips":1});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: jawiki:resourceloader:filter:minify-js:7:e81032cacd79c697a43bc41dd0303860 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf9/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-結核 skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="ja"><span dir="auto">結核</span></h1>
+			<div id="bodyContent">
+								<div id="siteSub">出典: フリー百科事典『ウィキペディア（Wikipedia）』</div>
+								<div id="contentSub"></div>
+																<div id="jump-to-nav" class="mw-jump">
+					移動:					<a href="#mw-navigation">案内</a>、					<a href="#p-search">検索</a>
+				</div>
+								<div id="mw-content-text" lang="ja" dir="ltr" class="mw-content-ltr"><table class="infobox" style="width:22em;">
+<tr>
+<th colspan="2" style="text-align:center; font-size:125%; font-weight:bold; background-color: lightgrey">結核</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">分類及び外部参照情報</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Tuberculosis-x-ray-1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Tuberculosis-x-ray-1.jpg/230px-Tuberculosis-x-ray-1.jpg" width="230" height="211" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Tuberculosis-x-ray-1.jpg/345px-Tuberculosis-x-ray-1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Tuberculosis-x-ray-1.jpg/460px-Tuberculosis-x-ray-1.jpg 2x" /></a>
+<div style="">結核患者の胸を撮影した<a href="/wiki/X%E7%B7%9A" title="X線">X線写真</a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left; white-space:nowrap;"><a href="/wiki/%E7%96%BE%E7%97%85%E5%8F%8A%E3%81%B3%E9%96%A2%E9%80%A3%E4%BF%9D%E5%81%A5%E5%95%8F%E9%A1%8C%E3%81%AE%E5%9B%BD%E9%9A%9B%E7%B5%B1%E8%A8%88%E5%88%86%E9%A1%9E" title="疾病及び関連保健問題の国際統計分類">ICD</a>-<a href="//en.wikipedia.org/wiki/ICD-10#List" class="extiw" title="en:ICD-10">10</a></th>
+<td><a href="//en.wikipedia.org/wiki/ICD-10_Chapter_A" class="extiw" title="en:ICD-10 Chapter A">A</a><a rel="nofollow" class="external text" href="http://apps.who.int/classifications/apps/icd/icd10online/?ga15.htm+a15">15.</a>-<a href="//en.wikipedia.org/wiki/ICD-10_Chapter_A" class="extiw" title="en:ICD-10 Chapter A">A</a><a rel="nofollow" class="external text" href="http://apps.who.int/classifications/apps/icd/icd10online/?ga15.htm+a19">19.</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left; white-space:nowrap;"><a href="/wiki/%E7%96%BE%E7%97%85%E5%8F%8A%E3%81%B3%E9%96%A2%E9%80%A3%E4%BF%9D%E5%81%A5%E5%95%8F%E9%A1%8C%E3%81%AE%E5%9B%BD%E9%9A%9B%E7%B5%B1%E8%A8%88%E5%88%86%E9%A1%9E" title="疾病及び関連保健問題の国際統計分類">ICD</a>-<a href="//en.wikipedia.org/wiki/List_of_ICD-9_codes" class="extiw" title="en:List of ICD-9 codes">9</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.icd9data.com/getICD9Code.ashx?icd9=010">010</a>-<a rel="nofollow" class="external text" href="http://www.icd9data.com/getICD9Code.ashx?icd9=018">018</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left; white-space:nowrap;"><a href="//en.wikipedia.org/wiki/Mendelian_Inheritance_in_Man" class="extiw" title="en:Mendelian Inheritance in Man">OMIM</a></th>
+<td><a rel="nofollow" class="external text" href="http://omim.org/entry/607948">607948</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left; white-space:nowrap;"><a href="//en.wikipedia.org/wiki/Diseases_Database" class="extiw" title="en:Diseases Database">DiseasesDB</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.diseasesdatabase.com/ddb8515.htm">8515</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left; white-space:nowrap;"><a href="/wiki/MedlinePlus" title="MedlinePlus">MedlinePlus</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.nlm.nih.gov/medlineplus/ency/article/000077.htm">000077</a> <i><a rel="nofollow" class="external text" href="http://www.nlm.nih.gov/medlineplus/ency/article/000624.htm">000624</a></i></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left; white-space:nowrap;"><a href="//en.wikipedia.org/wiki/eMedicine" class="extiw" title="en:eMedicine">eMedicine</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.emedicine.com/med/topic2324.htm">med/2324</a> <a rel="nofollow" class="external text" href="http://www.emedicine.com/emerg/topic618.htm#">emerg/618</a> <a rel="nofollow" class="external text" href="http://www.emedicine.com/radio/topic411.htm#">radio/411</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left; white-space:nowrap;"><a href="/wiki/MeSH" title="MeSH">MeSH</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.nlm.nih.gov/cgi/mesh/2011/MB_cgi?field=uid&amp;term=D014376">D014376</a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center; border-top: 1px solid #aaa;"><a href="/wiki/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88:%E7%97%85%E6%B0%97" title="プロジェクト:病気">プロジェクト:病気</a>／<a href="/wiki/Portal:%E5%8C%BB%E5%AD%A6%E3%81%A8%E5%8C%BB%E7%99%82" title="Portal:医学と医療">Portal:医学と医療</a></td>
+</tr>
+<tr class="noprint">
+<td colspan="2" style="text-align:right; font-size:85%;"><a href="/wiki/Template:Infobox_Disease" title="Template:Infobox Disease">テンプレートを表示</a></td>
+</tr>
+</table>
+<p><b>結核</b>（けっかく）とは、<a href="/wiki/%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%90%E3%82%AF%E3%83%86%E3%83%AA%E3%82%A6%E3%83%A0%E5%B1%9E" title="マイコバクテリウム属">マイコバクテリウム属</a>の細菌、主に<a href="/wiki/%E7%B5%90%E6%A0%B8%E8%8F%8C" title="結核菌">結核菌</a> <i>Mycobacterium tuberculosis</i> により引き起こされる<a href="/wiki/%E6%84%9F%E6%9F%93%E7%97%87" title="感染症">感染症</a><sup id="cite_ref-Robbins_1-0" class="reference"><a href="#cite_note-Robbins-1">[1]</a></sup>。結核菌は<a href="/wiki/1882%E5%B9%B4" title="1882年">1882年</a>に細菌学者<a href="/wiki/%E3%83%AD%E3%83%99%E3%83%AB%E3%83%88%E3%83%BB%E3%82%B3%E3%83%83%E3%83%9B" title="ロベルト・コッホ">コッホ</a>によって発見された。日本では、明治初期まで肺結核は<b>労咳</b>（癆痎、ろうがい）と呼ばれていた。</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>目次</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#.E6.A6.82.E8.A6.81"><span class="tocnumber">1</span> <span class="toctext">概要</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#.E4.BA.88.E9.98.B2.EF.BC.88BCG.E6.8E.A5.E7.A8.AE.EF.BC.89"><span class="tocnumber">1.1</span> <span class="toctext">予防（BCG接種）</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#.E7.B7.8F.E8.AB.96"><span class="tocnumber">2</span> <span class="toctext">総論</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#.E7.97.85.E5.8E.9F.E4.BD.93"><span class="tocnumber">2.1</span> <span class="toctext">病原体</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#.E4.BC.9D.E6.92.AD"><span class="tocnumber">2.2</span> <span class="toctext">伝播</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#.E4.B8.80.E6.AC.A1.E7.B5.90.E6.A0.B8"><span class="tocnumber">2.3</span> <span class="toctext">一次結核</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#.E5.86.8D.E6.B4.BB.E6.80.A7.E5.8C.96"><span class="tocnumber">2.4</span> <span class="toctext">再活性化</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#.E8.82.BA.E7.B5.90.E6.A0.B8"><span class="tocnumber">3</span> <span class="toctext">肺結核</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#.E7.97.87.E7.8A.B6"><span class="tocnumber">3.1</span> <span class="toctext">症状</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#.E6.A4.9C.E6.9F.BB.E6.89.80.E8.A6.8B"><span class="tocnumber">3.2</span> <span class="toctext">検査所見</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#.E7.94.BB.E5.83.8F.E6.89.80.E8.A6.8B"><span class="tocnumber">3.3</span> <span class="toctext">画像所見</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#.E6.B2.BB.E7.99.82"><span class="tocnumber">3.4</span> <span class="toctext">治療</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#.E7.B5.90.E6.A0.B8.E6.80.A7.E9.AB.84.E8.86.9C.E7.82.8E"><span class="tocnumber">4</span> <span class="toctext">結核性髄膜炎</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href="#.E7.97.87.E7.8A.B6_2"><span class="tocnumber">4.1</span> <span class="toctext">症状</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#.E8.BA.AB.E4.BD.93.E6.89.80.E8.A6.8B"><span class="tocnumber">4.2</span> <span class="toctext">身体所見</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#.E6.A4.9C.E6.9F.BB.E6.89.80.E8.A6.8B_2"><span class="tocnumber">4.3</span> <span class="toctext">検査所見</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#.E6.B2.BB.E7.99.82.E6.B3.95"><span class="tocnumber">4.4</span> <span class="toctext">治療法</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-18"><a href="#.E7.B5.90.E6.A0.B8.E6.80.A7.E3.83.AA.E3.83.B3.E3.83.91.E7.AF.80.E7.82.8E"><span class="tocnumber">5</span> <span class="toctext">結核性リンパ節炎</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#.E7.B5.90.E6.A0.B8.E6.80.A7.E5.BF.83.E8.86.9C.E7.82.8E"><span class="tocnumber">6</span> <span class="toctext">結核性心膜炎</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#.E7.B5.90.E6.A0.B8.E6.80.A7.E8.85.B9.E8.86.9C.E7.82.8E"><span class="tocnumber">7</span> <span class="toctext">結核性腹膜炎</span></a>
+<ul>
+<li class="toclevel-2 tocsection-21"><a href="#.E7.97.87.E7.8A.B6_3"><span class="tocnumber">7.1</span> <span class="toctext">症状</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#.E6.A4.9C.E6.9F.BB.E6.89.80.E8.A6.8B_3"><span class="tocnumber">7.2</span> <span class="toctext">検査所見</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="#.E6.B2.BB.E7.99.82.E6.B3.95_2"><span class="tocnumber">7.3</span> <span class="toctext">治療法</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-24"><a href="#.E8.85.B8.E7.B5.90.E6.A0.B8"><span class="tocnumber">8</span> <span class="toctext">腸結核</span></a>
+<ul>
+<li class="toclevel-2 tocsection-25"><a href="#.E7.97.87.E7.8A.B6_4"><span class="tocnumber">8.1</span> <span class="toctext">症状</span></a></li>
+<li class="toclevel-2 tocsection-26"><a href="#.E7.94.BB.E5.83.8F.E6.89.80.E8.A6.8B_2"><span class="tocnumber">8.2</span> <span class="toctext">画像所見</span></a></li>
+<li class="toclevel-2 tocsection-27"><a href="#.E5.90.88.E4.BD.B5.E7.97.87"><span class="tocnumber">8.3</span> <span class="toctext">合併症</span></a></li>
+<li class="toclevel-2 tocsection-28"><a href="#.E6.B2.BB.E7.99.82_2"><span class="tocnumber">8.4</span> <span class="toctext">治療</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-29"><a href="#.E8.85.8E.E7.B5.90.E6.A0.B8"><span class="tocnumber">9</span> <span class="toctext">腎結核</span></a></li>
+<li class="toclevel-1 tocsection-30"><a href="#.E5.89.AF.E8.85.8E.E7.B5.90.E6.A0.B8"><span class="tocnumber">10</span> <span class="toctext">副腎結核</span></a></li>
+<li class="toclevel-1 tocsection-31"><a href="#.E7.B5.90.E6.A0.B8.E6.80.A7.E5.8D.B5.E7.AE.A1.E7.82.8E"><span class="tocnumber">11</span> <span class="toctext">結核性卵管炎</span></a></li>
+<li class="toclevel-1 tocsection-32"><a href="#.E7.AD.8B.E9.AA.A8.E6.A0.BC.E7.B3.BB.E3.81.AE.E7.B5.90.E6.A0.B8.E7.97.87"><span class="tocnumber">12</span> <span class="toctext">筋骨格系の結核症</span></a>
+<ul>
+<li class="toclevel-2 tocsection-33"><a href="#.E7.B5.90.E6.A0.B8.E6.80.A7.E8.84.8A.E6.A4.8E.E7.82.8E"><span class="tocnumber">12.1</span> <span class="toctext">結核性脊椎炎</span></a>
+<ul>
+<li class="toclevel-3 tocsection-34"><a href="#.E6.BB.91.E8.86.9C.E5.88.87.E9.99.A4.E8.A1.93"><span class="tocnumber">12.1.1</span> <span class="toctext">滑膜切除術</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-35"><a href="#.E7.9A.AE.E8.86.9A.E7.B5.90.E6.A0.B8"><span class="tocnumber">13</span> <span class="toctext">皮膚結核</span></a>
+<ul>
+<li class="toclevel-2 tocsection-36"><a href="#.E7.9C.9F.E6.80.A7.EF.BC.88.E7.9C.9F.E6.AD.A3.EF.BC.89.E7.9A.AE.E8.86.9A.E7.B5.90.E6.A0.B8"><span class="tocnumber">13.1</span> <span class="toctext">真性（真正）皮膚結核</span></a></li>
+<li class="toclevel-2 tocsection-37"><a href="#.E7.B5.90.E6.A0.B8.E7.96.B9"><span class="tocnumber">13.2</span> <span class="toctext">結核疹</span></a></li>
+<li class="toclevel-2 tocsection-38"><a href="#.E6.B2.BB.E7.99.82_3"><span class="tocnumber">13.3</span> <span class="toctext">治療</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-39"><a href="#.E9.96.A2.E9.80.A3.E6.B3.95.E8.A6.8F"><span class="tocnumber">14</span> <span class="toctext">関連法規</span></a></li>
+<li class="toclevel-1 tocsection-40"><a href="#.E9.80.B8.E8.A9.B1"><span class="tocnumber">15</span> <span class="toctext">逸話</span></a></li>
+<li class="toclevel-1 tocsection-41"><a href="#.E8.BF.91.E5.B9.B4.E3.80.81.E7.B5.90.E6.A0.B8.E3.81.AB.E7.BD.B9.E6.82.A3.E3.81.97.E3.81.9F.E4.BA.BA.E7.89.A9"><span class="tocnumber">16</span> <span class="toctext">近年、結核に罹患した人物</span></a></li>
+<li class="toclevel-1 tocsection-42"><a href="#.E6.9C.80.E8.BF.91.E3.81.AE.E6.97.A5.E6.9C.AC.E3.81.AB.E3.81.8A.E3.81.91.E3.82.8B.E5.8B.95.E3.81.8D"><span class="tocnumber">17</span> <span class="toctext">最近の日本における動き</span></a></li>
+<li class="toclevel-1 tocsection-43"><a href="#.E5.8F.82.E8.80.83.E6.96.87.E7.8C.AE"><span class="tocnumber">18</span> <span class="toctext">参考文献</span></a></li>
+<li class="toclevel-1 tocsection-44"><a href="#.E9.96.A2.E9.80.A3.E9.A0.85.E7.9B.AE"><span class="tocnumber">19</span> <span class="toctext">関連項目</span></a></li>
+<li class="toclevel-1 tocsection-45"><a href="#.E5.A4.96.E9.83.A8.E3.83.AA.E3.83.B3.E3.82.AF"><span class="tocnumber">20</span> <span class="toctext">外部リンク</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id=".E6.A6.82.E8.A6.81">概要</span><span class="mw-editsection">[<a href="/w/index.php?title=%E7%B5%90%E6%A0%B8&amp;action=edit&amp;section=1" title="節を編集: 概要">編集</a>]</span></h2>
+<p><a href="/wiki/%E7%A9%BA%E6%B0%97%E6%84%9F%E6%9F%93" title="空気感染" class="mw-redirect">空気感染</a>が多く<a href="/wiki/%E8%82%BA" title="肺">肺</a>などの<a href="/wiki/%E5%91%BC%E5%90%B8" title="呼吸">呼吸</a>器官においての発症が目立つが、<a href="/wiki/%E4%B8%AD%E6%9E%A2%E7%A5%9E%E7%B5%8C" title="中枢神経" class="mw-redirect">中枢神経</a>（髄膜炎）、リンパ組織、血流（粟粒結核）、泌尿生殖器、<a href="/wiki/%E9%AA%A8" title="骨">骨</a>、<a href="/wiki/%E9%96%A2%E7%AF%80" title="関節">関節</a>などにも感染し、発症する器官も全身に及ぶ。結核菌は様々な器官において細胞内寄生を行い、免疫システムはこれを宿主細胞もろともに攻撃するため、広範に組織が破壊され、放置すれば重篤な症状を起こして高い頻度で死に至る。肺結核における激しい肺出血とそれによる<a href="/wiki/%E5%96%80%E8%A1%80" title="喀血">喀血</a>、またそれによって起こる<a href="/wiki/%E7%AA%92%E6%81%AF" title="窒息">窒息</a>死がこうした病態を象徴している。</p>
+<p>感染者の、大部分は症状が出る事は少なく、無症候性、潜伏感染が一般的である。潜伏感染の約10分の1が最終的に症状が発生し、治療を行わない場合発病者の半分が死亡する。</p>
+<p>2004年には、死亡率および罹患率は慢性活動性の患者が1460万人、890万人の患者が発症し、160万人が死亡した。その大部分は発展途上国である<sup id="cite_ref-WHO2004data_2-0" class="reference"><a href="#cite_note-WHO2004data-2">[2]</a></sup> が、先進国においても、<a href="/wiki/%E5%85%8D%E7%96%AB%E6%8A%91%E5%88%B6%E5%89%A4" title="免疫抑制剤">免疫抑制剤</a>を使用している患者や<a href="/wiki/%E5%BE%8C%E5%A4%A9%E6%80%A7%E5%85%8D%E7%96%AB%E4%B8%8D%E5%85%A8%E7%97%87%E5%80%99%E7%BE%A4" title="後天性免疫不全症候群">エイズ</a>の患者、<a href="/wiki/%E8%96%AC%E7%89%A9%E4%B9%B1%E7%94%A8" title="薬物乱用">薬物乱用</a>などにより増大傾向にある。</p>
+<p>結核患者の分布は一定ではなく、多くのアジアやアフリカの国では約80%の人が結核の検査で陽性を示すが、一方アメリカ合衆国では5〜10%が陽性であるのみである。<sup id="cite_ref-Robbins_1-1" class="reference"><a href="#cite_note-Robbins-1">[1]</a></sup></p>
+<p>アメリカで毎年二万五千人が新たに発生し、その40%が結核の流行地域からの移民であると推定されている<sup id="cite_ref-Robbins_1-2" class="reference"><a href="#cite_note-Robbins-1">[1]</a></sup>。日本では、年間3万人（毎日80人）の患者が発生している<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>。</p>
+<p>世界保健機関（WHO）は2010年3月18日、従来の薬による治療が極めて困難な「超多剤耐性」（XDR）結核の感染が2010年3月時点で、世界58カ国で確認されたと発表した。XDR結核の感染者は推定で、年間2万5000人に上るとした。また、XDRを含めた、薬による治療が難しい「多剤耐性」（MDR）結核の感染者は08年で年間44万人、死者は15万人に上ったと推計した。</p>
+<p>かつて日本では結核は<a href="/w/index.php?title=%E5%9B%BD%E6%B0%91%E7%97%85&amp;action=edit&amp;redlink=1" class="new" title="国民病 (存在しないページ)">国民病</a>・<a href="/w/index.php?title=%E4%BA%A1%E5%9B%BD%E7%97%85&amp;action=edit&amp;redlink=1" class="new" title="亡国病 (存在しないページ)">亡国病</a>とまで言われるほど猛威をふるった。第二次世界大戦後、<a href="/wiki/%E7%B5%90%E6%A0%B8%E4%BA%88%E9%98%B2%E6%B3%95" title="結核予防法">結核予防法</a>（昭和26年3月31日法律第96号）が制定され、抗生物質を用いた化学療法の普及などによって激減をみた。しかし他の先進工業国に比べて感染率と死亡率は依然高い状態である。2001年5月に20名の集団感染が発生した大学で診断を実施した教授が「関心の低下も一因」と指摘する<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>など、結核の危険性に対する日本国民の関心低下が指摘<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>されており、今日では逆に「<i>結核は過去の病気ではない</i>」というスローガンで注意の喚起が叫ばれている。 日本での2010年の新規登録患者数は23,261人、罹患率は人口10万人対18.2であった。<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>患者のうち高齢者の占める割合が高く、70歳以上は51.2%、80歳以上は29.7%であった。</p>
+<h3><span class="mw-headline" id=".E4.BA.88.E9.98.B2.EF.BC.88BCG.E6.8E.A5.E7.A8.AE.EF.BC.89">予防（BCG接種）</span><span class="mw-editsection">[<a href="/w/index.php?title=%E7%B5%90%E6%A0%B8&amp;action=edit&amp;section=2" title="節を編集: 予防（BCG接種）">編集</a>]</span></h3>
+<p>予防策として<a href="/wiki/BCG" title="BCG">BCG</a>接種があるが、その実施状況は国により異なる。日本では実施されている。アメリカでは行われていない。ヨーロッパ諸国では行われている国もあるが、フランスなど中止した国もある。BCGを行うことのメリットは、<a href="/wiki/%E5%B0%8F%E5%85%90" title="小児" class="mw-redirect">小児</a>の結核性髄膜炎と粟粒結核の頻度を有意に減少させることにある（有効性 80%）。しかし、成人の結核症を減少させるという根拠はない（有効性 50%）。いっぽうデメリットとしては、<a href="/wiki/%E3%83%84%E3%83%99%E3%83%AB%E3%82%AF%E3%83%AA%E3%83%B3%E5%8F%8D%E5%BF%9C" title="ツベルクリン反応" class="mw-redirect">ツベルクリン反応</a>を陽性化させてしまうため結核の診断が遅れることにある。結核菌の頻度が低い地域ではBCGを行うメリットは低く、むしろデメリットが大きいと考えられる。BCGを中止した<a href="/wiki/%E3%82%B9%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%87%E3%83%B3" title="スウェーデン">スウェーデン</a>、旧<a href="/wiki/%E6%9D%B1%E3%83%89%E3%82%A4%E3%83%84" title="東ドイツ" class="mw-redirect">東ドイツ</a>、<a href="/wiki/%E3%83%81%E3%82%A7%E3%82%B3%E3%82%B9%E3%83%AD%E3%83%90%E3%82%AD%E3%82%A2" title="チェコスロバキア">チェコスロバキア</a>などは、中止後小児結核が増加した経緯がある。結核菌の頻度が高い（特に<a href="/wiki/%E5%AE%B6%E6%97%8F" title="家族">家族</a>間感染が多い）日本などの地域では今後もBCGは行われていくと思われる。</p>
+<p>かつて日本ではまずツベルクリン反応検査を行い、陰性反応が出た者のみにBCG接種を行う形をとっていたが、2005年4月1日に結核予防法が改定され、ツベルクリン反応検査を行わずに全員にBCG接種を行う形になった。</p>
+<p>なお、日本では2007年3月31日をもって<a href="/wiki/%E7%B5%90%E6%A0%B8%E4%BA%88%E9%98%B2%E6%B3%95" title="結核予防法">結核予防法</a>が廃止され、結核については<a href="/wiki/%E6%84%9F%E6%9F%93%E7%97%87%E3%81%AE%E4%BA%88%E9%98%B2%E5%8F%8A%E3%81%B3%E6%84%9F%E6%9F%93%E7%97%87%E3%81%AE%E6%82%A3%E8%80%85%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E5%8C%BB%E7%99%82%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%B3%95%E5%BE%8B" title="感染症の予防及び感染症の患者に対する医療に関する法律">感染症の予防及び感染症の患者に対する医療に関する法律</a>（感染症法）で二類感染症に指定されて同法の適用を受けることとなるとともに（感染症法6条3項）、BCG接種については<a href="/wiki/%E4%BA%88%E9%98%B2%E6%8E%A5%E7%A8%AE%E6%B3%95" title="予防接種法">予防接種法</a>（昭和23年6月30日法律第68号）で定められることとなった。</p>
+<h2><span class="mw-headline" id=".E7.B7.8F.E8.AB.96">総論</span><span class="mw-editsection">[<a href="/w/index.php?title=%E7%B5%90%E6%A0%B8&amp;action=edit&amp;section=3" title="節を編集: 総論">編集</a>]</span></h2>
+<h3><span class="mw-headline" id=".E7.97.85.E5.8E.9F.E4.BD.93">病原体</span><span class="mw-editsection">[<a href="/w/index.php?title=%E7%B5%90%E6%A0%B8&amp;action=edit&amp;section=4" title="節を編集: 病原体">編集</a>]</span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Mycobacterium_tuberculosis.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/c/cb/Mycobacterium_tuberculosis.jpg" width="220" height="212" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Mycobacterium_tuberculosis.jpg" class="internal" title="拡大"><img src="//bits.wikimedia.org/static-1.22wmf9/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+病原体の<i>Mycobacterium tuberculosis</i></div>
+</div>
+</div>
+<p>結核は、<a href="/wiki/%E6%8A%97%E9%85%B8%E8%8F%8C" title="抗酸菌">抗酸菌</a>群に属する<i>Mycobacterium tuberculosis</i>（ヒト型結核菌）、<i>M. bovis</i>（ウシ型結核菌）、<i>M. africanum</i>（アフリカ型結核菌）等<a href="/wiki/%E7%B5%90%E6%A0%B8%E8%8F%8C" title="結核菌">結核菌</a>群によっておこるが、日本の結核は主に <i>M. tuberculosis</i> による。</p>
+<p>なお、<i>Mycobacterium tuberculosis</i>の読みは、<a href="/wiki/%E6%97%A5%E6%9C%AC%E7%B4%B0%E8%8F%8C%E5%AD%A6%E4%BC%9A" title="日本細菌学会">日本細菌学会</a>編の『微生物学用語集』には<a href="/wiki/%E3%83%A9%E3%83%86%E3%83%B3%E8%AA%9E" title="ラテン語">ラテン語</a>読みに準じて「マイコバクテリウム・ツベルクローシス」と記載されている。(正しくはミュコバクテリウム・ツベルクローシス) <i>tuberculosis</i>は<a href="/wiki/%E8%8B%B1%E8%AA%9E" title="英語">英語</a>風に「テュバキュローシス」と読まれることもある。</p>
+<h3><span class="mw-headline" id=".E4.BC.9D.E6.92.AD">伝播</span><span class="mw-editsection">[<a href="/w/index.php?title=%E7%B5%90%E6%A0%B8&amp;action=edit&amp;section=5" title="節を編集: 伝播">編集</a>]</span></h3>
+<p>結核は結核菌を含む<a href="/w/index.php?title=%E9%A3%9B%E6%B2%AB%E6%A0%B8&amp;action=edit&amp;redlink=1" class="new" title="飛沫核 (存在しないページ)">飛沫核</a>の吸入による<a href="/wiki/%E7%A9%BA%E6%B0%97%E6%84%9F%E6%9F%93" title="空気感染" class="mw-redirect">空気感染</a>を示す。結核患者からの咳、くしゃみ、唾より感染する。世界人口の三分の一が結核菌に感染しており、毎秒の単位で感染患者が発生している。<sup id="cite_ref-WHO2004data_2-1" class="reference"><a href="#cite_note-WHO2004data-2">[2]</a></sup></p>
+<h3><span class="mw-headline" id=".E4.B8.80.E6.AC.A1.E7.B5.90.E6.A0.B8">一次結核</span><span class="mw-editsection">[<a href="/w/index.php?title=%E7%B5%90%E6%A0%B8&amp;action=edit&amp;section=6" title="節を編集: 一次結核">編集</a>]</span></h3>
+<p>吸入された結核菌がリンパ行性、血行性に体中に広がり細胞内に寄生して潜伏する。無症状である。免疫応答が不十分な宿主においては結核症を発症する。典型的には上肺野、肺尖部領域の<a href="/wiki/%E8%82%BA%E7%B5%90%E6%A0%B8" title="肺結核" class="mw-redirect">肺結核</a>を発症する。</p>
+<h3><span class="mw-headline" id=".E5.86.8D.E6.B4.BB.E6.80.A7.E5.8C.96">再活性化</span><span class="mw-editsection">[<a href="/w/index.php?title=%E7%B5%90%E6%A0%B8&amp;action=edit&amp;section=7" title="節を編集: 再活性化">編集</a>]</span></h3>
+<p>充分な免疫応答が得られても、宿主の免疫機能が後天的に障害されると、結核菌は活性化する。宿主の免疫機能が障害される例としては、加齢、<a href="/wiki/%E6%A0%84%E9%A4%8A%E5%A4%B1%E8%AA%BF" title="栄養失調">栄養失調</a>、<a href="/wiki/%E5%BE%8C%E5%A4%A9%E6%80%A7%E5%85%8D%E7%96%AB%E4%B8%8D%E5%85%A8%E7%97%87%E5%80%99%E7%BE%A4" title="後天性免疫不全症候群">AIDS</a>、<a href="/wiki/%E7%B3%96%E5%B0%BF%E7%97%85" title="糖尿病">糖尿病</a>、<a href="/wiki/%E6%82%AA%E6%80%A7%E8%85%AB%E7%98%8D" title="悪性腫瘍">悪性腫瘍</a>、<a href="/wiki/%E3%82%B9%E3%83%86%E3%83%AD%E3%82%A4%E3%83%89" title="ステロイド">ステロイド</a>や<a href="/wiki/%E5%85%8D%E7%96%AB%E6%8A%91%E5%88%B6%E5%89%A4" title="免疫抑制剤">免疫抑制剤</a>といった薬物の使用が挙げられる。</p>
+<h2><span class="mw-headline" id=".E8.82.BA.E7.B5.90.E6.A0.B8">肺結核</span><span class="mw-editsection">[<a href="/w/index.php?title=%E7%B5%90%E6%A0%B8&amp;action=edit&amp;section=8" title="節を編集: 肺結核">編集</a>]</span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Tuberculose_du_foie.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tuberculose_du_foie.jpg/250px-Tuberculose_du_foie.jpg" width="250" height="188" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tuberculose_du_foie.jpg/375px-Tuberculose_du_foie.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tuberculose_du_foie.jpg/500px-Tuberculose_du_foie.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Tuberculose_du_foie.jpg" class="internal" title="拡大"><img src="//bits.wikimedia.org/static-1.22wmf9/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+肺の病巣の断面標本</div>
+</div>
+</div>
+<p>肺結核は呼吸器疾患である。近年、<a href="/wiki/%E5%A4%9A%E5%89%A4%E8%80%90%E6%80%A7%E8%82%BA%E7%B5%90%E6%A0%B8" title="多剤耐性肺結核">多剤耐性肺結核</a>が話題となっている。</p>
+<h3><span class="mw-headline" id=".E7.97.87.E7.8A.B6">症状</span><span class="mw-editsection">[<a href="/w/index.php?title=%E7%B5%90%E6%A0%B8&amp;action=edit&amp;section=9" title="節を編集: 症状">編集</a>]</span></h3>
+<p>当初は全身倦怠感、食欲不振、体重減少、37℃前後の微熱が長期間にわたって続く、就寝中に大量の<a href="/wiki/%E6%B1%97" title="汗">汗</a>をかく等、非特異的であり、咳嗽（<a href="/wiki/%E7%97%B0" title="痰">痰</a>は伴うことも伴わないこともあり、また血痰を伴うことがある）が疾患の進行にしたがって発症してくる。昔は「不治の病」「<a href="/wiki/%E9%9B%A3%E7%97%85" title="難病" class="mw-redirect">難病</a>」と呼ばれていた。 現在でも、多くの人がなる病気である。</p>
+<h3><span class="mw-headline" id=".E6.A4.9C.E6.9F.BB.E6.89.80.E8.A6.8B">検査所見</span><span class="mw-editsection">[<a href="/w/index.php?title=%E7%B5%90%E6%A0%B8&amp;action=edit&amp;section=10" title="節を編集: 検査所見">編集</a>]</span></h3>
+<p>喀痰塗抹検査（チール・ニールセン染色）は喀痰中の抗酸菌の有無および排菌量をみる検査であり、まず行うべき方法である。また蛍光塗抹検査を利用することもできる。なお、結核を疑った患者から採痰を行う場合は専用ブースを用意することが望ましい。結核は空気感染するからである。これまで喀痰中の排菌量はガフキー号数で表記されてきた。新結核菌検査指針では検出菌数を1+，2+，3+で表すこととなった（±はガフキー1号，1+は2号，2+は5号，3+は9号に相当）。塗抹検査では、結核菌か非結核性抗酸菌かの同定はできない。菌の同定および薬剤耐性を調べるには喀痰培養検査を行うが、結核菌は培養による繁殖が遅く、3-6週間かかってしまうため早期診断には適さない。早期診断には喀痰の結核菌DNAのPCR法が有用である。<a href="/wiki/%E6%84%9F%E5%BA%A6" title="感度">感度</a>・<a href="/wiki/%E7%89%B9%E7%95%B0%E5%BA%A6" title="特異度">特異度</a>が高く日本でも普及してきている。ただ、PCR法は死菌でも陽性になることがあり注意を要する。</p>
+<p><a href="/wiki/%E6%B0%97%E7%AE%A1%E6%94%AF%E9%8F%A1" title="気管支鏡">気管支鏡</a>下のBAL（気管支肺胞洗浄）やTBLB（経気管支肺生検）も診断に有用である。胃液検査は培養のみが検査に適するので早期診断に有用ではない。血液培養をする場合は専用のスピッツが必要である。</p>
+<ul class="gallery">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Tuberculous_caseous_granuloma_(1)_TBLB.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Tuberculous_caseous_granuloma_%281%29_TBLB.jpg/120px-Tuberculous_caseous_granuloma_%281%29_TBLB.jpg" width="120" height="90" /></a></div>
+</div>
+<div class="gallerytext">
+<p>TBLBで見つかった結核<a href="/wiki/%E8%82%89%E8%8A%BD%E8%85%AB#.E7.B5.90.E6.A0.B8" title="肉芽腫">肉芽腫</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Tuberculous_caseous_granuloma_(2)_TBLB.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Tuberculous_caseous_granuloma_%282%29_TBLB.jpg/120px-Tuberculous_caseous_granuloma_%282%29_TBLB.jpg" width="120" height="90" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/%E3%83%A9%E3%83%B3%E3%82%B0%E3%83%8F%E3%83%B3%E3%82%B9%E5%B7%A8%E7%B4%B0%E8%83%9E" title="ラングハンス巨細胞">ラングハンス型巨細胞</a></p>
+</div>
+</div>
+</li>
+</ul>
+<p>胸水がある場合、胸水培養で結核菌が陽性になるのは25%未満である。胸膜生検が必要である。</p>
+<p>ツベルクリン反応は、前述の通り日本ではBCG接種が義務であるため欧米より信頼性が乏しい検査となっている。それでも、発赤20mm以上、硬結10mm以上の「強陽性」の所見は活動性の結核感染を示唆する。「中等度陽性」は、特に結核の診断の可能性を高めるものでも低くするものでもないと考えられる。免疫不全患者や<a href="/wiki/%E6%82%AA%E6%80%A7%E3%83%AA%E3%83%B3%E3%83%91%E8%85%AB" title="悪性リンパ腫">悪性リンパ腫</a>などでは結核に関する免疫が成立していたり現在結核菌感染があってもツベルクリン反応が陰性になり、「アネルギー」と呼ばれる。</p>
+<p>2006年1月1日にクオンティフェロンTB2G (QuantiFERON-TB2G) が保険収載された（内部リンク<a href="/wiki/QFT%E6%A4%9C%E6%9F%BB" title="QFT検査">QFT検査</a>を参照）。この検査は、全血を<a href="/wiki/%E7%B5%90%E6%A0%B8%E8%8F%8C" title="結核菌">結核菌</a>特異的な<a href="/wiki/%E3%82%BF%E3%83%B3%E3%83%91%E3%82%AF" title="タンパク" class="mw-redirect">タンパク</a>（ESAT-6およびCFP-10）で刺激し、<a href="/wiki/%E7%B5%90%E6%A0%B8%E8%8F%8C" title="結核菌">結核菌</a>特異的T細胞の産生する<a href="/wiki/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A7%E3%83%AD%E3%83%B3" title="インターフェロン">インターフェロン</a>γの産生量をみることで、結核感染を診断する検査である。BCGや非結核性抗酸菌感染の影響を受けず、<a href="/wiki/%E6%84%9F%E5%BA%A6" title="感度">感度</a>89%、<a href="/wiki/%E7%89%B9%E7%95%B0%E5%BA%A6" title="特異度">特異度</a>98%と報告<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>される。 検査時には検体の温度管理を行う必要がある（採血から搬入までの時間10時間以内、搬送温度は摂氏17から27度）。また、数時間から一両日で検査結果を出すことが出来るとされている。</p>
+<p>核酸増幅法としては、<a href="/wiki/%E3%83%AA%E3%82%A2%E3%83%AB%E3%82%BF%E3%82%A4%E3%83%A0PCR" title="リアルタイムPCR">リアルタイムPCR</a> (TaqMan®PCR) がある。<br />
+核酸検出法としては、DNA-RNAハイブリダイゼーション（アキュプローブ法）、DNA-DNAハイブリダイゼーション（DDHマイコバクテリア）などがある。<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><br />
+迅速診断法としてキャピリア®TB<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>（蛋白検出法）がある。</p>
+<h3><span class="mw-headline" id=".E7.94.BB.E5.83.8F.E6.89.80.E8.A6.8B">画像所見</span><span class="mw-editsection">[<a href="/w/index.php?title=%E7%B5%90%E6%A0%B8&amp;action=edit&amp;section=11" title="節を編集: 画像所見">編集</a>]</span></h3>
+<ul>
+<li>単純レントゲン写真: 古典的典型例では空洞を伴う結節影がみられる。</li>
+<li>胸部<a href="/wiki/CT" title="CT" class="mw-redirect">CT</a>: 肺浸潤影と娘結節の存在、空洞形成、肺門<a href="/wiki/%E3%83%AA%E3%83%B3%E3%83%91%E7%AF%80" title="リンパ節">リンパ節</a>腫大、<a href="/wiki/%E8%83%B8%E6%B0%B4" title="胸水">胸水</a>など。</li>
+</ul>
+<dl>
+<dd>多彩な像を呈するため肺結核は画像のみでの正確な診断は困難である。喀痰検査や血液検査とともに総合的に診断する。</dd>
+</dl>
+<h3><span class="mw-headline" id=".E6.B2.BB.E7.99.82">治療</span><span class="mw-editsection">[<a href="/w/index.php?title=%E7%B5%90%E6%A0%B8&amp;action=edit&amp;section=12" title="節を編集: 治療">編集</a>]</span></h3>
+<p>かつては<a href="/wiki/%E3%82%B9%E3%83%88%E3%83%AC%E3%83%97%E3%83%88%E3%83%9E%E3%82%A4%E3%82%B7%E3%83%B3" title="ストレプトマイシン">ストレプトマイシン</a>単剤の投与で効果があったようだが、現在は耐性獲得の危険があるため単剤での治療は行わない。 現在では<a href="/wiki/%E3%82%A4%E3%82%BD%E3%83%8B%E3%82%A2%E3%82%B8%E3%83%89" title="イソニアジド">イソニアジド</a> (INH)(<a href="//en.wikipedia.org/wiki/Isoniazid" class="extiw" title="en:Isoniazid"><small>Isoniazid</small></a>)、<a href="/wiki/%E3%83%AA%E3%83%95%E3%82%A1%E3%83%B3%E3%83%94%E3%82%B7%E3%83%B3" title="リファンピシン">リファンピシン</a> (RFP)(<a href="//en.wikipedia.org/wiki/Rifampicin" class="extiw" title="en:Rifampicin"><small>Rifampicin</small></a>)、<a href="/wiki/%E3%83%94%E3%83%A9%E3%82%B8%E3%83%8A%E3%83%9F%E3%83%89" title="ピラジナミド">ピラジナミド</a> (PZA)(<a href="//en.wikipedia.org/wiki/Pyrazinamide" class="extiw" title="en:Pyrazinamide"><small>Pyrazinamide</small></a>)、<a href="/wiki/%E3%82%A8%E3%82%BF%E3%83%B3%E3%83%96%E3%83%88%E3%83%BC%E3%83%AB" title="エタンブトール">エタンブトール</a> (EB)(<a href="//en.wikipedia.org/wiki/Ethambutol" class="extiw" title="en:Ethambutol"><small>Ethambutol</small></a>)（またはストレプトマイシン (SM)）の4剤併用療法を行うべきであると考えられている。各薬物には副作用があるため注意しつつ投与する必要がある。結核菌はこのそれぞれの薬物に耐性をもつものが存在するが、イソニアジドおよびリファンピシンの二剤に耐性をもつ菌は多剤耐性結核菌と呼ばれ、治療に難渋することがある。一度発症した場合は6〜9ヶ月の投薬療法が一般的である。治療を正確に完了した場合、再発率は5%未満である。しかし、治療中断により結核菌に耐性ができ、集団感染することが問題となっている。その為確実な薬の服用を目指した<b><a href="/w/index.php?title=DOTS&amp;action=edit&amp;redlink=1" class="new" title="DOTS (存在しないページ)">DOTS</a>/直接監視下短期化学療法</b>の実施拡大が求められている。</p>
+<p>肺結核は<a href="/wiki/%E7%A9%BA%E6%B0%97%E6%84%9F%E6%9F%93" title="空気感染" class="mw-redirect">空気感染</a>が起こりうるため、排菌のある結核患者は<a href="/wiki/%E6%84%9F%E6%9F%93%E7%97%87%E3%81%AE%E4%BA%88%E9%98%B2%E5%8F%8A%E3%81%B3%E6%84%9F%E6%9F%93%E7%97%87%E3%81%AE%E6%82%A3%E8%80%85%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E5%8C%BB%E7%99%82%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%B3%95%E5%BE%8B" title="感染症の予防及び感染症の患者に対する医療に関する法律">感染症の予防及び感染症の患者に対する医療に関する法律</a>により結核病棟への入院が義務づけられている。医療従事者は<a href="/wiki/N95%E3%83%9E%E3%82%B9%E3%82%AF" title="N95マスク">N95マスク</a>を装着する必要がある。患者の搬送は最低限にすべきであるが、どうしても必要な場合は患者に通常のマスクを、医療従事者にN95マスクを装着し、窓を開けるなど換気に留意する。</p>
+<p>喀痰中の排菌のない（ガフキー0号）患者は、強制入院の対象ではない。</p>
+<h2><span class="mw-headline" id=".E7.B5.90.E6.A0.B8.E6.80.A7.E9.AB.84.E8.86.9C.E7.82.8E">結核性髄膜炎</span><span class="mw-editsection">[<a href="/w/index.php?title=%E7%B5%90%E6%A0%B8&amp;action=edit&amp;section=13" title="節を編集: 結核性髄膜炎">編集</a>]</span></h2>
+<p>亜急性髄膜炎の鑑別のひとつである。<a href="/wiki/%E7%9C%9F%E8%8F%8C" title="真菌" class="mw-redirect">真菌</a>性、<a href="/wiki/%E6%A2%85%E6%AF%92" title="梅毒">梅毒</a>性、癌性髄膜炎との鑑別を要する。</p>
+<h3><span class="mw-headline" id=".E7.97.87.E7.8A.B6_2">症状</span><span class="mw-editsection">[<a href="/w/index.php?title=%E7%B5%90%E6%A0%B8&amp;action=edit&amp;section=14" title="節を編集: 症状">編集</a>]</span></h3>
+<p>無気力、過敏、食欲不振、発熱、頭痛、嘔吐、痙攣、昏睡である。行動の変化をみとめることもある。また、多部位の結核菌感染の症状を認めることがある。</p>
+<h3><span class="mw-headline" id=".E8.BA.AB.E4.BD.93.E6.89.80.E8.A6.8B">身体所見</span><span class="mw-editsection">[<a href="/w/index.php?title=%E7%B5%90%E6%A0%B8&amp;action=edit&amp;section=15" title="節を編集: 身体所見">編集</a>]</span></h3>
+<p>項部硬直、<a href="/wiki/%E8%84%B3%E7%A5%9E%E7%B5%8C" title="脳神経">脳神経</a>麻痺症状を認めることがある。</p>
+<h3><span class="mw-headline" id=".E6.A4.9C.E6.9F.BB.E6.89.80.E8.A6.8B_2">検査所見</span><span class="mw-editsection">[<a href="/w/index.php?title=%E7%B5%90%E6%A0%B8&amp;action=edit&amp;section=16" title="節を編集: 検査所見">編集</a>]</span></h3>
+<p>髄液は黄色くて、cell 100-500（単核球優位）、高蛋白、低グルコースを示す。細菌性髄膜炎と比べて明らかに弱い所見を示す。髄液の塗抹検査は通常陰性で、培養も最大25%の症例で陰性である。髄液PCRは<a href="/wiki/%E6%84%9F%E5%BA%A6" title="感度">感度</a>が高い。</p>
+<h3><span class="mw-headline" id=".E6.B2.BB.E7.99.82.E6.B3.95">治療法</span><span class="mw-editsection">[<a href="/w/index.php?title=%E7%B5%90%E6%A0%B8&amp;action=edit&amp;section=17" title="節を編集: 治療法">編集</a>]</span></h3>
+<p>肺結核症と同様である。イソニアジド、リファンピシン、ピラジナミドは髄液移行性がよい。エタンブトール,ストレプトマイシンは基本的に髄液移行性は不良であるが、髄膜の炎症が認められる場合には髄液中に移行する。デキサメタゾンは細菌性のようなエビデンスはないが、用いることがある。</p>
+<h2><span class="mw-headline" id=".E7.B5.90.E6.A0.B8.E6.80.A7.E3.83.AA.E3.83.B3.E3.83.91.E7.AF.80.E7.82.8E">結核性リンパ節炎</span><span class="mw-editsection">[<a href="/w/index.php?title=%E7%B5%90%E6%A0%B8&amp;action=edit&amp;section=18" title="節を編集: 結核性リンパ節炎">編集</a>]</span></h2>
+<p>頚部腫瘤の鑑別のひとつである。感染症による反応性リンパ節腫脹や、腫瘍性、<a href="/wiki/%E3%82%B5%E3%83%AB%E3%82%B3%E3%82%A4%E3%83%89%E3%83%BC%E3%82%B7%E3%82%B9" title="サルコイドーシス">サルコイドーシス</a>、<a href="/wiki/%E7%8C%AB%E3%81%B2%E3%81%A3%E3%81%8B%E3%81%8D%E7%97%85" title="猫ひっかき病">猫ひっかき病</a>、<a href="/wiki/%E7%B5%84%E7%B9%94%E7%90%83%E6%80%A7%E5%A3%8A%E6%AD%BB%E6%80%A7%E3%83%AA%E3%83%B3%E3%83%91%E7%AF%80%E7%82%8E" title="組織球性壊死性リンパ節炎">組織球性壊死性リンパ節炎</a>（菊池病）、<a href="/w/index.php?title=%E8%87%AA%E5%B7%B1%E5%85%8D%E7%96%AB%E6%80%A7%E3%83%AA%E3%83%B3%E3%83%91%E7%AF%80%E7%82%8E&amp;action=edit&amp;redlink=1" class="new" title="自己免疫性リンパ節炎 (存在しないページ)">自己免疫性リンパ節炎</a>との鑑別を要する。診断は、針吸引による細胞診、塗抹、培養、PCRによる。リンパ節生検が必要なこともある。</p>
+<h2><span class="mw-headline" id=".E7.B5.90.E6.A0.B8.E6.80.A7.E5.BF.83.E8.86.9C.E7.82.8E">結核性心膜炎</span><span class="mw-editsection">[<a href="/w/index.php?title=%E7%B5%90%E6%A0%B8&amp;action=edit&amp;section=19" title="節を編集: 結核性心膜炎">編集</a>]</span></h2>
+<p>先進国ではまれである。発熱、寝汗、疲労が数週間から数ヶ月続く。心嚢水の塗抹・培養による結核菌陽性率は低い。心膜生検による肉芽腫の証明や培養、PCRは診断を確定するが侵襲性が高い。他部位における結核菌の証明によって診断を推定するのが一般的であると考えられる。治療は肺結核と同様であるが収縮性心外膜炎を後遺症として残すことがある。</p>
+<h2><span class="mw-headline" id=".E7.B5.90.E6.A0.B8.E6.80.A7.E8.85.B9.E8.86.9C.E7.82.8E">結核性腹膜炎</span><span class="mw-editsection">[<a href="/w/index.php?title=%E7%B5%90%E6%A0%B8&amp;action=edit&amp;section=20" title="節を編集: 結核性腹膜炎">編集</a>]</span></h2>
+<h3><span class="mw-headline" id=".E7.97.87.E7.8A.B6_3">症状</span><span class="mw-editsection">[<a href="/w/index.php?title=%E7%B5%90%E6%A0%B8&amp;action=edit&amp;section=21" title="節を編集: 症状">編集</a>]</span></h3>
+<p><a href="/wiki/%E5%BE%AE%E7%86%B1" title="微熱">微熱</a>、<a href="/wiki/%E8%85%B9%E7%97%9B" title="腹痛">腹痛</a>、<a href="/w/index.php?title=%E9%A3%9F%E6%AC%B2%E4%B8%8D%E6%8C%AF&amp;action=edit&amp;redlink=1" class="new" title="食欲不振 (存在しないページ)">食欲不振</a>、体重減少など非特異的である。</p>
+<h3><span class="mw-headline" id=".E6.A4.9C.E6.9F.BB.E6.89.80.E8.A6.8B_3">検査所見</span><span class="mw-editsection">[<a href="/w/index.php?title=%E7%B5%90%E6%A0%B8&amp;action=edit&amp;section=22" title="節を編集: 検査所見">編集</a>]</span></h3>
+<p>腹水の抗酸菌塗抹検査は通常陰性であり、培養の陽性率は20%にすぎない。ただし大量の<a href="/wiki/%E8%85%B9%E6%B0%B4" title="腹水">腹水</a>を培養することにより85%まで高めることができる。腹水の<a href="/wiki/%E3%82%A2%E3%83%87%E3%83%8E%E3%82%B7%E3%83%B3" title="アデノシン">アデノシン</a>・デアミナーゼADA値は<a href="/wiki/%E8%82%9D%E7%A1%AC%E5%A4%89" title="肝硬変">肝硬変</a>による腹水がある患者では、結核性<a href="/wiki/%E8%85%B9%E8%86%9C%E7%82%8E" title="腹膜炎">腹膜炎</a>の合併を予測できると示されている。しかしその他の場合には有用ではない。</p>
+<p>診断の確定は<a href="/wiki/%E8%85%B9%E8%85%94%E9%8F%A1" title="腹腔鏡">腹腔鏡</a>検査であり、特徴的な腹膜結節を認め腹膜生検で<a href="/wiki/%E8%82%89%E8%8A%BD%E8%85%AB" title="肉芽腫">肉芽腫</a>を認めることができる。</p>
+<h3><span class="mw-headline" id=".E6.B2.BB.E7.99.82.E6.B3.95_2">治療法</span><span class="mw-editsection">[<a href="/w/index.php?title=%E7%B5%90%E6%A0%B8&amp;action=edit&amp;section=23" title="節を編集: 治療法">編集</a>]</span></h3>
+<p>肺結核と同様である。</p>
+<h2><span class="mw-headline" id=".E8.85.B8.E7.B5.90.E6.A0.B8">腸結核</span><span class="mw-editsection">[<a href="/w/index.php?title=%E7%B5%90%E6%A0%B8&amp;action=edit&amp;section=24" title="節を編集: 腸結核">編集</a>]</span></h2>
+<p>腸結核は典型的には回盲部に起こり、<a href="/wiki/%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%B3%E7%97%85" title="クローン病">クローン病</a>との鑑別が問題となる。ただしその他のどの部位もおかされうる。</p>
+<h3><span class="mw-headline" id=".E7.97.87.E7.8A.B6_4">症状</span><span class="mw-editsection">[<a href="/w/index.php?title=%E7%B5%90%E6%A0%B8&amp;action=edit&amp;section=25" title="節を編集: 症状">編集</a>]</span></h3>
+<p>慢性的な腹痛、閉塞症状、体重減少、<a href="/wiki/%E4%B8%8B%E7%97%A2" title="下痢">下痢</a>などである。</p>
+<h3><span class="mw-headline" id=".E7.94.BB.E5.83.8F.E6.89.80.E8.A6.8B_2">画像所見</span><span class="mw-editsection">[<a href="/w/index.php?title=%E7%B5%90%E6%A0%B8&amp;action=edit&amp;section=26" title="節を編集: 画像所見">編集</a>]</span></h3>
+<p>50%未満の患者では活動性肺結核を伴い、胸部<a href="/wiki/%E3%83%AC%E3%83%B3%E3%83%88%E3%82%B2%E3%83%B3" title="レントゲン" class="mw-redirect">レントゲン</a>で認めることができる。</p>
+<p>結腸では、<a href="/wiki/%E5%A4%A7%E8%85%B8%E5%86%85%E8%A6%96%E9%8F%A1" title="大腸内視鏡">大腸内視鏡</a>検査にて多発潰瘍、潰瘍化した集塊、無茎性ポリープ、小憩室を認める。</p>
+<p>診断確定は、大腸内視鏡下の生検にて<a href="/wiki/%E4%B9%BE%E9%85%AA%E5%A3%8A%E6%AD%BB" title="乾酪壊死">乾酪性</a><a href="/wiki/%E8%82%89%E8%8A%BD%E8%85%AB" title="肉芽腫">肉芽腫</a>を認めたり結核菌培養が陽性であるときである。生検標本のPCRによる結核菌<a href="/wiki/DNA" title="DNA" class="mw-redirect">DNA</a>の検出は、迅速で最も<a href="/wiki/%E6%84%9F%E5%BA%A6" title="感度">感度</a>が高い。</p>
+<p>2007年現在、<a href="/wiki/%E3%83%80%E3%83%96%E3%83%AB%E3%83%90%E3%83%AB%E3%83%BC%E3%83%B3%E5%86%85%E8%A6%96%E9%8F%A1" title="ダブルバルーン内視鏡" class="mw-redirect">ダブルバルーン内視鏡</a>や<a href="/wiki/%E3%82%AB%E3%83%97%E3%82%BB%E3%83%AB%E5%86%85%E8%A6%96%E9%8F%A1" title="カプセル内視鏡">カプセル内視鏡</a>により小腸結核も診断できるようになった。</p>
+<h3><span class="mw-headline" id=".E5.90.88.E4.BD.B5.E7.97.87">合併症</span><span class="mw-editsection">[<a href="/w/index.php?title=%E7%B5%90%E6%A0%B8&amp;action=edit&amp;section=27" title="節を編集: 合併症">編集</a>]</span></h3>
+<p><a href="/wiki/%E8%85%B8%E9%96%89%E5%A1%9E" title="腸閉塞" class="mw-redirect">腸閉塞</a>、<a href="/wiki/%E5%87%BA%E8%A1%80" title="出血">出血</a>、<a href="/wiki/%E7%98%BB%E5%AD%94" title="瘻孔">瘻孔</a>形成がおこることがある。</p>
+<h3><span class="mw-headline" id=".E6.B2.BB.E7.99.82_2">治療</span><span class="mw-editsection">[<a href="/w/index.php?title=%E7%B5%90%E6%A0%B8&amp;action=edit&amp;section=28" title="節を編集: 治療">編集</a>]</span></h3>
+<p>肺結核と同様である。</p>
+<h2><span class="mw-headline" id=".E8.85.8E.E7.B5.90.E6.A0.B8">腎結核</span><span class="mw-editsection">[<a href="/w/index.php?title=%E7%B5%90%E6%A0%B8&amp;action=edit&amp;section=29" title="節を編集: 腎結核">編集</a>]</span></h2>
+<p>無菌性<a href="/w/index.php?title=%E8%86%BF%E5%B0%BF&amp;action=edit&amp;redlink=1" class="new" title="膿尿 (存在しないページ)">膿尿</a>の原因のひとつ。<a href="/w/index.php?title=%E6%BC%86%E5%96%B0%E8%85%8E&amp;action=edit&amp;redlink=1" class="new" title="漆喰腎 (存在しないページ)">漆喰腎</a>を発症する。<a href="/wiki/%E5%B0%BF" title="尿">尿</a>培養にて結核菌が証明される。治療法は、肺結核と同様である。</p>
+<h2><span class="mw-headline" id=".E5.89.AF.E8.85.8E.E7.B5.90.E6.A0.B8">副腎結核</span><span class="mw-editsection">[<a href="/w/index.php?title=%E7%B5%90%E6%A0%B8&amp;action=edit&amp;section=30" title="節を編集: 副腎結核">編集</a>]</span></h2>
+<p>慢性副腎不全の鑑別のひとつ。特に結核症の頻度が高い地域では<a href="/wiki/%E6%85%A2%E6%80%A7%E5%8E%9F%E7%99%BA%E6%80%A7%E5%89%AF%E8%85%8E%E7%9A%AE%E8%B3%AA%E6%A9%9F%E8%83%BD%E4%BD%8E%E4%B8%8B%E7%97%87" title="慢性原発性副腎皮質機能低下症">慢性副腎不全</a>の主要な原因である。<a href="/w/index.php?title=%E8%87%AA%E5%B7%B1%E5%85%8D%E7%96%AB%E6%80%A7%E5%89%AF%E8%85%8E%E4%B8%8D%E5%85%A8&amp;action=edit&amp;redlink=1" class="new" title="自己免疫性副腎不全 (存在しないページ)">自己免疫性副腎不全</a>、<a href="/w/index.php?title=Waterhouse-Friedrichsen%E7%97%87%E5%80%99%E7%BE%A4&amp;action=edit&amp;redlink=1" class="new" title="Waterhouse-Friedrichsen症候群 (存在しないページ)">Waterhouse-Friedrichsen症候群</a>、<a href="/wiki/%E6%8A%97%E3%83%AA%E3%83%B3%E8%84%82%E8%B3%AA%E6%8A%97%E4%BD%93%E7%97%87%E5%80%99%E7%BE%A4" title="抗リン脂質抗体症候群">抗リン脂質抗体症候群</a>、<a href="/wiki/%E6%8A%97%E5%87%9D%E5%9B%BA%E8%96%AC" title="抗凝固薬">抗凝固薬</a>の使用による両側副腎出血、<a href="/wiki/%E8%BB%A2%E7%A7%BB" title="転移">転移</a>性腫瘍など鑑別は多岐にわたる。</p>
+<h2><span class="mw-headline" id=".E7.B5.90.E6.A0.B8.E6.80.A7.E5.8D.B5.E7.AE.A1.E7.82.8E">結核性卵管炎</span><span class="mw-editsection">[<a href="/w/index.php?title=%E7%B5%90%E6%A0%B8&amp;action=edit&amp;section=31" title="節を編集: 結核性卵管炎">編集</a>]</span></h2>
+<p>骨盤痛と、骨盤腫瘤を生じ、<a href="/wiki/%E7%99%BA%E5%B1%95%E9%80%94%E4%B8%8A%E5%9B%BD" title="発展途上国" class="mw-redirect">発展途上国</a>に多い。<a href="/wiki/%E9%AA%A8%E7%9B%A4%E5%86%85%E7%82%8E%E7%97%87%E6%80%A7%E7%96%BE%E6%82%A3" title="骨盤内炎症性疾患" class="mw-redirect">骨盤内炎症性疾患</a>PIDの鑑別診断のひとつである。</p>
+<h2><span class="mw-headline" id=".E7.AD.8B.E9.AA.A8.E6.A0.BC.E7.B3.BB.E3.81.AE.E7.B5.90.E6.A0.B8.E7.97.87">筋骨格系の結核症</span><span class="mw-editsection">[<a href="/w/index.php?title=%E7%B5%90%E6%A0%B8&amp;action=edit&amp;section=32" title="節を編集: 筋骨格系の結核症">編集</a>]</span></h2>
+<p>胸椎・腰椎の結核症や単関節の結核症（主に<a href="/wiki/%E8%86%9D%E9%96%A2%E7%AF%80" title="膝関節">膝関節</a>）が知られている。代表的な疾患は脊椎<a href="/wiki/%E3%82%AB%E3%83%AA%E3%82%A8%E3%82%B9" title="カリエス">カリエス</a>である。診断は、骨・骨膜・所属リンパ節生検による乾酪壊死の証明や関節液、膿汁の塗抹・培養・PCRである。鑑別疾患は、亜急性・慢性の感染性関節炎や骨の感染症、<a href="/wiki/%E9%96%A2%E7%AF%80%E3%83%AA%E3%82%A6%E3%83%9E%E3%83%81" title="関節リウマチ">関節リウマチ</a>、<a href="/wiki/%E7%97%9B%E9%A2%A8" title="痛風">痛風</a>、<a href="/wiki/%E8%BB%A2%E7%A7%BB" title="転移">転移</a>性腫瘍である。治療は、肺結核と同様であるが滑膜切除術をおこなうこともある。</p>
+<h3><span class="mw-headline" id=".E7.B5.90.E6.A0.B8.E6.80.A7.E8.84.8A.E6.A4.8E.E7.82.8E">結核性脊椎炎</span><span class="mw-editsection">[<a href="/w/index.php?title=%E7%B5%90%E6%A0%B8&amp;action=edit&amp;section=33" title="節を編集: 結核性脊椎炎">編集</a>]</span></h3>
+<p>結核性脊椎炎は別名 Pott's病とも呼ばれる。治療には、抗結核薬を12～18ヶ月間用いる。<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></p>
+<h4><span class="mw-headline" id=".E6.BB.91.E8.86.9C.E5.88.87.E9.99.A4.E8.A1.93">滑膜切除術</span><span class="mw-editsection">[<a href="/w/index.php?title=%E7%B5%90%E6%A0%B8&amp;action=edit&amp;section=34" title="節を編集: 滑膜切除術">編集</a>]</span></h4>
+<p>結核性関節炎、<a href="/wiki/%E6%85%A2%E6%80%A7%E9%96%A2%E7%AF%80%E3%83%AA%E3%82%A6%E3%83%9E%E3%83%81" title="慢性関節リウマチ" class="mw-redirect">慢性関節リウマチ</a>、慢性化膿性滑膜炎、色素性絨毛結節性滑膜炎、滑膜性骨軟骨腫症などの疾患では滑膜に炎症や腫瘍形成を生じるため、これを切除する滑膜切除術（英：<a href="//en.wikipedia.org/wiki/Synovectomy" class="extiw" title="en:Synovectomy">synovectomy</a>、独：<a href="//de.wikipedia.org/wiki/Synovektomie" class="extiw" title="de:Synovektomie">Synovektomie</a>）が行われる。これにより疼痛、腫脹などの局所症状を改善し、関節破壊の進行を防ぐ。関節軟骨、軟骨下骨質に炎症が波及しない時期に行うものを早期滑膜切除術とし、炎症の波及後に行うものを晩期滑膜切除術とするが、早期の方が機能的予後が良好である。</p>
+<h2><span class="mw-headline" id=".E7.9A.AE.E8.86.9A.E7.B5.90.E6.A0.B8">皮膚結核</span><span class="mw-editsection">[<a href="/w/index.php?title=%E7%B5%90%E6%A0%B8&amp;action=edit&amp;section=35" title="節を編集: 皮膚結核">編集</a>]</span></h2>
+<p><b>皮膚結核</b>は結核菌が血行性またはリンパ行性、まれに外部から直接感染することによって発症する肺外結核の一つである。病巣から結核菌が証明されるか否かによって分類があり、前者を<b>真性（真正）皮膚結核</b>、後者を<b>結核疹</b>と呼ぶ。そして各々の分類にさらに多くの疾患が属する。なお、皮膚結核の別称として<b>狼瘡</b>（ろうそう）という語があり、英語では<b>ループス</b>と呼ばれる。現在は<a href="/wiki/%E8%87%AA%E5%B7%B1%E5%85%8D%E7%96%AB%E7%96%BE%E6%82%A3" title="自己免疫疾患">自己免疫疾患</a>・<a href="/wiki/%E8%86%A0%E5%8E%9F%E7%97%85" title="膠原病">膠原病</a>として知られる<a href="/wiki/%E5%85%A8%E8%BA%AB%E6%80%A7%E3%82%A8%E3%83%AA%E3%83%86%E3%83%9E%E3%83%88%E3%83%BC%E3%83%87%E3%82%B9" title="全身性エリテマトーデス">全身性エリテマトーデス</a>は急性播種状紅斑性狼瘡とも呼ばれるが、その名の語源は発見当時結核性疾患であると考えられたために命名されたものである。</p>
+<h3><span class="mw-headline" id=".E7.9C.9F.E6.80.A7.EF.BC.88.E7.9C.9F.E6.AD.A3.EF.BC.89.E7.9A.AE.E8.86.9A.E7.B5.90.E6.A0.B8">真性（真正）皮膚結核</span><span class="mw-editsection">[<a href="/w/index.php?title=%E7%B5%90%E6%A0%B8&amp;action=edit&amp;section=36" title="節を編集: 真性（真正）皮膚結核">編集</a>]</span></h3>
+<p>このカテゴリーに属する疾患は、病巣に結核菌が証明されるのが最大の特徴である。従って感染力がある。</p>
+<ul>
+<li><b>皮膚初感染病巣</b>：通常結核は飛沫感染による感染経路を採るが、極めてまれに皮膚に直接感染するケースがある。これを<b>皮膚初感染病巣</b>と呼び、感染後顔面や四肢に<a href="/wiki/%E6%B0%B4%E7%96%B1" title="水疱">水疱</a>や<a href="/wiki/%E6%BD%B0%E7%98%8D" title="潰瘍">潰瘍</a>を生じる。その後リンパ節の腫脹を来たした後ツベルクリン反応が陽性に転じて、病変は瘢痕を残して治癒する。なお、<a href="/wiki/BCG" title="BCG">BCG</a>は<a href="/wiki/%E3%83%84%E3%83%99%E3%83%AB%E3%82%AF%E3%83%AA%E3%83%B3%E5%8F%8D%E5%BF%9C" title="ツベルクリン反応" class="mw-redirect">ツベルクリン反応</a>陰性の場合に接種するが、弱毒化した結核菌を人為的に皮膚から感染させて免疫を獲得させる。従ってBCGは人工的皮膚初感染病巣ともいえるし、逆に皮膚初感染病巣は天然<a href="/wiki/BCG" title="BCG">BCG</a>とも呼べる。</li>
+<li><b>尋常性狼瘡</b>：かつて「ループス」といえばこの疾患を指していた。真性皮膚結核の中では最も標準的な疾患であり、かつては皮膚結核の中で患者が最も多かった。<a href="/wiki/%E9%A1%94%E9%9D%A2" title="顔面" class="mw-redirect">顔面</a>を好んで侵し、<a href="/wiki/%E7%B4%85%E6%96%91" title="紅斑">紅斑</a>が次第に拡大して潰瘍となりやがて<a href="/wiki/%E7%98%A2%E7%97%95" title="瘢痕">瘢痕</a>を残して自然治癒する。だが再発しやすく同一部位に繰り返し発症し醜い瘢痕となり、さらにはその瘢痕部から<a href="/wiki/%E6%9C%89%E6%A3%98%E7%B4%B0%E8%83%9E%E7%99%8C" title="有棘細胞癌">有棘細胞癌</a>が発生することがある（<b>狼瘡瘢痕癌</b>）。</li>
+<li><b>皮膚腺病</b>：現在<b>日本で最も多い真性皮膚結核</b>である。肺などから血行性・リンパ行性に結核菌が散布され、<a href="/wiki/%E3%83%AA%E3%83%B3%E3%83%91%E7%AF%80" title="リンパ節">リンパ節</a>で増殖する際に皮膚に病変を形成するものである。<a href="/wiki/%E9%A0%9A%E9%83%A8" title="頚部" class="mw-redirect">頚部</a>に最も多く病変を形成するが、これは頚部リンパ節結核から皮膚に病変が波及したものである。最初は赤くしこりを触れる程度であるがやがて腫脹は大きくなり、皮膚を破って膿汁を排出する。この膿汁には多量の結核菌が存在し、感染原因となる。</li>
+<li><b>皮膚疣状結核</b>：外傷部位などに結核菌が付着して発症する。肱、膝などの露出部に多く、<a href="/wiki/%E3%81%84%E3%81%BC" title="いぼ" class="mw-redirect">いぼ</a>状の局面が形成され遠心性に拡大するが中心部は病変が無くなり治癒した状態になる。<a href="/wiki/%E7%8D%A3%E5%8C%BB" title="獣医" class="mw-redirect">獣医</a>や飼育業者に多く発症するが日本ではこのような感染経路はほとんどない。</li>
+<li><b>潰瘍性粟粒結核</b>：肺結核、腸結核、腎結核、膀胱結核などの臓器結核から結核菌が<a href="/wiki/%E5%8F%A3%E8%85%94" title="口腔" class="mw-redirect">口腔</a>、<a href="/wiki/%E5%B0%BF%E9%81%93" title="尿道">尿道</a>、<a href="/wiki/%E7%9B%B4%E8%85%B8" title="直腸">直腸</a><a href="/wiki/%E8%82%9B%E9%96%80" title="肛門">肛門</a>に付着し増殖して病変を形成する。丘疹から始まり次第に潰瘍や<a href="/w/index.php?title=%E5%B1%80%E9%9D%A2&amp;action=edit&amp;redlink=1" class="new" title="局面 (存在しないページ)">局面</a>、<a href="/wiki/%E5%A3%8A%E6%AD%BB" title="壊死">壊死</a>などの様々な皮膚病変が多発する。病変には<a href="/wiki/%E3%83%81%E3%83%BC%E3%82%BA" title="チーズ">チーズ</a>状の塊が厚く付着するがこの中には極めて多くの結核菌が存在する。この疾患がある患者は概して末期の結核患者であり、大体において死亡する。現在日本でこのような病変を見ることは少なく、<a href="/wiki/%E7%9A%AE%E8%86%9A%E7%A7%91%E5%AD%A6" title="皮膚科学">皮膚科</a>の専門書にもまず写真が掲載されていない。</li>
+<li><b>急性皮膚粟粒結核</b>：結核性敗血症である粟粒結核（ぞくりゅうけっかく）の皮膚病変であり、小児を多く侵す。丘疹・紅斑・潰瘍・<a href="/wiki/%E7%B4%AB%E6%96%91" title="紫斑" class="mw-redirect">紫斑</a>・<a href="/wiki/%E5%A3%8A%E7%96%BD" title="壊疽">壊疽</a>などの多彩な症状が全身に多発する。非常にまれな病態である。潰瘍性粟粒結核と同様、皮膚科の専門書に写真が掲載されていることはまずない。</li>
+</ul>
+<h3><span class="mw-headline" id=".E7.B5.90.E6.A0.B8.E7.96.B9">結核疹</span><span class="mw-editsection">[<a href="/w/index.php?title=%E7%B5%90%E6%A0%B8&amp;action=edit&amp;section=37" title="節を編集: 結核疹">編集</a>]</span></h3>
+<p>このカテゴリーに属する疾患は、病巣に結核菌が証明されない。発症機序としては結核に元来過敏性を有しているヒトが結核菌に感染した際、血行性に結核菌や菌が分解された後の産物などが散布されて皮膚に到着、それに伴い様々な皮膚病変を発症する。細菌<a href="/wiki/%E3%82%A2%E3%83%AC%E3%83%AB%E3%82%AE%E3%83%BC" title="アレルギー">アレルギー</a>による<a href="/wiki/%E5%A4%9A%E5%BD%A2%E6%BB%B2%E5%87%BA%E6%80%A7%E7%B4%85%E6%96%91" title="多形滲出性紅斑">多形滲出性紅斑</a>や真菌アレルギーによる<a href="/w/index.php?title=%E7%99%BD%E7%99%AC%E7%96%B9&amp;action=edit&amp;redlink=1" class="new" title="白癬疹 (存在しないページ)">白癬疹</a>と同様の機序で発生する、結核アレルギー性皮膚疾患ともいえる。ツベルクリン反応はほぼ100パーセント陽性である。</p>
+<ul>
+<li><b>腺病性苔癬</b>：主に若年者の胴体や四肢に発症し、<a href="/wiki/%E6%89%81%E5%B9%B3%E8%8B%94%E7%99%AC" title="扁平苔癬">扁平苔癬</a>に似た粟粒大の丘疹が播種性または集族性に多発する。丘疹の頂点に小さな膿疱が形成される。自覚症状はない。主に初感染者に起こり、BCGの副作用として発症することもある。</li>
+<li><b>壊疽性丘疹状結核疹</b>：結核アレルギーによる血管炎である。若い女性の四肢に暗赤色の丘疹として多発し、その後発疹の中心が壊疽に陥り<a href="/wiki/%E7%97%82%E7%9A%AE" title="痂皮" class="mw-redirect">痂皮</a>を形成。潰瘍を経て瘢痕治癒する。疾患名こそ「壊疽」と付くが重篤なものではなく、予後は良好である。</li>
+<li><b>陰茎結核疹</b>：その名の通り男性に限定して発症する結核疹であり、腎結核や膀胱結核など泌尿器系の結核に続発・合併することが多い。<a href="/wiki/%E4%BA%80%E9%A0%AD" title="亀頭">亀頭</a>・<a href="/wiki/%E5%8C%85%E7%9A%AE" title="包皮">包皮</a>に米粒大よりはやや小さな丘疹が発生、膿疱・潰瘍を経て瘢痕化する。しかしこの過程において亀頭部の形状が不整形の凹凸となり、醜い瘢痕となる。<a href="/w/index.php?title=%E9%99%B0%E8%8C%8E%E5%BD%A2%E6%88%90%E6%80%A7%E7%A1%AC%E7%B5%90%E7%97%87&amp;action=edit&amp;redlink=1" class="new" title="陰茎形成性硬結症 (存在しないページ)">陰茎形成性硬結症</a>を合併することが多いとされているが、海外では否定的である。</li>
+<li><b>バザン硬結性紅斑</b>：結核疹の中では最も多く、<b>皮膚結核全体でも最も症例数が多い</b>。足が太い若い女性の下腿に多く、最大でも<a href="/wiki/%E9%B6%8F%E5%8D%B5" title="鶏卵">鶏卵</a>よりやや小さい紅斑として発症。紅斑は硬くなりやがて深い潰瘍となり、1~2ヶ月の経過で瘢痕治癒する。自覚症状はない。<a href="/w/index.php?title=%E7%9A%AE%E4%B8%8B%E7%B5%84%E7%B9%94&amp;action=edit&amp;redlink=1" class="new" title="皮下組織 (存在しないページ)">皮下組織</a>に発症した結核性肉芽腫性脂肪織炎が本態である。</li>
+<li><b>結核性結節性紅斑</b>：<a href="/wiki/%E7%B5%90%E7%AF%80%E6%80%A7%E7%B4%85%E6%96%91" title="結節性紅斑">結節性紅斑</a>は細菌アレルギーが原因で発症する皮膚疾患の一つであるが、結核も主要な原因の一つである。バザン硬結性紅斑に似るが、最大の違いは潰瘍を形成しないことである。</li>
+<li><b>結節性結核性静脈炎</b>：亜急性に発症し、発熱や倦怠感といった前駆症状を伴うことがあるが多くは無症状で四肢に皮下硬結を生じる。自覚症状はない。</li>
+</ul>
+<p>なお、かつては<b><a href="/w/index.php?title=%E9%A1%94%E9%9D%A2%E6%92%AD%E7%A8%AE%E7%8A%B6%E7%B2%9F%E7%B2%92%E6%80%A7%E7%8B%BC%E7%98%A1&amp;action=edit&amp;redlink=1" class="new" title="顔面播種状粟粒性狼瘡 (存在しないページ)">顔面播種状粟粒性狼瘡</a></b>も結核疹として加えられていた。結核の特徴である乾酪壊死を組織所見で確認できるためであったが、結核の合併が少ないこと、ツベルクリン反応陰性例が多いこと、さらに結核が減少しているにもかかわらずこの疾患は増加していることなどから、現在は<a href="/wiki/%E8%82%89%E8%8A%BD%E8%85%AB" title="肉芽腫">肉芽腫</a>や<a href="/wiki/%E7%97%A4%E7%98%A1" title="痤瘡" class="mw-redirect">痤瘡</a>に近い疾患の位置づけになっている。<b>酒さ様結核疹</b>も同様の理由で除外されている。バザン硬結性紅斑では非結核性の症例も比較的多く報告されている。</p>
+<h3><span class="mw-headline" id=".E6.B2.BB.E7.99.82_3">治療</span><span class="mw-editsection">[<a href="/w/index.php?title=%E7%B5%90%E6%A0%B8&amp;action=edit&amp;section=38" title="節を編集: 治療">編集</a>]</span></h3>
+<p>治療は真性皮膚結核・結核疹とも肺結核に準じた抗結核剤による治療が行われるが、<a href="/wiki/%E4%B8%B8%E5%B1%B1%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3" title="丸山ワクチン">丸山ワクチン</a>による治療も行われる。また尋常性狼瘡・皮膚疣状結核・バザン硬結性紅斑では<a href="/wiki/%E7%B4%AB%E5%A4%96%E7%B7%9A" title="紫外線">紫外線</a>照射や<a href="/wiki/%E5%89%AF%E8%85%8E%E7%9A%AE%E8%B3%AA%E3%82%B9%E3%83%86%E3%83%AD%E3%82%A4%E3%83%89" title="副腎皮質ステロイド" class="mw-redirect">副腎皮質ステロイド</a>の局所注射が抗結核剤との併用で行われる場合もある。抗結核剤が無効の場合や皮膚腺病では<a href="/wiki/%E5%A4%96%E7%A7%91%E5%AD%A6" title="外科学">外科</a>的な治療も行われる。</p>
+<h2><span class="mw-headline" id=".E9.96.A2.E9.80.A3.E6.B3.95.E8.A6.8F">関連法規</span><span class="mw-editsection">[<a href="/w/index.php?title=%E7%B5%90%E6%A0%B8&amp;action=edit&amp;section=39" title="節を編集: 関連法規">編集</a>]</span></h2>
+<ul>
+<li><a href="/wiki/1951%E5%B9%B4" title="1951年">1951年</a>（昭和26年）<a href="/wiki/%E7%B5%90%E6%A0%B8%E4%BA%88%E9%98%B2%E6%B3%95" title="結核予防法">結核予防法</a>制定。同法により医師は結核患者であると診断した時は2日以内に最寄りの保健所に届出。2007年（平成19年）3月31日廃止。</li>
+<li><a href="/wiki/%E5%AD%A6%E6%A0%A1%E4%BF%9D%E5%81%A5%E6%B3%95" title="学校保健法" class="mw-redirect">学校保健法</a>の第二種学校伝染病。</li>
+<li>感染症法、二類感染症。医師は結核患者であると診断した時は、直ちに届出。BCG接種については予防接種法（昭和23年6月30日法律第68号）で定められることとなった。</li>
+</ul>
+<h2><span class="mw-headline" id=".E9.80.B8.E8.A9.B1">逸話</span><span class="mw-editsection">[<a href="/w/index.php?title=%E7%B5%90%E6%A0%B8&amp;action=edit&amp;section=40" title="節を編集: 逸話">編集</a>]</span></h2>
+<p>結核、特に肺結核は<b>労咳</b>と呼ばれ、古くから<a href="/wiki/%E6%97%A5%E6%9C%AC" title="日本">日本</a>に多く見られる病気のひとつであった。特に<a href="/wiki/%E6%98%8E%E6%B2%BB" title="明治">明治</a>期には<a href="/w/index.php?title=%E5%9B%BD%E6%B0%91%E7%97%85&amp;action=edit&amp;redlink=1" class="new" title="国民病 (存在しないページ)">国民病</a>といわれるまでに<a href="/wiki/%E7%BD%B9%E6%82%A3" title="罹患" class="mw-redirect">罹患</a>者の多い疾病であったため、<a href="/wiki/%E8%BF%91%E4%BB%A3" title="近代">近代</a>以降の<a href="/wiki/%E6%96%87%E5%8C%96" title="文化">文化</a>史に強い影響を与えている。当時はほとんど打つ手のない<a href="/w/index.php?title=%E6%AD%BB%E7%97%85&amp;action=edit&amp;redlink=1" class="new" title="死病 (存在しないページ)">死病</a>であり、この病によって若くして命を落とす人が少なくなかったこと、結核患者は熱のため頬が赤く、目が大きくうるみ、痩せて肌は白くなるため美的感覚によく合う。また<a href="/wiki/%E5%96%80%E8%A1%80" title="喀血">喀血</a>症状が古くからの「血を吐くまで（恋や悩みに）苦しむ」という言いまわしに重ね合わされて捉えられたことなどから、<a href="/wiki/%E5%B0%8F%E8%AA%AC" title="小説">小説</a>や<a href="/wiki/%E6%98%A0%E7%94%BB" title="映画">映画</a>の中では薄倖の才子佳人（逆に不良、放蕩の限りを尽くして罹るケースもある。映画作品『<a href="/wiki/%E3%81%8A%E3%81%A8%E3%81%86%E3%81%A8_(1960%E5%B9%B4%E3%81%AE%E6%98%A0%E7%94%BB)" title="おとうと (1960年の映画)">おとうと</a>』が好例）に特有の病気として悲劇的に描かれることが多かった。</p>
+<p>集団生活が基本であり、集団感染の危険が高い陸海軍でもこの病気には非常に気を使い、<a href="/wiki/%E5%BE%B4%E5%85%B5%E6%A4%9C%E6%9F%BB" title="徴兵検査">徴兵検査</a>では特に厳重な胸部検査をし、さらに<a href="/wiki/%E9%99%B8%E8%BB%8D%E5%A3%AB%E5%AE%98%E5%AD%A6%E6%A0%A1_(%E6%97%A5%E6%9C%AC)" title="陸軍士官学校 (日本)">陸軍士官学校</a>などでは度々ツベルクリン反応検査をしたり寝台は頭と足の向きを交互にするなどして対応していた。また兵役中に結核を発症した場合、「軍隊で結核にかかった」などの悪評が広がる事を防ぐため、肺浸潤や肋膜炎などのぼかした表現が使用された。</p>
+<p>死亡率が高かった頃は、病名「結核」はあまりにも直接的で人々の口に出しづらかった。このため学名の <i>tuberculosis</i> から、医師らはカルテに "TB" と記すことが多く、また<a href="/wiki/%E3%83%89%E3%82%A4%E3%83%84%E8%AA%9E" title="ドイツ語">ドイツ語</a>読みが原則であったため「テーベー」と言い習わした。ここから出発して一般人も「テーベー」と呼ぶことが多かった。現在でも医師同士の会話などでは「テーベー」と呼ぶこともあり、また略号としての "TB" もしばしば使われる。</p>
+<ul>
+<li><a href="/wiki/%E6%96%B0%E9%81%B8%E7%B5%84" title="新選組">新選組</a>の<a href="/wiki/%E6%B2%96%E7%94%B0%E7%B7%8F%E5%8F%B8" title="沖田総司">沖田総司</a>は肺結核のために病死した。このため幕末ものの<a href="/wiki/%E5%B0%8F%E8%AA%AC" title="小説">小説</a>や<a href="/wiki/%E6%98%A0%E7%94%BB" title="映画">映画</a>では彼を悲劇の天才剣士として描くことが多い。沖田が<a href="/wiki/%E6%B1%A0%E7%94%B0%E5%B1%8B%E4%BA%8B%E4%BB%B6" title="池田屋事件">池田屋事件</a>で大喀血を引起こしながら大<a href="/w/index.php?title=%E7%AB%8B%E5%9B%9E%E3%82%8A&amp;action=edit&amp;redlink=1" class="new" title="立回り (存在しないページ)">立回り</a>を続ける場面は新選組もののハイライトのひとつである。但し池田屋事件当時、同じく隊士であった<a href="/wiki/%E6%B0%B8%E5%80%89%E6%96%B0%E5%85%AB" title="永倉新八">永倉新八</a>の<a href="/wiki/%E6%96%B0%E9%81%B8%E7%B5%84%E9%A1%9B%E6%9C%AB%E8%A8%98" title="新選組顛末記">新選組顛末記</a>によると沖田が喀血したとは書かれておらず、昏倒した事だけが書かれている事から、喀血した話は<a href="/wiki/%E5%AD%90%E6%AF%8D%E6%BE%A4%E5%AF%9B" title="子母澤寛">子母澤寛</a>の『<a href="/wiki/%E6%96%B0%E9%81%B8%E7%B5%84%E5%A7%8B%E6%9C%AB%E8%A8%98" title="新選組始末記">新選組始末記</a>』での創作という説もあり、真相は不明である。</li>
+<li><a href="/wiki/%E6%AD%A3%E5%B2%A1%E5%AD%90%E8%A6%8F" title="正岡子規">正岡子規</a>は結核を病み、喀血後、血を吐くまで鳴きつづけるという<a href="/wiki/%E3%83%9B%E3%83%88%E3%83%88%E3%82%AE%E3%82%B9" title="ホトトギス">ホトトギス</a>に自らをなぞらえて子規（漢語でホトトギスの意）という号をもっぱら用いた。</li>
+<li>結核に「悲劇の病」という<a href="/wiki/%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8" title="イメージ">イメージ</a>を与えるに決定的であったのは、<a href="/wiki/%E5%BE%B3%E5%AF%8C%E8%98%86%E8%8A%B1" title="徳富蘆花" class="mw-redirect">徳富蘆花</a>の代表作『<a href="/wiki/%E4%B8%8D%E5%A6%82%E5%B8%B0_(%E5%B0%8F%E8%AA%AC)" title="不如帰 (小説)">不如帰</a>』であろう。美貌の<a href="/wiki/%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3" title="ヒロイン">ヒロイン</a>浪子が武男を慕いながらも、家の体面や運命によって愛を引き裂かれ、哀れにその生涯を終える物語は、<a href="/wiki/%E6%98%A0%E7%94%BB" title="映画">映画</a>や<a href="/wiki/%E6%96%B0%E6%B4%BE" title="新派">新派</a>などで繰返し上演され、肺結核の文化史的イメージをつくりあげた。</li>
+<li><a href="/wiki/%E5%A0%80%E8%BE%B0%E9%9B%84" title="堀辰雄">堀辰雄</a>の『<a href="/wiki/%E9%A2%A8%E7%AB%8B%E3%81%A1%E3%81%AC_(%E5%B0%8F%E8%AA%AC)" title="風立ちぬ (小説)">風立ちぬ</a>』は<a href="/wiki/%E3%82%B5%E3%83%8A%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0" title="サナトリウム">サナトリウム</a>（長期的な療養を必要とする人のための療養所）における末期患者を主人公にしたもので、『不如帰』とはまた別趣の、静謐な悲劇的イメージによって結核を描いている。薄倖の可憐な<a href="/wiki/%E5%B0%91%E5%A5%B3" title="少女">少女</a>が死の影におびえながら生を養う、というサナトリウムの通俗的観念が成立するにあたって大きな影響を与えた作品である。ちなみに堀自身も結核で長い病床生活を送り、病死している。</li>
+<li><a href="/wiki/%E3%83%88%E3%83%BC%E3%83%9E%E3%82%B9%E3%83%BB%E3%83%9E%E3%83%B3" title="トーマス・マン">トーマス・マン</a>の『<a href="/wiki/%E9%AD%94%E3%81%AE%E5%B1%B1" title="魔の山">魔の山</a>』は結核患者のための高原サナトリウムを舞台にした壮大な対話による小説で、閉鎖空間としてのサナトリウムを哲学的に描いた大作である。また健全な美と不健全な美に同時にあこがれるマンの文学において、結核患者たちは不健全な美の体現者としても描かれており、日本の結核文学との捉え方の相違に特徴がある。</li>
+</ul>
+<p>その他、結核で命を落とした歴史上の人物は数知れない。これは結核が文字通り「不治の病」であり、広く伝染しうるものであったことを示すものである。以下に実例を挙げる。</p>
+<ul>
+<li><a href="/wiki/%E3%82%B8%E3%83%A7%E3%83%B4%E3%82%A1%E3%83%B3%E3%83%8B%E3%83%BB%E3%83%90%E3%83%83%E3%83%86%E3%82%A3%E3%82%B9%E3%82%BF%E3%83%BB%E3%83%9A%E3%83%AB%E3%82%B4%E3%83%AC%E3%83%BC%E3%82%B8" title="ジョヴァンニ・バッティスタ・ペルゴレージ">ペルゴレージ</a>：18世紀のイタリアの作曲家。1710年 - 1736年。</li>
+<li><a href="/wiki/%E3%83%81%E3%83%A3%E3%83%BC%E3%83%AB%E3%82%BA%E3%83%BB%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%83%87%E3%83%B3%E3%83%BB%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3" title="チャールズ・ブロックデン・ブラウン">ブラウン</a>：18・19世紀のアメリカの作家。1771年 - 1810年。</li>
+<li><a href="/wiki/%E3%83%8B%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BB%E3%82%A2%E3%83%BC%E3%83%99%E3%83%AB" title="ニールス・アーベル">アーベル</a>：ノルウェーの数学者。1802年 - 1829年。</li>
+<li><a href="/wiki/%E3%83%AB%E3%82%A4%E3%83%BB%E3%83%96%E3%83%A9%E3%82%A4%E3%83%A6" title="ルイ・ブライユ">ルイ・ブライユ</a>：フランスの<a href="/wiki/%E6%95%99%E5%B8%AB" title="教師">教師</a>。点字の開発者。1809年 - 1852年。</li>
+<li><a href="/wiki/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF%E3%83%BB%E3%82%B7%E3%83%A7%E3%83%91%E3%83%B3" title="フレデリック・ショパン">ショパン</a>：19世紀前半の<a href="/wiki/%E4%BD%9C%E6%9B%B2%E5%AE%B6" title="作曲家">作曲家</a>。1810年 - 1849年。なお、彼の妹エミリアも結核によって死亡している。</li>
+<li><a href="/wiki/%E3%83%8A%E3%83%9D%E3%83%AC%E3%82%AA%E3%83%B32%E4%B8%96" title="ナポレオン2世">ナポレオン2世</a>：ローマ王。1811年 - 1832年。</li>
+<li><a href="/wiki/%E9%AB%98%E6%9D%89%E6%99%8B%E4%BD%9C" title="高杉晋作">高杉晋作</a>：<a href="/wiki/%E9%95%B7%E5%B7%9E%E8%97%A9" title="長州藩">長州藩</a>出身の幕末の志士。1839年 - 1867年。</li>
+<li><a href="/wiki/%E6%B2%96%E7%94%B0%E7%B7%8F%E5%8F%B8" title="沖田総司">沖田総司</a>：<a href="/wiki/%E6%96%B0%E9%81%B8%E7%B5%84" title="新選組">新選組</a>隊士。1842年（1844年） - 1868年。</li>
+<li><a href="/wiki/%E3%82%A8%E3%83%89%E3%83%A2%E3%83%B3%E3%83%89%E3%83%BB%E3%83%A2%E3%83%AC%E3%83%AB" title="エドモンド・モレル">モレル</a>：イギリスの鉄道技師。1841年 - 1871年。</li>
+<li><a href="/wiki/%E9%99%B8%E5%A5%A5%E5%AE%97%E5%85%89" title="陸奥宗光">陸奥宗光</a>：明治時代の政治家、外交官。<a href="/wiki/%E4%B8%8B%E9%96%A2%E6%9D%A1%E7%B4%84" title="下関条約">下関条約</a>締結時の日本全権。1844年 - 1897年。</li>
+<li><a href="/wiki/%E5%B0%8F%E6%9D%91%E5%A3%BD%E5%A4%AA%E9%83%8E" title="小村壽太郎">小村壽太郎</a>：明治時代の政治家、外交官。<a href="/wiki/%E3%83%9D%E3%83%BC%E3%83%84%E3%83%9E%E3%82%B9%E6%9D%A1%E7%B4%84" title="ポーツマス条約">ポーツマス条約</a>締結時の日本全権。1855年 - 1911年。</li>
+<li><a href="/wiki/%E3%83%8F%E3%83%B3%E3%82%B9%E3%83%BB%E3%83%AD%E3%83%83%E3%83%88" title="ハンス・ロット">ロット</a>：19世紀のオーストリアの作曲家。1858年 - 1884年。</li>
+<li><a href="/wiki/%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8%E3%83%A5%E3%83%BB%E3%82%B9%E3%83%BC%E3%83%A9" title="ジョルジュ・スーラ">スーラ</a>：19世紀のフランスの画家。1859年 - 1891年。</li>
+<li><a href="/wiki/%E3%82%A2%E3%83%B3%E3%83%88%E3%83%B3%E3%83%BB%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B9%E3%82%AD%E3%83%BC" title="アントン・アレンスキー">アレンスキー</a>：19世紀のロシアの作曲家。1861年 - 1906年。</li>
+<li><a href="/wiki/%E3%83%B4%E3%82%A1%E3%82%B7%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%AB%E3%83%AA%E3%83%B3%E3%83%8B%E3%82%B3%E3%83%95" title="ヴァシリー・カリンニコフ">カリンニコフ</a>：19世紀のロシアの作曲家。1866年 - 1901年。</li>
+<li><a href="/wiki/%E6%AD%A3%E5%B2%A1%E5%AD%90%E8%A6%8F" title="正岡子規">正岡子規</a>：俳人。1867年 - 1902年。　</li>
+<li><a href="/wiki/%E9%AB%98%E5%B1%B1%E6%A8%97%E7%89%9B" title="高山樗牛">高山樗牛</a>：明治時代の文芸評論家。1871年 - 1902年。</li>
+<li><a href="/wiki/%E5%9B%BD%E6%9C%A8%E7%94%B0%E7%8B%AC%E6%AD%A9" title="国木田独歩">国木田独歩</a>：明治時代の作家。1871年 - 1908年。</li>
+<li><a href="/wiki/%E6%A8%8B%E5%8F%A3%E4%B8%80%E8%91%89" title="樋口一葉">樋口一葉</a>：明治時代の作家。1872年 - 1896年。</li>
+<li><a href="/wiki/%E3%82%AA%E3%83%BC%E3%83%96%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%93%E3%82%A2%E3%82%BA%E3%83%AA%E3%83%BC" title="オーブリー・ビアズリー">ビアズリー</a>：19世紀のイギリスの画家。1872年 - 1898年。</li>
+<li><a href="/wiki/%E6%BB%9D%E5%BB%89%E5%A4%AA%E9%83%8E" title="滝廉太郎" class="mw-redirect">滝廉太郎</a>：明治時代の作曲家。1879年 - 1903年。</li>
+<li><a href="/wiki/%E9%95%B7%E5%A1%9A%E7%AF%80" title="長塚節">長塚節</a>：明治・大正時代の歌人。1879年 - 1915年。</li>
+<li><a href="/wiki/%E7%9F%B3%E5%B7%9D%E5%95%84%E6%9C%A8" title="石川啄木">石川啄木</a>：明治時代の歌人・詩人。1886年 - 1912年。</li>
+<li><a href="/wiki/%E7%AB%B9%E4%B9%85%E5%A4%A2%E4%BA%8C" title="竹久夢二">竹久夢二</a>：大正時代の画家・詩人。1884年 - 1934年。</li>
+<li><a href="/wiki/%E6%A2%B6%E4%BA%95%E5%9F%BA%E6%AC%A1%E9%83%8E" title="梶井基次郎">梶井基次郎</a>：昭和初期の作家。1901年 - 1932年。</li>
+<li><a href="/wiki/%E5%A0%80%E8%BE%B0%E9%9B%84" title="堀辰雄">堀辰雄</a>：昭和初期の作家。1904年 - 1953年。</li>
+<li><a href="/wiki/%E7%A7%A9%E7%88%B6%E5%AE%AE%E9%9B%8D%E4%BB%81%E8%A6%AA%E7%8E%8B" title="秩父宮雍仁親王">秩父宮雍仁親王</a>：大正天皇の第二皇子。1902年 - 1953年</li>
+<li><a href="/wiki/%E6%96%B0%E7%BE%8E%E5%8D%97%E5%90%89" title="新美南吉">新美南吉</a>：昭和時代の児童文学作家。1913年 - 1943年。</li>
+<li><a href="/wiki/%E3%83%B4%E3%82%A3%E3%83%B4%E3%82%A3%E3%82%A2%E3%83%B3%E3%83%BB%E3%83%AA%E3%83%BC" title="ヴィヴィアン・リー">ヴィヴィアン・リー</a>：イギリスの女優。1913年 - 1967年。</li>
+<li><a href="/wiki/%E9%AB%98%E9%87%8E%E5%85%AC%E7%94%B7" title="高野公男">高野公男</a>：作詞家。1930年 - 1956年。</li>
+</ul>
+<h2><span class="mw-headline" id=".E8.BF.91.E5.B9.B4.E3.80.81.E7.B5.90.E6.A0.B8.E3.81.AB.E7.BD.B9.E6.82.A3.E3.81.97.E3.81.9F.E4.BA.BA.E7.89.A9">近年、結核に罹患した人物</span><span class="mw-editsection">[<a href="/w/index.php?title=%E7%B5%90%E6%A0%B8&amp;action=edit&amp;section=41" title="節を編集: 近年、結核に罹患した人物">編集</a>]</span></h2>
+<ul>
+<li><a href="/wiki/%E6%A8%AA%E6%BA%9D%E6%AD%A3%E5%8F%B2" title="横溝正史">横溝正史</a>：10年以上もの療養生活を強いられたが、新薬ストレプトマイシンにより社会復帰。</li>
+<li><a href="/wiki/%E7%9F%B3%E5%8E%9F%E8%A3%95%E6%AC%A1%E9%83%8E" title="石原裕次郎">石原裕次郎</a></li>
+<li><a href="/wiki/%E7%AE%95%E8%BC%AA%E3%81%AF%E3%82%8B%E3%81%8B" title="箕輪はるか">箕輪はるか</a></li>
+<li><a href="/wiki/JOY_(%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%A2%E3%83%87%E3%83%AB)" title="JOY (ファッションモデル)">JOY</a></li>
+</ul>
+<h2><span class="mw-headline" id=".E6.9C.80.E8.BF.91.E3.81.AE.E6.97.A5.E6.9C.AC.E3.81.AB.E3.81.8A.E3.81.91.E3.82.8B.E5.8B.95.E3.81.8D">最近の日本における動き</span><span class="mw-editsection">[<a href="/w/index.php?title=%E7%B5%90%E6%A0%B8&amp;action=edit&amp;section=42" title="節を編集: 最近の日本における動き">編集</a>]</span></h2>
+<p>予防法や治療法の発達により、かつてに比べると大幅に減ってはいるものの、日本における結核発症者・死者数は近年横ばい状態にあり、先進国中でも高い水準にある。これは、日本が諸外国と比べて湿気が多いという結核になりやすい気候条件があることが最大の理由である。加えて戦前は、衛生面で劣悪（これは日本に限ったことではないが）だったことも、感染に拍車をかけた。今後更なる高齢化により、患者数が再び増加に転じる恐れが強まっており、これを食い止めるため<a href="/wiki/%E5%8E%9A%E7%94%9F%E5%8A%B4%E5%83%8D%E7%9C%81" title="厚生労働省">厚生労働省</a>や<a href="/wiki/%E7%B5%90%E6%A0%B8%E4%BA%88%E9%98%B2%E4%BC%9A" title="結核予防会">結核予防会</a>などが結核予防の啓発活動を進めている。</p>
+<p><a href="/wiki/2009%E5%B9%B4" title="2009年">2009年</a><a href="/wiki/3%E6%9C%8818%E6%97%A5" title="3月18日">3月18日</a>、<a href="/wiki/%E6%98%8E%E4%BB%81" title="明仁">今上天皇</a>が第60回結核予防全国大会において、「青年期に結核を患い特効薬によって一命を取り留めた」ことをのべた。</p>
+<p>その約半月後、芸能人における発症例（<a href="/wiki/%E3%83%8F%E3%83%AA%E3%82%BB%E3%83%B3%E3%83%9C%E3%83%B3_(%E3%81%8A%E7%AC%91%E3%81%84%E3%82%B3%E3%83%B3%E3%83%93)" title="ハリセンボン (お笑いコンビ)">ハリセンボン</a>：<a href="/wiki/%E7%AE%95%E8%BC%AA%E3%81%AF%E3%82%8B%E3%81%8B" title="箕輪はるか">箕輪はるか</a>の発症以来数か月経過での精密検査結果）があり、<a href="/wiki/%E6%84%9F%E6%9F%93%E7%97%87%E3%81%AE%E4%BA%88%E9%98%B2%E5%8F%8A%E3%81%B3%E6%84%9F%E6%9F%93%E7%97%87%E3%81%AE%E6%82%A3%E8%80%85%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E5%8C%BB%E7%99%82%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%B3%95%E5%BE%8B" title="感染症の予防及び感染症の患者に対する医療に関する法律">法律</a>に基づいて隔離入院となったことが報じられた。またその際、本人が結核に気付かず、多くの者に結核菌を感染させた可能性があるとして、所属事務所が注意喚起したのはもちろんのこと、各区保健所のレベルでは対応が難しいとして、<a href="/wiki/%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%A6%8F%E7%A5%89%E4%BF%9D%E5%81%A5%E5%B1%80" title="東京都福祉保健局">東京都福祉保健局</a>が専用窓口を設けて対応に追われる事態となった。</p>
+<div class="references-small"><cite style="font-style:normal">“<a rel="nofollow" class="external text" href="http://www.metro.tokyo.jp/INET/OSHIRASE/2009/04/20j47200.htm">芸能人の肺結核の発生に伴う接触者調査、健康診断および健康相談の実施について</a>”.  東京都福祉保健局 (<span title="">2009年4月6日</span>). <span title="">2011年5月18日</span>閲覧。</cite></div>
+<p>又、医療機関による見落としが原因の集団感染も発生している。2010年に<a href="/wiki/%E8%81%96%E5%BE%B3%E5%AD%A6%E5%9C%92%E4%B8%AD%E5%AD%A6%E6%A0%A1%E3%83%BB%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1" title="聖徳学園中学校・高等学校">聖徳学園中学校・高等学校</a>で教職員と生徒計35名の結核感染が判明した。 体調不良を感じた生徒が医療機関を受診したものの、医療機関がレントゲン撮影を行わず、結核に気がつかなかった事が原因。該当生徒は複数の医療機関を受診し、5つめの医療機関でようやく結核を発病している事が判明したが、数ヶ月間にわたって排菌している状態で登校していた。結核を発病している場合、レントゲン撮影をすれば簡単に見つける事が出来、東京都福祉保健局は「レントゲンを撮らずに結核の発病を見落とした医療機関は猛省してほしい」としている。この事態を受け、東京都福祉保健局は都内の学校と医療機関に注意喚起の通達を出すとともに、該当校の教職員と生徒に対してレントゲン撮影と血液検査を実施したり、保護者や生徒への説明会を実施したりした。又、学校側は教頭や養護教員、スクールカウンセラーによる「健康相談室」を設置し、長引く咳などの症状がある場合、申し出た上で指定医療機関を受診するよう生徒に呼び掛けている。</p>
+<p>2009年10月、<a href="/wiki/%E6%B1%A0%E7%94%B0%E5%B8%82%E7%AB%8B%E4%BA%94%E6%9C%88%E5%B1%B1%E5%8B%95%E7%89%A9%E5%9C%92" title="池田市立五月山動物園">池田市立五月山動物園</a>の<a href="/wiki/%E3%83%8B%E3%83%9B%E3%83%B3%E3%82%B8%E3%82%AB" title="ニホンジカ">ニホンジカ</a>が結核で死亡し、臨時休園に追い込まれた。<a href="/wiki/%E9%87%8E%E7%94%9F" title="野生" class="mw-redirect">野生</a>の<a href="/wiki/%E3%82%B7%E3%82%AB" title="シカ">シカ</a>はもちろん、<a href="/wiki/%E3%82%A6%E3%82%B7" title="ウシ">ウシ</a>、<a href="/wiki/%E3%83%8D%E3%82%BA%E3%83%9F" title="ネズミ">ネズミ</a>、<a href="/wiki/%E3%83%A2%E3%82%B0%E3%83%A9" title="モグラ">モグラ</a>など結核に感染する動物は多い。 <a href="/wiki/2011%E5%B9%B4" title="2011年">2011年</a>3月2日にタレント<a href="/wiki/JOY_(%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%A2%E3%83%87%E3%83%AB)" title="JOY (ファッションモデル)">JOY</a> が都内の病院での精密検査で感染の疑いが出た為居住地である渋谷区保健所が調査中。 2012年7月9日に東京青梅病院で78人が肺結核に感染、10人が発病,3人が死亡したと東京都が発表した。</p>
+<h2><span class="mw-headline" id=".E5.8F.82.E8.80.83.E6.96.87.E7.8C.AE">参考文献</span><span class="mw-editsection">[<a href="/w/index.php?title=%E7%B5%90%E6%A0%B8&amp;action=edit&amp;section=43" title="節を編集: 参考文献">編集</a>]</span></h2>
+<ol class="references">
+<li id="cite_note-Robbins-1">^ <a href="#cite_ref-Robbins_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Robbins_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Robbins_1-2"><sup><i><b>c</b></i></sup></a> <span class="reference-text">Kumar, Vinay; Abbas, Abul K.; Fausto, Nelson; &amp; Mitchell, Richard N. (2007). <i>Robbins Basic Pathology</i> (8th ed.). Saunders Elsevier. pp. 516-522 <a href="/wiki/%E7%89%B9%E5%88%A5:%E6%96%87%E7%8C%AE%E8%B3%87%E6%96%99/9781416029731" class="internal mw-magiclink-isbn">ISBN 978-1-4160-2973-1</a></span></li>
+<li id="cite_note-WHO2004data-2">^ <a href="#cite_ref-WHO2004data_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-WHO2004data_2-1"><sup><i><b>b</b></i></sup></a> <span class="reference-text"><a href="/wiki/%E4%B8%96%E7%95%8C%E4%BF%9D%E5%81%A5%E6%A9%9F%E9%96%A2" title="世界保健機関">世界保健機関</a> (WHO). <a rel="nofollow" class="external text" href="http://www.who.int/mediacentre/factsheets/fs104/en/index.html">Tuberculosis Fact sheet N°104 - Global and regional incidence.</a> 2006年3月,2006年10月6日確認</span></li>
+<li id="cite_note-3"><b><a href="#cite_ref-3">^</a></b> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.city.miyazaki.miyazaki.jp/www/contents/1171957377650/index.html">結核について</a> 宮崎市役所健康管理部 健康支援課</span></li>
+<li id="cite_note-4"><b><a href="#cite_ref-4">^</a></b> <span class="reference-text">『<a href="/wiki/%E8%AA%AD%E5%A3%B2%E6%96%B0%E8%81%9E" title="読売新聞">読売新聞</a>』2001年5月24日 東京朝刊34面。<a href="/w/index.php?title=%E9%95%B7%E5%B0%BE%E5%95%93%E4%B8%80&amp;action=edit&amp;redlink=1" class="new" title="長尾啓一 (存在しないページ)">長尾啓一</a><a href="/wiki/%E5%8D%83%E8%91%89%E5%A4%A7%E5%AD%A6" title="千葉大学">千葉大学</a>教授。</span></li>
+<li id="cite_note-5"><b><a href="#cite_ref-5">^</a></b> <span class="reference-text">「<a rel="nofollow" class="external text" href="http://www.mhlw.go.jp/shingi/2004/05/s0514-9e-3.html">結核対策の包括的見直しに関する提言</a>」厚生科学審議会感染症分科会結核部会報告 2002年3月20日</span></li>
+<li id="cite_note-6"><b><a href="#cite_ref-6">^</a></b> <span class="reference-text">結核予防会編:結核の統計2011</span></li>
+<li id="cite_note-7"><b><a href="#cite_ref-7">^</a></b> <span class="reference-text">原田登之他「結核菌抗原ESAT-6およびCFP-10を用いた結核感染診断法QuantiFERON(R)TB-2Gの基礎的検討」『結核』79号、725-735頁、2004年</span></li>
+<li id="cite_note-8"><b><a href="#cite_ref-8">^</a></b> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.jata.or.jp/rit/rj/no251.252.htm">http://www.jata.or.jp/rit/rj/no251.252.htm</a></span></li>
+<li id="cite_note-9"><b><a href="#cite_ref-9">^</a></b> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.bdj.co.jp/micro/products/1f3pro0000001y9h.html">http://www.bdj.co.jp/micro/products/1f3pro0000001y9h.html</a></span></li>
+<li id="cite_note-10"><b><a href="#cite_ref-10">^</a></b> <span class="reference-text">Jain AK, et al: Tuberculosis of the spine: A review. Clin Orthop relat Res 460: 39-49, 2007.</span></li>
+</ol>
+<ul>
+<li>上野賢一『皮膚科学』第7版、金芳堂。<a href="/wiki/2007%E5%B9%B4" title="2007年">2007年</a>　<a href="/wiki/ISBN" title="ISBN">ISBN4-7653-1052-3</a></li>
+</ul>
+<h2><span class="mw-headline" id=".E9.96.A2.E9.80.A3.E9.A0.85.E7.9B.AE">関連項目</span><span class="mw-editsection">[<a href="/w/index.php?title=%E7%B5%90%E6%A0%B8&amp;action=edit&amp;section=44" title="節を編集: 関連項目">編集</a>]</span></h2>
+<table class="mbox-small plainlinks sisterproject noprint" style="border:1px solid #aaa; background-color:#f9f9f9; width:20em;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" /></td>
+<td class="mbox-text" style="font-size:100%;">ウィキメディア・コモンズには、<b><span class="plainlinks"><a class="external text" href="//commons.wikimedia.org/wiki/Category:Tuberculosis?uselang=ja">結核</a></span></b>に関連するカテゴリがあります。</td>
+</tr>
+</table>
+<ul>
+<li><a href="/wiki/%E3%82%AB%E3%83%AA%E3%82%A8%E3%82%B9" title="カリエス">カリエス</a></li>
+<li><a href="/wiki/%E5%96%80%E8%A1%80" title="喀血">喀血</a></li>
+<li><a href="/wiki/%E6%AD%A3%E5%B2%A1%E5%AD%90%E8%A6%8F" title="正岡子規">正岡子規</a></li>
+<li><a href="/wiki/%E5%A0%80%E8%BE%B0%E9%9B%84" title="堀辰雄">堀辰雄</a></li>
+<li><a href="/wiki/%E5%9B%BD%E7%AB%8B%E7%99%82%E9%A4%8A%E6%89%80" title="国立療養所">国立療養所</a></li>
+<li><a href="/wiki/%E5%8D%97%E6%B9%96%E9%99%A2" title="南湖院">南湖院</a></li>
+<li><a href="/wiki/%E6%84%9F%E6%9F%93%E7%97%87%E3%81%AE%E4%BA%88%E9%98%B2%E5%8F%8A%E3%81%B3%E6%84%9F%E6%9F%93%E7%97%87%E3%81%AE%E6%82%A3%E8%80%85%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E5%8C%BB%E7%99%82%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%B3%95%E5%BE%8B" title="感染症の予防及び感染症の患者に対する医療に関する法律">感染症の予防及び感染症の患者に対する医療に関する法律</a> - <a href="/wiki/%E7%B5%90%E6%A0%B8%E4%BA%88%E9%98%B2%E6%B3%95" title="結核予防法">結核予防法</a></li>
+<li><a href="/wiki/%E7%B5%90%E6%A0%B8%E4%BA%88%E9%98%B2%E4%BC%9A" title="結核予防会">結核予防会</a></li>
+<li><a href="/wiki/%E8%BB%A2%E5%9C%B0%E7%99%82%E9%A4%8A" title="転地療養">転地療養</a></li>
+<li><a href="/wiki/%E7%99%BD%E8%A1%80%E7%97%85" title="白血病">白血病</a> - 高度経済成長期以降の創作作品において、悲劇的な病として結核の代わりに用いられる。</li>
+<li><a href="/wiki/%E7%A5%9E%E7%94%B0%E7%97%85%E9%99%A2" title="神田病院">神田病院</a>（日本で唯一の結核療養所）</li>
+<li><a href="/wiki/%E6%B8%85%E7%80%AC%E5%B8%82" title="清瀬市">清瀬市</a></li>
+</ul>
+<h2><span class="mw-headline" id=".E5.A4.96.E9.83.A8.E3.83.AA.E3.83.B3.E3.82.AF">外部リンク</span><span class="mw-editsection">[<a href="/w/index.php?title=%E7%B5%90%E6%A0%B8&amp;action=edit&amp;section=45" title="節を編集: 外部リンク">編集</a>]</span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.jatahq.org/index.html">結核予防会</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.jata.or.jp/">（財）結核予防会結核研究所</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.nih.go.jp/niid/ja/diseases/ka/tuberculosis.html">結核</a> <a href="/wiki/%E5%9B%BD%E7%AB%8B%E6%84%9F%E6%9F%93%E7%97%87%E7%A0%94%E7%A9%B6%E6%89%80" title="国立感染症研究所">国立感染症研究所</a>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://idsc.nih.go.jp/iasr/28/329/dj3292.html">IASR 28-7 感染症法改正,結核対策</a></li>
+<li><span class="PDFlink">[<a rel="nofollow" class="external text" href="http://www.city.miyazaki.miyazaki.jp/www/contents/1174986010258/files/todokedekijyunn.pdf">届出基準</a>]</span> <span style="font-size: smaller">(<a href="/wiki/Portable_Document_Format" title="Portable Document Format">PDF</a>)</span></li>
+</ul>
+</li>
+<li><a rel="nofollow" class="external text" href="http://law.e-gov.go.jp/haishi/S26HO096.html">結核予防法（総務省法令データ提供システム）</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.fukushihoken.metro.tokyo.jp/joho/soshiki/anzen/kansen/files/kekkakutookede.pdf">結核発生届出関係リーフレット PDF</a>（東京都福祉保健局）</li>
+</ul>
+<dl>
+<dd>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.fukushihoken.metro.tokyo.jp/iryo/josei/joseinituite/index.html">結核医療費助成について</a>（東京都福祉保健局）</li>
+</ul>
+</dd>
+</dl>
+<table class="navbox" cellspacing="0" style=";">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks collapsible collapsed" style="width:100%;background:transparent;color:inherit;;">
+<tr>
+<th style="background-color:#ffeeee;;" colspan="2" class="navbox-title">
+<div style="float:left; width:6em;text-align:left;">
+<div class="noprint plainlinks" style="background-color:transparent; padding:0; font-size:75%; color:#000000; white-space:nowrap; font-weight:normal; background-color:#ffeeee;;;border:none;;"><a href="/wiki/Template:%E6%97%A5%E6%9C%AC%E3%81%AE%E6%84%9F%E6%9F%93%E7%97%87%E6%B3%95%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%84%9F%E6%9F%93%E7%97%87" title="Template:日本の感染症法における感染症"><span title="このテンプレートを表示します" style="background-color:#ffeeee;;;border:none;;">表</span></a><span style="font-size:80%;">・</span><a href="/w/index.php?title=Template%E2%80%90%E3%83%8E%E3%83%BC%E3%83%88:%E6%97%A5%E6%9C%AC%E3%81%AE%E6%84%9F%E6%9F%93%E7%97%87%E6%B3%95%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%84%9F%E6%9F%93%E7%97%87&amp;action=edit&amp;redlink=1" class="new" title="Template‐ノート:日本の感染症法における感染症 (存在しないページ)"><span style="color:#002bb8;background-color:#ffeeee;;;border:none;;" title="このテンプレートのノートを表示します">話</span></a><span style="font-size:80%;">・</span><a class="external text" href="//ja.wikipedia.org/w/index.php?title=Template:%E6%97%A5%E6%9C%AC%E3%81%AE%E6%84%9F%E6%9F%93%E7%97%87%E6%B3%95%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%84%9F%E6%9F%93%E7%97%87&amp;action=edit"><span style="color:#002bb8;background-color:#ffeeee;;;border:none;;" title="このテンプレートを編集します。保存の前にプレビューを忘れずに。">編</span></a><span style="font-size:80%;">・</span><a class="external text" href="//ja.wikipedia.org/w/index.php?title=Template:%E6%97%A5%E6%9C%AC%E3%81%AE%E6%84%9F%E6%9F%93%E7%97%87%E6%B3%95%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%84%9F%E6%9F%93%E7%97%87&amp;action=history"><span style="color:#002bb8;background-color:#ffeeee;;;border:none;;" title="このテンプレートの過去の版を表示します">歴</span></a></div>
+</div>
+<span style="font-size:110%;">日本の<a href="/wiki/%E6%84%9F%E6%9F%93%E7%97%87%E3%81%AE%E4%BA%88%E9%98%B2%E5%8F%8A%E3%81%B3%E6%84%9F%E6%9F%93%E7%97%87%E3%81%AE%E6%82%A3%E8%80%85%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E5%8C%BB%E7%99%82%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%B3%95%E5%BE%8B" title="感染症の予防及び感染症の患者に対する医療に関する法律">感染症法</a>における感染症</span></th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style="background-color:#ffeeee;;;">一類感染症</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="/wiki/%E3%82%A8%E3%83%9C%E3%83%A9%E5%87%BA%E8%A1%80%E7%86%B1" title="エボラ出血熱">エボラ出血熱</a> - <a href="/wiki/%E3%82%AF%E3%83%AA%E3%83%9F%E3%82%A2%E3%83%BB%E3%82%B3%E3%83%B3%E3%82%B4%E5%87%BA%E8%A1%80%E7%86%B1" title="クリミア・コンゴ出血熱">クリミア・コンゴ出血熱</a> - <a href="/wiki/%E7%97%98%E3%81%9D%E3%81%86" title="痘そう" class="mw-redirect">痘そう</a> - <a href="/wiki/%E5%8D%97%E7%B1%B3%E5%87%BA%E8%A1%80%E7%86%B1" title="南米出血熱">南米出血熱</a> - <a href="/wiki/%E3%83%9A%E3%82%B9%E3%83%88" title="ペスト">ペスト</a> - <a href="/wiki/%E3%83%9E%E3%83%BC%E3%83%AB%E3%83%96%E3%83%AB%E3%82%B0%E7%97%85" title="マールブルグ病" class="mw-redirect">マールブルグ病</a> - <a href="/wiki/%E3%83%A9%E3%83%83%E3%82%B5%E7%86%B1" title="ラッサ熱">ラッサ熱</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style="background-color:#ffeeee;;;">二類感染症</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="/wiki/%E6%80%A5%E6%80%A7%E7%81%B0%E7%99%BD%E9%AB%84%E7%82%8E" title="急性灰白髄炎">急性灰白髄炎</a> - <strong class="selflink">結核</strong> - <a href="/wiki/%E3%82%B8%E3%83%95%E3%83%86%E3%83%AA%E3%82%A2" title="ジフテリア">ジフテリア</a> - <a href="/wiki/%E9%87%8D%E7%97%87%E6%80%A5%E6%80%A7%E5%91%BC%E5%90%B8%E5%99%A8%E7%97%87%E5%80%99%E7%BE%A4" title="重症急性呼吸器症候群">重症急性呼吸器症候群</a>（病原体がコロナウイルス属SARSコロナウイルスであるものに限る） - <a href="/wiki/H5N1%E4%BA%9C%E5%9E%8B" title="H5N1亜型">鳥インフルエンザ（H5N1）</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style="background-color:#ffeeee;;;">三類感染症</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="/wiki/%E3%82%B3%E3%83%AC%E3%83%A9" title="コレラ">コレラ</a> - <a href="/wiki/%E7%B4%B0%E8%8F%8C%E6%80%A7%E8%B5%A4%E7%97%A2" title="細菌性赤痢" class="mw-redirect">細菌性赤痢</a> - <a href="/wiki/%E8%85%B8%E7%AE%A1%E5%87%BA%E8%A1%80%E6%80%A7%E5%A4%A7%E8%85%B8%E8%8F%8C%E6%84%9F%E6%9F%93%E7%97%87" title="腸管出血性大腸菌感染症" class="mw-redirect">腸管出血性大腸菌感染症</a> - <a href="/wiki/%E8%85%B8%E3%83%81%E3%83%95%E3%82%B9" title="腸チフス">腸チフス</a> - <a href="/wiki/%E3%83%91%E3%83%A9%E3%83%81%E3%83%95%E3%82%B9" title="パラチフス" class="mw-redirect">パラチフス</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style="background-color:#ffeeee;;;">四類感染症</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="/wiki/E%E5%9E%8B%E8%82%9D%E7%82%8E" title="E型肝炎">E型肝炎</a> - <a href="/wiki/%E3%82%A6%E3%82%A8%E3%82%B9%E3%83%88%E3%83%8A%E3%82%A4%E3%83%AB%E7%86%B1" title="ウエストナイル熱">ウエストナイル熱</a> - <a href="/wiki/A%E5%9E%8B%E8%82%9D%E7%82%8E" title="A型肝炎">A型肝炎</a> - <a href="/wiki/%E3%82%A8%E3%82%AD%E3%83%8E%E3%82%B3%E3%83%83%E3%82%AF%E3%82%B9%E7%97%87" title="エキノコックス症">エキノコックス症</a> - <a href="/wiki/%E9%BB%84%E7%86%B1" title="黄熱">黄熱</a> - <a href="/wiki/%E3%82%AA%E3%82%A6%E3%83%A0%E7%97%85" title="オウム病">オウム病</a> - <a href="/wiki/%E3%82%AA%E3%83%A0%E3%82%B9%E3%82%AF%E5%87%BA%E8%A1%80%E7%86%B1" title="オムスク出血熱">オムスク出血熱</a> - <a href="/wiki/%E5%9B%9E%E5%B8%B0%E7%86%B1" title="回帰熱">回帰熱</a> - <a href="/w/index.php?title=%E3%82%AD%E3%83%A3%E3%82%B5%E3%83%8C%E3%83%AB%E6%A3%AE%E6%9E%97%E7%97%85&amp;action=edit&amp;redlink=1" class="new" title="キャサヌル森林病 (存在しないページ)">キャサヌル森林病</a> - <a href="/wiki/Q%E7%86%B1" title="Q熱">Q熱</a> - <a href="/wiki/%E7%8B%82%E7%8A%AC%E7%97%85" title="狂犬病">狂犬病</a> - <a href="/wiki/%E3%82%B3%E3%82%AF%E3%82%B7%E3%82%B8%E3%82%AA%E3%82%A4%E3%83%87%E3%82%B9%E7%97%87" title="コクシジオイデス症">コクシジオイデス症</a> - <a href="/wiki/%E3%82%B5%E3%83%AB%E7%97%98" title="サル痘">サル痘</a> - <a href="/wiki/%E8%85%8E%E7%97%87%E5%80%99%E6%80%A7%E5%87%BA%E8%A1%80%E7%86%B1" title="腎症候性出血熱">腎症候性出血熱</a> - <a href="/w/index.php?title=%E8%A5%BF%E9%83%A8%E3%82%A6%E3%83%9E%E8%84%B3%E7%82%8E&amp;action=edit&amp;redlink=1" class="new" title="西部ウマ脳炎 (存在しないページ)">西部ウマ脳炎</a> - <a href="/wiki/%E3%83%80%E3%83%8B%E5%AA%92%E4%BB%8B%E8%84%B3%E7%82%8E" title="ダニ媒介脳炎" class="mw-redirect">ダニ媒介脳炎</a> - <a href="/wiki/%E7%82%AD%E7%96%BD" title="炭疽" class="mw-redirect">炭疽</a> - <a href="/wiki/%E3%83%81%E3%82%AF%E3%83%B3%E3%82%B0%E3%83%8B%E3%82%A2%E7%86%B1" title="チクングニア熱">チクングニア熱</a> - <a href="/wiki/%E3%81%A4%E3%81%A4%E3%81%8C%E8%99%AB%E7%97%85" title="つつが虫病" class="mw-redirect">つつが虫病</a> - <a href="/wiki/%E3%83%87%E3%83%B3%E3%82%B0%E7%86%B1" title="デング熱">デング熱</a> - <a href="/wiki/%E6%9D%B1%E9%83%A8%E3%82%A6%E3%83%9E%E8%84%B3%E7%82%8E" title="東部ウマ脳炎" class="mw-redirect">東部ウマ脳炎</a> - <a href="/wiki/%E9%B3%A5%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6" title="鳥インフルエンザ" class="mw-redirect">鳥インフルエンザ</a>（鳥インフルエンザ（H5N1）を除く） - <a href="/wiki/%E3%83%8B%E3%83%91%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E6%84%9F%E6%9F%93%E7%97%87" title="ニパウイルス感染症">ニパウイルス感染症</a> - <a href="/wiki/%E6%97%A5%E6%9C%AC%E7%B4%85%E6%96%91%E7%86%B1" title="日本紅斑熱">日本紅斑熱</a> - <a href="/wiki/%E6%97%A5%E6%9C%AC%E8%84%B3%E7%82%8E" title="日本脳炎">日本脳炎</a> - <a href="/wiki/%E3%83%8F%E3%83%B3%E3%82%BF%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9" title="ハンタウイルス">ハンタウイルス</a> - <a href="/wiki/B%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E7%97%85" title="Bウイルス病" class="mw-redirect">Bウイルス病</a> - <a href="/wiki/%E9%BC%BB%E7%96%BD" title="鼻疽">鼻疽</a> - <a href="/wiki/%E3%83%96%E3%83%AB%E3%82%BB%E3%83%A9%E7%97%87" title="ブルセラ症">ブルセラ症</a> - <a href="/w/index.php?title=%E3%83%99%E3%83%8D%E3%82%BA%E3%82%A8%E3%83%A9%E3%82%A6%E3%83%9E%E8%84%B3%E7%82%8E&amp;action=edit&amp;redlink=1" class="new" title="ベネズエラウマ脳炎 (存在しないページ)">ベネズエラウマ脳炎</a> - <a href="/wiki/%E3%83%98%E3%83%B3%E3%83%89%E3%83%A9%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E6%84%9F%E6%9F%93%E7%97%87" title="ヘンドラウイルス感染症">ヘンドラウイルス感染症</a> - <a href="/wiki/%E7%99%BA%E3%81%97%E3%82%93%E3%83%81%E3%83%95%E3%82%B9" title="発しんチフス" class="mw-redirect">発しんチフス</a> - <a href="/wiki/%E3%83%9C%E3%83%84%E3%83%AA%E3%83%8C%E3%82%B9%E7%97%87" title="ボツリヌス症" class="mw-redirect">ボツリヌス症</a> - <a href="/wiki/%E3%83%9E%E3%83%A9%E3%83%AA%E3%82%A2" title="マラリア">マラリア</a> - <a href="/wiki/%E9%87%8E%E5%85%8E%E7%97%85" title="野兎病">野兎病</a> - <a href="/wiki/%E3%83%A9%E3%82%A4%E3%83%A0%E7%97%85" title="ライム病">ライム病</a> - <a href="/w/index.php?title=%E3%83%AA%E3%83%83%E3%82%B5%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E6%84%9F%E6%9F%93%E7%97%87&amp;action=edit&amp;redlink=1" class="new" title="リッサウイルス感染症 (存在しないページ)">リッサウイルス感染症</a> - <a href="/wiki/%E3%83%AA%E3%83%95%E3%83%88%E3%83%90%E3%83%AC%E3%83%BC%E7%86%B1" title="リフトバレー熱">リフトバレー熱</a> - <a href="/wiki/%E9%A1%9E%E9%BC%BB%E7%96%BD" title="類鼻疽">類鼻疽</a> - <a href="/wiki/%E3%83%AC%E3%82%B8%E3%82%AA%E3%83%8D%E3%83%A9%E7%97%87" title="レジオネラ症" class="mw-redirect">レジオネラ症</a> - <a href="/wiki/%E3%83%AC%E3%83%97%E3%83%88%E3%82%B9%E3%83%94%E3%83%A9%E7%97%87" title="レプトスピラ症">レプトスピラ症</a> - <a href="/wiki/%E3%83%AD%E3%83%83%E3%82%AD%E3%83%BC%E5%B1%B1%E7%B4%85%E6%96%91%E7%86%B1" title="ロッキー山紅斑熱">ロッキー山紅斑熱</a> - <a href="/wiki/%E9%87%8D%E7%97%87%E7%86%B1%E6%80%A7%E8%A1%80%E5%B0%8F%E6%9D%BF%E6%B8%9B%E5%B0%91%E7%97%87%E5%80%99%E7%BE%A4" title="重症熱性血小板減少症候群">重症熱性血小板減少症候群</a>（病原体がフレボウイルス属SFTSウイルスであるものに限る）</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style="background-color:#ffeeee;;;">五類感染症</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="/wiki/%E3%82%A2%E3%83%A1%E3%83%BC%E3%83%90%E8%B5%A4%E7%97%A2" title="アメーバ赤痢">アメーバ赤痢</a> - <a href="/wiki/%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E6%80%A7%E8%82%9D%E7%82%8E" title="ウイルス性肝炎">ウイルス性肝炎</a>（E型肝炎及びA型肝炎を除く） - <a href="/w/index.php?title=%E6%80%A5%E6%80%A7%E8%84%B3%E7%82%8E&amp;action=edit&amp;redlink=1" class="new" title="急性脳炎 (存在しないページ)">急性脳炎</a>（ウエストナイル脳炎、西部ウマ脳炎、ダニ媒介脳炎、東部ウマ脳炎、日本脳炎、ベネズエラウマ脳炎及びリフトバレー熱を除く） - <a href="/wiki/%E3%82%AF%E3%83%AA%E3%83%97%E3%83%88%E3%82%B9%E3%83%9D%E3%83%AA%E3%82%B8%E3%82%A6%E3%83%A0%E7%97%87" title="クリプトスポリジウム症">クリプトスポリジウム症</a> - <a href="/wiki/%E3%82%AF%E3%83%AD%E3%82%A4%E3%83%84%E3%83%95%E3%82%A7%E3%83%AB%E3%83%88%E3%83%BB%E3%83%A4%E3%82%B3%E3%83%96%E7%97%85" title="クロイツフェルト・ヤコブ病">クロイツフェルト・ヤコブ病</a> - <a href="/wiki/%E5%8A%87%E7%97%87%E5%9E%8B%E6%BA%B6%E8%A1%80%E6%80%A7%E3%83%AC%E3%83%B3%E3%82%B5%E7%90%83%E8%8F%8C%E6%84%9F%E6%9F%93%E7%97%87" title="劇症型溶血性レンサ球菌感染症" class="mw-redirect">劇症型溶血性レンサ球菌感染症</a> - <a href="/wiki/%E5%BE%8C%E5%A4%A9%E6%80%A7%E5%85%8D%E7%96%AB%E4%B8%8D%E5%85%A8%E7%97%87%E5%80%99%E7%BE%A4" title="後天性免疫不全症候群">後天性免疫不全症候群</a> - <a href="/wiki/%E3%82%B8%E3%82%A2%E3%83%AB%E3%82%B8%E3%82%A2%E7%97%87" title="ジアルジア症">ジアルジア症</a> - <a href="/w/index.php?title=%E5%85%88%E5%A4%A9%E6%80%A7%E9%A2%A8%E3%81%97%E3%82%93%E7%97%87%E5%80%99%E7%BE%A4&amp;action=edit&amp;redlink=1" class="new" title="先天性風しん症候群 (存在しないページ)">先天性風しん症候群</a> - <a href="/wiki/%E6%A2%85%E6%AF%92" title="梅毒">梅毒</a> - <a href="/wiki/%E7%A0%B4%E5%82%B7%E9%A2%A8" title="破傷風">破傷風</a> - <a href="/w/index.php?title=%E3%83%90%E3%83%B3%E3%82%B3%E3%83%9E%E3%82%A4%E3%82%B7%E3%83%B3%E8%80%90%E6%80%A7%E9%BB%84%E8%89%B2%E3%83%96%E3%83%89%E3%82%A6%E7%90%83%E8%8F%8C%E6%84%9F%E6%9F%93%E7%97%87&amp;action=edit&amp;redlink=1" class="new" title="バンコマイシン耐性黄色ブドウ球菌感染症 (存在しないページ)">バンコマイシン耐性黄色ブドウ球菌感染症</a> - <a href="/w/index.php?title=%E3%83%90%E3%83%B3%E3%82%B3%E3%83%9E%E3%82%A4%E3%82%B7%E3%83%B3%E8%80%90%E6%80%A7%E8%85%B8%E7%90%83%E8%8F%8C%E6%84%9F%E6%9F%93%E7%97%87&amp;action=edit&amp;redlink=1" class="new" title="バンコマイシン耐性腸球菌感染症 (存在しないページ)">バンコマイシン耐性腸球菌感染症</a> - <a href="/wiki/%E9%A2%A8%E7%96%B9" title="風疹">風しん</a> - <a href="/wiki/%E9%BA%BB%E7%96%B9" title="麻疹">麻しん</a> - <a href="/w/index.php?title=%E4%BE%B5%E8%A5%B2%E6%80%A7%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6%E8%8F%8C%E6%84%9F%E6%9F%93%E7%97%87&amp;action=edit&amp;redlink=1" class="new" title="侵襲性インフルエンザ菌感染症 (存在しないページ)">侵襲性インフルエンザ菌感染症</a> - <a href="/w/index.php?title=%E4%BE%B5%E8%A5%B2%E6%80%A7%E9%AB%84%E8%86%9C%E7%82%8E%E8%8F%8C%E6%84%9F%E6%9F%93%E7%97%87&amp;action=edit&amp;redlink=1" class="new" title="侵襲性髄膜炎菌感染症 (存在しないページ)">侵襲性髄膜炎菌感染症</a> - <a href="/w/index.php?title=%E4%BE%B5%E8%A5%B2%E6%80%A7%E8%82%BA%E7%82%8E%E7%90%83%E8%8F%8C%E6%84%9F%E6%9F%93%E7%97%87&amp;action=edit&amp;redlink=1" class="new" title="侵襲性肺炎球菌感染症 (存在しないページ)">侵襲性肺炎球菌感染症</a> - <a href="/wiki/RS%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E6%84%9F%E6%9F%93%E7%97%87" title="RSウイルス感染症" class="mw-redirect">RSウイルス感染症</a> - <a href="/wiki/%E5%92%BD%E9%A0%AD%E7%B5%90%E8%86%9C%E7%86%B1" title="咽頭結膜熱">咽頭結膜熱</a> - <a href="/w/index.php?title=A%E7%BE%A4%E6%BA%B6%E8%A1%80%E6%80%A7%E3%83%AC%E3%83%B3%E3%82%B5%E7%90%83%E8%8F%8C%E5%92%BD%E9%A0%AD%E7%82%8E&amp;action=edit&amp;redlink=1" class="new" title="A群溶血性レンサ球菌咽頭炎 (存在しないページ)">A群溶血性レンサ球菌咽頭炎</a> - <a href="/wiki/%E6%84%9F%E6%9F%93%E6%80%A7%E8%83%83%E8%85%B8%E7%82%8E" title="感染性胃腸炎" class="mw-redirect">感染性胃腸炎</a> - <a href="/wiki/%E6%B0%B4%E7%97%98" title="水痘">水痘</a> - <a href="/wiki/%E6%89%8B%E8%B6%B3%E5%8F%A3%E7%97%85" title="手足口病">手足口病</a> - <a href="/wiki/%E4%BC%9D%E6%9F%93%E6%80%A7%E7%B4%85%E6%96%91" title="伝染性紅斑">伝染性紅斑</a> - <a href="/w/index.php?title=%E7%AA%81%E7%99%BA%E6%80%A7%E7%99%BA%E3%81%97%E3%82%93&amp;action=edit&amp;redlink=1" class="new" title="突発性発しん (存在しないページ)">突発性発しん</a> - <a href="/wiki/%E7%99%BE%E6%97%A5%E5%92%B3" title="百日咳">百日咳</a> - <a href="/w/index.php?title=%E3%83%98%E3%83%AB%E3%83%91%E3%83%B3%E3%82%AE%E3%83%BC%E3%83%8A&amp;action=edit&amp;redlink=1" class="new" title="ヘルパンギーナ (存在しないページ)">ヘルパンギーナ</a> - <a href="/wiki/%E6%B5%81%E8%A1%8C%E6%80%A7%E8%80%B3%E4%B8%8B%E8%85%BA%E7%82%8E" title="流行性耳下腺炎">流行性耳下腺炎</a> - <a href="/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6" title="インフルエンザ">インフルエンザ</a>（鳥インフルエンザ及び新型インフルエンザ等感染症を除く） - <a href="/wiki/%E6%80%A5%E6%80%A7%E5%87%BA%E8%A1%80%E6%80%A7%E7%B5%90%E8%86%9C%E7%82%8E" title="急性出血性結膜炎">急性出血性結膜炎</a> - <a href="/wiki/%E6%B5%81%E8%A1%8C%E6%80%A7%E8%A7%92%E7%B5%90%E8%86%9C%E7%82%8E" title="流行性角結膜炎">流行性角結膜炎</a> - <a href="/wiki/%E6%80%A7%E5%99%A8%E3%82%AF%E3%83%A9%E3%83%9F%E3%82%B8%E3%82%A2%E6%84%9F%E6%9F%93%E7%97%87" title="性器クラミジア感染症">性器クラミジア感染症</a> - <a href="/w/index.php?title=%E6%80%A7%E5%99%A8%E3%83%98%E3%83%AB%E3%83%9A%E3%82%B9%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E6%84%9F%E6%9F%93%E7%97%87&amp;action=edit&amp;redlink=1" class="new" title="性器ヘルペスウイルス感染症 (存在しないページ)">性器ヘルペスウイルス感染症</a> - <a href="/wiki/%E5%B0%96%E5%9C%AD%E3%82%B3%E3%83%B3%E3%82%B8%E3%83%AD%E3%83%BC%E3%83%9E" title="尖圭コンジローマ">尖圭コンジローマ</a> - <a href="/wiki/%E6%B7%8B%E8%8F%8C%E6%84%9F%E6%9F%93%E7%97%87" title="淋菌感染症" class="mw-redirect">淋菌感染症</a> - <a href="/wiki/%E3%82%AF%E3%83%A9%E3%83%9F%E3%82%B8%E3%82%A2%E8%82%BA%E7%82%8E" title="クラミジア肺炎">クラミジア肺炎</a>（オウム病を除く） - <a href="/wiki/%E7%B4%B0%E8%8F%8C%E6%80%A7%E9%AB%84%E8%86%9C%E7%82%8E" title="細菌性髄膜炎">細菌性髄膜炎</a> - <a href="/wiki/%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%97%E3%83%A9%E3%82%BA%E3%83%9E%E8%82%BA%E7%82%8E" title="マイコプラズマ肺炎">マイコプラズマ肺炎</a> - <a href="/wiki/%E7%84%A1%E8%8F%8C%E6%80%A7%E9%AB%84%E8%86%9C%E7%82%8E" title="無菌性髄膜炎" class="mw-redirect">無菌性髄膜炎</a> - <a href="/w/index.php?title=%E3%83%9A%E3%83%8B%E3%82%B7%E3%83%AA%E3%83%B3%E8%80%90%E6%80%A7%E8%82%BA%E7%82%8E%E7%90%83%E8%8F%8C%E6%84%9F%E6%9F%93%E7%97%87&amp;action=edit&amp;redlink=1" class="new" title="ペニシリン耐性肺炎球菌感染症 (存在しないページ)">ペニシリン耐性肺炎球菌感染症</a> - <a href="/w/index.php?title=%E3%83%A1%E3%83%81%E3%82%B7%E3%83%AA%E3%83%B3%E8%80%90%E6%80%A7%E9%BB%84%E8%89%B2%E3%83%96%E3%83%89%E3%82%A6%E7%90%83%E8%8F%8C%E6%84%9F%E6%9F%93%E7%97%87&amp;action=edit&amp;redlink=1" class="new" title="メチシリン耐性黄色ブドウ球菌感染症 (存在しないページ)">メチシリン耐性黄色ブドウ球菌感染症</a> - <a href="/w/index.php?title=%E8%96%AC%E5%89%A4%E8%80%90%E6%80%A7%E3%82%A2%E3%82%B7%E3%83%8D%E3%83%88%E3%83%90%E3%82%AF%E3%82%BF%E3%83%BC%E6%84%9F%E6%9F%93%E7%97%87&amp;action=edit&amp;redlink=1" class="new" title="薬剤耐性アシネトバクター感染症 (存在しないページ)">薬剤耐性アシネトバクター感染症</a> - <a href="/w/index.php?title=%E8%96%AC%E5%89%A4%E8%80%90%E6%80%A7%E7%B7%91%E8%86%BF%E8%8F%8C%E6%84%9F%E6%9F%93%E7%97%87&amp;action=edit&amp;redlink=1" class="new" title="薬剤耐性緑膿菌感染症 (存在しないページ)">薬剤耐性緑膿菌感染症</a></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" cellspacing="0" style=";">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks collapsible expand" style="width:100%;background:transparent;color:inherit;;">
+<tr>
+<th style=";" colspan="2" class="navbox-title">
+<div style="float:left; width:6em;text-align:left;">
+<div class="noprint plainlinks" style="background-color:transparent; padding:0; font-size:75%; color:#000000; white-space:nowrap; font-weight:normal;&#160;;;border:none;;"><a href="/wiki/Template:%E5%AE%B6%E7%95%9C%E4%BC%9D%E6%9F%93%E7%97%85" title="Template:家畜伝染病"><span title="このテンプレートを表示します" style=";;border:none;;">表</span></a><span style="font-size:80%;">・</span><a href="/w/index.php?title=Template%E2%80%90%E3%83%8E%E3%83%BC%E3%83%88:%E5%AE%B6%E7%95%9C%E4%BC%9D%E6%9F%93%E7%97%85&amp;action=edit&amp;redlink=1" class="new" title="Template‐ノート:家畜伝染病 (存在しないページ)"><span style="color:#002bb8;;;border:none;;" title="このテンプレートのノートを表示します">話</span></a><span style="font-size:80%;">・</span><a class="external text" href="//ja.wikipedia.org/w/index.php?title=Template:%E5%AE%B6%E7%95%9C%E4%BC%9D%E6%9F%93%E7%97%85&amp;action=edit"><span style="color:#002bb8;;;border:none;;" title="このテンプレートを編集します。保存の前にプレビューを忘れずに。">編</span></a><span style="font-size:80%;">・</span><a class="external text" href="//ja.wikipedia.org/w/index.php?title=Template:%E5%AE%B6%E7%95%9C%E4%BC%9D%E6%9F%93%E7%97%85&amp;action=history"><span style="color:#002bb8;;;border:none;;" title="このテンプレートの過去の版を表示します">歴</span></a></div>
+</div>
+<span style="font-size:110%;">家畜伝染病<br /></span></th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";;">言葉</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="/wiki/%E5%AE%B6%E7%95%9C" title="家畜">家畜</a>/<a href="/wiki/%E5%AE%B6%E7%A6%BD" title="家禽">家禽</a> - <a href="/wiki/%E7%89%A7%E7%95%9C" title="牧畜">牧畜</a>/<a href="/wiki/%E9%85%AA%E8%BE%B2" title="酪農">酪農</a>/<a href="/wiki/%E9%A4%8A%E8%B1%9A" title="養豚">養豚</a>/<a href="/wiki/%E9%A4%8A%E9%B6%8F" title="養鶏">養鶏</a>/<a href="/wiki/%E9%A4%8A%E8%9C%82" title="養蜂">養蜂</a> - <a href="/wiki/%E7%95%9C%E7%94%A3" title="畜産">畜産</a>/<a href="/wiki/%E7%95%9C%E7%94%A3%E6%A5%AD" title="畜産業">畜産業</a><br />
+<a href="/wiki/%E7%97%85%E5%8E%9F%E4%BD%93" title="病原体">病原体</a> - <a href="/wiki/%E6%84%9F%E6%9F%93" title="感染">感染</a> - <a href="/wiki/%E6%84%9F%E6%9F%93%E7%B5%8C%E8%B7%AF" title="感染経路">感染経路</a> - <a href="/wiki/%E4%BC%9D%E6%9F%93%E7%97%85" title="伝染病">伝染病</a>/<a href="/wiki/%E6%84%9F%E6%9F%93%E7%97%87" title="感染症">感染症</a> - <a href="/wiki/%E6%B5%B7%E5%A4%96%E6%82%AA%E6%80%A7%E4%BC%9D%E6%9F%93%E7%97%85" title="海外悪性伝染病">海外悪性伝染病</a> - <a href="/wiki/%E4%BA%BA%E7%8D%A3%E5%85%B1%E9%80%9A%E6%84%9F%E6%9F%93%E7%97%87" title="人獣共通感染症">人獣共通感染症</a> - <a href="/wiki/%E5%85%AC%E8%A1%86%E8%A1%9B%E7%94%9F" title="公衆衛生">公衆衛生</a> - <a href="/wiki/%E3%82%A2%E3%82%A6%E3%83%88%E3%83%96%E3%83%AC%E3%82%A4%E3%82%AF" title="アウトブレイク">アウトブレイク</a>/<a href="/wiki/%E3%83%91%E3%83%B3%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF" title="パンデミック">パンデミック</a> - <a href="/wiki/%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3" title="ワクチン">ワクチン</a> - <a href="/wiki/%E5%B1%A0%E6%AE%BA" title="屠殺">屠殺</a> - <a href="/wiki/%E6%AE%BA%E5%87%A6%E5%88%86" title="殺処分">殺処分</a> - <a href="/wiki/%E6%A4%9C%E7%96%AB" title="検疫">検疫</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";;">組織・施設等</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="/wiki/%E5%9B%BD%E9%9A%9B%E7%8D%A3%E7%96%AB%E4%BA%8B%E5%8B%99%E5%B1%80" title="国際獣疫事務局">国際獣疫事務局</a> (OIE) - <a href="/wiki/%E5%9B%BD%E9%9A%9B%E9%80%A3%E5%90%88%E9%A3%9F%E7%B3%A7%E8%BE%B2%E6%A5%AD%E6%A9%9F%E9%96%A2" title="国際連合食糧農業機関">国際連合食糧農業機関</a> (FAO) - <a href="/wiki/%E8%BE%B2%E6%9E%97%E6%B0%B4%E7%94%A3%E7%9C%81" title="農林水産省">農林水産省</a>/<a href="/wiki/%E8%BE%B2%E6%A5%AD%E3%83%BB%E9%A3%9F%E5%93%81%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%A9%9F%E6%A7%8B" title="農業・食品産業技術総合研究機構">農業・食品産業技術総合研究機構</a>/<a href="/wiki/%E5%8B%95%E7%89%A9%E8%A1%9B%E7%94%9F%E7%A0%94%E7%A9%B6%E6%89%80" title="動物衛生研究所">動物衛生研究所</a> - <a href="/wiki/%E6%A4%9C%E7%96%AB%E6%89%80" title="検疫所">検疫所</a>/<a href="/wiki/%E5%AE%B6%E7%95%9C%E9%98%B2%E7%96%AB%E5%AE%98" title="家畜防疫官">家畜防疫官</a> - <a href="/wiki/%E5%AE%B6%E7%95%9C%E4%BF%9D%E5%81%A5%E8%A1%9B%E7%94%9F%E6%89%80" title="家畜保健衛生所">家畜保健衛生所</a>/<a href="/w/index.php?title=%E5%AE%B6%E7%95%9C%E9%98%B2%E7%96%AB%E5%93%A1&amp;action=edit&amp;redlink=1" class="new" title="家畜防疫員 (存在しないページ)">家畜防疫員</a>/<a href="/wiki/%E7%8D%A3%E5%8C%BB%E5%B8%AB" title="獣医師">獣医師</a> - <a href="/wiki/%E6%97%A5%E6%9C%AC%E5%AE%B6%E7%95%9C%E5%95%86%E5%8D%94%E4%BC%9A" title="日本家畜商協会">日本家畜商協会</a>/<a href="/wiki/%E5%AE%B6%E7%95%9C%E5%95%86" title="家畜商">家畜商</a> - <a href="/wiki/%E5%B1%A0%E7%95%9C%E5%A0%B4" title="屠畜場">屠畜場</a>/<a href="/wiki/%E5%8C%96%E8%A3%BD%E5%A0%B4" title="化製場">化製場</a> - <a href="/wiki/%E4%BF%9D%E5%81%A5%E6%89%80" title="保健所">保健所</a> - <a href="/wiki/%E8%BE%B2%E6%A5%AD%E5%85%B1%E6%B8%88%E7%B5%84%E5%90%88" title="農業共済組合">農業共済組合</a>/<a href="/wiki/%E8%BE%B2%E6%A5%AD%E7%81%BD%E5%AE%B3%E8%A3%9C%E5%84%9F%E5%88%B6%E5%BA%A6" title="農業災害補償制度">農業災害補償制度</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";;">協定・法律等</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="/w/index.php?title=SPS%E5%8D%94%E5%AE%9A&amp;action=edit&amp;redlink=1" class="new" title="SPS協定 (存在しないページ)">SPS協定</a>（<a href="/wiki/%E4%B8%96%E7%95%8C%E8%B2%BF%E6%98%93%E6%A9%9F%E9%96%A2" title="世界貿易機関">世界貿易機関</a>） - <a href="/w/index.php?title=OIE%E3%82%B3%E3%83%BC%E3%83%89&amp;action=edit&amp;redlink=1" class="new" title="OIEコード (存在しないページ)">OIEコード</a>（<a href="/wiki/%E5%9B%BD%E9%9A%9B%E7%8D%A3%E7%96%AB%E4%BA%8B%E5%8B%99%E5%B1%80" title="国際獣疫事務局">国際獣疫事務局</a>） - <a href="/wiki/%E5%AE%B6%E7%95%9C%E4%BC%9D%E6%9F%93%E7%97%85%E4%BA%88%E9%98%B2%E6%B3%95" title="家畜伝染病予防法">家畜伝染病予防法</a>（<a href="/wiki/%E8%BE%B2%E6%9E%97%E6%B0%B4%E7%94%A3%E7%9C%81" title="農林水産省">農水省</a>） - <a href="/wiki/%E7%8B%82%E7%8A%AC%E7%97%85%E4%BA%88%E9%98%B2%E6%B3%95" title="狂犬病予防法">狂犬病予防法</a>（<a href="/wiki/%E5%8E%9A%E7%94%9F%E5%8A%B4%E5%83%8D%E7%9C%81" title="厚生労働省">厚労省</a>） - <a href="/wiki/%E5%8F%A3%E8%B9%84%E7%96%AB%E5%AF%BE%E7%AD%96%E7%89%B9%E5%88%A5%E6%8E%AA%E7%BD%AE%E6%B3%95" title="口蹄疫対策特別措置法">口蹄疫対策特別措置法</a>　－<a href="/wiki/Category:%E7%95%9C%E7%94%A3%E9%96%A2%E9%80%A3%E6%B3%95%E8%A6%8F" title="Category:畜産関連法規">Category:畜産関連法規</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks collapsible autocollapse navbox-subgroup" style="width:100%;;;;">
+<tr>
+<th style=";" colspan="2" class="navbox-title">
+<div style="float:left; width:6em;text-align:left;">&#160;</div>
+<span style="font-size:100%;"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Perlshaper_orthographic_example1.svg" class="image" title="世界の旗"><img alt="世界の旗" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Perlshaper_orthographic_example1.svg/20px-Perlshaper_orthographic_example1.svg.png" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Perlshaper_orthographic_example1.svg/30px-Perlshaper_orthographic_example1.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Perlshaper_orthographic_example1.svg/40px-Perlshaper_orthographic_example1.svg.png 2x" /></a> <a href="/wiki/%E5%9B%BD%E9%9A%9B%E7%8D%A3%E7%96%AB%E4%BA%8B%E5%8B%99%E5%B1%80" title="国際獣疫事務局">国際獣疫事務局</a> リスト疾病</span></th>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";;">複数種</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="/wiki/%E7%82%AD%E7%96%BD%E7%97%87" title="炭疽症">炭疽症</a> - <a href="/wiki/%E3%82%AA%E3%83%BC%E3%82%A8%E3%82%B9%E3%82%AD%E3%83%BC%E7%97%85" title="オーエスキー病">オーエスキー病</a> - <a href="/wiki/%E3%83%96%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%B3%E3%82%B0" title="ブルータング">ブルータング</a> - <a href="/wiki/%E3%83%96%E3%83%AB%E3%82%BB%E3%83%A9%E7%97%87" title="ブルセラ症">ブルセラ症</a> - <a href="/wiki/%E3%82%AF%E3%83%AA%E3%83%9F%E3%82%A2%E3%83%BB%E3%82%B3%E3%83%B3%E3%82%B4%E5%87%BA%E8%A1%80%E7%86%B1" title="クリミア・コンゴ出血熱">クリミア・コンゴ出血熱</a> - <a href="/wiki/%E3%82%A8%E3%82%AD%E3%83%8E%E3%82%B3%E3%83%83%E3%82%AF%E3%82%B9%E7%97%87" title="エキノコックス症">エキノコックス症</a> - <a href="/wiki/%E5%8F%A3%E8%B9%84%E7%96%AB" title="口蹄疫">口蹄疫</a> - <a href="/w/index.php?title=%E5%BF%83%E6%B0%B4%E7%97%85&amp;action=edit&amp;redlink=1" class="new" title="心水病 (存在しないページ)">心水病</a> - <a href="/wiki/%E6%97%A5%E6%9C%AC%E8%84%B3%E7%82%8E" title="日本脳炎">日本脳炎</a> - <a href="/wiki/%E3%83%AC%E3%83%97%E3%83%88%E3%82%B9%E3%83%94%E3%83%A9%E7%97%87" title="レプトスピラ症">レプトスピラ症</a> - <a href="/w/index.php?title=%E6%96%B0%E4%B8%96%E7%95%8C%E3%83%A9%E3%82%BB%E3%83%B3%E3%82%A6%E3%82%B8%E3%83%90%E3%82%A8&amp;action=edit&amp;redlink=1" class="new" title="新世界ラセンウジバエ (存在しないページ)">新世界ラセンウジバエ</a> - <a href="/w/index.php?title=%E6%97%A7%E4%B8%96%E7%95%8C%E3%83%A9%E3%82%BB%E3%83%B3%E3%82%A6%E3%82%B8%E3%83%90%E3%82%A8&amp;action=edit&amp;redlink=1" class="new" title="旧世界ラセンウジバエ (存在しないページ)">旧世界ラセンウジバエ</a> - <a href="/wiki/%E3%83%A8%E3%83%BC%E3%83%8D%E7%97%85" title="ヨーネ病">ヨーネ病</a> - <a href="/wiki/Q%E7%86%B1" title="Q熱">Q熱</a> - <a href="/wiki/%E7%8B%82%E7%8A%AC%E7%97%85" title="狂犬病">狂犬病</a> - <a href="/wiki/%E3%83%AA%E3%83%95%E3%83%88%E3%83%90%E3%83%AC%E3%83%BC%E7%86%B1" title="リフトバレー熱">リフトバレー熱</a> - <a href="/wiki/%E7%89%9B%E7%96%AB" title="牛疫">牛疫</a> - <a href="/wiki/%E6%97%8B%E6%AF%9B%E8%99%AB%E7%97%87" title="旋毛虫症">旋毛虫症</a> - <a href="/wiki/%E9%87%8E%E5%85%8E%E7%97%85" title="野兎病">野兎病</a> - <a href="/wiki/%E6%B0%B4%E8%83%9E%E6%80%A7%E5%8F%A3%E7%82%8E" title="水胞性口炎">水胞性口炎</a> - <a href="/wiki/%E8%A5%BF%E3%83%8A%E3%82%A4%E3%83%AB%E7%86%B1" title="西ナイル熱" class="mw-redirect">西ナイル熱</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";;"><a href="/wiki/%E3%82%A6%E3%82%B7" title="ウシ">ウシ</a></td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="/wiki/%E3%82%A2%E3%83%8A%E3%83%97%E3%83%A9%E3%82%BA%E3%83%9E%E7%97%85" title="アナプラズマ病">アナプラズマ病</a> - <a href="/wiki/%E3%83%90%E3%83%99%E3%82%B7%E3%82%A2%E7%97%87" title="バベシア症">バベシア症</a> - <a href="/wiki/%E7%89%9B%E7%96%AB" title="牛疫">牛疫</a> - <a href="/wiki/%E7%89%9B%E6%B5%B7%E7%B6%BF%E7%8A%B6%E8%84%B3%E7%97%87" title="牛海綿状脳症">牛海綿状脳症</a> - <strong class="selflink">結核</strong> - <a href="/wiki/%E7%89%9B%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E6%80%A7%E4%B8%8B%E7%97%A2%E3%83%BB%E7%B2%98%E8%86%9C%E7%97%85" title="牛ウイルス性下痢・粘膜病">牛ウイルス性下痢</a> - <a href="/wiki/%E7%89%9B%E8%82%BA%E7%96%AB" title="牛肺疫">牛肺疫</a> - <a href="/wiki/%E7%89%9B%E7%99%BD%E8%A1%80%E7%97%85" title="牛白血病">牛白血病</a> - <a href="/wiki/%E5%87%BA%E8%A1%80%E6%80%A7%E6%95%97%E8%A1%80%E7%97%87" title="出血性敗血症">出血性敗血症</a> - <a href="/wiki/%E7%89%9B%E3%83%98%E3%83%AB%E3%83%9A%E3%82%B9%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B91%E5%9E%8B%E6%84%9F%E6%9F%93%E7%97%87" title="牛ヘルペスウイルス1型感染症">牛伝染性鼻気管炎</a> - <a href="/wiki/%E7%9A%AE%E8%86%9A%E7%97%85" title="皮膚病" class="mw-redirect">皮膚病</a> - <a href="/wiki/%E6%82%AA%E6%80%A7%E3%82%AB%E3%82%BF%E3%83%AB%E7%86%B1" title="悪性カタル熱">悪性カタル熱</a> - <a href="/w/index.php?title=%E3%82%BF%E3%82%A4%E3%83%AC%E3%83%AA%E3%82%A2%E7%97%87&amp;action=edit&amp;redlink=1" class="new" title="タイレリア症 (存在しないページ)">タイレリア症</a> - <a href="/wiki/%E3%83%88%E3%83%AA%E3%82%B3%E3%83%A2%E3%83%8A%E3%82%B9%E7%97%87" title="トリコモナス症">トリコモナス病</a> - <a href="/wiki/%E3%83%8A%E3%82%AC%E3%83%8A%E7%97%85" title="ナガナ病">ナガナ病</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";;"><a href="/wiki/%E3%83%92%E3%83%84%E3%82%B8" title="ヒツジ">ヒツジ</a>、<a href="/wiki/%E3%83%A4%E3%82%AE" title="ヤギ">ヤギ</a></td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="/wiki/%E5%B1%B1%E7%BE%8A%E9%96%A2%E7%AF%80%E7%82%8E%E3%83%BB%E8%84%B3%E8%84%8A%E9%AB%84%E7%82%8E" title="山羊関節炎・脳脊髄炎">山羊関節炎・脳脊髄炎</a> - <a href="/wiki/%E4%BC%9D%E6%9F%93%E6%80%A7%E7%84%A1%E4%B9%B3%E7%97%87" title="伝染性無乳症">伝染性無乳症</a> - <a href="/wiki/%E5%B1%B1%E7%BE%8A%E4%BC%9D%E6%9F%93%E6%80%A7%E8%83%B8%E8%86%9C%E8%82%BA%E7%82%8E" title="山羊伝染性胸膜肺炎">山羊伝染性胸膜肺炎</a> - <a href="/wiki/%E6%B5%81%E8%A1%8C%E6%80%A7%E7%BE%8A%E6%B5%81%E7%94%A3" title="流行性羊流産">流行性羊流産</a> - <a href="/w/index.php?title=%E7%BE%8A%E6%85%A2%E6%80%A7%E9%80%B2%E8%A1%8C%E6%80%A7%E8%82%BA%E7%82%8E&amp;action=edit&amp;redlink=1" class="new" title="羊慢性進行性肺炎 (存在しないページ)">羊慢性進行性肺炎</a> - <a href="/wiki/%E3%83%8A%E3%82%A4%E3%83%AD%E3%83%93%E7%BE%8A%E7%97%85" title="ナイロビ羊病">ナイロビ羊病</a> - <a href="/w/index.php?title=%E7%B7%AC%E7%BE%8A%E3%83%96%E3%83%AB%E3%82%BB%E3%83%A9%E3%82%AA%E3%83%93%E3%82%B9&amp;action=edit&amp;redlink=1" class="new" title="緬羊ブルセラオビス (存在しないページ)">緬羊ブルセラオビス</a> - <a href="/wiki/%E5%B0%8F%E5%8F%8D%E8%8A%BB%E7%8D%A3%E7%96%AB" title="小反芻獣疫">小反芻獣疫</a> - <a href="/wiki/%E3%82%B5%E3%83%AB%E3%83%A2%E3%83%8D%E3%83%A9" title="サルモネラ">サルモネラ症</a> - <a href="/wiki/%E3%82%B9%E3%82%AF%E3%83%AC%E3%82%A4%E3%83%94%E3%83%BC" title="スクレイピー">スクレイピー</a> - <a href="/wiki/%E7%BE%8A%E7%97%98" title="羊痘">羊痘</a>/<a href="/wiki/%E5%B1%B1%E7%BE%8A%E7%97%98" title="山羊痘">山羊痘</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";;"><a href="/wiki/%E3%82%A6%E3%83%9E" title="ウマ">ウマ</a></td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="/wiki/%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E9%A6%AC%E7%96%AB" title="アフリカ馬疫">アフリカ馬疫</a> - <a href="/wiki/%E9%A6%AC%E4%BC%9D%E6%9F%93%E6%80%A7%E5%AD%90%E5%AE%AE%E7%82%8E" title="馬伝染性子宮炎">馬伝染性子宮炎</a> - <a href="/wiki/%E5%AA%BE%E7%96%AB" title="媾疫">媾疫</a> - <a href="/wiki/%E6%9D%B1%E9%83%A8%E9%A6%AC%E8%84%B3%E7%82%8E" title="東部馬脳炎">東部馬脳炎</a> - <a href="/w/index.php?title=%E8%A5%BF%E9%83%A8%E9%A6%AC%E8%84%B3%E7%82%8E&amp;action=edit&amp;redlink=1" class="new" title="西部馬脳炎 (存在しないページ)">西部馬脳炎</a> - <a href="/wiki/%E9%A6%AC%E4%BC%9D%E6%9F%93%E6%80%A7%E8%B2%A7%E8%A1%80" title="馬伝染性貧血">馬伝染性貧血</a> - <a href="/wiki/%E9%A6%AC%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6" title="馬インフルエンザ">馬インフルエンザ</a> - <a href="/wiki/%E3%83%94%E3%83%AD%E3%83%97%E3%83%A9%E3%82%BA%E3%83%9E%E7%97%87" title="ピロプラズマ症">馬ピロプラズマ病</a> - <a href="/wiki/%E9%A6%AC%E9%BC%BB%E8%82%BA%E7%82%8E" title="馬鼻肺炎">馬鼻肺炎</a> - <a href="/wiki/%E9%A6%AC%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E6%80%A7%E5%8B%95%E8%84%88%E7%82%8E" title="馬ウイルス性動脈炎">馬ウイルス性動脈炎</a> - <a href="/wiki/%E9%BC%BB%E7%96%BD" title="鼻疽">鼻疽</a> - <a href="/w/index.php?title=%E3%82%B9%E3%83%BC%E3%83%A9%E7%97%85&amp;action=edit&amp;redlink=1" class="new" title="スーラ病 (存在しないページ)">スーラ病</a> - <a href="/w/index.php?title=%E3%83%99%E3%83%8D%E3%82%BA%E3%82%A8%E3%83%A9%E9%A6%AC%E8%84%B3%E8%84%8A%E9%AB%84%E7%82%8E&amp;action=edit&amp;redlink=1" class="new" title="ベネズエラ馬脳脊髄炎 (存在しないページ)">ベネズエラ馬脳脊髄炎</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";;"><a href="/wiki/%E3%83%96%E3%82%BF" title="ブタ">ブタ</a></td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="/wiki/%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E8%B1%9A%E3%82%B3%E3%83%AC%E3%83%A9" title="アフリカ豚コレラ">アフリカ豚コレラ</a> - <a href="/wiki/%E8%B1%9A%E3%82%B3%E3%83%AC%E3%83%A9" title="豚コレラ">豚コレラ</a> - <a href="/wiki/%E3%83%8B%E3%83%91%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E6%84%9F%E6%9F%93%E7%97%87" title="ニパウイルス感染症">ニパウイルス感染症</a> - <a href="/wiki/%E3%82%A8%E3%82%AD%E3%83%8E%E3%82%B3%E3%83%83%E3%82%AF%E3%82%B9%E7%97%87" title="エキノコックス症">エキノコックス症</a> - <a href="/wiki/%E8%B1%9A%E7%B9%81%E6%AE%96%E3%83%BB%E5%91%BC%E5%90%B8%E9%9A%9C%E5%AE%B3%E7%97%87%E5%80%99%E7%BE%A4" title="豚繁殖・呼吸障害症候群">豚繁殖・呼吸障害症候群</a> - <a href="/wiki/%E8%B1%9A%E6%B0%B4%E8%83%9E%E7%97%85" title="豚水胞病">豚水胞病</a> - <a href="/wiki/%E8%B1%9A%E4%BC%9D%E6%9F%93%E6%80%A7%E8%83%83%E8%85%B8%E7%82%8E" title="豚伝染性胃腸炎">伝染性胃腸炎</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";;"><a href="/wiki/%E9%B3%A5%E9%A1%9E" title="鳥類">トリ</a></td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="/wiki/%E3%82%AF%E3%83%A9%E3%83%9F%E3%82%B8%E3%82%A2" title="クラミジア">クラミジア</a> - <a href="/wiki/%E9%B6%8F%E4%BC%9D%E6%9F%93%E6%80%A7%E6%B0%97%E7%AE%A1%E6%94%AF%E7%82%8E" title="鶏伝染性気管支炎">鶏伝染性気管支炎</a> - <a href="/wiki/%E9%B6%8F%E4%BC%9D%E6%9F%93%E6%80%A7%E5%96%89%E9%A0%AD%E6%B0%97%E7%AE%A1%E7%82%8E" title="鶏伝染性喉頭気管炎">鶏伝染性喉頭気管炎</a> - <a href="/wiki/%E9%B6%8F%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%97%E3%83%A9%E3%82%BA%E3%83%9E%E7%97%85" title="鶏マイコプラズマ病">鶏マイコプラズマ病</a> - <a href="/wiki/%E3%81%82%E3%81%B2%E3%82%8B%E8%82%9D%E7%82%8E" title="あひる肝炎">あひる肝炎</a> - <a href="/wiki/%E5%AE%B6%E7%A6%BD%E3%82%B3%E3%83%AC%E3%83%A9" title="家禽コレラ">家禽コレラ</a> - <a href="/w/index.php?title=%E5%AE%B6%E7%A6%BD%E3%83%81%E3%83%95%E3%82%B9&amp;action=edit&amp;redlink=1" class="new" title="家禽チフス (存在しないページ)">家禽チフス</a> - <a href="/wiki/%E3%83%88%E3%83%AA%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6" title="トリインフルエンザ">鳥インフルエンザ</a> - <a href="/wiki/%E4%BC%9D%E6%9F%93%E6%80%A7%E3%83%95%E3%82%A1%E3%83%96%E3%83%AA%E3%82%AD%E3%82%A6%E3%82%B9%E5%9B%8A%E7%97%85" title="伝染性ファブリキウス囊病">伝染性ファブリキウス囊病</a> - <a href="/wiki/%E3%83%9E%E3%83%AC%E3%83%83%E3%82%AF%E7%97%85" title="マレック病">マレック病</a> - <a href="/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%AB%E3%83%83%E3%82%B9%E3%83%AB%E7%97%85" title="ニューカッスル病">ニューカッスル病</a> - <a href="/wiki/%E3%81%B2%E3%81%AA%E7%99%BD%E7%97%A2" title="ひな白痢">ひな白痢</a> - <a href="/w/index.php?title=%E4%B8%83%E9%9D%A2%E9%B3%A5%E9%BC%BB%E6%B0%97%E7%AE%A1%E7%82%8E&amp;action=edit&amp;redlink=1" class="new" title="七面鳥鼻気管炎 (存在しないページ)">七面鳥鼻気管炎</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";;"><a href="/wiki/%E3%82%A6%E3%82%B5%E3%82%AE" title="ウサギ">ウサギ</a></td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="/wiki/%E5%85%8E%E7%B2%98%E6%B6%B2%E8%85%AB" title="兎粘液腫">兎粘液腫</a> - <a href="/wiki/%E3%82%A6%E3%82%B5%E3%82%AE%E5%87%BA%E8%A1%80%E7%97%85" title="ウサギ出血病" class="mw-redirect">ウサギ出血病</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";;"><a href="/wiki/%E3%83%8F%E3%83%81" title="ハチ">ハチ</a></td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="/wiki/%E3%82%A2%E3%82%AB%E3%83%AA%E3%83%B3%E3%83%80%E3%83%8B%E7%97%87" title="アカリンダニ症">アカリンダニ症</a> - <a href="/wiki/%E8%85%90%E8%9B%86%E7%97%85" title="腐蛆病">アメリカ腐蛆病</a> - <a href="/wiki/%E8%85%90%E8%9B%86%E7%97%85" title="腐蛆病">ヨーロッパ腐蛆病</a> - <a href="/w/index.php?title=%E3%82%B9%E3%83%A2%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%8F%E3%82%A4%E3%83%96%E3%83%BB%E3%83%93%E3%83%BC%E3%83%88%E3%83%AB%E7%97%87&amp;action=edit&amp;redlink=1" class="new" title="スモール・ハイブ・ビートル症 (存在しないページ)">スモール・ハイブ・ビートル症</a> - <a href="/w/index.php?title=%E3%83%9F%E3%83%84%E3%83%90%E3%83%81%E3%83%88%E3%82%B2%E3%83%80%E3%83%8B%E7%97%87&amp;action=edit&amp;redlink=1" class="new" title="ミツバチトゲダニ症 (存在しないページ)">ミツバチトゲダニ症</a> - <a href="/wiki/%E3%83%90%E3%83%AD%E3%82%A2%E7%97%85" title="バロア病">バロア病</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";;"><a href="/wiki/%E9%AD%9A%E9%A1%9E" title="魚類">魚類</a></td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="/wiki/%E4%BC%9D%E6%9F%93%E6%80%A7%E9%80%A0%E8%A1%80%E5%99%A8%E5%A3%8A%E6%AD%BB%E7%97%87" title="伝染性造血器壊死症">伝染性造血器壊死症</a> - <a href="/wiki/%E4%BC%9D%E6%9F%93%E6%80%A7%E9%80%A0%E8%A1%80%E5%99%A8%E5%A3%8A%E6%AD%BB%E7%97%87" title="伝染性造血器壊死症">伝染性造血器壊死症</a> - <a href="/wiki/%E3%82%B3%E3%82%A4%E6%98%A5%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E7%97%85" title="コイ春ウイルス病">コイ春ウイルス病</a> - <a href="/wiki/%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E6%80%A7%E5%87%BA%E8%A1%80%E6%80%A7%E6%95%97%E8%A1%80%E7%97%87" title="ウイルス性出血性敗血症">ウイルス性出血性敗血症</a> - <a href="/wiki/%E4%BC%9D%E6%9F%93%E6%80%A7%E8%86%B5%E8%87%93%E5%A3%8A%E6%AD%BB%E7%97%87" title="伝染性膵臓壊死症">伝染性膵臓壊死症</a> - <a href="/wiki/%E4%BC%9D%E6%9F%93%E6%80%A7%E3%82%B5%E3%82%B1%E8%B2%A7%E8%A1%80" title="伝染性サケ貧血">伝染性サケ貧血</a> - <a href="/w/index.php?title=%E6%B5%81%E8%A1%8C%E6%80%A7%E6%BD%B0%E7%98%8D%E7%97%87%E5%80%99%E7%BE%A4&amp;action=edit&amp;redlink=1" class="new" title="流行性潰瘍症候群 (存在しないページ)">流行性潰瘍症候群</a> - <a href="/wiki/%E7%B4%B0%E8%8F%8C%E6%80%A7%E8%85%8E%E8%87%93%E7%97%85" title="細菌性腎臓病">細菌性腎臓病</a> - <a href="/wiki/%E3%82%AE%E3%83%AD%E3%83%80%E3%82%AF%E3%83%81%E3%83%AB%E3%82%B9%E7%97%87" title="ギロダクチルス症">ギロダクチルス症</a> - <a href="/wiki/%E3%83%9E%E3%83%80%E3%82%A4%E3%82%A4%E3%83%AA%E3%83%89%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E7%97%85" title="マダイイリドウイルス病">マダイイリドウイルス病</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";;"><a href="/wiki/%E8%BB%9F%E4%BD%93%E5%8B%95%E7%89%A9" title="軟体動物">軟体動物</a></td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="/w/index.php?title=Bonamia_ostreae%E6%84%9F%E6%9F%93%E7%97%87&amp;action=edit&amp;redlink=1" class="new" title="Bonamia ostreae感染症 (存在しないページ)">Bonamia ostreae感染症</a> - <a href="/w/index.php?title=Bonamia_exitiosus%E6%84%9F%E6%9F%93%E7%97%87&amp;action=edit&amp;redlink=1" class="new" title="Bonamia exitiosus感染症 (存在しないページ)">Bonamia exitiosus感染症</a> - <a href="/w/index.php?title=Marteilia_refringens%E6%84%9F%E6%9F%93%E7%97%87&amp;action=edit&amp;redlink=1" class="new" title="Marteilia refringens感染症 (存在しないページ)">Marteilia refringens感染症</a> - <a href="/w/index.php?title=Mikrocytos_roughleyi%E6%84%9F%E6%9F%93%E7%97%87&amp;action=edit&amp;redlink=1" class="new" title="Mikrocytos roughleyi感染症 (存在しないページ)">Mikrocytos roughleyi感染症</a> - <a href="/w/index.php?title=Perkinsus_marinus%E6%84%9F%E6%9F%93%E7%97%87&amp;action=edit&amp;redlink=1" class="new" title="Perkinsus marinus感染症 (存在しないページ)">Perkinsus marinus感染症</a> - <a href="/w/index.php?title=Perkinsus_olseni%E6%84%9F%E6%9F%93%E7%97%87&amp;action=edit&amp;redlink=1" class="new" title="Perkinsus olseni感染症 (存在しないページ)">Perkinsus olseni感染症</a> - <a href="/w/index.php?title=Xenohaliotis_californiensis%E6%84%9F%E6%9F%93%E7%97%87&amp;action=edit&amp;redlink=1" class="new" title="Xenohaliotis californiensis感染症 (存在しないページ)">Xenohaliotis californiensis感染症</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";;"><a href="/wiki/%E7%94%B2%E6%AE%BB%E9%A1%9E" title="甲殻類">甲殻類</a></td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="/w/index.php?title=%E3%82%BF%E3%82%A6%E3%83%A9%E7%97%87%E5%80%99%E7%BE%A4&amp;action=edit&amp;redlink=1" class="new" title="タウラ症候群 (存在しないページ)">タウラ症候群</a> - <a href="/wiki/%E7%99%BD%E7%82%B9%E7%97%85" title="白点病">白点病</a> - <a href="/w/index.php?title=%E3%82%A4%E3%82%A8%E3%83%AD%E3%83%BC%E3%83%98%E3%83%83%E3%83%89%E7%97%85&amp;action=edit&amp;redlink=1" class="new" title="イエローヘッド病 (存在しないページ)">イエローヘッド病</a> - <a href="/w/index.php?title=%E3%83%90%E3%82%AD%E3%83%A5%E3%83%AD%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E3%83%BB%E3%83%9A%E3%83%8A%E3%82%A8%E3%82%A4%E3%81%AB%E3%82%88%E3%82%8B%E6%84%9F%E6%9F%93%E7%97%87&amp;action=edit&amp;redlink=1" class="new" title="バキュロウイルス・ペナエイによる感染症 (存在しないページ)">バキュロウイルス・ペナエイによる感染症</a> - <a href="/w/index.php?title=%E3%83%A2%E3%83%8E%E3%83%89%E3%83%B3%E5%9E%8B%E3%83%90%E3%82%AD%E3%83%A5%E3%83%AD%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E3%81%AB%E3%82%88%E3%82%8B%E6%84%9F%E6%9F%93%E7%97%87&amp;action=edit&amp;redlink=1" class="new" title="モノドン型バキュロウイルスによる感染症 (存在しないページ)">モノドン型バキュロウイルスによる感染症</a> - <a href="/w/index.php?title=%E4%BC%9D%E6%9F%93%E6%80%A7%E7%9A%AE%E4%B8%8B%E9%80%A0%E8%A1%80%E5%99%A8%E5%A3%8A%E6%AD%BB%E7%97%87&amp;action=edit&amp;redlink=1" class="new" title="伝染性皮下造血器壊死症 (存在しないページ)">伝染性皮下造血器壊死症</a> - <a href="/w/index.php?title=%E3%82%B6%E3%83%AA%E3%82%AC%E3%83%8B%E7%97%85&amp;action=edit&amp;redlink=1" class="new" title="ザリガニ病 (存在しないページ)">ザリガニ病</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";;">その他</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="/wiki/%E3%83%A9%E3%82%AF%E3%83%80%E7%97%98" title="ラクダ痘">ラクダ痘</a> - <a href="/wiki/%E3%83%AA%E3%83%BC%E3%82%B7%E3%83%A5%E3%83%9E%E3%83%8B%E3%82%A2%E7%97%87" title="リーシュマニア症">リーシュマニア症</a></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks collapsible autocollapse navbox-subgroup" style="width:100%;;;;">
+<tr>
+<th style=";" colspan="2" class="navbox-title">
+<div style="float:left; width:6em;text-align:left;">&#160;</div>
+<span style="font-size:100%;"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Flag_of_Japan.svg" class="image" title="日本の旗"><img alt="日本の旗" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/25px-Flag_of_Japan.svg.png" width="25" height="17" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/38px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/50px-Flag_of_Japan.svg.png 2x" /></a> <a href="/wiki/%E5%AE%B6%E7%95%9C%E4%BC%9D%E6%9F%93%E7%97%85%E4%BA%88%E9%98%B2%E6%B3%95" title="家畜伝染病予防法">家畜伝染病予防法</a>上の<a href="/wiki/%E7%9B%A3%E8%A6%96%E4%BC%9D%E6%9F%93%E7%97%85" title="監視伝染病" class="mw-redirect">監視伝染病</a></span></th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";;"><a href="/wiki/%E6%B3%95%E5%AE%9A%E4%BC%9D%E6%9F%93%E7%97%85" title="法定伝染病">法定伝染病</a></td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="/wiki/%E7%89%9B%E7%96%AB" title="牛疫">牛疫</a> - <a href="/wiki/%E7%89%9B%E8%82%BA%E7%96%AB" title="牛肺疫">牛肺疫</a> - <a href="/wiki/%E5%8F%A3%E8%B9%84%E7%96%AB" title="口蹄疫">口蹄疫</a> - <a href="/wiki/%E6%97%A5%E6%9C%AC%E8%84%B3%E7%82%8E" title="日本脳炎">日本脳炎</a> - <a href="/wiki/%E7%8B%82%E7%8A%AC%E7%97%85" title="狂犬病">狂犬病</a> - <a href="/wiki/%E6%B0%B4%E8%83%9E%E6%80%A7%E5%8F%A3%E7%82%8E" title="水胞性口炎">水胞性口炎</a> - <a href="/wiki/%E3%83%AA%E3%83%95%E3%83%88%E3%83%90%E3%83%AC%E3%83%BC%E7%86%B1" title="リフトバレー熱">リフトバレー熱</a> - <a href="/wiki/%E7%82%AD%E7%96%BD%E7%97%87" title="炭疽症">炭疽症</a> - <a href="/wiki/%E5%87%BA%E8%A1%80%E6%80%A7%E6%95%97%E8%A1%80%E7%97%87" title="出血性敗血症">出血性敗血症</a> - <a href="/wiki/%E3%83%96%E3%83%AB%E3%82%BB%E3%83%A9%E7%97%87" title="ブルセラ症">ブルセラ症</a> - <strong class="selflink">結核病</strong> - <a href="/wiki/%E3%83%A8%E3%83%BC%E3%83%8D%E7%97%85" title="ヨーネ病">ヨーネ病</a> - <a href="/wiki/%E3%83%94%E3%83%AD%E3%83%97%E3%83%A9%E3%82%BA%E3%83%9E%E7%97%87" title="ピロプラズマ症">ピロプラズマ症</a> - <a href="/wiki/%E3%82%A2%E3%83%8A%E3%83%97%E3%83%A9%E3%82%BA%E3%83%9E%E7%97%85" title="アナプラズマ病">アナプラズマ病</a> - <a href="/wiki/%E7%89%9B%E6%B5%B7%E7%B6%BF%E7%8A%B6%E8%84%B3%E7%97%87" title="牛海綿状脳症">牛海綿状脳症</a> - <a href="/wiki/%E9%BC%BB%E7%96%BD" title="鼻疽">鼻疽</a> - <a href="/wiki/%E9%A6%AC%E4%BC%9D%E6%9F%93%E6%80%A7%E8%B2%A7%E8%A1%80" title="馬伝染性貧血">馬伝染性貧血</a> - <a href="/wiki/%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E9%A6%AC%E7%96%AB" title="アフリカ馬疫">アフリカ馬疫</a> - <a href="/wiki/%E8%B1%9A%E3%82%B3%E3%83%AC%E3%83%A9" title="豚コレラ">豚コレラ</a> - <a href="/wiki/%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E8%B1%9A%E3%82%B3%E3%83%AC%E3%83%A9" title="アフリカ豚コレラ">アフリカ豚コレラ</a> - <a href="/wiki/%E8%B1%9A%E6%B0%B4%E8%83%9E%E7%97%85" title="豚水胞病">豚水胞病</a> - <a href="/wiki/%E5%AE%B6%E7%A6%BD%E3%82%B3%E3%83%AC%E3%83%A9" title="家禽コレラ">家きんコレラ</a> - <a href="/wiki/%E3%83%88%E3%83%AA%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6" title="トリインフルエンザ">高病原性鳥インフルエンザ</a> - <a href="/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%AB%E3%83%83%E3%82%B9%E3%83%AB%E7%97%85" title="ニューカッスル病">ニューカッスル病</a> - <a href="/wiki/%E3%81%B2%E3%81%AA%E7%99%BD%E7%97%A2" title="ひな白痢">家きんサルモネラ感染症</a> - <a href="/wiki/%E8%85%90%E8%9B%86%E7%97%85" title="腐蛆病">腐蛆病</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";;">届出伝染病</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="/wiki/%E3%83%96%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%B3%E3%82%B0" title="ブルータング">ブルータング</a> - <a href="/wiki/%E3%82%A2%E3%82%AB%E3%83%90%E3%83%8D%E7%97%85" title="アカバネ病">アカバネ病</a> - <a href="/wiki/%E6%82%AA%E6%80%A7%E3%82%AB%E3%82%BF%E3%83%AB%E7%86%B1" title="悪性カタル熱">悪性カタル熱</a> - <a href="/wiki/%E3%83%81%E3%83%A5%E3%82%A6%E3%82%B6%E3%83%B3%E7%97%85" title="チュウザン病">チュウザン病</a> - <a href="/wiki/%E3%83%A9%E3%83%B3%E3%83%94%E3%83%BC%E3%82%B9%E3%82%AD%E3%83%B3%E7%97%85" title="ランピースキン病">ランピースキン病</a> - <a href="/wiki/%E7%89%9B%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E6%80%A7%E4%B8%8B%E7%97%A2%E3%83%BB%E7%B2%98%E8%86%9C%E7%97%85" title="牛ウイルス性下痢・粘膜病">牛ウイルス性下痢・粘膜病</a> - <a href="/wiki/%E7%89%9B%E3%83%98%E3%83%AB%E3%83%9A%E3%82%B9%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B91%E5%9E%8B%E6%84%9F%E6%9F%93%E7%97%87" title="牛ヘルペスウイルス1型感染症">牛伝染性鼻気管炎</a> - <a href="/wiki/%E7%89%9B%E7%99%BD%E8%A1%80%E7%97%85" title="牛白血病">牛白血病</a> - <a href="/wiki/%E3%82%A2%E3%82%A4%E3%83%8E%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E6%84%9F%E6%9F%93%E7%97%87" title="アイノウイルス感染症">アイノウイルス感染症</a> - <a href="/wiki/%E3%82%A4%E3%83%90%E3%83%A9%E3%82%AD%E7%97%85" title="イバラキ病">イバラキ病</a> - <a href="/wiki/%E7%89%9B%E4%B8%98%E7%96%B9%E6%80%A7%E5%8F%A3%E7%82%8E" title="牛丘疹性口炎">牛丘疹性口炎</a> - <a href="/wiki/%E7%89%9B%E6%B5%81%E8%A1%8C%E7%86%B1" title="牛流行熱">牛流行熱</a> - <a href="/wiki/%E9%A1%9E%E9%BC%BB%E7%96%BD" title="類鼻疽">類鼻疽</a> - <a href="/wiki/%E7%A0%B4%E5%82%B7%E9%A2%A8" title="破傷風">破傷風</a> - <a href="/wiki/%E6%B0%97%E8%85%AB%E7%96%BD" title="気腫疽">気腫疽</a> - <a href="/wiki/%E3%83%AC%E3%83%97%E3%83%88%E3%82%B9%E3%83%94%E3%83%A9%E7%97%87" title="レプトスピラ症">レプトスピラ症</a> - <a href="/wiki/%E3%82%B5%E3%83%AB%E3%83%A2%E3%83%8D%E3%83%A9" title="サルモネラ">サルモネラ症</a> - <a href="/wiki/%E3%82%AB%E3%83%B3%E3%83%94%E3%83%AD%E3%83%90%E3%82%AF%E3%82%BF%E3%83%BC%E7%97%87" title="カンピロバクター症">牛カンピロバクター症</a> - <a href="/wiki/%E3%83%88%E3%83%AA%E3%83%91%E3%83%8E%E3%82%BD%E3%83%BC%E3%83%9E%E7%97%87" title="トリパノソーマ症">トリパノソーマ病</a> - <a href="/wiki/%E3%83%88%E3%83%AA%E3%82%B3%E3%83%A2%E3%83%8A%E3%82%B9%E7%97%87" title="トリコモナス症">トリコモナス病</a> - <a href="/wiki/%E3%83%8D%E3%82%AA%E3%82%B9%E3%83%9D%E3%83%A9%E7%97%87" title="ネオスポラ症">ネオスポラ症</a> - <a href="/wiki/%E7%89%9B%E3%83%90%E3%82%A8%E5%B9%BC%E8%99%AB%E7%97%87" title="牛バエ幼虫症">牛バエ幼虫症</a> - <a href="/wiki/%E3%83%8B%E3%83%91%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E6%84%9F%E6%9F%93%E7%97%87" title="ニパウイルス感染症">ニパウイルス感染症</a> - <a href="/wiki/%E9%A6%AC%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6" title="馬インフルエンザ">馬インフルエンザ</a> - <a href="/wiki/%E9%A6%AC%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E6%80%A7%E5%8B%95%E8%84%88%E7%82%8E" title="馬ウイルス性動脈炎">馬ウイルス性動脈炎</a> - <a href="/wiki/%E9%A6%AC%E9%BC%BB%E8%82%BA%E7%82%8E" title="馬鼻肺炎">馬鼻肺炎</a> - <a href="/wiki/%E3%83%98%E3%83%B3%E3%83%89%E3%83%A9%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E6%84%9F%E6%9F%93%E7%97%87" title="ヘンドラウイルス感染症">馬モルビリウイルス肺炎</a> - <a href="/wiki/%E9%A6%AC%E7%97%98" title="馬痘">馬痘</a> - <a href="/wiki/%E9%87%8E%E5%85%8E%E7%97%85" title="野兎病">野兎病</a> - <a href="/wiki/%E9%A6%AC%E4%BC%9D%E6%9F%93%E6%80%A7%E5%AD%90%E5%AE%AE%E7%82%8E" title="馬伝染性子宮炎">馬伝染性子宮炎</a> - <a href="/wiki/%E9%A6%AC%E3%83%91%E3%83%A9%E3%83%81%E3%83%95%E3%82%B9" title="馬パラチフス">馬パラチフス</a> - <a href="/wiki/%E4%BB%AE%E6%80%A7%E7%9A%AE%E7%96%BD" title="仮性皮疽">仮性皮疽</a> - <a href="/wiki/%E5%B0%8F%E5%8F%8D%E8%8A%BB%E7%8D%A3%E7%96%AB" title="小反芻獣疫">小反芻獣疫</a> - <a href="/wiki/%E4%BC%9D%E6%9F%93%E6%80%A7%E8%86%BF%E7%96%B1%E6%80%A7%E7%9A%AE%E8%86%9A%E7%82%8E" title="伝染性膿疱性皮膚炎">伝染性膿疱性皮膚炎</a> - <a href="/wiki/%E3%83%8A%E3%82%A4%E3%83%AD%E3%83%93%E7%BE%8A%E7%97%85" title="ナイロビ羊病">ナイロビ羊病</a> - <a href="/wiki/%E7%BE%8A%E7%97%98" title="羊痘">羊痘</a> - <a href="/wiki/%E3%83%9E%E3%82%A8%E3%83%87%E3%82%A3%E3%83%BB%E3%83%93%E3%82%B9%E3%83%8A" title="マエディ・ビスナ">マエディ・ビスナ</a> - <a href="/wiki/%E4%BC%9D%E6%9F%93%E6%80%A7%E7%84%A1%E4%B9%B3%E7%97%87" title="伝染性無乳症">伝染性無乳症</a> - <a href="/wiki/%E6%B5%81%E8%A1%8C%E6%80%A7%E7%BE%8A%E6%B5%81%E7%94%A3" title="流行性羊流産">流行性羊流産</a> - <a href="/wiki/%E3%83%88%E3%82%AD%E3%82%BD%E3%83%97%E3%83%A9%E3%82%BA%E3%83%9E%E7%97%87" title="トキソプラズマ症">トキソプラズマ病</a> - <a href="/wiki/%E7%96%A5%E7%99%AC" title="疥癬">疥癬</a> - <a href="/wiki/%E5%B1%B1%E7%BE%8A%E7%97%98" title="山羊痘">山羊痘</a> - <a href="/wiki/%E5%B1%B1%E7%BE%8A%E9%96%A2%E7%AF%80%E7%82%8E%E3%83%BB%E8%84%B3%E8%84%8A%E9%AB%84%E7%82%8E" title="山羊関節炎・脳脊髄炎">山羊関節炎・脳脊髄炎</a> - <a href="/wiki/%E5%B1%B1%E7%BE%8A%E4%BC%9D%E6%9F%93%E6%80%A7%E8%83%B8%E8%86%9C%E8%82%BA%E7%82%8E" title="山羊伝染性胸膜肺炎">山羊伝染性胸膜肺炎</a> - <a href="/wiki/%E3%82%AA%E3%83%BC%E3%82%A8%E3%82%B9%E3%82%AD%E3%83%BC%E7%97%85" title="オーエスキー病">オーエスキー病</a> - <a href="/wiki/%E8%B1%9A%E4%BC%9D%E6%9F%93%E6%80%A7%E8%83%83%E8%85%B8%E7%82%8E" title="豚伝染性胃腸炎">伝染性胃腸炎</a> - <a href="/wiki/%E8%B1%9A%E3%82%A8%E3%83%B3%E3%83%86%E3%83%AD%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E6%80%A7%E8%84%B3%E8%84%8A%E9%AB%84%E7%82%8E" title="豚エンテロウイルス性脳脊髄炎">豚エンテロウイルス性脳脊髄炎</a> - <a href="/wiki/%E8%B1%9A%E7%B9%81%E6%AE%96%E3%83%BB%E5%91%BC%E5%90%B8%E9%9A%9C%E5%AE%B3%E7%97%87%E5%80%99%E7%BE%A4" title="豚繁殖・呼吸障害症候群">豚繁殖・呼吸障害症候群</a> - <a href="/wiki/%E8%B1%9A%E6%B0%B4%E7%96%B1%E7%96%B9" title="豚水疱疹">豚水疱疹</a> - <a href="/wiki/%E8%B1%9A%E6%B5%81%E8%A1%8C%E6%80%A7%E4%B8%8B%E7%97%A2" title="豚流行性下痢">豚流行性下痢</a> - <a href="/wiki/%E8%B1%9A%E8%90%8E%E7%B8%AE%E6%80%A7%E9%BC%BB%E7%82%8E" title="豚萎縮性鼻炎">萎縮性鼻炎</a> - <a href="/wiki/%E8%B1%9A%E4%B8%B9%E6%AF%92" title="豚丹毒">豚丹毒</a> - <a href="/wiki/%E8%B1%9A%E8%B5%A4%E7%97%A2" title="豚赤痢">豚赤痢</a> - <a href="/wiki/%E3%83%88%E3%83%AA%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6" title="トリインフルエンザ">鳥インフルエンザ</a> - <a href="/wiki/%E9%B6%8F%E7%97%98" title="鶏痘">鶏痘</a> - <a href="/wiki/%E3%83%9E%E3%83%AC%E3%83%83%E3%82%AF%E7%97%85" title="マレック病">マレック病</a> - <a href="/wiki/%E9%B6%8F%E4%BC%9D%E6%9F%93%E6%80%A7%E6%B0%97%E7%AE%A1%E6%94%AF%E7%82%8E" title="鶏伝染性気管支炎">伝染性気管支炎</a> - <a href="/wiki/%E9%B6%8F%E4%BC%9D%E6%9F%93%E6%80%A7%E5%96%89%E9%A0%AD%E6%B0%97%E7%AE%A1%E7%82%8E" title="鶏伝染性喉頭気管炎">伝染性喉頭気管炎</a> - <a href="/wiki/%E4%BC%9D%E6%9F%93%E6%80%A7%E3%83%95%E3%82%A1%E3%83%96%E3%83%AA%E3%82%AD%E3%82%A6%E3%82%B9%E5%9B%8A%E7%97%85" title="伝染性ファブリキウス囊病">伝染性ファブリキウス嚢病</a> - <a href="/wiki/%E9%B6%8F%E7%99%BD%E8%A1%80%E7%97%85" title="鶏白血病">鶏白血病</a> - <a href="/wiki/%E9%B6%8F%E7%B5%90%E6%A0%B8%E7%97%85" title="鶏結核病">鶏結核病</a> - <a href="/wiki/%E9%B6%8F%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%97%E3%83%A9%E3%82%BA%E3%83%9E%E7%97%85" title="鶏マイコプラズマ病">鶏マイコプラズマ病</a> - <a href="/wiki/%E3%83%AD%E3%82%A4%E3%82%B3%E3%83%81%E3%83%88%E3%82%BE%E3%83%BC%E3%83%B3%E7%97%85" title="ロイコチトゾーン病">ロイコチトゾーン病</a> - <a href="/wiki/%E3%81%82%E3%81%B2%E3%82%8B%E8%82%9D%E7%82%8E" title="あひる肝炎">あひる肝炎</a> - <a href="/wiki/%E3%81%82%E3%81%B2%E3%82%8B%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E6%80%A7%E8%85%B8%E7%82%8E" title="あひるウイルス性腸炎">あひるウイルス性腸炎</a> - <a href="/wiki/%E5%85%8E%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E6%80%A7%E5%87%BA%E8%A1%80%E7%97%85" title="兎ウイルス性出血病">兎ウイルス性出血病</a> - <a href="/wiki/%E5%85%8E%E7%B2%98%E6%B6%B2%E8%85%AB" title="兎粘液腫">兎粘液腫</a> - <a href="/wiki/%E3%83%90%E3%83%AD%E3%82%A2%E7%97%85" title="バロア病">バロア病</a> - <a href="/wiki/%E3%83%81%E3%83%A7%E3%83%BC%E3%82%AF%E7%97%85" title="チョーク病">チョーク病</a> - <a href="/wiki/%E3%82%A2%E3%82%AB%E3%83%AA%E3%83%B3%E3%83%80%E3%83%8B%E7%97%87" title="アカリンダニ症">アカリンダニ症</a> - <a href="/wiki/%E3%83%8E%E3%82%BC%E3%83%9E%E7%97%85" title="ノゼマ病">ノゼマ病</a></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" cellspacing="0" style=";">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks collapsible autocollapse" style="width:100%;background:transparent;color:inherit;;">
+<tr>
+<th style=";" colspan="2" class="navbox-title">
+<div style="float:left; width:6em;text-align:left;">
+<div class="noprint plainlinks" style="background-color:transparent; padding:0; font-size:75%; color:#000000; white-space:nowrap; font-weight:normal;&#160;;;border:none;;"><a href="/wiki/Template:%E6%B0%97%E9%81%93%E6%84%9F%E6%9F%93" title="Template:気道感染"><span title="このテンプレートを表示します" style=";;border:none;;">表</span></a><span style="font-size:80%;">・</span><a href="/w/index.php?title=Template%E2%80%90%E3%83%8E%E3%83%BC%E3%83%88:%E6%B0%97%E9%81%93%E6%84%9F%E6%9F%93&amp;action=edit&amp;redlink=1" class="new" title="Template‐ノート:気道感染 (存在しないページ)"><span style="color:#002bb8;;;border:none;;" title="このテンプレートのノートを表示します">話</span></a><span style="font-size:80%;">・</span><a class="external text" href="//ja.wikipedia.org/w/index.php?title=Template:%E6%B0%97%E9%81%93%E6%84%9F%E6%9F%93&amp;action=edit"><span style="color:#002bb8;;;border:none;;" title="このテンプレートを編集します。保存の前にプレビューを忘れずに。">編</span></a><span style="font-size:80%;">・</span><a class="external text" href="//ja.wikipedia.org/w/index.php?title=Template:%E6%B0%97%E9%81%93%E6%84%9F%E6%9F%93&amp;action=history"><span style="color:#002bb8;;;border:none;;" title="このテンプレートの過去の版を表示します">歴</span></a></div>
+</div>
+<span style="font-size:110%;"><a href="/wiki/%E6%B0%97%E9%81%93%E6%84%9F%E6%9F%93" title="気道感染">気道感染</a></span></th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";text-align:center;;"><a href="/wiki/%E4%B8%8A%E6%B0%97%E9%81%93" title="上気道">上気道</a></td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;">
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align:left;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E9%A2%A8%E9%82%AA" title="風邪">風邪</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><span class="nowrap"><a href="/wiki/%E3%83%A9%E3%82%A4%E3%83%8E%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9" title="ライノウイルス">ライノウイルス</a>&#160;-</span> <span class="nowrap"><a href="/wiki/%E3%82%A2%E3%83%87%E3%83%8E%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9" title="アデノウイルス">アデノウイルス</a>&#160;-</span> <span class="nowrap"><a href="/w/index.php?title=%E3%83%91%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9&amp;action=edit&amp;redlink=1" class="new" title="パラインフルエンザウイルス (存在しないページ)">パラインフルエンザウイルス</a>&#160;-</span> <span class="nowrap"><a href="/wiki/RS%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9" title="RSウイルス">RSウイルス</a>&#160;-</span> <span class="nowrap"><a href="/wiki/%E3%82%B3%E3%83%AD%E3%83%8A%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9" title="コロナウイルス">コロナウイルス</a>&#160;-</span> <span class="nowrap"><a href="/w/index.php?title=%E3%82%A8%E3%82%B3%E3%83%BC%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9&amp;action=edit&amp;redlink=1" class="new" title="エコーウイルス (存在しないページ)">エコーウイルス</a>&#160;-</span> <span class="nowrap"><a href="/wiki/%E3%82%A8%E3%83%B3%E3%83%86%E3%83%AD%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9" title="エンテロウイルス">エンテロウイルス</a></span></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align:left;;">
+<div style="padding:0em 0.75em;"><a href="/w/index.php?title=%E5%96%89%E9%A0%AD%E7%82%8E&amp;action=edit&amp;redlink=1" class="new" title="喉頭炎 (存在しないページ)">喉頭炎</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><span class="nowrap"><a href="/wiki/%E6%80%A5%E6%80%A7%E5%96%89%E9%A0%AD%E8%93%8B%E7%82%8E" title="急性喉頭蓋炎">急性喉頭蓋炎</a>&#160;-</span> <span class="nowrap"><a href="/wiki/%E3%82%AF%E3%83%AB%E3%83%BC%E3%83%97" title="クループ">クループ</a></span></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="/wiki/%E5%92%BD%E9%A0%AD%E7%82%8E" title="咽頭炎" class="mw-redirect">咽頭炎</a></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";text-align:center;;"><a href="/wiki/%E4%B8%8B%E6%B0%97%E9%81%93" title="下気道">下気道</a></td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="/w/index.php?title=%E6%80%A5%E6%80%A7%E7%B4%B0%E6%B0%97%E7%AE%A1%E6%94%AF%E7%82%8E&amp;action=edit&amp;redlink=1" class="new" title="急性細気管支炎 (存在しないページ)">急性細気管支炎</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";text-align:center;;"><a href="/wiki/%E8%82%BA%E7%82%8E" title="肺炎">肺炎</a></td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;">
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align:left;;">
+<div style="padding:0em 0.75em;"><a href="//ja.wiktionary.org/wiki/%E5%8E%9F%E5%9B%A0" class="extiw" title="wikt:原因">原因</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;">
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align:left;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E7%B4%B0%E8%8F%8C%E6%80%A7%E8%82%BA%E7%82%8E" title="細菌性肺炎">定型肺炎</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;">
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align:left;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E3%82%B0%E3%83%A9%E3%83%A0%E9%99%BD%E6%80%A7%E8%8F%8C" title="グラム陽性菌">グラム陽性</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><span class="nowrap"><a href="/wiki/%E8%82%BA%E7%82%8E%E3%83%AC%E3%83%B3%E3%82%B5%E7%90%83%E8%8F%8C" title="肺炎レンサ球菌">肺炎球菌</a>&#160;-</span> <span class="nowrap"><a href="/wiki/%E9%BB%84%E8%89%B2%E3%83%96%E3%83%89%E3%82%A6%E7%90%83%E8%8F%8C" title="黄色ブドウ球菌">黄色ブドウ球菌</a></span></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align:left;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E3%82%B0%E3%83%A9%E3%83%A0%E9%99%B0%E6%80%A7%E8%8F%8C" title="グラム陰性菌">グラム陰性</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><span class="nowrap"><a href="/wiki/%E3%82%AF%E3%83%AC%E3%83%96%E3%82%B7%E3%82%A8%E3%83%A9%E3%83%BB%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A2%E3%83%8B%E3%82%A8" title="クレブシエラ・ニューモニエ">肺炎桿菌</a>&#160;-</span> <span class="nowrap"><a href="/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6%E8%8F%8C" title="インフルエンザ菌">インフルエンザ菌</a>&#160;-</span> <span class="nowrap"><a href="/wiki/%E3%83%A2%E3%83%A9%E3%82%AF%E3%82%BB%E3%83%A9" title="モラクセラ">モラクセラ</a>&#160;-</span> <span class="nowrap"><a href="/wiki/%E5%A4%A7%E8%85%B8%E8%8F%8C" title="大腸菌">大腸菌</a>&#160;-</span> <span class="nowrap"><a href="/wiki/%E7%B7%91%E8%86%BF%E8%8F%8C" title="緑膿菌">緑膿菌</a></span></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align:left;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E9%9D%9E%E5%AE%9A%E5%9E%8B%E8%82%BA%E7%82%8E" title="非定型肺炎">非定型肺炎</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;">
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align:left;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9" title="ウイルス">ウイルス性</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><span class="nowrap"><a href="/wiki/RS%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9" title="RSウイルス">RSウイルス</a>&#160;-</span> <span class="nowrap"><a href="/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6" title="インフルエンザ">インフルエンザ肺炎</a>&#160;-</span> <span class="nowrap"><a href="/wiki/%E9%87%8D%E7%97%87%E6%80%A5%E6%80%A7%E5%91%BC%E5%90%B8%E5%99%A8%E7%97%87%E5%80%99%E7%BE%A4" title="重症急性呼吸器症候群">重症急性呼吸器症候群</a></span></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align:left;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E7%9C%9F%E8%8F%8C" title="真菌" class="mw-redirect">肺真菌症</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><span class="nowrap"><a href="/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A2%E3%82%B7%E3%82%B9%E3%83%81%E3%82%B9%E8%82%BA%E7%82%8E" title="ニューモシスチス肺炎">ニューモシスチス肺炎</a>&#160;-</span> <span class="nowrap"><a href="/wiki/%E3%82%AF%E3%83%AA%E3%83%97%E3%83%88%E3%82%B3%E3%83%83%E3%82%AB%E3%82%B9%E7%97%87" title="クリプトコッカス症">クリプトコッカス症</a>&#160;-</span> <span class="nowrap"><a href="/wiki/%E3%82%A2%E3%82%B9%E3%83%9A%E3%83%AB%E3%82%AE%E3%83%AB%E3%82%B9%E7%97%87" title="アスペルギルス症">アスペルギルス症</a></span></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><span class="nowrap"><a href="/wiki/%E3%83%AC%E3%82%B8%E3%82%AA%E3%83%8D%E3%83%A9%E8%8F%8C" title="レジオネラ菌" class="mw-redirect">レジオネラ菌</a>&#160;-</span> <span class="nowrap"><a href="/wiki/%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%97%E3%83%A9%E3%82%BA%E3%83%9E" title="マイコプラズマ">マイコプラズマ</a>&#160;-</span> <span class="nowrap"><a href="/wiki/%E3%82%AF%E3%83%A9%E3%83%9F%E3%82%B8%E3%82%A2%E8%82%BA%E7%82%8E" title="クラミジア肺炎">クラミジア肺炎</a>&#160;-</span> <span class="nowrap"><a href="/wiki/%E3%82%AA%E3%82%A6%E3%83%A0%E7%97%85" title="オウム病">オウム病</a></span></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align:left;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E6%8A%97%E9%85%B8%E8%8F%8C" title="抗酸菌">抗酸菌症</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><span class="nowrap"><strong class="selflink">結核</strong>&#160;-</span> <span class="nowrap"><a href="/wiki/%E9%9D%9E%E7%B5%90%E6%A0%B8%E6%80%A7%E6%8A%97%E9%85%B8%E8%8F%8C%E7%97%87" title="非結核性抗酸菌症">非結核性抗酸菌症</a></span></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align:left;;">
+<div style="padding:0em 0.75em;"><a href="//ja.wiktionary.org/wiki/%E6%A9%9F%E5%BA%8F" class="extiw" title="wikt:機序">機序</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><span class="nowrap"><a href="/wiki/%E5%B8%82%E4%B8%AD%E8%82%BA%E7%82%8E" title="市中肺炎">市中肺炎</a>&#160;-</span> <span class="nowrap"><a href="/w/index.php?title=%E9%99%A2%E5%86%85%E8%82%BA%E7%82%8E&amp;action=edit&amp;redlink=1" class="new" title="院内肺炎 (存在しないページ)">院内肺炎</a>&#160;-</span> <span class="nowrap"><a href="/w/index.php?title=%E8%AA%A4%E5%9A%A5%E6%80%A7%E8%82%BA%E7%82%8E&amp;action=edit&amp;redlink=1" class="new" title="誤嚥性肺炎 (存在しないページ)">誤嚥性肺炎</a></span></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align:left;;">
+<div style="padding:0em 0.75em;"><a href="//ja.wiktionary.org/wiki/%E7%97%85%E6%85%8B" class="extiw" title="wikt:病態">病態</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;">
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align:left;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E8%82%BA%E8%83%9E%E6%80%A7%E8%82%BA%E7%82%8E" title="肺胞性肺炎">肺胞性肺炎</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><span class="nowrap"><a href="/w/index.php?title=%E5%A4%A7%E8%91%89%E6%80%A7%E8%82%BA%E7%82%8E&amp;action=edit&amp;redlink=1" class="new" title="大葉性肺炎 (存在しないページ)">大葉性肺炎</a>&#160;-</span> <span class="nowrap"><a href="/wiki/%E6%B0%97%E7%AE%A1%E6%94%AF%E8%82%BA%E7%82%8E" title="気管支肺炎">気管支肺炎</a></span></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="/wiki/%E5%8C%96%E8%86%BF%E6%80%A7%E8%82%BA%E7%82%8E" title="化膿性肺炎">化膿性肺炎</a></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";text-align:center;;"><a href="/wiki/%E8%83%B8" title="胸">胸壁</a></td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="/wiki/%E8%86%BF%E8%83%B8" title="膿胸">膿胸</a></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p><span id="interwiki-pt-fa" style="display:none;"></span></p>
+<p><span id="interwiki-de-fa" style="display:none;"></span></p>
+<p><br />
+<span id="interwiki-ca-fa" style="display:none;"></span> <span id="interwiki-sv-ga" style="display:none;"></span> <span id="interwiki-cs-ga" style="display:none;"></span> <span id="interwiki-en-ga" style="display:none;"></span></p>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 7840/1000000
+Preprocessor generated node count: 35841/1500000
+Post‐expand include size: 206154/2048000 bytes
+Template argument size: 123973/2048000 bytes
+Highest expansion depth: 30/40
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key jawiki:pcache:idhash:45953-0!*!0!!ja!4!* and timestamp 20130713033613 -->
+</div>								<div class="printfooter">
+				「<a href="http://ja.wikipedia.org/w/index.php?title=結核&amp;oldid=47753827">http://ja.wikipedia.org/w/index.php?title=結核&amp;oldid=47753827</a>」から取得				</div>
+												<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA" title="特別:カテゴリ">カテゴリ</a>: <ul><li><a href="/wiki/Category:%E7%B5%90%E6%A0%B8" title="Category:結核">結核</a></li><li><a href="/wiki/Category:%E6%84%9F%E6%9F%93%E7%97%87" title="Category:感染症">感染症</a></li><li><a href="/wiki/Category:%E7%B4%B0%E8%8F%8C%E5%AD%A6" title="Category:細菌学">細菌学</a></li><li><a href="/wiki/Category:%E5%91%BC%E5%90%B8%E5%99%A8%E7%96%BE%E6%82%A3" title="Category:呼吸器疾患">呼吸器疾患</a></li><li><a href="/wiki/Category:%E4%BA%BA%E7%8D%A3%E5%85%B1%E9%80%9A%E6%84%9F%E6%9F%93%E7%97%87" title="Category:人獣共通感染症">人獣共通感染症</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>案内メニュー</h2>
+			<div id="mw-head">
+				<div id="p-personal" role="navigation" class="">
+	<h3>個人用ツール</h3>
+	<ul>
+<li id="pt-createaccount"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3&amp;returnto=%E7%B5%90%E6%A0%B8&amp;type=signup">アカウント作成</a></li><li id="pt-login"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3&amp;returnto=%E7%B5%90%E6%A0%B8" title="ログインすることを推奨します。ただし、必須ではありません。 [o]" accesskey="o">ログイン</a></li>	</ul>
+</div>
+				<div id="left-navigation">
+					<div id="p-namespaces" role="navigation" class="vectorTabs">
+	<h3>名前空間</h3>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/%E7%B5%90%E6%A0%B8"  title="本文を閲覧 [c]" accesskey="c">ページ</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/%E3%83%8E%E3%83%BC%E3%83%88:%E7%B5%90%E6%A0%B8"  title="本文ページについての議論 [t]" accesskey="t">ノート</a></span></li>
+			</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet">
+	<h3 id="mw-vector-current-variant">
+		</h3>
+	<h3><span>変種</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+				</div>
+				<div id="right-navigation">
+					<div id="p-views" role="navigation" class="vectorTabs">
+	<h3>表示</h3>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/%E7%B5%90%E6%A0%B8" >閲覧</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=%E7%B5%90%E6%A0%B8&amp;action=edit"  title="このページを編集できます。保存前にプレビューボタンを使用してください。 [e]" accesskey="e">編集</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=%E7%B5%90%E6%A0%B8&amp;action=history"  title="このページの過去の版 [h]" accesskey="h">履歴表示</a></span></li>
+			</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet">
+	<h3><span>操作</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+<div id="p-search" role="search">
+	<h3><label for="searchInput">検索</label></h3>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" placeholder="検索" title="Wikipedia内を検索する [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="この文字列が含まれるページを探す" id="searchButton"><img src="//bits.wikimedia.org/static-1.22wmf9/skins/vector/images/search-ltr.png?303-4" alt="検索" width="12" height="13" /></button>								<input type='hidden' name="title" value="特別:検索"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+					<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/commons/a/ad/Wikipedia-logo-v2-ja.png);" href="/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8"  title="メインページに移動する"></a></div>
+				<div class="portal" role="navigation" id='p-navigation'>
+	<h3>案内</h3>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage"><a href="/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" title="メインページに移動する [z]" accesskey="z">メインページ</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%BB%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB" title="このプロジェクトについて、できること、情報を入手する場所">コミュニティ・ポータル</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:%E6%9C%80%E8%BF%91%E3%81%AE%E5%87%BA%E6%9D%A5%E4%BA%8B" title="最近の出来事の背景を知る">最近の出来事</a></li>
+			<li id="n-newpages"><a href="/wiki/%E7%89%B9%E5%88%A5:%E6%96%B0%E3%81%97%E3%81%84%E3%83%9A%E3%83%BC%E3%82%B8" title="最近新規に作成されたページの一覧">新しいページ</a></li>
+			<li id="n-recentchanges"><a href="/wiki/%E7%89%B9%E5%88%A5:%E6%9C%80%E8%BF%91%E3%81%AE%E6%9B%B4%E6%96%B0" title="このウィキにおける最近の更新の一覧 [r]" accesskey="r">最近の更新</a></li>
+			<li id="n-randompage"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%81%8A%E3%81%BE%E3%81%8B%E3%81%9B%E8%A1%A8%E7%A4%BA" title="無作為に選択されたページを読み込む [x]" accesskey="x">おまかせ表示</a></li>
+			<li id="n-sandbox"><a href="/wiki/Wikipedia:%E3%82%B5%E3%83%B3%E3%83%89%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9" title="練習用のページ">練習用ページ</a></li>
+			<li id="n-commonsupload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=ja" title="画像やメディアファイルをウィキメディア・コモンズにアップロード">アップロード (ウィキメディア・コモンズ)</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-help'>
+	<h3>ヘルプ</h3>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:%E7%9B%AE%E6%AC%A1" title="情報を得る場所">ヘルプ</a></li>
+			<li id="n-villagepump"><a href="/wiki/Wikipedia:%E4%BA%95%E6%88%B8%E7%AB%AF" title="プロジェクトについての意見交換">井戸端</a></li>
+			<li id="n-notice"><a href="/wiki/Wikipedia:%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B" title="プロジェクトについてのお知らせ">お知らせ</a></li>
+			<li id="n-bugreportspage"><a href="/wiki/Wikipedia:%E3%83%90%E3%82%B0%E3%81%AE%E5%A0%B1%E5%91%8A" title="ウィキペディア・ソフトウェアのバグ報告">バグの報告</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ja.wikipedia.org&amp;uselang=ja" title="ご支援ください">寄付</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:%E9%80%A3%E7%B5%A1%E5%85%88" title="ウィキペディアやウィキメディア財団に関する連絡先">ウィキペディアに関するお問い合わせ</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-tb'>
+	<h3>ツールボックス</h3>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%83%AA%E3%83%B3%E3%82%AF%E5%85%83/%E7%B5%90%E6%A0%B8" title="ここにリンクしている全ウィキページの一覧 [j]" accesskey="j">リンク元</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/%E7%89%B9%E5%88%A5:%E9%96%A2%E9%80%A3%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%B3%81/%E7%B5%90%E6%A0%B8" title="このページからリンクしているページの最近の更新 [k]" accesskey="k">関連ページの更新状況</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89" title="ファイルをアップロードする [u]" accesskey="u">ファイルをアップロード</a></li>
+			<li id="t-specialpages"><a href="/wiki/%E7%89%B9%E5%88%A5:%E7%89%B9%E5%88%A5%E3%83%9A%E3%83%BC%E3%82%B8%E4%B8%80%E8%A6%A7" title="特別ページの一覧 [q]" accesskey="q">特別ページ</a></li>
+			<li id="t-print"><a href="/w/index.php?title=%E7%B5%90%E6%A0%B8&amp;printable=yes" rel="alternate" title="このページの印刷用ページ [p]" accesskey="p">印刷用バージョン</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=%E7%B5%90%E6%A0%B8&amp;oldid=47753827" title="このページのこの版への固定リンク">この版への固定リンク</a></li>
+			<li id="t-info"><a href="/w/index.php?title=%E7%B5%90%E6%A0%B8&amp;action=info">ページ情報</a></li>
+			<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q12204" title="関連付けられたデータリポジトリ項目へのリンク">データ項目</a></li>
+<li id="t-cite"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E5%BC%95%E7%94%A8&amp;page=%E7%B5%90%E6%A0%B8&amp;id=47753827" title="このページの引用方法">このページを引用</a></li>		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-lang'>
+	<h3>他言語版</h3>
+	<div class="body">
+		<ul>
+			<li class="interwiki-af"><a href="//af.wikipedia.org/wiki/Tuberkulose" title="Tuberkulose" lang="af" hreflang="af">Afrikaans</a></li>
+			<li class="interwiki-als"><a href="//als.wikipedia.org/wiki/Tuberkulose" title="Tuberkulose" lang="als" hreflang="als">Alemannisch</a></li>
+			<li class="interwiki-an"><a href="//an.wikipedia.org/wiki/Tuberculosi" title="Tuberculosi" lang="an" hreflang="an">Aragonés</a></li>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%B3%D9%84" title="سل" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-arz"><a href="//arz.wikipedia.org/wiki/%D8%B3%D9%84" title="سل" lang="arz" hreflang="arz">مصرى</a></li>
+			<li class="interwiki-ast"><a href="//ast.wikipedia.org/wiki/Tuberculosis" title="Tuberculosis" lang="ast" hreflang="ast">Asturianu</a></li>
+			<li class="interwiki-ay"><a href="//ay.wikipedia.org/wiki/Tisiku" title="Tisiku" lang="ay" hreflang="ay">Aymar aru</a></li>
+			<li class="interwiki-az"><a href="//az.wikipedia.org/wiki/V%C9%99r%C9%99m" title="Vərəm" lang="az" hreflang="az">Azərbaycanca</a></li>
+			<li class="interwiki-ba"><a href="//ba.wikipedia.org/wiki/%D0%A2%D1%83%D0%B1%D0%B5%D1%80%D0%BA%D1%83%D0%BB%D1%91%D0%B7" title="Туберкулёз" lang="ba" hreflang="ba">Башҡортса</a></li>
+			<li class="interwiki-bat-smg"><a href="//bat-smg.wikipedia.org/wiki/D%C5%BEiuova" title="Džiuova" lang="bat-smg" hreflang="bat-smg">Žemaitėška</a></li>
+			<li class="interwiki-be"><a href="//be.wikipedia.org/wiki/%D0%A1%D1%83%D1%85%D0%BE%D1%82%D1%8B" title="Сухоты" lang="be" hreflang="be">Беларуская</a></li>
+			<li class="interwiki-be-x-old"><a href="//be-x-old.wikipedia.org/wiki/%D0%A1%D1%83%D1%85%D0%BE%D1%82%D1%8B" title="Сухоты" lang="be-x-old" hreflang="be-x-old">Беларуская (тарашкевіца)‎</a></li>
+			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%A2%D1%83%D0%B1%D0%B5%D1%80%D0%BA%D1%83%D0%BB%D0%BE%D0%B7%D0%B0" title="Туберкулоза" lang="bg" hreflang="bg">Български</a></li>
+			<li class="interwiki-bjn"><a href="//bjn.wikipedia.org/wiki/T%C3%A9r%C3%A9ng" title="Téréng" lang="bjn" hreflang="bjn">Bahasa Banjar</a></li>
+			<li class="interwiki-bm"><a href="//bm.wikipedia.org/wiki/S%C9%94g%C9%94s%C9%94g%C9%94nic%C9%9B" title="Sɔgɔsɔgɔnicɛ" lang="bm" hreflang="bm">Bamanankan</a></li>
+			<li class="interwiki-bn"><a href="//bn.wikipedia.org/wiki/%E0%A6%AF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%8D%E0%A6%AE%E0%A6%BE" title="যক্ষ্মা" lang="bn" hreflang="bn">বাংলা</a></li>
+			<li class="interwiki-bo"><a href="//bo.wikipedia.org/wiki/%E0%BD%82%E0%BE%B3%E0%BD%BC%E0%BC%8B%E0%BD%82%E0%BD%85%E0%BD%BC%E0%BD%84%E0%BC%8B%E0%BD%82%E0%BD%B2%E0%BC%8B%E0%BD%93%E0%BD%91%E0%BC%8D" title="གློ་གཅོང་གི་ནད།" lang="bo" hreflang="bo">བོད་ཡིག</a></li>
+			<li class="interwiki-bs"><a href="//bs.wikipedia.org/wiki/Tuberkuloza" title="Tuberkuloza" lang="bs" hreflang="bs">Bosanski</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Tuberculosi" title="Tuberculosi" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-ckb"><a href="//ckb.wikipedia.org/wiki/%D8%AF%DB%95%D8%B1%D8%AF%DB%95%D8%A8%D8%A7%D8%B1%DB%8C%DA%A9%DB%95" title="دەردەباریکە" lang="ckb" hreflang="ckb">کوردی</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/Tuberkul%C3%B3za" title="Tuberkulóza" lang="cs" hreflang="cs">Česky</a></li>
+			<li class="interwiki-cv"><a href="//cv.wikipedia.org/wiki/%D0%A2%D1%83%D0%B1%D0%B5%D1%80%D0%BA%D1%83%D0%BB%D1%91%D0%B7" title="Туберкулёз" lang="cv" hreflang="cv">Чӑвашла</a></li>
+			<li class="interwiki-cy"><a href="//cy.wikipedia.org/wiki/Dici%C3%A2u" title="Diciâu" lang="cy" hreflang="cy">Cymraeg</a></li>
+			<li class="interwiki-da"><a href="//da.wikipedia.org/wiki/Tuberkulose" title="Tuberkulose" lang="da" hreflang="da">Dansk</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Tuberkulose" title="Tuberkulose" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-el"><a href="//el.wikipedia.org/wiki/%CE%A6%CF%85%CE%BC%CE%B1%CF%84%CE%AF%CF%89%CF%83%CE%B7" title="Φυματίωση" lang="el" hreflang="el">Ελληνικά</a></li>
+			<li class="interwiki-en"><a href="//en.wikipedia.org/wiki/Tuberculosis" title="Tuberculosis" lang="en" hreflang="en">English</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Tuberkulozo" title="Tuberkulozo" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Tuberculosis" title="Tuberculosis" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-et"><a href="//et.wikipedia.org/wiki/Tuberkuloos" title="Tuberkuloos" lang="et" hreflang="et">Eesti</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Tuberkulosi" title="Tuberkulosi" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%B3%D9%84" title="سل" lang="fa" hreflang="fa">فارسی</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Tuberkuloosi" title="Tuberkuloosi" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-fiu-vro"><a href="//fiu-vro.wikipedia.org/wiki/Tiisikus" title="Tiisikus" lang="fiu-vro" hreflang="fiu-vro">Võro</a></li>
+			<li class="interwiki-fo"><a href="//fo.wikipedia.org/wiki/Tuberklar" title="Tuberklar" lang="fo" hreflang="fo">Føroyskt</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Tuberculose" title="Tuberculose" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-fy"><a href="//fy.wikipedia.org/wiki/Tuberkuloaze" title="Tuberkuloaze" lang="fy" hreflang="fy">Frysk</a></li>
+			<li class="interwiki-ga"><a href="//ga.wikipedia.org/wiki/Eitinn" title="Eitinn" lang="ga" hreflang="ga">Gaeilge</a></li>
+			<li class="interwiki-gd"><a href="//gd.wikipedia.org/wiki/A%27_Chaitheamh" title="A' Chaitheamh" lang="gd" hreflang="gd">Gàidhlig</a></li>
+			<li class="interwiki-gl"><a href="//gl.wikipedia.org/wiki/Tuberculose" title="Tuberculose" lang="gl" hreflang="gl">Galego</a></li>
+			<li class="interwiki-gn"><a href="//gn.wikipedia.org/wiki/Mba%27asy_po%27i" title="Mba'asy po'i" lang="gn" hreflang="gn">Avañe'ẽ</a></li>
+			<li class="interwiki-gu"><a href="//gu.wikipedia.org/wiki/%E0%AA%95%E0%AB%8D%E0%AA%B7%E0%AA%AF_%E0%AA%B0%E0%AB%8B%E0%AA%97" title="ક્ષય રોગ" lang="gu" hreflang="gu">ગુજરાતી</a></li>
+			<li class="interwiki-gv"><a href="//gv.wikipedia.org/wiki/Gorley_shymlee" title="Gorley shymlee" lang="gv" hreflang="gv">Gaelg</a></li>
+			<li class="interwiki-hak"><a href="//hak.wikipedia.org/wiki/Pot-th%C3%A2m-f%C3%B3" title="Pot-thâm-fó" lang="hak" hreflang="hak">Hak-kâ-fa</a></li>
+			<li class="interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%A9%D7%97%D7%A4%D7%AA" title="שחפת" lang="he" hreflang="he">עברית</a></li>
+			<li class="interwiki-hi"><a href="//hi.wikipedia.org/wiki/%E0%A4%A4%E0%A4%AA%E0%A5%87%E0%A4%A6%E0%A4%BF%E0%A4%95" title="तपेदिक" lang="hi" hreflang="hi">हिन्दी</a></li>
+			<li class="interwiki-hr"><a href="//hr.wikipedia.org/wiki/Su%C5%A1ica" title="Sušica" lang="hr" hreflang="hr">Hrvatski</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/G%C3%BCm%C5%91k%C3%B3r" title="Gümőkór" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-hy"><a href="//hy.wikipedia.org/wiki/%D5%8F%D5%B8%D6%82%D5%A2%D5%A5%D6%80%D5%AF%D5%B8%D6%82%D5%AC%D5%B8%D5%A6" title="Տուբերկուլոզ" lang="hy" hreflang="hy">Հայերեն</a></li>
+			<li class="interwiki-ia"><a href="//ia.wikipedia.org/wiki/Tuberculosis" title="Tuberculosis" lang="ia" hreflang="ia">Interlingua</a></li>
+			<li class="interwiki-id"><a href="//id.wikipedia.org/wiki/Tuberkulosis" title="Tuberkulosis" lang="id" hreflang="id">Bahasa Indonesia</a></li>
+			<li class="interwiki-ilo"><a href="//ilo.wikipedia.org/wiki/Daig" title="Daig" lang="ilo" hreflang="ilo">Ilokano</a></li>
+			<li class="interwiki-io"><a href="//io.wikipedia.org/wiki/Tuberkloso" title="Tuberkloso" lang="io" hreflang="io">Ido</a></li>
+			<li class="interwiki-is"><a href="//is.wikipedia.org/wiki/Berklar" title="Berklar" lang="is" hreflang="is">Íslenska</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Tubercolosi" title="Tubercolosi" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-jv"><a href="//jv.wikipedia.org/wiki/Tuberkulosis" title="Tuberkulosis" lang="jv" hreflang="jv">Basa Jawa</a></li>
+			<li class="interwiki-ka"><a href="//ka.wikipedia.org/wiki/%E1%83%A2%E1%83%A3%E1%83%91%E1%83%94%E1%83%A0%E1%83%99%E1%83%A3%E1%83%9A%E1%83%9D%E1%83%96%E1%83%98" title="ტუბერკულოზი" lang="ka" hreflang="ka">ქართული</a></li>
+			<li class="interwiki-kk"><a href="//kk.wikipedia.org/wiki/%D0%A2%D1%83%D0%B1%D0%B5%D1%80%D0%BA%D1%83%D0%BB%D0%B5%D0%B7" title="Туберкулез" lang="kk" hreflang="kk">Қазақша</a></li>
+			<li class="interwiki-kn"><a href="//kn.wikipedia.org/wiki/%E0%B2%95%E0%B3%8D%E0%B2%B7%E0%B2%AF" title="ಕ್ಷಯ" lang="kn" hreflang="kn">ಕನ್ನಡ</a></li>
+			<li class="interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EA%B2%B0%ED%95%B5" title="결핵" lang="ko" hreflang="ko">한국어</a></li>
+			<li class="interwiki-ku"><a href="//ku.wikipedia.org/wiki/Tuberkuloz" title="Tuberkuloz" lang="ku" hreflang="ku">Kurdî</a></li>
+			<li class="interwiki-ky"><a href="//ky.wikipedia.org/wiki/%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%BA_%D1%83%D1%87%D1%83%D0%BA" title="Кургак учук" lang="ky" hreflang="ky">Кыргызча</a></li>
+			<li class="interwiki-la"><a href="//la.wikipedia.org/wiki/Phthisis" title="Phthisis" lang="la" hreflang="la">Latina</a></li>
+			<li class="interwiki-lb"><a href="//lb.wikipedia.org/wiki/Tuberkulos" title="Tuberkulos" lang="lb" hreflang="lb">Lëtzebuergesch</a></li>
+			<li class="interwiki-ln"><a href="//ln.wikipedia.org/wiki/Tib%C3%A9lekilosi" title="Tibélekilosi" lang="ln" hreflang="ln">Lingála</a></li>
+			<li class="interwiki-lt"><a href="//lt.wikipedia.org/wiki/Tuberkulioz%C4%97" title="Tuberkuliozė" lang="lt" hreflang="lt">Lietuvių</a></li>
+			<li class="interwiki-lv"><a href="//lv.wikipedia.org/wiki/Tuberkuloze" title="Tuberkuloze" lang="lv" hreflang="lv">Latviešu</a></li>
+			<li class="interwiki-mk"><a href="//mk.wikipedia.org/wiki/%D0%A2%D1%83%D0%B1%D0%B5%D1%80%D0%BA%D1%83%D0%BB%D0%BE%D0%B7%D0%B0" title="Туберкулоза" lang="mk" hreflang="mk">Македонски</a></li>
+			<li class="interwiki-ml"><a href="//ml.wikipedia.org/wiki/%E0%B4%95%E0%B5%8D%E0%B4%B7%E0%B4%AF%E0%B4%82" title="ക്ഷയം" lang="ml" hreflang="ml">മലയാളം</a></li>
+			<li class="interwiki-mn"><a href="//mn.wikipedia.org/wiki/%D0%A1%D2%AF%D1%80%D1%8C%D0%B5%D1%8D" title="Сүрьеэ" lang="mn" hreflang="mn">Монгол</a></li>
+			<li class="interwiki-mr"><a href="//mr.wikipedia.org/wiki/%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%AF_%E0%A4%B0%E0%A5%8B%E0%A4%97" title="क्षय रोग" lang="mr" hreflang="mr">मराठी</a></li>
+			<li class="interwiki-ms"><a href="//ms.wikipedia.org/wiki/Batuk_kering" title="Batuk kering" lang="ms" hreflang="ms">Bahasa Melayu</a></li>
+			<li class="interwiki-mt"><a href="//mt.wikipedia.org/wiki/Tuberkulo%C5%BCi" title="Tuberkulożi" lang="mt" hreflang="mt">Malti</a></li>
+			<li class="interwiki-my"><a href="//my.wikipedia.org/wiki/%E1%80%90%E1%80%AE%E1%80%98%E1%80%AE%E1%80%9B%E1%80%B1%E1%80%AC%E1%80%82%E1%80%AB" title="တီဘီရောဂါ" lang="my" hreflang="my">မြန်မာဘာသာ</a></li>
+			<li class="interwiki-nah"><a href="//nah.wikipedia.org/wiki/T%C4%93tz%C4%81uhcocoliztli" title="Tētzāuhcocoliztli" lang="nah" hreflang="nah">Nāhuatl</a></li>
+			<li class="interwiki-ne"><a href="//ne.wikipedia.org/wiki/%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%AF%E0%A4%B0%E0%A5%8B%E0%A4%97" title="क्षयरोग" lang="ne" hreflang="ne">नेपाली</a></li>
+			<li class="interwiki-new"><a href="//new.wikipedia.org/wiki/%E0%A4%97%E0%A4%82%E0%A4%B2%E0%A5%8D%E0%A4%B5%E0%A4%AF%E0%A5%8D" title="गंल्वय्" lang="new" hreflang="new">नेपाल भाषा</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Tuberculose" title="Tuberculose" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-nn"><a href="//nn.wikipedia.org/wiki/Tuberkulose" title="Tuberkulose" lang="nn" hreflang="nn">Norsk nynorsk</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Tuberkulose" title="Tuberkulose" lang="no" hreflang="no">Norsk bokmål</a></li>
+			<li class="interwiki-nv"><a href="//nv.wikipedia.org/wiki/J%C3%A9%C3%AD%CA%BC%C3%A1d%C4%AF%C4%AFh" title="Jéíʼádįįh" lang="nv" hreflang="nv">Diné bizaad</a></li>
+			<li class="interwiki-oc"><a href="//oc.wikipedia.org/wiki/Tubercul%C3%B2si" title="Tuberculòsi" lang="oc" hreflang="oc">Occitan</a></li>
+			<li class="interwiki-or"><a href="//or.wikipedia.org/wiki/%E0%AC%AF%E0%AC%95%E0%AD%8D%E0%AC%B7%E0%AD%8D%E0%AC%AE%E0%AC%BE" title="ଯକ୍ଷ୍ମା" lang="or" hreflang="or">ଓଡ଼ିଆ</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Gru%C5%BAlica" title="Gruźlica" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pnb"><a href="//pnb.wikipedia.org/wiki/%D9%B9%DB%8C_%D8%A8%DB%8C" title="ٹی بی" lang="pnb" hreflang="pnb">پنجابی</a></li>
+			<li class="interwiki-ps"><a href="//ps.wikipedia.org/wiki/%D9%86%D8%B1%DB%8C_%D8%B1%D9%86%DA%81" title="نری رنځ" lang="ps" hreflang="ps">پښتو</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Tuberculose" title="Tuberculose" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-qu"><a href="//qu.wikipedia.org/wiki/Qhaqya_unquy" title="Qhaqya unquy" lang="qu" hreflang="qu">Runa Simi</a></li>
+			<li class="interwiki-ro"><a href="//ro.wikipedia.org/wiki/Tuberculoz%C4%83" title="Tuberculoză" lang="ro" hreflang="ro">Română</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%A2%D1%83%D0%B1%D0%B5%D1%80%D0%BA%D1%83%D0%BB%D1%91%D0%B7" title="Туберкулёз" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-rue"><a href="//rue.wikipedia.org/wiki/%D0%A1%D1%83%D1%85%D0%BE%D1%82%D1%8B" title="Сухоты" lang="rue" hreflang="rue">Русиньскый</a></li>
+			<li class="interwiki-sa"><a href="//sa.wikipedia.org/wiki/%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%AF%E0%A4%B0%E0%A5%8B%E0%A4%97%E0%A4%83" title="क्षयरोगः" lang="sa" hreflang="sa">संस्कृतम्</a></li>
+			<li class="interwiki-sah"><a href="//sah.wikipedia.org/wiki/%D0%A1%D1%8D%D0%BB%D0%BB%D0%B8%D0%BA" title="Сэллик" lang="sah" hreflang="sah">Саха тыла</a></li>
+			<li class="interwiki-scn"><a href="//scn.wikipedia.org/wiki/Tubbirculosi" title="Tubbirculosi" lang="scn" hreflang="scn">Sicilianu</a></li>
+			<li class="interwiki-sh"><a href="//sh.wikipedia.org/wiki/Tuberkuloza" title="Tuberkuloza" lang="sh" hreflang="sh">Srpskohrvatski / српскохрватски</a></li>
+			<li class="interwiki-si"><a href="//si.wikipedia.org/wiki/%E0%B6%9A%E0%B7%8A%E2%80%8D%E0%B7%82%E0%B6%BA_%E0%B6%BB%E0%B7%9D%E0%B6%9C%E0%B6%BA" title="ක්‍ෂය රෝගය" lang="si" hreflang="si">සිංහල</a></li>
+			<li class="interwiki-simple"><a href="//simple.wikipedia.org/wiki/Tuberculosis" title="Tuberculosis" lang="simple" hreflang="simple">Simple English</a></li>
+			<li class="interwiki-sk"><a href="//sk.wikipedia.org/wiki/Tuberkul%C3%B3za" title="Tuberkulóza" lang="sk" hreflang="sk">Slovenčina</a></li>
+			<li class="interwiki-sl"><a href="//sl.wikipedia.org/wiki/Tuberkuloza" title="Tuberkuloza" lang="sl" hreflang="sl">Slovenščina</a></li>
+			<li class="interwiki-sq"><a href="//sq.wikipedia.org/wiki/Tuberkulozi" title="Tuberkulozi" lang="sq" hreflang="sq">Shqip</a></li>
+			<li class="interwiki-sr"><a href="//sr.wikipedia.org/wiki/%D0%A2%D1%83%D0%B1%D0%B5%D1%80%D0%BA%D1%83%D0%BB%D0%BE%D0%B7%D0%B0" title="Туберкулоза" lang="sr" hreflang="sr">Српски / srpski</a></li>
+			<li class="interwiki-su"><a href="//su.wikipedia.org/wiki/Tuberkulosis" title="Tuberkulosis" lang="su" hreflang="su">Basa Sunda</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Tuberkulos" title="Tuberkulos" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-sw"><a href="//sw.wikipedia.org/wiki/Kifua_kikuu" title="Kifua kikuu" lang="sw" hreflang="sw">Kiswahili</a></li>
+			<li class="interwiki-szl"><a href="//szl.wikipedia.org/wiki/Tubera" title="Tubera" lang="szl" hreflang="szl">Ślůnski</a></li>
+			<li class="interwiki-ta"><a href="//ta.wikipedia.org/wiki/%E0%AE%95%E0%AE%BE%E0%AE%9A_%E0%AE%A8%E0%AF%8B%E0%AE%AF%E0%AF%8D" title="காச நோய்" lang="ta" hreflang="ta">தமிழ்</a></li>
+			<li class="interwiki-te"><a href="//te.wikipedia.org/wiki/%E0%B0%95%E0%B1%8D%E0%B0%B7%E0%B0%AF" title="క్షయ" lang="te" hreflang="te">తెలుగు</a></li>
+			<li class="interwiki-th"><a href="//th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%93%E0%B9%82%E0%B8%A3%E0%B8%84" title="วัณโรค" lang="th" hreflang="th">ไทย</a></li>
+			<li class="interwiki-tk"><a href="//tk.wikipedia.org/wiki/In%C3%A7ekesel" title="Inçekesel" lang="tk" hreflang="tk">Türkmençe</a></li>
+			<li class="interwiki-tl"><a href="//tl.wikipedia.org/wiki/Tuberkulosis" title="Tuberkulosis" lang="tl" hreflang="tl">Tagalog</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/Verem" title="Verem" lang="tr" hreflang="tr">Türkçe</a></li>
+			<li class="interwiki-tt"><a href="//tt.wikipedia.org/wiki/%D0%A2%D1%83%D0%B1%D0%B5%D1%80%D0%BA%D1%83%D0%BB%D0%B5%D0%B7" title="Туберкулез" lang="tt" hreflang="tt">Татарча/tatarça</a></li>
+			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%A2%D1%83%D0%B1%D0%B5%D1%80%D0%BA%D1%83%D0%BB%D1%8C%D0%BE%D0%B7" title="Туберкульоз" lang="uk" hreflang="uk">Українська</a></li>
+			<li class="interwiki-ur"><a href="//ur.wikipedia.org/wiki/%D8%B3%D9%84" title="سل" lang="ur" hreflang="ur">اردو</a></li>
+			<li class="interwiki-uz"><a href="//uz.wikipedia.org/wiki/Sil" title="Sil" lang="uz" hreflang="uz">Oʻzbekcha</a></li>
+			<li class="interwiki-vi"><a href="//vi.wikipedia.org/wiki/Lao" title="Lao" lang="vi" hreflang="vi">Tiếng Việt</a></li>
+			<li class="interwiki-wa"><a href="//wa.wikipedia.org/wiki/Pitizeye_des_djins" title="Pitizeye des djins" lang="wa" hreflang="wa">Walon</a></li>
+			<li class="interwiki-war"><a href="//war.wikipedia.org/wiki/Tuberculosis" title="Tuberculosis" lang="war" hreflang="war">Winaray</a></li>
+			<li class="interwiki-yi"><a href="//yi.wikipedia.org/wiki/%D7%98%D7%95%D7%91%D7%A2%D7%A8%D7%A7%D7%95%D7%9C%D7%90%D7%96" title="טובערקולאז" lang="yi" hreflang="yi">ייִדיש</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E7%B5%90%E6%A0%B8" title="結核" lang="zh" hreflang="zh">中文</a></li>
+			<li class="interwiki-zh-min-nan"><a href="//zh-min-nan.wikipedia.org/wiki/H%C3%AC-l%C3%B4-p%C4%93%E2%81%BF" title="Hì-lô-pēⁿ" lang="zh-min-nan" hreflang="zh-min-nan">Bân-lâm-gú</a></li>
+			<li class="interwiki-zh-yue"><a href="//zh-yue.wikipedia.org/wiki/%E8%82%BA%E7%99%86" title="肺癆" lang="zh-yue" hreflang="zh-yue">粵語</a></li>
+			<li class="uls-p-lang-dummy"><a href="#"></a></li>
+			<li class="wbc-editpage"><a href="//www.wikidata.org/wiki/Q12204#sitelinks-wikipedia" title="言語間リンクを編集する">リンクを編集</a></li>
+		</ul>
+	</div>
+</div>
+			</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> 最終更新 2013年5月6日 (月) 22:18 （日時は<a href="/wiki/%E7%89%B9%E5%88%A5:%E5%80%8B%E4%BA%BA%E8%A8%AD%E5%AE%9A" title="特別:個人設定">個人設定</a>で未設定ならば<a href="/wiki/%E5%8D%94%E5%AE%9A%E4%B8%96%E7%95%8C%E6%99%82" title="協定世界時">UTC</a>）。<br /></li>
+											<li id="footer-info-copyright">テキストは<a href="//ja.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">クリエイティブ・コモンズ 表示-継承ライセンス</a>の下で利用可能です。追加の条件が適用される場合があります。詳細は<a href="//wikimediafoundation.org/wiki/%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84">利用規約</a>を参照してください。<br /></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC%E3%83%BB%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC" title="wikimedia:プライバシー・ポリシー">プライバシー・ポリシー</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%9A%E3%83%87%E3%82%A3%E3%82%A2%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6" title="Wikipedia:ウィキペディアについて">ウィキペディアについて</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:%E5%85%8D%E8%B2%AC%E4%BA%8B%E9%A0%85" title="Wikipedia:免責事項">免責事項</a></li>
+											<li id="footer-places-mobileview"><a href="//ja.m.wikipedia.org/wiki/%E7%B5%90%E6%A0%B8" class="noprint stopMobileRedirectToggle">モバイルビュー</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.22wmf9/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.WikiMiniAtlas","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.navigationTiming","mw.PopUpMediaTransform"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/ja.wikipedia.org/load.php?debug=false&amp;lang=ja&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by mw1029 in 0.261 secs. -->
+	</body>
+</html>

@@ -1,0 +1,1088 @@
+﻿<!DOCTYPE html>
+<html lang="ja" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>高血圧 - Wikipedia</title>
+<meta name="generator" content="MediaWiki 1.22wmf9" />
+<link rel="alternate" type="application/x-wiki" title="編集" href="/w/index.php?title=%E9%AB%98%E8%A1%80%E5%9C%A7&amp;action=edit" />
+<link rel="edit" title="編集" href="/w/index.php?title=%E9%AB%98%E8%A1%80%E5%9C%A7&amp;action=edit" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (ja)" />
+<link rel="EditURI" type="application/rsd+xml" href="//ja.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="WikipediaのAtomフィード" href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E6%9C%80%E8%BF%91%E3%81%AE%E6%9B%B4%E6%96%B0&amp;feed=atom" />
+<link rel="canonical" href="/wiki/%E9%AB%98%E8%A1%80%E5%9C%A7" />
+<link rel="stylesheet" href="//bits.wikimedia.org/ja.wikipedia.org/load.php?debug=false&amp;lang=ja&amp;modules=ext.gadget.WikiMiniAtlas%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmw.PopUpMediaTransform%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/ja.wikipedia.org/load.php?debug=false&amp;lang=ja&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: jawiki:resourceloader:filter:minify-css:7:88044ad88990661c9a83e63d97bb215d */</style>
+
+<script src="//bits.wikimedia.org/ja.wikipedia.org/load.php?debug=false&amp;lang=ja&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"高血圧","wgTitle":"高血圧","wgCurRevisionId":47991824,"wgArticleId":27467,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["出典を必要とする記述のある記事/2011年7月","症候","高血圧","労働安全","労働災害","医学関連のスタブ項目"],"wgBreakFrames":false,"wgPageContentLanguage":"ja","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"ja","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"高血圧","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"高血圧症","wgVectorEnabledModules":{"collapsiblenav":true,"expandablesearch":false,"footercleanup":false,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"ja","pageLanguageDir":"ltr","magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf9/skins/common/images/magnify-clip.png"},"wikilove-recipient":"","wikilove-anon":0,"wgULSAcceptLanguageList":[],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","wgWikibaseItemId":"q41861"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,
+"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"uls-preferences":"","variant":"ja","language":"ja","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs102":false,"searchNs103":false,"searchNs828":false,"searchNs829":false,"gadget-mySandbox":1,"gadget-WikiMiniAtlas":1,"gadget-ReferenceTooltips":1});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: jawiki:resourceloader:filter:minify-js:7:e81032cacd79c697a43bc41dd0303860 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf9/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-高血圧 skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="ja"><span dir="auto">高血圧</span></h1>
+			<div id="bodyContent">
+								<div id="siteSub">出典: フリー百科事典『ウィキペディア（Wikipedia）』</div>
+								<div id="contentSub">（<a href="/w/index.php?title=%E9%AB%98%E8%A1%80%E5%9C%A7%E7%97%87&amp;redirect=no" title="高血圧症">高血圧症</a>から転送）</div>
+																<div id="jump-to-nav" class="mw-jump">
+					移動:					<a href="#mw-navigation">案内</a>、					<a href="#p-search">検索</a>
+				</div>
+								<div id="mw-content-text" lang="ja" dir="ltr" class="mw-content-ltr"><table class="infobox" style="width:22em;">
+<tr>
+<th colspan="2" style="text-align:center; font-size:125%; font-weight:bold; background-color: lightgrey">高血圧</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">分類及び外部参照情報</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Grade_1_hypertension.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Grade_1_hypertension.jpg/230px-Grade_1_hypertension.jpg" width="230" height="153" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Grade_1_hypertension.jpg/345px-Grade_1_hypertension.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/47/Grade_1_hypertension.jpg/460px-Grade_1_hypertension.jpg 2x" /></a>
+<div style="">動脈性高血圧を示している<a href="/wiki/%E8%A1%80%E5%9C%A7%E8%A8%88#.E8.87.AA.E5.8B.95.E8.A1.80.E5.9C.A7.E8.A8.88" title="血圧計">自動血圧計</a>(158mmHgの最高血圧、99mmHgの最低血圧、80bpmの<a href="/wiki/%E5%BF%83%E6%8B%8D%E6%95%B0" title="心拍数">心拍数</a>を表示している)</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left; white-space:nowrap;"><a href="/wiki/%E7%96%BE%E7%97%85%E5%8F%8A%E3%81%B3%E9%96%A2%E9%80%A3%E4%BF%9D%E5%81%A5%E5%95%8F%E9%A1%8C%E3%81%AE%E5%9B%BD%E9%9A%9B%E7%B5%B1%E8%A8%88%E5%88%86%E9%A1%9E" title="疾病及び関連保健問題の国際統計分類">ICD</a>-<a href="//en.wikipedia.org/wiki/ICD-10#List" class="extiw" title="en:ICD-10">10</a></th>
+<td><a href="//en.wikipedia.org/wiki/ICD-10_Chapter_I" class="extiw" title="en:ICD-10 Chapter I">I</a><a rel="nofollow" class="external text" href="http://apps.who.int/classifications/apps/icd/icd10online/?gi10.htm+i10">10.</a>,<a href="//en.wikipedia.org/wiki/ICD-10_Chapter_I" class="extiw" title="en:ICD-10 Chapter I">I</a><a rel="nofollow" class="external text" href="http://apps.who.int/classifications/apps/icd/icd10online/?gi10.htm+i11">11.</a>,<a href="//en.wikipedia.org/wiki/ICD-10_Chapter_I" class="extiw" title="en:ICD-10 Chapter I">I</a><a rel="nofollow" class="external text" href="http://apps.who.int/classifications/apps/icd/icd10online/?gi10.htm+i12">12.</a>,<br />
+<a href="//en.wikipedia.org/wiki/ICD-10_Chapter_I" class="extiw" title="en:ICD-10 Chapter I">I</a><a rel="nofollow" class="external text" href="http://apps.who.int/classifications/apps/icd/icd10online/?gi10.htm+i13">13.</a>,<a href="//en.wikipedia.org/wiki/ICD-10_Chapter_I" class="extiw" title="en:ICD-10 Chapter I">I</a><a rel="nofollow" class="external text" href="http://apps.who.int/classifications/apps/icd/icd10online/?gi10.htm+i15">15.</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left; white-space:nowrap;"><a href="/wiki/%E7%96%BE%E7%97%85%E5%8F%8A%E3%81%B3%E9%96%A2%E9%80%A3%E4%BF%9D%E5%81%A5%E5%95%8F%E9%A1%8C%E3%81%AE%E5%9B%BD%E9%9A%9B%E7%B5%B1%E8%A8%88%E5%88%86%E9%A1%9E" title="疾病及び関連保健問題の国際統計分類">ICD</a>-<a href="//en.wikipedia.org/wiki/List_of_ICD-9_codes" class="extiw" title="en:List of ICD-9 codes">9</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.icd9data.com/getICD9Code.ashx?icd9=401.x">401.x</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left; white-space:nowrap;"><a href="//en.wikipedia.org/wiki/Mendelian_Inheritance_in_Man" class="extiw" title="en:Mendelian Inheritance in Man">OMIM</a></th>
+<td><a rel="nofollow" class="external text" href="http://omim.org/entry/145500">145500</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left; white-space:nowrap;"><a href="//en.wikipedia.org/wiki/Diseases_Database" class="extiw" title="en:Diseases Database">DiseasesDB</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.diseasesdatabase.com/ddb6330.htm">6330</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left; white-space:nowrap;"><a href="/wiki/MedlinePlus" title="MedlinePlus">MedlinePlus</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.nlm.nih.gov/medlineplus/ency/article/000468.htm">000468</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left; white-space:nowrap;"><a href="//en.wikipedia.org/wiki/eMedicine" class="extiw" title="en:eMedicine">eMedicine</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.emedicine.com/med/topic1106.htm">med/1106</a> <a rel="nofollow" class="external text" href="http://www.emedicine.com/ped/topic1097.htm#">ped/1097</a> <a rel="nofollow" class="external text" href="http://www.emedicine.com/emerg/topic267.htm#">emerg/267</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left; white-space:nowrap;"><a href="/wiki/MeSH" title="MeSH">MeSH</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.nlm.nih.gov/cgi/mesh/2011/MB_cgi?field=uid&amp;term=D006973">D006973</a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center; border-top: 1px solid #aaa;"><a href="/wiki/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88:%E7%97%85%E6%B0%97" title="プロジェクト:病気">プロジェクト:病気</a>／<a href="/wiki/Portal:%E5%8C%BB%E5%AD%A6%E3%81%A8%E5%8C%BB%E7%99%82" title="Portal:医学と医療">Portal:医学と医療</a></td>
+</tr>
+<tr class="noprint">
+<td colspan="2" style="text-align:right; font-size:85%;"><a href="/wiki/Template:Infobox_Disease" title="Template:Infobox Disease">テンプレートを表示</a></td>
+</tr>
+</table>
+<p><b>高血圧</b>（こうけつあつ、Hypertension）とは、<a href="/wiki/%E8%A1%80%E5%9C%A7" title="血圧">血圧</a>が正常範囲を超えて高く維持されている状態である。高血圧自体の自覚症状は何もないことが多いが、<a href="/wiki/%E8%99%9A%E8%A1%80%E6%80%A7%E5%BF%83%E7%96%BE%E6%82%A3" title="虚血性心疾患">虚血性心疾患</a>、<a href="/wiki/%E8%84%B3%E5%8D%92%E4%B8%AD" title="脳卒中" class="mw-redirect">脳卒中</a>、<a href="/wiki/%E8%85%8E%E4%B8%8D%E5%85%A8" title="腎不全">腎不全</a>などの発症リスクとなる点で臨床的な意義は大きい。<a href="/wiki/%E7%94%9F%E6%B4%BB%E7%BF%92%E6%85%A3%E7%97%85" title="生活習慣病">生活習慣病</a>のひとつであり、<a href="/wiki/%E8%82%A5%E6%BA%80" title="肥満">肥満</a>、<a href="/wiki/%E9%AB%98%E8%84%82%E8%A1%80%E7%97%87" title="高脂血症" class="mw-redirect">高脂血症</a>、<a href="/wiki/%E7%B3%96%E5%B0%BF%E7%97%85" title="糖尿病">糖尿病</a>との合併は「死の四重奏」「syndrome X」「インスリン抵抗性症候群」などと称されていた。これらは現在<a href="/wiki/%E3%83%A1%E3%82%BF%E3%83%9C%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B7%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%A0" title="メタボリックシンドローム">メタボリックシンドローム</a>と呼ばれる。</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>目次</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#.E5.AE.9A.E7.BE.A9.EF.BC.88.E8.A8.BA.E6.96.AD.EF.BC.89"><span class="tocnumber">1</span> <span class="toctext">定義（診断）</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#.E5.8E.9F.E5.9B.A0"><span class="tocnumber">2</span> <span class="toctext">原因</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#.E5.88.86.E9.A1.9E"><span class="tocnumber">3</span> <span class="toctext">分類</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#.E6.9C.AC.E6.85.8B.E6.80.A7.E9.AB.98.E8.A1.80.E5.9C.A7.E7.97.87"><span class="tocnumber">3.1</span> <span class="toctext">本態性高血圧症</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#.E4.BA.8C.E6.AC.A1.E6.80.A7.E9.AB.98.E8.A1.80.E5.9C.A7"><span class="tocnumber">3.2</span> <span class="toctext">二次性高血圧</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#.E9.AB.98.E8.A1.80.E5.9C.A7.E3.81.AE.E5.90.88.E4.BD.B5.E7.97.87"><span class="tocnumber">4</span> <span class="toctext">高血圧の合併症</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#.E8.84.B3.E8.A1.80.E7.AE.A1.E9.9A.9C.E5.AE.B3"><span class="tocnumber">4.1</span> <span class="toctext">脳血管障害</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#.E5.BF.83.E8.87.93.E7.96.BE.E6.82.A3"><span class="tocnumber">4.2</span> <span class="toctext">心臓疾患</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#.E8.85.8E.E8.87.93.E7.96.BE.E6.82.A3"><span class="tocnumber">4.3</span> <span class="toctext">腎臓疾患</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#.E8.A1.80.E7.AE.A1.E7.96.BE.E6.82.A3"><span class="tocnumber">4.4</span> <span class="toctext">血管疾患</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#.E6.80.A5.E6.80.A7.E7.97.87.E7.8A.B6"><span class="tocnumber">4.5</span> <span class="toctext">急性症状</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#.E4.BB.A3.E8.AC.9D.E5.86.85.E5.88.86.E6.B3.8C.E7.96.BE.E6.82.A3"><span class="tocnumber">4.6</span> <span class="toctext">代謝内分泌疾患</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#.E8.A8.BA.E6.96.AD"><span class="tocnumber">5</span> <span class="toctext">診断</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#.E7.AE.A1.E7.90.86.E3.83.BB.E6.B2.BB.E7.99.82"><span class="tocnumber">6</span> <span class="toctext">管理・治療</span></a>
+<ul>
+<li class="toclevel-2 tocsection-15"><a href="#.E8.96.AC.E7.89.A9.E7.99.82.E6.B3.95.EF.BC.88.E9.99.8D.E5.9C.A7.E8.96.AC.EF.BC.89"><span class="tocnumber">6.1</span> <span class="toctext">薬物療法（降圧薬）</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#.E9.A3.9F.E4.BA.8B.E7.99.82.E6.B3.95"><span class="tocnumber">6.2</span> <span class="toctext">食事療法</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#.E7.A6.81.E7.85.99"><span class="tocnumber">6.3</span> <span class="toctext">禁煙</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#.E7.94.9F.E6.B4.BB.E7.BF.92.E6.85.A3"><span class="tocnumber">6.4</span> <span class="toctext">生活習慣</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-19"><a href="#.E8.84.9A.E6.B3.A8"><span class="tocnumber">7</span> <span class="toctext">脚注</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#.E5.8F.82.E8.80.83.E6.96.87.E7.8C.AE"><span class="tocnumber">8</span> <span class="toctext">参考文献</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#.E9.96.A2.E9.80.A3.E9.A0.85.E7.9B.AE"><span class="tocnumber">9</span> <span class="toctext">関連項目</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#.E5.A4.96.E9.83.A8.E3.83.AA.E3.83.B3.E3.82.AF"><span class="tocnumber">10</span> <span class="toctext">外部リンク</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id=".E5.AE.9A.E7.BE.A9.EF.BC.88.E8.A8.BA.E6.96.AD.EF.BC.89">定義（診断）</span><span class="mw-editsection">[<a href="/w/index.php?title=%E9%AB%98%E8%A1%80%E5%9C%A7&amp;action=edit&amp;section=1" title="節を編集: 定義（診断）">編集</a>]</span></h2>
+<p><a href="/wiki/%E6%97%A5%E6%9C%AC%E9%AB%98%E8%A1%80%E5%9C%A7%E5%AD%A6%E4%BC%9A" title="日本高血圧学会">日本高血圧学会</a>では高血圧の基準を以下のように定めている。</p>
+<table border="1">
+<tr>
+<td>分類</td>
+<td><a href="/wiki/%E5%8F%8E%E7%B8%AE%E6%9C%9F%E8%A1%80%E5%9C%A7" title="収縮期血圧" class="mw-redirect">収縮期血圧</a>(<a href="/wiki/MmHg" title="MmHg" class="mw-redirect">mmHg</a>)</td>
+<td>　</td>
+<td><a href="/wiki/%E6%8B%A1%E5%BC%B5%E6%9C%9F%E8%A1%80%E5%9C%A7" title="拡張期血圧" class="mw-redirect">拡張期血圧</a>(mmHg)</td>
+</tr>
+<tr>
+<td>至適血圧</td>
+<td>＜120</td>
+<td>かつ</td>
+<td>＜80</td>
+</tr>
+<tr>
+<td>正常血圧</td>
+<td>＜130</td>
+<td>かつ</td>
+<td>＜85</td>
+</tr>
+<tr>
+<td>正常高値血圧</td>
+<td>130 - 139</td>
+<td>または</td>
+<td>85 - 89</td>
+</tr>
+<tr>
+<td>Ⅰ度(軽症)高血圧</td>
+<td>140 - 159</td>
+<td>または</td>
+<td>90 - 99</td>
+</tr>
+<tr>
+<td>Ⅱ度(中等症)高血圧</td>
+<td>160 - 179</td>
+<td>または</td>
+<td>100 - 109</td>
+</tr>
+<tr>
+<td>Ⅲ度(重症）高血圧</td>
+<td>≧180</td>
+<td>または</td>
+<td>≧110</td>
+</tr>
+<tr>
+<td>収縮期高血圧</td>
+<td>≧140</td>
+<td>かつ</td>
+<td>＜90</td>
+</tr>
+</table>
+<p>すなわち、<a href="/wiki/%E5%8F%8E%E7%B8%AE%E6%9C%9F%E8%A1%80%E5%9C%A7" title="収縮期血圧" class="mw-redirect">収縮期血圧</a>が140以上または<a href="/wiki/%E6%8B%A1%E5%BC%B5%E6%9C%9F%E8%A1%80%E5%9C%A7" title="拡張期血圧" class="mw-redirect">拡張期血圧</a>が90以上に保たれた状態が高血圧であるとされている。しかし、近年の研究では血圧は高ければ高いだけ合併症のリスクが高まるため、収縮期血圧で120未満が生体の血管にとって負担が少ない血圧レベルとされている。</p>
+<p>ここで注意すべきは、血圧が高い状態が持続することが問題となるのであり、運動時や緊張した場合などの一過性の高血圧についての言及ではないということである。高血圧の診断基準は数回の測定の平均値を対象としている。運動や精神的な興奮で一過性に血圧が上がるのは生理的な反応であり、これは高血圧の概念とはまた違うものである。</p>
+<p>血圧は1日の中でも変動している。そのため、計測する時間帯には正常値の基準を満たしているものの、その他のほとんどの時間帯には高血圧となっている場合がある。これを<b><a href="/wiki/%E4%BB%AE%E9%9D%A2%E9%AB%98%E8%A1%80%E5%9C%A7" title="仮面高血圧">仮面高血圧</a></b>と呼ぶ。また降圧剤が処方されている場合でも、その効果が切れている時間帯では安全域を外れている場合もある。この点にも留意する必要がある。逆に、普段は正常血圧なのに診察室で医師が測定すると血圧が上昇して、高血圧と診断されてしまう場合もあり、“<a href="/wiki/%E7%99%BD%E8%A1%A3%E9%AB%98%E8%A1%80%E5%9C%A7" title="白衣高血圧">白衣高血圧</a>”とよばれる。</p>
+<p>糖尿病患者では起立性<a href="/wiki/%E4%BD%8E%E8%A1%80%E5%9C%A7" title="低血圧">低血圧</a>の症例が有るため、座位だけでなく臥位・立位でも測定する。</p>
+<p>上腕の血圧測定結果で左右の血圧差が生じることがある。血圧差は、上腕動脈或いは鎖骨下動脈の病変に起因すると考えられ、差が10mmHg以上の患者は心血管疾患による死亡リスクが有意に高い<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>。また、家庭で測定を行う場合は高い側の腕で測定を行うことが推奨されている<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>。</p>
+<ul>
+<li>日本高血圧学会によれば「<b>家庭血圧測定条件設定の指針</b>」で、</li>
+</ul>
+<ol>
+<li>測定部位：上腕が推奨。手首、指血圧計の使用は避ける。</li>
+<li>朝の場合は、起床後1時間以内、排尿後、服薬前、朝食前の安静時、座位1 - 2分後に測定。</li>
+<li>夜の場合は就床前の安静時、座位1 - 2分後に測定。</li>
+<li>朝夜の、任意の期間の平均値と標準偏差によって評価。</li>
+<li>家庭血圧は135/85 mmHg以上は治療対象、125/75 mmHg未満を正常血圧。</li>
+</ol>
+<p>などとしている。</p>
+<dl>
+<dt>分類呼称について、</dt>
+</dl>
+<p>従来の分類呼称では、軽症／中等症／重症していたが、「軽症高血圧であってもリスクを層別化した際に高リスクと判定され、重症高血圧と同程度の治療を必要とする可能性が想定されている」事から、軽症をⅠ度／中等症をⅡ度／重症をⅢ度へと『高血圧治療ガイドライン2009』では変更している<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>。</p>
+<h2><span class="mw-headline" id=".E5.8E.9F.E5.9B.A0">原因</span><span class="mw-editsection">[<a href="/w/index.php?title=%E9%AB%98%E8%A1%80%E5%9C%A7&amp;action=edit&amp;section=2" title="節を編集: 原因">編集</a>]</span></h2>
+<p>高血圧は原因が明らかでない<a href="/w/index.php?title=%E6%9C%AC%E6%85%8B%E6%80%A7%E9%AB%98%E8%A1%80%E5%9C%A7%E7%97%87&amp;action=edit&amp;redlink=1" class="new" title="本態性高血圧症 (存在しないページ)">本態性高血圧症</a>と<a href="/wiki/%E3%83%9B%E3%83%AB%E3%83%A2%E3%83%B3" title="ホルモン">ホルモン</a>異常などによって生じる<a href="/w/index.php?title=%E4%BA%8C%E6%AC%A1%E6%80%A7%E9%AB%98%E8%A1%80%E5%9C%A7&amp;action=edit&amp;redlink=1" class="new" title="二次性高血圧 (存在しないページ)">二次性高血圧</a>に分類される。 本態性高血圧の原因は単一ではなく、両親から受け継いだ遺伝的素因が、生まれてから成長し、高齢化するまでの食事、ストレスなどの様々な環境因子によって修飾されて高血圧が発生するとされる（モザイク説）。</p>
+<ul>
+<li>動脈硬化症による脳内酸欠：一般的に病院で高血圧と診断される大部分の原因は、上行大動脈の動脈硬化症による脳内酸欠を防ぐため、血圧が上がっている状態のことをいう。</li>
+<li>遺伝：両親の一方あるいは両方が高血圧であると高血圧を発症しやすい。</li>
+<li>塩分：日本人の高血圧の発生には食塩過剰摂取の関与が強いとされる。日本人の食塩摂取量は1日平均12gであり、欧米人に比べて多い。日本人の食塩嗜好は野菜の漬け物、梅干し、魚の塩漬けなど日本独自の食生活と関連があるが、2004年版に発行された日本の<a href="/w/index.php?title=%E9%AB%98%E8%A1%80%E5%9C%A7%E6%B2%BB%E7%99%82%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3&amp;action=edit&amp;redlink=1" class="new" title="高血圧治療ガイドライン (存在しないページ)">高血圧治療ガイドライン</a>では1日6g未満という厳しい減塩を推奨している。食塩（塩化ナトリウム）だけでなく重曹（<a href="/wiki/%E7%82%AD%E9%85%B8%E6%B0%B4%E7%B4%A0%E3%83%8A%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0" title="炭酸水素ナトリウム">炭酸水素ナトリウム</a>）などを含む食品および胃腸薬の摂取に対しても注意が必要。</li>
+</ul>
+<p><a href="/wiki/%E9%A3%9F%E5%A1%A9" title="食塩" class="mw-redirect">食塩</a>の過剰摂取が高血圧の大きなリスクとなるのは、身体の<a href="/wiki/%E9%9B%BB%E8%A7%A3%E8%B3%AA" title="電解質">電解質</a>調節システムに原因がある。<a href="/wiki/%E7%B4%B0%E8%83%9E%E5%A4%96%E6%B6%B2" title="細胞外液">細胞外液</a>中で<a href="/wiki/%E3%83%8A%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0" title="ナトリウム">ナトリウム</a>をはじめとする電解質の濃度は厳密に保たれており、この調節には<a href="/wiki/%E8%85%8E%E8%87%93" title="腎臓">腎臓</a>が大きな役割を果たしている。すなわち、濃度が正常より高いと<a href="/w/index.php?title=%E9%A3%B2%E6%B0%B4%E8%A1%8C%E5%8B%95&amp;action=edit&amp;redlink=1" class="new" title="飲水行動 (存在しないページ)">飲水行動</a>が促され、腎では水分の再吸収が促進される。反対に、濃度が低い場合は腎で水分の排泄が進む。</p>
+<ul>
+<li>結果として、血中のナトリウムが過剰の場合は、濃度を一定に保つため水分量もそれに相関して保持され、全体として細胞外液量が過剰（<a href="/w/index.php?title=%E3%83%8F%E3%82%A4%E3%83%91%E3%83%BC%E3%83%9C%E3%83%AC%E3%83%9F%E3%82%A2&amp;action=edit&amp;redlink=1" class="new" title="ハイパーボレミア (存在しないページ)">ハイパーボレミア</a>:hypervolemia）となるのである。腎のナトリウム排泄能（通常、ナトリウム0.15-0.3mol/日<sup id="cite_ref-uppsala_5-0" class="reference"><a href="#cite_note-uppsala-5">[5]</a></sup>、食塩9-18g/日に相当）を超えて塩分を摂取している場合、上記のメカニズムで体液量が増加して高血圧を来す。ナトリウム過剰で高血圧をきたしやすい遺伝素因も存在することが確認されている。</li>
+<li>ストレスや肥満、飲酒なども高血圧の発症に関与するとされる。</li>
+<li>血圧反射機能の障害なども高血圧の発症に関与するとされる。</li>
+</ul>
+<dl>
+<dd>食塩感受性高血圧の病態については、諸説あるが、<a href="/wiki/%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E7%AB%8B%E5%A4%A7%E5%AD%A6" title="名古屋市立大学">名古屋市立大学</a>医学部の<a href="/w/index.php?title=%E6%9C%A8%E6%9D%91%E7%8E%84%E6%AC%A1%E9%83%8E&amp;action=edit&amp;redlink=1" class="new" title="木村玄次郎 (存在しないページ)">木村玄次郎</a>教授の説では摂取したナトリウムを腎から排泄しきれず、夜間も腎臓でナトリウム排泄のため多くの血流を要するnon-dipper型高血圧（夜間高血圧）が良い説明モデルとなる。non-dipper型高血圧ではナトリウム排泄を促進する利尿剤を投与することでnon-dipper型がdipper型へと変化することが認められており、ナトリウム排泄が食塩感受性の有無を規定する因子のひとつと論じている。</dd>
+</dl>
+<p><a href="/wiki/%E3%82%A2%E3%83%B3%E3%82%B8%E3%82%AA%E3%83%86%E3%83%B3%E3%82%B7%E3%83%B3" title="アンジオテンシン">アンジオテンシン</a>はポリ<a href="/wiki/%E3%83%9A%E3%83%97%E3%83%81%E3%83%89" title="ペプチド">ペプチド</a>の一種で、昇圧作用を持つ<a href="/wiki/%E3%82%AA%E3%83%BC%E3%82%BF%E3%82%B3%E3%82%A4%E3%83%89" title="オータコイド">生理活性物質</a>である。アンジオテンシンI～IVの4種がある。うち、アンジオテンシンII〜IVは心臓収縮力を高め、細動脈を収縮させることで血圧を上昇させる。腎臓の傍糸球体細胞から分泌される<a href="/wiki/%E3%83%AC%E3%83%8B%E3%83%B3" title="レニン">レニン</a>の作用によって、<a href="/w/index.php?title=%E3%82%A2%E3%83%B3%E3%82%B8%E3%82%AA%E3%83%86%E3%83%B3%E3%82%B7%E3%83%8E%E3%83%BC%E3%82%B2%E3%83%B3&amp;action=edit&amp;redlink=1" class="new" title="アンジオテンシノーゲン (存在しないページ)">アンジオテンシノーゲン</a>からアミノ酸10残基から成るアンジオテンシンI が作り出され、これが<a href="/wiki/%E3%82%A2%E3%83%B3%E3%82%B8%E3%82%AA%E3%83%86%E3%83%B3%E3%82%B7%E3%83%B3%E5%A4%89%E6%8F%9B%E9%85%B5%E7%B4%A0" title="アンジオテンシン変換酵素">アンジオテンシン変換酵素</a>、<a href="/w/index.php?title=%E3%82%AD%E3%83%9E%E3%83%BC%E3%82%BC&amp;action=edit&amp;redlink=1" class="new" title="キマーゼ (存在しないページ)">キマーゼ</a>、<a href="/w/index.php?title=%E3%82%AB%E3%83%86%E3%83%97%E3%82%B7%E3%83%B3G&amp;action=edit&amp;redlink=1" class="new" title="カテプシンG (存在しないページ)">カテプシンG</a>の働きによってC末端の2残基が切り離され、アンジオテンシンII に変換される。 アンジオテンシンIIはACE2により、血管拡張作用と抗増殖作用を有するヘプタペプチドであるアンジオテンシン-(1-7)へと変換される。 アンジオテンシンI は昇圧作用を有さず、アンジオテンシンII が最も強い活性を持つ。（アンジオテンシンIII は II の4割程度の活性で、IV は更に低い）。 アンジオテンシンII は<a href="/wiki/%E5%89%AF%E8%85%8E" title="副腎">副腎</a>皮質にある受容体に結合すると、副腎皮質からの<a href="/wiki/%E3%82%A2%E3%83%AB%E3%83%89%E3%82%B9%E3%83%86%E3%83%AD%E3%83%B3" title="アルドステロン">アルドステロン</a>の合成・分泌が促進される。このアルドステロンの働きによって、腎集合管でのナトリウムの再吸収を促進し、これによって体液量が増加する事により、昇圧作用をもたらす<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>。また、<a href="/wiki/%E4%B8%8B%E5%9E%82%E4%BD%93" title="下垂体">脳下垂体</a>に作用し利尿を抑えるホルモンである抗利尿ホルモンである<a href="/wiki/%E3%83%90%E3%82%BD%E3%83%97%E3%83%AC%E3%83%83%E3%82%B7%E3%83%B3" title="バソプレッシン">バソプレッシン</a>(ADH)の分泌を促進し、水分の再吸収を促進することにより、昇圧作用をもたらす<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>。</p>
+<p><a href="/wiki/%E8%84%82%E8%82%AA%E7%B4%B0%E8%83%9E" title="脂肪細胞">脂肪細胞</a>が肥大化すると、血圧に関連して次のことが起こる。<br />
+1）過剰に分泌された<a href="/wiki/%E3%83%AC%E3%83%97%E3%83%81%E3%83%B3" title="レプチン">レプチン</a>が<a href="/wiki/%E4%BA%A4%E6%84%9F%E7%A5%9E%E7%B5%8C" title="交感神経" class="mw-redirect">交感神経</a>の活動を亢進させ、血管を収縮させること等により、血圧を上昇させる<sup id="cite_ref-ogawa_8-0" class="reference"><a href="#cite_note-ogawa-8">[8]</a></sup>。<br />
+2）<a href="/wiki/%E3%83%AC%E3%83%8B%E3%83%B3-%E3%82%A2%E3%83%B3%E3%82%B8%E3%82%AA%E3%83%86%E3%83%B3%E3%82%B7%E3%83%B3%E7%B3%BB" title="レニン-アンジオテンシン系">レニン-アンジオテンシン系</a>の活性化<br />
+アンジオテンシノーゲンは<a href="/wiki/%E8%82%9D%E8%87%93" title="肝臓">肝臓</a>で産生されるが、肥大化脂肪細胞からも産生、分泌される。アンジオテンシノーゲンから生成された<a href="/wiki/%E3%82%A2%E3%83%B3%E3%82%B8%E3%82%AA%E3%83%86%E3%83%B3%E3%82%B7%E3%83%B3" title="アンジオテンシン">アンジオテンシン</a>Ⅱは、<a href="/wiki/%E5%89%AF%E8%85%8E%E7%9A%AE%E8%B3%AA" title="副腎皮質">副腎皮質</a>球状帯に作用してナトリウムの再吸収を促進する<a href="/wiki/%E3%82%A2%E3%83%AB%E3%83%89%E3%82%B9%E3%83%86%E3%83%AD%E3%83%B3" title="アルドステロン">アルドステロン</a>の分泌を促進し体内に水分を貯留する<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>。また、<a href="/wiki/%E4%B8%8B%E5%9E%82%E4%BD%93" title="下垂体">脳下垂体</a>に作用し利尿を抑えるホルモンである抗利尿ホルモンである<a href="/wiki/%E3%83%90%E3%82%BD%E3%83%97%E3%83%AC%E3%83%83%E3%82%B7%E3%83%B3" title="バソプレッシン">バソプレッシン</a>(ADH)の分泌を促進し同じく体内に水分を貯留する<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>。</p>
+<p>これらのことにより高血圧を招く。<a href="/wiki/%E8%82%A5%E6%BA%80" title="肥満">肥満</a>患者において高血圧症が多いのはこのためである<sup id="cite_ref-hoshi_11-0" class="reference"><a href="#cite_note-hoshi-11">[11]</a></sup>。</p>
+<p><a href="/wiki/%E8%82%A5%E6%BA%80" title="肥満">肥満</a>による<a href="/wiki/%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%AA%E3%83%B3%E6%8A%B5%E6%8A%97%E6%80%A7" title="インスリン抵抗性">インスリン抵抗性</a>は<a href="/wiki/%E9%AB%98%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%AA%E3%83%B3%E8%A1%80%E7%97%87" title="高インスリン血症" class="mw-redirect">高インスリン血症</a>をきたす。高インスリン血症は、腎<a href="/wiki/%E5%B0%BF%E7%B4%B0%E7%AE%A1" title="尿細管">尿細管</a>へ直接作用して<a href="/wiki/%E3%83%8A%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0" title="ナトリウム">ナトリウム</a>貯留を引き起こし、これが水分を貯留し結果として<a href="/wiki/%E8%A1%80%E7%B3%96%E5%80%A4" title="血糖値">血糖値</a>を下げる作用につながるが、水分の貯留により高血圧を発症させることとなる<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>。</p>
+<h2><span class="mw-headline" id=".E5.88.86.E9.A1.9E">分類</span><span class="mw-editsection">[<a href="/w/index.php?title=%E9%AB%98%E8%A1%80%E5%9C%A7&amp;action=edit&amp;section=3" title="節を編集: 分類">編集</a>]</span></h2>
+<h3><span class="mw-headline" id=".E6.9C.AC.E6.85.8B.E6.80.A7.E9.AB.98.E8.A1.80.E5.9C.A7.E7.97.87">本態性高血圧症</span><span class="mw-editsection">[<a href="/w/index.php?title=%E9%AB%98%E8%A1%80%E5%9C%A7&amp;action=edit&amp;section=4" title="節を編集: 本態性高血圧症">編集</a>]</span></h3>
+<ul>
+<li><b>本態性高血圧（原発性高血圧）</b> 原因は単一ではなく、両親から受け継いだ遺伝素因に加えて、生後の成長過程、加齢プロセスにおける食事、ストレスなどの様々な生活習慣がモザイクのように複雑に絡みあって生じる病態（モザイク説）。高血圧患者の9割以上を占める。<br /></li>
+</ul>
+<dl>
+<dd>
+<ul>
+<li><a href="/wiki/%E9%A3%9F%E5%A1%A9%E6%84%9F%E5%8F%97%E6%80%A7%E9%AB%98%E8%A1%80%E5%9C%A7" title="食塩感受性高血圧">食塩感受性高血圧</a>は、遺伝的素因と食塩摂取過剰を兼ね持つもので、本態性高血圧の一部を占める。</li>
+</ul>
+</dd>
+</dl>
+<h3><span class="mw-headline" id=".E4.BA.8C.E6.AC.A1.E6.80.A7.E9.AB.98.E8.A1.80.E5.9C.A7">二次性高血圧</span><span class="mw-editsection">[<a href="/w/index.php?title=%E9%AB%98%E8%A1%80%E5%9C%A7&amp;action=edit&amp;section=5" title="節を編集: 二次性高血圧">編集</a>]</span></h3>
+<ul>
+<li><b>二次性高血圧</b> 明らかな原因疾患があって生じる高血圧をいい、以下のような疾患が原因となる。頻度は少ないが手術などによって完治する確率が高いのでその診断は重要である。</li>
+</ul>
+<ol>
+<li><b><a href="/wiki/%E5%A4%A7%E5%8B%95%E8%84%88%E7%B8%AE%E7%AA%84%E7%97%87" title="大動脈縮窄症" class="mw-redirect">大動脈縮窄症</a></b> 先天性疾患</li>
+<li><b><a href="/wiki/%E8%85%8E%E8%A1%80%E7%AE%A1%E6%80%A7%E9%AB%98%E8%A1%80%E5%9C%A7" title="腎血管性高血圧" class="mw-redirect">腎血管性高血圧</a></b> <a href="/wiki/%E8%85%8E%E5%8B%95%E8%84%88" title="腎動脈">腎動脈</a>の狭窄があり、血流量の減った腎で<a href="/wiki/%E3%83%AC%E3%83%8B%E3%83%B3" title="レニン">レニン</a>の分泌が亢進することで起きる。</li>
+<li><b><a href="/w/index.php?title=%E8%85%8E%E5%AE%9F%E8%B3%AA%E6%80%A7%E9%AB%98%E8%A1%80%E5%9C%A7&amp;action=edit&amp;redlink=1" class="new" title="腎実質性高血圧 (存在しないページ)">腎実質性高血圧</a></b> 腎糸球体の障害により起こる。</li>
+<li><b><a href="/wiki/%E5%8E%9F%E7%99%BA%E6%80%A7%E3%82%A2%E3%83%AB%E3%83%89%E3%82%B9%E3%83%86%E3%83%AD%E3%83%B3%E7%97%87" title="原発性アルドステロン症">原発性アルドステロン症</a></b> (primary aldosteronism; PA) <a href="/wiki/%E5%89%AF%E8%85%8E%E7%9A%AE%E8%B3%AA" title="副腎皮質">副腎皮質</a>の腫瘍から<a href="/wiki/%E3%82%A2%E3%83%AB%E3%83%89%E3%82%B9%E3%83%86%E3%83%AD%E3%83%B3" title="アルドステロン">アルドステロン</a>が過剰に分泌されるため起こる。</li>
+<li><b><a href="/wiki/%E5%81%BD%E6%80%A7%E3%82%A2%E3%83%AB%E3%83%89%E3%82%B9%E3%83%86%E3%83%AD%E3%83%B3%E7%97%87" title="偽性アルドステロン症">偽性アルドステロン症</a></b> <a href="/wiki/%E3%82%B0%E3%83%AA%E3%83%81%E3%83%AB%E3%83%AA%E3%83%81%E3%83%B3%E9%85%B8" title="グリチルリチン酸" class="mw-redirect">グリチルリチン酸</a>により、<a href="/w/index.php?title=11-%CE%B2HSD2%E6%B4%BB%E6%80%A7&amp;action=edit&amp;redlink=1" class="new" title="11-βHSD2活性 (存在しないページ)">11-βHSD2活性</a>が抑制され、<a href="/wiki/%E3%82%B3%E3%83%AB%E3%83%81%E3%82%BE%E3%83%BC%E3%83%AB" title="コルチゾール">コルチゾール</a>代謝の阻害→コルチゾールの残存→<a href="/w/index.php?title=%E3%83%9F%E3%83%8D%E3%83%A9%E3%83%AB%E3%82%B3%E3%83%AB%E3%83%81%E3%82%B3%E3%82%A4%E3%83%89%E5%8F%97%E5%AE%B9%E4%BD%93&amp;action=edit&amp;redlink=1" class="new" title="ミネラルコルチコイド受容体 (存在しないページ)">ミネラルコルチコイド受容体</a>刺激となる。</li>
+<li><b>Apparent Mineralocorticoid Excess症候群</b>（AME症候群） 11-βHSDの異常からおこる<a href="/wiki/%E5%B8%B8%E6%9F%93%E8%89%B2%E4%BD%93%E5%8A%A3%E6%80%A7" title="常染色体劣性" class="mw-redirect">常染色体劣性</a>遺伝疾患。</li>
+<li><b><a href="/wiki/Liddle%E7%97%87%E5%80%99%E7%BE%A4" title="Liddle症候群" class="mw-redirect">Liddle症候群</a></b> <a href="/wiki/%E4%BD%8E%E3%82%AB%E3%83%AA%E3%82%A6%E3%83%A0%E8%A1%80%E7%97%87" title="低カリウム血症">低カリウム血症</a>、<a href="/wiki/%E4%BB%A3%E8%AC%9D%E6%80%A7%E3%82%A2%E3%83%AB%E3%82%AB%E3%83%AD%E3%83%BC%E3%82%B7%E3%82%B9" title="代謝性アルカローシス" class="mw-redirect">代謝性アルカローシス</a>を来す常染色体優性の遺伝性高血圧症。Epethelial Sodium Channel; ENaCの異常から生じる。</li>
+<li><b><a href="/wiki/%E3%82%AF%E3%83%83%E3%82%B7%E3%83%B3%E3%82%B0%E7%97%87%E5%80%99%E7%BE%A4" title="クッシング症候群">クッシング症候群</a></b> <a href="/wiki/%E5%89%AF%E8%85%8E%E7%9A%AE%E8%B3%AA" title="副腎皮質">副腎皮質</a>の腫瘍から<a href="/wiki/%E3%82%B3%E3%83%AB%E3%83%81%E3%82%BE%E3%83%BC%E3%83%AB" title="コルチゾール">コルチゾール</a>が過剰に分泌されるため起こる。</li>
+<li><b><a href="/wiki/%E8%A4%90%E8%89%B2%E7%B4%B0%E8%83%9E%E8%85%AB" title="褐色細胞腫">褐色細胞腫</a></b> <a href="/wiki/%E5%89%AF%E8%85%8E%E9%AB%84%E8%B3%AA" title="副腎髄質">副腎髄質</a>や<a href="/wiki/%E7%A5%9E%E7%B5%8C%E7%AF%80" title="神経節">神経節</a>の腫瘍から<a href="/wiki/%E3%82%A2%E3%83%89%E3%83%AC%E3%83%8A%E3%83%AA%E3%83%B3" title="アドレナリン">アドレナリン</a>または<a href="/wiki/%E3%83%8E%E3%83%AB%E3%82%A2%E3%83%89%E3%83%AC%E3%83%8A%E3%83%AA%E3%83%B3" title="ノルアドレナリン">ノルアドレナリン</a>が過剰に分泌されるため起こる</li>
+<li><b><a href="/wiki/%E5%A4%A7%E5%8B%95%E8%84%88%E7%82%8E%E7%97%87%E5%80%99%E7%BE%A4" title="大動脈炎症候群">大動脈炎症候群</a></b> <a href="/wiki/%E8%86%A0%E5%8E%9F%E7%97%85" title="膠原病">膠原病</a>の一つ。</li>
+<li><b>甲状腺機能異常</b> <a href="/wiki/%E7%94%B2%E7%8A%B6%E8%85%BA%E6%A9%9F%E8%83%BD%E4%BA%A2%E9%80%B2%E7%97%87" title="甲状腺機能亢進症">甲状腺機能亢進症</a>や<a href="/wiki/%E7%94%B2%E7%8A%B6%E8%85%BA%E6%A9%9F%E8%83%BD%E4%BD%8E%E4%B8%8B%E7%97%87" title="甲状腺機能低下症">甲状腺機能低下症</a></li>
+<li><b><a href="/wiki/%E5%A6%8A%E5%A8%A0%E9%AB%98%E8%A1%80%E5%9C%A7%E7%97%87%E5%80%99%E7%BE%A4" title="妊娠高血圧症候群">妊娠高血圧症候群</a></b>（妊娠中毒症より改名）。</li>
+<li><b><a href="/wiki/%E9%AB%98%E3%82%AB%E3%83%AB%E3%82%B7%E3%82%A6%E3%83%A0%E8%A1%80%E7%97%87" title="高カルシウム血症">高カルシウム血症</a></b></li>
+</ol>
+<p>この他、<a href="/wiki/%E8%84%B3%E8%A1%80%E7%AE%A1%E9%9A%9C%E5%AE%B3" title="脳血管障害">脳血管障害</a>の急性期に著明な高血圧を来すことが知られている。<a href="/wiki/%E8%84%B3%E5%87%BA%E8%A1%80" title="脳出血">脳出血</a>では応急的な降圧が必要だが、<a href="/wiki/%E8%84%B3%E6%A2%97%E5%A1%9E" title="脳梗塞">脳梗塞</a>では寧ろ脳血流を保てなくなる恐れがある為、降圧は行われない。</p>
+<h2><span class="mw-headline" id=".E9.AB.98.E8.A1.80.E5.9C.A7.E3.81.AE.E5.90.88.E4.BD.B5.E7.97.87">高血圧の合併症</span><span class="mw-editsection">[<a href="/w/index.php?title=%E9%AB%98%E8%A1%80%E5%9C%A7&amp;action=edit&amp;section=6" title="節を編集: 高血圧の合併症">編集</a>]</span></h2>
+<p>高血圧が持続すると強い圧力の血流が動脈の内膜に<b><a href="/wiki/%E3%81%9A%E3%82%8A%E5%BF%9C%E5%8A%9B" title="ずり応力" class="mw-redirect">ずり応力</a></b>を加えると同時に血管内皮から血管収縮物質が分泌されることで、血管内皮が障害される。この修復過程で<b><a href="/wiki/%E7%B2%A5%E8%85%AB" title="粥腫" class="mw-redirect">粥腫</a>（<a href="/wiki/%E3%82%A2%E3%83%86%E3%83%AD%E3%83%BC%E3%83%A0" title="アテローム">アテローム</a>）</b>が形成され、<a href="/wiki/%E5%8B%95%E8%84%88%E7%A1%AC%E5%8C%96%E7%97%87" title="動脈硬化症">動脈硬化</a>の原因となる。慢性的疾患は大きく 「脳血管障害」、「心臓疾患」、「腎臓疾患」、「血管疾患」の4つに分類され、高血圧によって生じる動脈硬化の結果、以下のような合併症が発生する。</p>
+<h3><span class="mw-headline" id=".E8.84.B3.E8.A1.80.E7.AE.A1.E9.9A.9C.E5.AE.B3">脳血管障害</span><span class="mw-editsection">[<a href="/w/index.php?title=%E9%AB%98%E8%A1%80%E5%9C%A7&amp;action=edit&amp;section=7" title="節を編集: 脳血管障害">編集</a>]</span></h3>
+<dl>
+<dt><a href="/wiki/%E8%84%B3%E5%8D%92%E4%B8%AD" title="脳卒中" class="mw-redirect">脳卒中</a>&#160;</dt>
+<dd><a href="/wiki/%E8%84%B3%E5%87%BA%E8%A1%80" title="脳出血">脳出血</a>と<a href="/wiki/%E8%84%B3%E6%A2%97%E5%A1%9E" title="脳梗塞">脳梗塞</a>および<a href="/wiki/%E3%82%AF%E3%83%A2%E8%86%9C%E4%B8%8B%E5%87%BA%E8%A1%80" title="クモ膜下出血">クモ膜下出血</a>に分類されるが、高血圧と関連が深いのは前2者である。脳出血は高血圧ともっとも関連するが、最近は降圧薬治療がうまく行われるようになったため、その頻度は減少してきている。一方、脳梗塞の頻度はむしろ増加し、その発症年齢も高齢化している。脳卒中の結果として片麻痺、失語症、認知症など寝たきりの原因となりやすい後遺症を残すため、社会的、経済的観点からも高血圧の予防はきわめて重要である。<a href="/wiki/%E8%84%B3%E5%8D%92%E4%B8%AD" title="脳卒中" class="mw-redirect">脳卒中</a>の発症を予測する上では、収縮期血圧（Systolic Blood Pressure;SBP）が性や<a href="/wiki/%E4%BA%BA%E7%A8%AE" title="人種">人種</a>に関係なく、脈圧・拡張期血圧 (Diastolic Blood Pressure;DBP) などと比べ、最も重要な因子であるという論文が American Journal of Hypertensionの2007年3月号に掲載された。また日本人でも収縮期血圧のみが脳卒中および心筋梗塞の長期リスクの評価指標に適しているとの報告がなされた (Circulation. 2009;119:1892-1898)。</dd>
+</dl>
+<h3><span class="mw-headline" id=".E5.BF.83.E8.87.93.E7.96.BE.E6.82.A3">心臓疾患</span><span class="mw-editsection">[<a href="/w/index.php?title=%E9%AB%98%E8%A1%80%E5%9C%A7&amp;action=edit&amp;section=8" title="節を編集: 心臓疾患">編集</a>]</span></h3>
+<dl>
+<dt><a href="/wiki/%E8%99%9A%E8%A1%80%E6%80%A7%E5%BF%83%E7%96%BE%E6%82%A3" title="虚血性心疾患">虚血性心疾患</a>&#160;</dt>
+<dd><a href="/wiki/%E5%BF%83%E7%AD%8B%E6%A2%97%E5%A1%9E" title="心筋梗塞">心筋梗塞</a>や<a href="/wiki/%E7%8B%AD%E5%BF%83%E7%97%87" title="狭心症">狭心症</a>などの<a href="/wiki/%E5%86%A0%E5%8B%95%E8%84%88" title="冠動脈">冠動脈</a>の硬化によって心筋への血流が阻害されることで、心筋障害をきたす疾患群をいう。高血圧が虚血性心疾患の重大な危険因子であることは間違いがないが、高コレステロール血症、喫煙、<a href="/wiki/%E7%B3%96%E5%B0%BF%E7%97%85" title="糖尿病">糖尿病</a>、肥満などの関与も大きい。最近は腹部内臓型肥満に合併した高血圧や<a href="/wiki/%E9%AB%98%E3%83%88%E3%83%AA%E3%82%B0%E3%83%AA%E3%82%BB%E3%83%A9%E3%82%A4%E3%83%89%E8%A1%80%E7%97%87" title="高トリグリセライド血症" class="mw-redirect">高トリグリセライド血症</a>、<a href="/wiki/%E8%80%90%E7%B3%96%E8%83%BD%E7%95%B0%E5%B8%B8" title="耐糖能異常">耐糖能異常</a>などが冠動脈疾患のリスクであるとされ、<a href="/wiki/%E3%83%A1%E3%82%BF%E3%83%9C%E3%83%AA%E3%83%83%E3%82%AF%E7%97%87%E5%80%99%E7%BE%A4" title="メタボリック症候群" class="mw-redirect">メタボリック症候群</a>として注目されている。</dd>
+<dt><a href="/wiki/%E5%BF%83%E8%82%A5%E5%A4%A7" title="心肥大" class="mw-redirect">心肥大</a>、<a href="/wiki/%E5%BF%83%E4%B8%8D%E5%85%A8" title="心不全">心不全</a>&#160;</dt>
+<dd>高血圧が持続すると心臓の仕事量が増えて、心筋が肥大してくる。肥大した心筋はさらに高血圧の負荷によって拡張し、最終的には心不全に陥る。また肥大した心筋では<a href="/wiki/%E5%86%A0%E5%8B%95%E8%84%88" title="冠動脈">冠動脈</a>からの血流も減少するために、<a href="/wiki/%E8%99%9A%E8%A1%80" title="虚血">虚血</a>に陥りやすく、<a href="/wiki/%E4%B8%8D%E6%95%B4%E8%84%88" title="不整脈">不整脈</a>、<a href="/wiki/%E8%99%9A%E8%A1%80%E6%80%A7%E5%BF%83%E7%96%BE%E6%82%A3" title="虚血性心疾患">虚血性心疾患</a>の大きなリスクとなる。</dd>
+</dl>
+<h3><span class="mw-headline" id=".E8.85.8E.E8.87.93.E7.96.BE.E6.82.A3">腎臓疾患</span><span class="mw-editsection">[<a href="/w/index.php?title=%E9%AB%98%E8%A1%80%E5%9C%A7&amp;action=edit&amp;section=9" title="節を編集: 腎臓疾患">編集</a>]</span></h3>
+<dl>
+<dt><a href="/w/index.php?title=%E8%85%8E%E9%9A%9C%E5%AE%B3&amp;action=edit&amp;redlink=1" class="new" title="腎障害 (存在しないページ)">腎障害</a>&#160;</dt>
+<dd><a href="/wiki/%E8%85%8E%E8%87%93" title="腎臓">腎臓</a>の<a href="/wiki/%E7%B3%B8%E7%90%83%E4%BD%93" title="糸球体">糸球体</a>は<a href="/wiki/%E7%B4%B0%E5%8B%95%E8%84%88" title="細動脈">細動脈</a>の束になったものであり、高血圧によって傷害される。また、糸球体高血圧が<a href="/wiki/%E3%83%AC%E3%83%8B%E3%83%B3-%E3%82%A2%E3%83%B3%E3%82%AE%E3%82%AA%E3%83%86%E3%83%B3%E3%82%B7%E3%83%B3%E7%B3%BB" title="レニン-アンギオテンシン系" class="mw-redirect">レニン-アンギオテンシン系</a>を賦活するためさらに血圧を上昇させる。糸球体は廃絶すると再生しないため、糸球体障害は残存糸球体への負荷をさらに強めることとなる。最終的には腎不全となり<a href="/wiki/%E4%BA%BA%E5%B7%A5%E9%80%8F%E6%9E%90" title="人工透析">人工透析</a>を受けなければならず、やはり社会的、経済的な負担は大きく、その進展予防は重要である。</dd>
+</dl>
+<h3><span class="mw-headline" id=".E8.A1.80.E7.AE.A1.E7.96.BE.E6.82.A3">血管疾患</span><span class="mw-editsection">[<a href="/w/index.php?title=%E9%AB%98%E8%A1%80%E5%9C%A7&amp;action=edit&amp;section=10" title="節を編集: 血管疾患">編集</a>]</span></h3>
+<dl>
+<dt><a href="/wiki/%E5%8B%95%E8%84%88%E7%98%A4" title="動脈瘤">動脈瘤</a>&#160;</dt>
+<dd>胸部や腹部の大動脈の壁の一部が動脈硬化性変化によって薄くなり、膨隆した状態を大動脈瘤という。内径が5cm以上になると破裂する可能性が高くなるので、手術適応となる。また血管壁の中膜が裂けて、裂け目に血流が入り込み、大血管が膨隆する状態を;<a href="/wiki/%E8%A7%A3%E9%9B%A2%E6%80%A7%E5%A4%A7%E5%8B%95%E8%84%88%E7%98%A4" title="解離性大動脈瘤" class="mw-redirect">解離性大動脈瘤</a> といい、生命を脅かす危険な状態である。</dd>
+</dl>
+<dl>
+<dt><a href="/wiki/%E9%96%89%E5%A1%9E%E6%80%A7%E5%8B%95%E8%84%88%E7%A1%AC%E5%8C%96%E7%97%87" title="閉塞性動脈硬化症">閉塞性動脈硬化症</a>&#160;</dt>
+<dd>主に下肢の動脈が、動脈硬化によって著しく狭小化するか、あるいは完全に閉塞した状態をいう。数十メートル歩くとふくらはぎが痛くなり、立ち止まると回復する場合には、この疾患を疑う。</dd>
+</dl>
+<dl>
+<dt><a href="/w/index.php?title=%E7%9C%BC%E9%9A%9C%E5%AE%B3&amp;action=edit&amp;redlink=1" class="new" title="眼障害 (存在しないページ)">眼障害</a>&#160;</dt>
+<dd><a href="/w/index.php?title=%E9%AB%98%E8%A1%80%E5%9C%A7%E6%80%A7%E7%B6%B2%E8%86%9C%E7%97%87&amp;action=edit&amp;redlink=1" class="new" title="高血圧性網膜症 (存在しないページ)">高血圧性網膜症</a>や、網膜動脈・網膜静脈の閉塞症、視神経症など様々な眼障害を合併する。</dd>
+</dl>
+<h3><span class="mw-headline" id=".E6.80.A5.E6.80.A7.E7.97.87.E7.8A.B6">急性症状</span><span class="mw-editsection">[<a href="/w/index.php?title=%E9%AB%98%E8%A1%80%E5%9C%A7&amp;action=edit&amp;section=11" title="節を編集: 急性症状">編集</a>]</span></h3>
+<dl>
+<dt><a href="/w/index.php?title=%E9%AB%98%E8%A1%80%E5%9C%A7%E7%B7%8A%E6%80%A5%E7%97%87&amp;action=edit&amp;redlink=1" class="new" title="高血圧緊急症 (存在しないページ)">高血圧緊急症</a>&#160;</dt>
+<dd>慢性的な影響とは別に、急激な高血圧により<a href="/w/index.php?title=%E8%84%B3%E5%9C%A7&amp;action=edit&amp;redlink=1" class="new" title="脳圧 (存在しないページ)">脳圧</a>が亢進し<a href="/wiki/%E9%A0%AD%E7%97%9B" title="頭痛">頭痛</a>・<a href="/wiki/%E8%A6%96%E5%8A%9B%E9%9A%9C%E5%AE%B3" title="視力障害" class="mw-redirect">視力障害</a>などの急性症状を引き起こした状態は高血圧緊急症、または<b>高血圧脳症</b>と呼ばれる。治療として<a href="/wiki/%E9%99%8D%E5%9C%A7%E8%96%AC" title="降圧薬" class="mw-redirect">降圧薬</a>および<a href="/w/index.php?title=%E8%84%B3%E5%9C%A7%E9%99%8D%E4%B8%8B%E8%96%AC&amp;action=edit&amp;redlink=1" class="new" title="脳圧降下薬 (存在しないページ)">脳圧降下薬</a>が投与される。</dd>
+<dd>血圧降下により症状が消失することにより診断される。</dd>
+</dl>
+<dl>
+<dt><a href="/w/index.php?title=%E9%A3%9F%E5%BE%8C%E4%BD%8E%E8%A1%80%E5%9C%A7&amp;action=edit&amp;redlink=1" class="new" title="食後低血圧 (存在しないページ)">食後低血圧</a>&#160;</dt>
+<dd>腸が食物消化をするためには多くの血流が必要になる。そのため腸に大量の血液が集まると、腸以外の血圧は低下していくが、血圧維持のために自律的に「心拍増」、「他の部位の血管収縮」など作用により血圧の上昇させる。しかし、後述の起こしやすい人や血圧降下薬剤を服用している場合、血流は正常に腸へ集まるが薬剤の効果により血圧上昇が抑制され、結果的に低血圧の症状として<b>めまい</b>が発生することがある。血圧低下は一時的な物で、血流の腸への集中が解消されると低血圧症状も解消する<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>。高血圧な人、高齢者や自律神経系を管理する脳部位に障害を有する人（<a href="/wiki/%E3%83%91%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%BD%E3%83%B3%E7%97%85" title="パーキンソン病">パーキンソン病</a>、多系統萎縮症、糖尿病）は起こしやすい。</dd>
+</dl>
+<h3><span class="mw-headline" id=".E4.BB.A3.E8.AC.9D.E5.86.85.E5.88.86.E6.B3.8C.E7.96.BE.E6.82.A3">代謝内分泌疾患</span><span class="mw-editsection">[<a href="/w/index.php?title=%E9%AB%98%E8%A1%80%E5%9C%A7&amp;action=edit&amp;section=12" title="節を編集: 代謝内分泌疾患">編集</a>]</span></h3>
+<dl>
+<dt><a href="/wiki/%E9%AB%98%E5%B0%BF%E9%85%B8%E8%A1%80%E7%97%87" title="高尿酸血症">高尿酸血症</a>&#160;</dt>
+<dd>国立病院機構九州医療センターの研究によると、閾値を男性で尿酸値7.0mg/dL以上、女性で6.2mg/dL以上としたとき高血圧症患者が高尿酸血症を合併症とする率は男性 34.1%、女性 16.0%で認められ、約9割は排泄低下型の高尿酸血症であった<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>。</dd>
+</dl>
+<h2><span class="mw-headline" id=".E8.A8.BA.E6.96.AD">診断</span><span class="mw-editsection">[<a href="/w/index.php?title=%E9%AB%98%E8%A1%80%E5%9C%A7&amp;action=edit&amp;section=13" title="節を編集: 診断">編集</a>]</span></h2>
+<p>血圧は変動しやすいので、高血圧の診断は少なくとも2回以上の異なる機会における血圧測定値に基づいて行われるべきである。最近は家庭血圧計が普及しているが、家庭で自分自身で測定した血圧値の方が、診察室で医師や看護師によって測定した血圧値よりも将来の脳卒中や心筋梗塞の予測に有用であるとする疫学調査結果が相次いで報告されている。診察室での血圧測定では、<b>白衣高血圧</b>（医師による測定では本来の血圧より高くなる現象）や<b>仮面高血圧</b>（普段は高血圧なのに、診察室では正常血圧となる現象）が生じるため、必ずしも本来の血圧値を反映していないという考え方が普及している。家庭での正常血圧値は診察室での血圧値よりもやや低いために、家庭血圧では135/80mmHg以上を高血圧とする。家庭では朝食前に2回血圧を測定することが望ましい。心筋梗塞や脳卒中の発症は朝起床後に多発することから、早朝の高血圧管理が重要である。（早朝高血圧） 脳卒中や心筋梗塞の発症には高血圧のみならず、喫煙、高脂血症、糖尿病、肥満などの他の危険因子も関与するために、<a href="/w/index.php?title=%E5%8D%B1%E9%99%BA%E5%9B%A0%E5%AD%90&amp;action=edit&amp;redlink=1" class="new" title="危険因子 (存在しないページ)">危険因子</a>や<a href="/wiki/%E5%90%88%E4%BD%B5%E7%97%87" title="合併症">合併症</a>も考慮した高血圧の層別化によって将来の脳卒中、心筋梗塞の危険度の予測能が高まる。 動脈硬化の診断や、腎機能、血圧反射機能などの自律神経機能等の診断も病態の把握に重要であり、動脈硬化の定量診断には脈波伝播速度計測なども行われている。血圧反射機能診断のためには、血圧変化に対する心拍反応や、動脈の血圧反射機能を診断する方法論も提案されている。精密な病態の診断が最適な治療には不可欠である。</p>
+<h2><span class="mw-headline" id=".E7.AE.A1.E7.90.86.E3.83.BB.E6.B2.BB.E7.99.82">管理・治療</span><span class="mw-editsection">[<a href="/w/index.php?title=%E9%AB%98%E8%A1%80%E5%9C%A7&amp;action=edit&amp;section=14" title="節を編集: 管理・治療">編集</a>]</span></h2>
+<p><a href="/wiki/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3" title="ガイドライン">ガイドライン</a>に定められた期間を<a href="/wiki/%E9%A3%9F%E4%BA%8B%E7%99%82%E6%B3%95" title="食事療法" class="mw-redirect">食事療法</a>や<a href="/wiki/%E9%81%8B%E5%8B%95%E7%99%82%E6%B3%95" title="運動療法">運動療法</a>を行い、それでも140/90mmHgを超えている場合は降圧薬による薬物治療を開始する。近年は大規模臨床試験がいくつも出そろい、高血圧治療指針（ガイドライン）では科学的根拠に基づいた<a href="/wiki/%E9%99%8D%E5%9C%A7%E8%96%AC" title="降圧薬" class="mw-redirect">降圧薬</a>の選択を推奨している。</p>
+<p>日本では依然として主治医の裁量ではあるが、その裁量を欧米の医療に即している医師と、上記のうちいくつかを改変した日本独自の考え方をもつ医師がいる（こちらのほうが多い）。日本独自の考え方としては、</p>
+<ol>
+<li>Ca受容体拮抗薬は<a href="/wiki/%E5%89%AF%E4%BD%9C%E7%94%A8" title="副作用">副作用</a>が少なく血圧を大きく下げるため、多くの場合で有用である。エビデンスが豊富で、危険因子として特に比重の高い脳出血は、同剤の開発前後で明らかに減少している。<a href="/wiki/%E8%99%9A%E8%A1%80%E6%80%A7%E5%BF%83%E7%96%BE%E6%82%A3" title="虚血性心疾患">虚血性心疾患</a>においても、日本人では<a href="/w/index.php?title=%E5%86%A0%E6%94%A3%E7%B8%AE%E5%9E%8B%E7%8B%AD%E5%BF%83%E7%97%87&amp;action=edit&amp;redlink=1" class="new" title="冠攣縮型狭心症 (存在しないページ)">冠攣縮型狭心症</a>の関与が大きく、Ca受容体拮抗薬が有効である。</li>
+<li>降圧利尿薬は廉価であるが、耐糖能の悪化や<a href="/wiki/%E5%B0%BF%E9%85%B8" title="尿酸">尿酸</a>値上昇、低カリウム血症といった副作用により、敬遠する医師が多かった。しかし多くの臨床試験によってACE阻害薬、アンジオテンシンII受容体拮抗薬などの最近の高価な降圧薬と同等か、それ以上の脳卒中、<a href="/wiki/%E5%BF%83%E7%AD%8B%E6%A2%97%E5%A1%9E" title="心筋梗塞">心筋梗塞</a>予防、<a href="/wiki/%E5%BF%83%E4%B8%8D%E5%85%A8" title="心不全">心不全</a>改善、腎保護効果が明らかになっており、最近見直され処方する医師が増えている（例：<a href="/wiki/%E3%82%A4%E3%83%B3%E3%83%80%E3%83%91%E3%83%9F%E3%83%89" title="インダパミド">インダパミド</a>の項参照）。</li>
+<li>日本の医療は国民皆保険でありコストを考える必要はあまりないため、たとえリスクの低い患者であっても最初から高価で切れ味の良いACE阻害薬やAII拮抗薬から始めても良いが、降圧利尿薬の選択をいつも考慮する。</li>
+</ol>
+<h3><span class="mw-headline" id=".E8.96.AC.E7.89.A9.E7.99.82.E6.B3.95.EF.BC.88.E9.99.8D.E5.9C.A7.E8.96.AC.EF.BC.89">薬物療法（降圧薬）</span><span class="mw-editsection">[<a href="/w/index.php?title=%E9%AB%98%E8%A1%80%E5%9C%A7&amp;action=edit&amp;section=15" title="節を編集: 薬物療法（降圧薬）">編集</a>]</span></h3>
+<p class="rellink" style="margin-left:2em; font-style:italic;">詳細は「<a href="/wiki/%E9%AB%98%E8%A1%80%E5%9C%A7%E6%B2%BB%E7%99%82%E8%96%AC" title="高血圧治療薬">高血圧治療薬</a>」を参照</p>
+<ol>
+<li>なにもリスクがない患者では、コストが安い<a href="/wiki/%E5%88%A9%E5%B0%BF%E8%96%AC" title="利尿薬">利尿薬</a>や<a href="/wiki/%E3%82%AB%E3%83%AB%E3%82%B7%E3%82%A6%E3%83%A0%E6%8B%AE%E6%8A%97%E8%96%AC" title="カルシウム拮抗薬" class="mw-redirect">カルシウム拮抗薬</a>を第一選択とする。60歳未満ではACE阻害薬、アンジオテンシンII受容体拮抗薬、β遮断薬なども用いられる。</li>
+<li>降圧利尿薬は古典的な降圧薬であるが、低カリウム血症、耐糖能悪化、尿酸値上昇などの副作用にもかかわらず、最近の大規模臨床試験の結果では、アンジオテンシン変換酵素阻害薬（ACE阻害薬）、アンジオテンシンII受容体拮抗薬、Ca拮抗薬などの新しい世代の降圧薬に劣らない脳卒中、心筋梗塞予防効果が証明されており、米国では第一選択薬として強く推奨されている。降圧利尿薬は<a href="/wiki/%E7%97%9B%E9%A2%A8" title="痛風">痛風</a>の患者には使用するべきではない。また緑内障の発症を著しく促すことも最近明らかになっている。</li>
+<li><a href="/wiki/%E7%B3%96%E5%B0%BF%E7%97%85" title="糖尿病">糖尿病</a>や腎障害の患者では、<a href="/wiki/%E3%82%A2%E3%83%B3%E3%82%AE%E3%82%AA%E3%83%86%E3%83%B3%E3%82%B7%E3%83%B3%E5%A4%89%E6%8F%9B%E9%85%B5%E7%B4%A0%E9%98%BB%E5%AE%B3%E8%96%AC" title="アンギオテンシン変換酵素阻害薬" class="mw-redirect">ACE阻害薬</a>または<a href="/wiki/%E3%82%A2%E3%83%B3%E3%82%AE%E3%82%AA%E3%83%86%E3%83%B3%E3%82%B7%E3%83%B3II%E5%8F%97%E5%AE%B9%E4%BD%93%E6%8B%AE%E6%8A%97%E8%96%AC" title="アンギオテンシンII受容体拮抗薬" class="mw-redirect">AII拮抗薬</a>を第一選択とするが、これらの合併症がある場合には、130/80mmHg未満の一層厳格な降圧が必要とされるために長時間作用型Ca拮抗薬の併用も不可欠である。腎障害が高度な場合にはACE阻害薬やアンジオテンシンII受容体拮抗薬は用いることができない。</li>
+<li><a href="/wiki/%E5%BF%83%E4%B8%8D%E5%85%A8" title="心不全">心不全</a>の患者では、ループ利尿薬に加えて、ACE阻害薬、アンジオテンシンII受容体拮抗薬の併用が有効である。最近<a href="/wiki/%E4%BA%A4%E6%84%9F%E7%A5%9E%E7%B5%8C%CE%B2%E5%8F%97%E5%AE%B9%E4%BD%93%E9%81%AE%E6%96%AD%E8%96%AC" title="交感神経β受容体遮断薬">βブロッカー</a>の少量追加、K<sup>+</sup>保持性利尿薬も有効であるとのエビデンスも蓄積されている。</li>
+<li><a href="/wiki/%E8%99%9A%E8%A1%80%E6%80%A7%E5%BF%83%E7%96%BE%E6%82%A3" title="虚血性心疾患">虚血性心疾患</a>の患者では、従来はβブロッカーが第一選択であったが、最近はACE阻害薬またはAII拮抗薬や長時間作用型<a href="/w/index.php?title=Ca%E5%8F%97%E5%AE%B9%E4%BD%93%E6%8B%AE%E6%8A%97%E8%96%AC&amp;action=edit&amp;redlink=1" class="new" title="Ca受容体拮抗薬 (存在しないページ)">Ca受容体拮抗薬</a>の有用性も証明されている。特に、冠動脈のれん縮による狭心症合併例では長時間作用型Ca拮抗薬が有効である。</li>
+<li>高齢者高血圧に関して、以前は根拠がないままに積極的な降圧は必要がないとされていたために、2000年版の日本の高血圧治療ガイドラインでも高齢者では高めの降圧目標値が設定されてきた。しかし最近の大規模臨床試験では、年齢に関わりなく積極的な降圧が必要であることを明らかにしており（HYVET studyなど）、欧米の高血圧治療ガイドラインでは年齢による降圧目標値の設定は行っていない。また日本の高血圧治療ガイドラインも、2004年版では高齢者高血圧も140/90mmHg未満までの降圧が必要であるというように変更された。</li>
+<li>慢性腎臓病を合併した高血圧の治療については、2008年に<a href="/wiki/%E6%97%A5%E6%9C%AC%E8%85%8E%E8%87%93%E5%AD%A6%E4%BC%9A" title="日本腎臓学会">日本腎臓学会</a>・日本高血圧学会から共同でガイドラインが発表された。第1選択はレニン－アンジオテンシン系抑制薬とされ、第2選択は利尿薬またはCa拮抗薬、第3選択はCa拮抗薬または利尿薬とされている。<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></li>
+<li>妊婦に対しては、多くの降圧薬に<a href="/wiki/%E5%82%AC%E5%A5%87%E5%BD%A2%E6%80%A7" title="催奇形性" class="mw-redirect">催奇形性</a>があるか、ある恐れがあり、<a href="/wiki/%E3%83%92%E3%83%89%E3%83%A9%E3%83%A9%E3%82%B8%E3%83%B3" title="ヒドララジン">ヒドララジン</a>、<a href="/w/index.php?title=%CE%91%E3%83%A1%E3%83%81%E3%83%AB%E3%83%89%E3%83%BC%E3%83%91&amp;action=edit&amp;redlink=1" class="new" title="Αメチルドーパ (存在しないページ)">αメチルドーパ</a>のみを使用する。</li>
+<li><a href="/wiki/%E4%BA%A4%E6%84%9F%E7%A5%9E%E7%B5%8C%CE%B1%E5%8F%97%E5%AE%B9%E4%BD%93%E9%81%AE%E6%96%AD%E8%96%AC" title="交感神経α受容体遮断薬">αブロッカー</a>は、基本的に推奨されないが、<a href="/wiki/%E5%89%8D%E7%AB%8B%E8%85%BA%E8%82%A5%E5%A4%A7%E7%97%87" title="前立腺肥大症">前立腺肥大症</a>を合併している患者などでは有用かもしれない。しかし、 αブロッカーは最近の大規模臨床試験では最も古典的な降圧薬である降圧利尿薬よりも脳卒中や心不全予防効果が劣ることが明らかになり<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>、最近の欧米の治療ガイドラインでは第一選択薬から外されている。</li>
+</ol>
+<h3><span class="mw-headline" id=".E9.A3.9F.E4.BA.8B.E7.99.82.E6.B3.95">食事療法</span><span class="mw-editsection">[<a href="/w/index.php?title=%E9%AB%98%E8%A1%80%E5%9C%A7&amp;action=edit&amp;section=16" title="節を編集: 食事療法">編集</a>]</span></h3>
+<ul>
+<li>食塩制限（ナトリウム制限）</li>
+</ul>
+<dl>
+<dd>減塩1g/日ごとに収縮期血圧が約1mmHg減少するとの報告があり、原因によらず、ほぼ全ての高血圧で塩分（塩化ナトリウム）摂取制限は必須である。2006年の米国心臓協会（AHA）の勧告による食塩換算値の理想的な摂取量は3.8g/日とされているが、日本では目標値として6g/日が用いられている。食品の含有量が食塩（塩化ナトリウム:NaCl）でなくナトリウム (Na) の表示の場合は、2.5倍して塩化ナトリウムに換算する。<a href="/wiki/%E5%81%A5%E5%BA%B7%E3%83%96%E3%83%BC%E3%83%A0" title="健康ブーム">健康ブーム</a>に乗って「この天然塩はミネラル豊富なため多く摂っても高血圧にならない」などの宣伝が散見されるが、このような文言をうのみにすることは危険である。上記メカニズムにより、問題は塩の質ではなくナトリウムの量である。また、炭酸水素ナトリウム（重曹）もナトリウム源となる。調味料として塩分をほとんど摂取しない<a href="/wiki/%E3%83%A4%E3%83%8E%E3%83%9E%E3%83%9F%E6%97%8F" title="ヤノマミ族">ヤノマミ族</a>には高血圧を発症するものはおらず、健康に生活している<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup>ことから、日常生活で<a href="/wiki/%E9%86%A4%E6%B2%B9" title="醤油">醤油</a>・<a href="/wiki/%E5%91%B3%E5%99%8C" title="味噌">味噌</a>を用いる日本では調味料としての食塩の摂取下限はないと考えられている。</dd>
+</dl>
+<ul>
+<li>カリウム摂取</li>
+</ul>
+<dl>
+<dd>早朝スポット尿検査からもカリウム摂取は重要と考えられている<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup>。カリウム摂取量が多い成人ほど収縮期および拡張期血圧が有意に低く、脳卒中リスクも低いことが報告されている<sup id="cite_ref-nikkeimem201304_19-0" class="reference"><a href="#cite_note-nikkeimem201304-19">[19]</a></sup>。<a href="/wiki/2012%E5%B9%B4" title="2012年">2012年</a>WHO は、<a href="/wiki/%E3%82%AB%E3%83%AA%E3%82%A6%E3%83%A0" title="カリウム">カリウム</a>摂取のガイドラインを初めて発表し、推奨摂取量を90mmol／日(3519mg)以上とした<sup id="cite_ref-nikkeimem201304_19-1" class="reference"><a href="#cite_note-nikkeimem201304-19">[19]</a></sup>。（カリウム 1mmol = 39.1mg）</dd>
+</dl>
+<ul>
+<li>アルコール制限（節酒）</li>
+</ul>
+<dl>
+<dd><a href="/wiki/%E3%82%A2%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%AB" title="アルコール">アルコール</a>の摂取では一時的な血管拡張により降圧するが、飲酒習慣は血圧を上昇させることはよく知られている。毎日の飲酒習慣は 10歳の加齢に相当する血圧値を示す<sup id="cite_ref-minds4946_20-0" class="reference"><a href="#cite_note-minds4946-20">[20]</a></sup>。降圧効果は1 - 2週間以内に現れる。大量飲酒者は急にアルコール制限を行うと血圧上昇をすことがあるが、アルコール制限の継続により数日後から血圧は下がる。</dd>
+<dd>エタノール換算量は、男性が20 - 30ml/日（日本酒換算1合前後）、女性が10 - 20ml/日、これ以下にするべきである<sup id="cite_ref-minds4946_20-1" class="reference"><a href="#cite_note-minds4946-20">[20]</a></sup>。だが、これくらいなら無害ということではなく、これくらいでも（高血圧には）害はあるので、アルコールはなるべくゼロにすることが望ましい。<span class="fix-domain" title="この記述には信頼できる情報源の提示が求められています。（2011年7月）">アルコールの摂取量と高血圧リスクの量は、統計的にはほぼ比例する。（最新の研究成果。）</span><sup class="noprint Template-Fact">[<i><a href="/wiki/Wikipedia:%E3%80%8C%E8%A6%81%E5%87%BA%E5%85%B8%E3%80%8D%E3%82%92%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E3%81%95%E3%82%8C%E3%81%9F%E6%96%B9%E3%81%B8" title="Wikipedia:「要出典」をクリックされた方へ"><span title="この記述には信頼できる情報源の提示が求められています。（2011年7月）">要出典</span></a></i>]</sup></dd>
+</dl>
+<h3><span class="mw-headline" id=".E7.A6.81.E7.85.99">禁煙</span><span class="mw-editsection">[<a href="/w/index.php?title=%E9%AB%98%E8%A1%80%E5%9C%A7&amp;action=edit&amp;section=17" title="節を編集: 禁煙">編集</a>]</span></h3>
+<dl>
+<dd><b>喫煙</b>など動脈硬化を促進する生活習慣も断つ必要がある。喫煙はβ遮断薬の降圧効果を減じる作用がある<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup>。</dd>
+</dl>
+<h3><span class="mw-headline" id=".E7.94.9F.E6.B4.BB.E7.BF.92.E6.85.A3">生活習慣</span><span class="mw-editsection">[<a href="/w/index.php?title=%E9%AB%98%E8%A1%80%E5%9C%A7&amp;action=edit&amp;section=18" title="節を編集: 生活習慣">編集</a>]</span></h3>
+<dl>
+<dd>疫学研究から寒冷が血圧を上げることが示され、季節では冬季に血圧が高い。高血圧患者では冬季の寒冷刺激を緩和するために、トイレや浴室などの暖房も望まれる。入浴は熱すぎる風呂、冷水浴、サウナは避けるべきである。便秘に伴う排便時のいきみは、血圧を上昇させるので避ける。</dd>
+</dl>
+<h2><span class="mw-headline" id=".E8.84.9A.E6.B3.A8">脚注</span><span class="mw-editsection">[<a href="/w/index.php?title=%E9%AB%98%E8%A1%80%E5%9C%A7&amp;action=edit&amp;section=19" title="節を編集: 脚注">編集</a>]</span></h2>
+<table class="noprint" style="float:right; font-size:90%;">
+<tr>
+<td>[<a href="/wiki/Help:%E8%84%9A%E6%B3%A8/%E8%AA%AD%E8%80%85%E5%90%91%E3%81%91" title="Help:脚注/読者向け"><span title="この欄の操作法">ヘルプ</span></a>]</td>
+</tr>
+</table>
+<div class="references-small">
+<ol class="references">
+<li id="cite_note-1"><b><a href="#cite_ref-1">^</a></b> <span class="reference-text"><a rel="nofollow" class="external text" href="http://medical.nikkeibp.co.jp/leaf/all/gakkai/esh2011/201106/520425.html">上腕血圧の左右差が大きいと死亡リスク上昇の可能性 第21回欧州高血圧学会：学会ダイジェスト</a>日経メディカルオンライン 記事：2011年6月24日　閲覧：2011年6月27日</span></li>
+<li id="cite_note-2"><b><a href="#cite_ref-2">^</a></b> <span class="reference-text"><span class="PDFlink"><a rel="nofollow" class="external text" href="http://www.arterial-stiffness.com/pdf/no08/048_049.pdf">一般地域住民における上腕血圧の 左右差に関する特徴と関連要因</a></span> <span style="font-size: smaller">(<a href="/wiki/Portable_Document_Format" title="Portable Document Format">PDF</a>)</span></span></li>
+<li id="cite_note-3"><b><a href="#cite_ref-3">^</a></b> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ncvc.go.jp/cvdinfo/disease/hypertension.html">高血圧疾病一覧</a>国立循環器病情報サービス</span></li>
+<li id="cite_note-4"><b><a href="#cite_ref-4">^</a></b> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.jhf.or.jp/mediaWS/12th/index01.html">高血圧治療ガイドラインの改訂に関する記述</a> 日本心臓財団メディアワークショップ</span></li>
+<li id="cite_note-uppsala-5"><b><a href="#cite_ref-uppsala_5-0">^</a></b> <span class="reference-text">Reference range list from Uppsala University Hospital ("Laborationslista"). Artnr 40284 Sj74a. Issued on April 22, 2008</span></li>
+<li id="cite_note-6"><b><a href="#cite_ref-6">^</a></b> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.h.u-tokyo.ac.jp/research/topics/topics_archives/002.html">塩分の摂りすぎによる血圧上昇のしくみを解明</a> 東大病院研究トピックス 藤田敏郎</span></li>
+<li id="cite_note-7"><b><a href="#cite_ref-7">^</a></b> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.nips.ac.jp/contents/release/entry/2011/01/post-146.html">利尿を抑えるホルモン"バソプレシン"の脳の中の新たな作用を発見</a>、自然科学研究機構　生理学研究所 岡田泰伸ほか</span></li>
+<li id="cite_note-ogawa-8"><b><a href="#cite_ref-ogawa_8-0">^</a></b> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.jstage.jst.go.jp/article/naika1913/90/4/90_4_705/_pdf">レプチンと心血管病変　小川佳宏</a>日本内科学会雑誌 第90巻 第4号・平成13年4月10日</span></li>
+<li id="cite_note-9"><b><a href="#cite_ref-9">^</a></b> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.h.u-tokyo.ac.jp/research/topics/topics_archives/002.html">研究トピックス　塩分の摂りすぎによる血圧上昇のしくみを解明</a>東大病院　医学系研究科／医学部附属病院 腎臓・内分泌内科　藤田敏郎ほか</span></li>
+<li id="cite_note-10"><b><a href="#cite_ref-10">^</a></b> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.nips.ac.jp/contents/release/entry/2011/01/post-146.html">利尿を抑えるホルモン"バソプレシン"の脳の中の新たな作用を発見</a>自然科学研究機構　生理学研究所 岡田泰伸ほか</span></li>
+<li id="cite_note-hoshi-11"><b><a href="#cite_ref-hoshi_11-0">^</a></b> <span class="reference-text"><a rel="nofollow" class="external text" href="http://polaris.hoshi.ac.jp/openresearch/kamata%20(adipocyte)--2.html">脂肪細胞とインスリン抵抗性</a>星薬科大学オープンリサーチセンター 鎌田勝雄</span></li>
+<li id="cite_note-12"><b><a href="#cite_ref-12">^</a></b> <span class="reference-text"><a rel="nofollow" class="external text" href="http://polaris.hoshi.ac.jp/openresearch/kamata(pathophysiol).html#DM-BASE14">糖尿病の基礎知識</a>星薬科大学オープンリサーチセンター 鎌田勝雄</span></li>
+<li id="cite_note-13"><b><a href="#cite_ref-13">^</a></b> <span class="reference-text"><a rel="nofollow" class="external text" href="http://mmh.banyu.co.jp/mmhe2j/sec03/ch023/ch023d.html">食後低血圧</a> メルクマニュアル家庭版</span></li>
+<li id="cite_note-14"><b><a href="#cite_ref-14">^</a></b> <span class="reference-text"><a rel="nofollow" class="external text" href="http://medical.nikkeibp.co.jp/leaf/all/gakkai/jsh2008/200810/508155.html">高血圧患者の高尿酸血症合併</a>日経メディカルオンライン 2008.10.13</span></li>
+<li id="cite_note-15"><b><a href="#cite_ref-15">^</a></b> <span class="reference-text">CKD診療ガイド高血圧編,p.9,東京医学社(2008)</span></li>
+<li id="cite_note-16"><b><a href="#cite_ref-16">^</a></b> <span class="reference-text">The ALLHAT collaborative research group. <a href="/wiki/%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%8A%E3%83%AB%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%82%B8%E3%83%BB%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%83%B3%E3%83%BB%E3%83%A1%E3%83%87%E3%82%A3%E3%82%AB%E3%83%AB%E3%83%BB%E3%82%A2%E3%82%BD%E3%82%B7%E3%82%A8%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3" title="ジャーナル・オブ・ジ・アメリカン・メディカル・アソシエーション">JAMA</a> 288：2981-2997, 2002</span></li>
+<li id="cite_note-17"><b><a href="#cite_ref-17">^</a></b> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.lib.nakamura-u.ac.jp/syoku/12.htm#12">http://www.lib.nakamura-u.ac.jp/syoku/12.htm#12</a></span></li>
+<li id="cite_note-18"><b><a href="#cite_ref-18">^</a></b> <span class="reference-text">M.J. O'Donnell, et al. JAMA, 2011, 306(20); 2229-2238.</span></li>
+<li id="cite_note-nikkeimem201304-19">^ <a href="#cite_ref-nikkeimem201304_19-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-nikkeimem201304_19-1"><sup><i><b>b</b></i></sup></a> <span class="reference-text"><a rel="nofollow" class="external text" href="http://medical.nikkeibp.co.jp/leaf/mem/pub/hotnews/bmj/201304/530057.html">カリウム摂取量が多いほど血圧が低く、脳卒中リスクも低い</a>日経メディカルオンライン 記事：2013.4.18 閲覧：2013.4.18</span></li>
+<li id="cite_note-minds4946-20">^ <a href="#cite_ref-minds4946_20-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-minds4946_20-1"><sup><i><b>b</b></i></sup></a> <span class="reference-text"><a rel="nofollow" class="external text" href="http://minds.jcqhc.or.jp/n/med/4/med0019/G0000180/0028">生活習慣の修正 -節酒-</a>日本高血圧学会 （<a rel="nofollow" class="external text" href="http://minds.jcqhc.or.jp/">Minds医療情報サービス</a>）</span></li>
+<li id="cite_note-21"><b><a href="#cite_ref-21">^</a></b> <span class="reference-text"><a rel="nofollow" class="external text" href="http://minds.jcqhc.or.jp/n/med/4/med0019/G0000180/0029">生活習慣の修正 -禁煙-</a>日本高血圧学会 （<a rel="nofollow" class="external text" href="http://minds.jcqhc.or.jp/">Minds医療情報サービス</a>）</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id=".E5.8F.82.E8.80.83.E6.96.87.E7.8C.AE">参考文献</span><span class="mw-editsection">[<a href="/w/index.php?title=%E9%AB%98%E8%A1%80%E5%9C%A7&amp;action=edit&amp;section=20" title="節を編集: 参考文献">編集</a>]</span></h2>
+<ul>
+<li>『<a rel="nofollow" class="external text" href="http://minds.jcqhc.or.jp/n/med/4/med0019/G0000180">高血圧治療ガイドライン2009【日本高血圧学会高血圧治療GL作成委員会／医療・GL（09年）】</a>』 日本高血圧学会 （<a rel="nofollow" class="external text" href="http://minds.jcqhc.or.jp/">Minds医療情報サービス</a>）</li>
+</ul>
+<h2><span class="mw-headline" id=".E9.96.A2.E9.80.A3.E9.A0.85.E7.9B.AE">関連項目</span><span class="mw-editsection">[<a href="/w/index.php?title=%E9%AB%98%E8%A1%80%E5%9C%A7&amp;action=edit&amp;section=21" title="節を編集: 関連項目">編集</a>]</span></h2>
+<ul>
+<li><a href="/wiki/%E4%BD%8E%E8%A1%80%E5%9C%A7" title="低血圧">低血圧</a></li>
+<li><a href="/wiki/%E5%BE%AA%E7%92%B0%E5%99%A8%E7%A7%91%E5%AD%A6" title="循環器科学" class="mw-redirect">循環器科学</a></li>
+</ul>
+<h2><span class="mw-headline" id=".E5.A4.96.E9.83.A8.E3.83.AA.E3.83.B3.E3.82.AF">外部リンク</span><span class="mw-editsection">[<a href="/w/index.php?title=%E9%AB%98%E8%A1%80%E5%9C%A7&amp;action=edit&amp;section=22" title="節を編集: 外部リンク">編集</a>]</span></h2>
+<table class="plainlinks ambox ambox-notice noprint" style=";">
+<tr>
+<td class="mbox-image">
+<div class="ambox-imagecontainer"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/c/c8/Ambox_notice.png" width="40" height="40" /></div>
+</td>
+<td class="mbox-text" style=""><b>お知らせ</b>：ウィキペディアは宣伝目的のリンクを受け入れていません。ご協力をお願いします。<a href="/wiki/Wikipedia:%E5%A4%96%E9%83%A8%E3%83%AA%E3%83%B3%E3%82%AF%E3%81%AE%E9%81%B8%E3%81%B3%E6%96%B9" title="Wikipedia:外部リンクの選び方">Wikipedia:外部リンクの選び方</a>を参照してください。</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.jpnsh.org/">日本高血圧学会｜The Japanese Society of Hypertension</a></li>
+<li><a rel="nofollow" class="external text" href="http://jsshp.umin.jp/html/i_1.html">日本妊娠高血圧学会</a></li>
+<li><a rel="nofollow" class="external text" href="http://mmh.banyu.co.jp/mmhe2j/sec03/ch022/ch022a.html">高血圧</a>メルクマニュアル家庭版</li>
+<li><a rel="nofollow" class="external text" href="http://shio-herasou.com/">塩を減らそうプロジェクト</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.ketsuatsu.com/">血圧ドットコム</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.mhlw.go.jp/topics/bukyoku/kenkou/seikatu/kouketuatu/index.html">高血圧</a>厚生労働省</li>
+<li><a rel="nofollow" class="external text" href="http://health.yahoo.co.jp/katei/detail/?sc=ST030010&amp;dn=2&amp;t=key">yahooヘルスケア</a></li>
+<li><a rel="nofollow" class="external text" href="http://ameals.net/what/index.html#a03">血圧情報局</a></li>
+</ul>
+<table class="navbox" cellspacing="0" style=";">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks collapsible autocollapsed;" style="width:100%;background:transparent;color:inherit;;">
+<tr>
+<th style=";" colspan="2" class="navbox-title">
+<div style="float:left; width:6em;text-align:left;">
+<div class="noprint plainlinks" style="background-color:transparent; padding:0; font-size:75%; color:#000000; white-space:nowrap; font-weight:normal;&#160;;;border:none;;"><a href="/wiki/Template:%E5%BF%83%E8%A1%80%E7%AE%A1%E7%96%BE%E6%82%A3" title="Template:心血管疾患"><span title="このテンプレートを表示します" style=";;border:none;;">表</span></a><span style="font-size:80%;">・</span><a href="/w/index.php?title=Template%E2%80%90%E3%83%8E%E3%83%BC%E3%83%88:%E5%BF%83%E8%A1%80%E7%AE%A1%E7%96%BE%E6%82%A3&amp;action=edit&amp;redlink=1" class="new" title="Template‐ノート:心血管疾患 (存在しないページ)"><span style="color:#002bb8;;;border:none;;" title="このテンプレートのノートを表示します">話</span></a><span style="font-size:80%;">・</span><a class="external text" href="//ja.wikipedia.org/w/index.php?title=Template:%E5%BF%83%E8%A1%80%E7%AE%A1%E7%96%BE%E6%82%A3&amp;action=edit"><span style="color:#002bb8;;;border:none;;" title="このテンプレートを編集します。保存の前にプレビューを忘れずに。">編</span></a><span style="font-size:80%;">・</span><a class="external text" href="//ja.wikipedia.org/w/index.php?title=Template:%E5%BF%83%E8%A1%80%E7%AE%A1%E7%96%BE%E6%82%A3&amp;action=history"><span style="color:#002bb8;;;border:none;;" title="このテンプレートの過去の版を表示します">歴</span></a></div>
+</div>
+<span style="font-size:110%;"><a href="/wiki/%E5%BF%83%E8%A1%80%E7%AE%A1%E7%96%BE%E6%82%A3" title="心血管疾患">心血管疾患</a></span></th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="width:100%;;;;">
+<tr>
+<th style=";;" colspan="2" class="navbox-title">
+<div style="float:left; width:6em;text-align:left;">&#160;</div>
+<span style="font-size:100%;">疾患</span></th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;text-align:left;;;">
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E5%BF%83%E8%87%93%E7%97%85" title="心臓病">心疾患</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;">
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align:left;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E4%B8%8D%E6%95%B4%E8%84%88" title="不整脈">不整脈</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;">
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align:left;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E5%BE%90%E8%84%88" title="徐脈">徐脈性</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="/wiki/%E6%B4%9E%E4%B8%8D%E5%85%A8%E7%97%87%E5%80%99%E7%BE%A4" title="洞不全症候群">洞不全症候群</a> | <a href="/wiki/%E6%88%BF%E5%AE%A4%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF" title="房室ブロック">房室ブロック</a> | <a href="/wiki/%E8%84%9A%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF" title="脚ブロック">脚ブロック</a>（<a href="/wiki/%E5%8F%B3%E8%84%9A%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF" title="右脚ブロック">右脚ブロック</a>&#160;<b>·</b> <a href="/wiki/%E5%AE%8C%E5%85%A8%E5%8F%B3%E8%84%9A%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF" title="完全右脚ブロック">完全右脚ブロック</a>&#160;<b>·</b> <a href="/wiki/%E5%B7%A6%E8%84%9A%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF" title="左脚ブロック">左脚ブロック</a>）</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align:left;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E9%A0%BB%E8%84%88" title="頻脈">頻脈性</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;">
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align:left;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E4%B8%8D%E6%95%B4%E8%84%88#.E4.B8.8A.E5.AE.A4.E6.80.A7" title="不整脈">上室性</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="/w/index.php?title=%E6%B4%9E%E6%80%A7%E9%A0%BB%E8%84%88&amp;action=edit&amp;redlink=1" class="new" title="洞性頻脈 (存在しないページ)">洞性頻脈</a> | <a href="/wiki/%E5%BF%83%E6%88%BF%E7%B4%B0%E5%8B%95" title="心房細動">心房細動</a> | <a href="/w/index.php?title=%E5%BF%83%E6%88%BF%E7%B2%97%E5%8B%95&amp;action=edit&amp;redlink=1" class="new" title="心房粗動 (存在しないページ)">心房粗動</a> | <a href="/wiki/%E3%83%96%E3%83%AB%E3%82%AC%E3%83%80%E7%97%87%E5%80%99%E7%BE%A4" title="ブルガダ症候群">ブルガダ症候群</a> | <a href="/wiki/QT%E5%BB%B6%E9%95%B7%E7%97%87%E5%80%99%E7%BE%A4" title="QT延長症候群">QT延長症候群</a> | <a href="/wiki/WPW%E7%97%87%E5%80%99%E7%BE%A4" title="WPW症候群">WPW症候群</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align:left;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E4%B8%8D%E6%95%B4%E8%84%88#.E5.BF.83.E5.AE.A4.E6.80.A7" title="不整脈">心室性</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="/wiki/%E5%BF%83%E5%AE%A4%E7%B4%B0%E5%8B%95" title="心室細動">心室細動</a> | <a href="/wiki/%E5%BF%83%E5%AE%A4%E9%A0%BB%E6%8B%8D" title="心室頻拍">心室頻拍</a></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align:left;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E8%99%9A%E8%A1%80%E6%80%A7%E5%BF%83%E7%96%BE%E6%82%A3" title="虚血性心疾患">虚血性心疾患</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="/wiki/%E7%8B%AD%E5%BF%83%E7%97%87" title="狭心症">狭心症</a> | <a href="/wiki/%E6%80%A5%E6%80%A7%E5%86%A0%E7%97%87%E5%80%99%E7%BE%A4" title="急性冠症候群">急性冠症候群</a> | <a href="/wiki/%E5%BF%83%E7%AD%8B%E6%A2%97%E5%A1%9E" title="心筋梗塞">心筋梗塞</a> | <a href="/wiki/%E5%86%A0%E5%8B%95%E8%84%88%E8%A1%80%E6%A0%93%E7%97%87" title="冠動脈血栓症">冠動脈血栓症</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align:left;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E5%BF%83%E8%87%93%E5%BC%81%E8%86%9C%E7%97%87" title="心臓弁膜症">弁膜性心疾患</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="/wiki/%E5%83%A7%E5%B8%BD%E5%BC%81%E7%8B%AD%E7%AA%84%E7%97%87" title="僧帽弁狭窄症">僧帽弁狭窄症</a> | <a href="/wiki/%E5%83%A7%E5%B8%BD%E5%BC%81%E9%96%89%E9%8E%96%E4%B8%8D%E5%85%A8%E7%97%87" title="僧帽弁閉鎖不全症" class="mw-redirect">僧帽弁閉鎖不全症</a> | <a href="/wiki/%E4%B8%89%E5%B0%96%E5%BC%81%E7%8B%AD%E7%AA%84%E7%97%87" title="三尖弁狭窄症" class="mw-redirect">三尖弁狭窄症</a> | <a href="/wiki/%E4%B8%89%E5%B0%96%E5%BC%81%E9%96%89%E9%8E%96%E4%B8%8D%E5%85%A8%E7%97%87" title="三尖弁閉鎖不全症" class="mw-redirect">三尖弁閉鎖不全症</a> | <a href="/wiki/%E5%A4%A7%E5%8B%95%E8%84%88%E5%BC%81%E7%8B%AD%E7%AA%84%E7%97%87" title="大動脈弁狭窄症">大動脈弁狭窄症</a> | <a href="/wiki/%E5%A4%A7%E5%8B%95%E8%84%88%E5%BC%81%E9%96%89%E9%8E%96%E4%B8%8D%E5%85%A8%E7%97%87" title="大動脈弁閉鎖不全症" class="mw-redirect">大動脈弁閉鎖不全症</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align:left;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E5%85%88%E5%A4%A9%E6%80%A7%E5%BF%83%E7%96%BE%E6%82%A3" title="先天性心疾患">先天性心疾患</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="/wiki/%E5%BF%83%E6%88%BF%E4%B8%AD%E9%9A%94%E6%AC%A0%E6%90%8D" title="心房中隔欠損">心房中隔欠損</a> | <a href="/wiki/%E5%BF%83%E5%AE%A4%E4%B8%AD%E9%9A%94%E6%AC%A0%E6%90%8D" title="心室中隔欠損">心室中隔欠損</a> | <a href="/wiki/%E5%BF%83%E5%86%85%E8%86%9C%E5%BA%8A%E6%AC%A0%E6%90%8D%E7%97%87" title="心内膜床欠損症">心内膜床欠損症</a> | <a href="/wiki/%E5%8B%95%E8%84%88%E7%AE%A1%E9%96%8B%E5%AD%98%E7%97%87" title="動脈管開存症">動脈管開存症</a> | <a href="/wiki/%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC%E5%9B%9B%E5%BE%B4%E7%97%87" title="ファロー四徴症">ファロー四徴症</a>（<a href="/wiki/%E6%A5%B5%E5%9E%8B%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC%E5%9B%9B%E5%BE%B4%E7%97%87" title="極型ファロー四徴症">極型ファロー四徴症</a>） | <a href="/wiki/%E5%A4%A7%E8%A1%80%E7%AE%A1%E8%BB%A2%E4%BD%8D" title="大血管転位">大血管転位</a>（<a href="/wiki/%E5%B7%A6%E6%97%8B%E6%80%A7%E5%A4%A7%E8%A1%80%E7%AE%A1%E8%BB%A2%E4%BD%8D" title="左旋性大血管転位">左旋性</a>&#160;<b>·</b> <a href="/wiki/%E5%8F%B3%E6%97%8B%E6%80%A7%E5%A4%A7%E8%A1%80%E7%AE%A1%E8%BB%A2%E4%BD%8D" title="右旋性大血管転位">右旋性</a>） | <a href="/wiki/%E7%B7%8F%E8%82%BA%E9%9D%99%E8%84%88%E9%82%84%E6%B5%81%E7%95%B0%E5%B8%B8%E7%97%87" title="総肺静脈還流異常症">総肺静脈還流異常症</a> | <a href="/wiki/%E5%A4%A7%E5%8B%95%E8%84%88%E7%B8%AE%E7%AA%84" title="大動脈縮窄">大動脈縮窄</a> | <a href="/wiki/%E5%B7%A6%E5%BF%83%E4%BD%8E%E5%BD%A2%E6%88%90%E7%97%87%E5%80%99%E7%BE%A4" title="左心低形成症候群">左心低形成症候群</a> | <a href="/w/index.php?title=%E4%B8%A1%E5%A4%A7%E8%A1%80%E7%AE%A1%E5%8F%B3%E5%AE%A4%E8%B5%B7%E5%A7%8B%E7%97%87&amp;action=edit&amp;redlink=1" class="new" title="両大血管右室起始症 (存在しないページ)">両大血管右室起始症</a> | <a href="/w/index.php?title=%E4%B8%89%E5%B0%96%E5%BC%81%E9%96%89%E9%8E%96&amp;action=edit&amp;redlink=1" class="new" title="三尖弁閉鎖 (存在しないページ)">三尖弁閉鎖</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align:left;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E5%BF%83%E5%86%85%E8%86%9C" title="心内膜">心内膜</a>・<a href="/wiki/%E5%BF%83%E7%AD%8B" title="心筋">心筋</a><br />
+・<a href="/wiki/%E5%BF%83%E8%86%9C" title="心膜">心膜</a>疾患</div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;">
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align:left;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E5%BF%83%E5%86%85%E8%86%9C" title="心内膜">心内膜疾患</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="/wiki/%E6%84%9F%E6%9F%93%E6%80%A7%E5%BF%83%E5%86%85%E8%86%9C%E7%82%8E" title="感染性心内膜炎">感染性心内膜炎</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align:left;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E5%BF%83%E8%86%9C" title="心膜">心膜疾患</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="/wiki/%E5%BF%83%E8%86%9C%E7%82%8E" title="心膜炎">心膜炎</a>（<a href="/wiki/%E6%80%A5%E6%80%A7%E5%BF%83%E8%86%9C%E7%82%8E" title="急性心膜炎" class="mw-redirect">急性心膜炎</a>&#160;<b>·</b> <a href="/wiki/%E6%85%A2%E6%80%A7%E5%8F%8E%E7%B8%AE%E6%80%A7%E5%BF%83%E8%86%9C%E7%82%8E" title="慢性収縮性心膜炎" class="mw-redirect">慢性収縮性心膜炎</a>） | <a href="/wiki/%E5%BF%83%E3%82%BF%E3%83%B3%E3%83%9D%E3%83%8A%E3%83%BC%E3%83%87" title="心タンポナーデ">心タンポナーデ</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align:left;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E5%BF%83%E7%AD%8B" title="心筋">心筋疾患</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="/wiki/%E5%BF%83%E7%AD%8B%E7%97%87" title="心筋症">心筋症</a>（<a href="/wiki/%E7%89%B9%E7%99%BA%E6%80%A7%E6%8B%A1%E5%BC%B5%E5%9E%8B%E5%BF%83%E7%AD%8B%E7%97%87" title="特発性拡張型心筋症" class="mw-redirect">特発性拡張型心筋症</a>&#160;<b>·</b> <a href="/wiki/%E8%82%A5%E5%A4%A7%E5%9E%8B%E5%BF%83%E7%AD%8B%E7%97%87" title="肥大型心筋症" class="mw-redirect">肥大型心筋症</a>&#160;<b>·</b> <a href="/wiki/%E6%8B%98%E6%9D%9F%E5%9E%8B%E5%BF%83%E7%AD%8B%E7%97%87" title="拘束型心筋症">拘束型心筋症</a>&#160;<b>·</b> <a href="/w/index.php?title=%E7%89%B9%E7%99%BA%E6%80%A7%E5%BF%83%E7%AD%8B%E7%97%87&amp;action=edit&amp;redlink=1" class="new" title="特発性心筋症 (存在しないページ)">特発性心筋症</a>） | <a href="/wiki/%E5%BF%83%E7%AD%8B%E7%82%8E" title="心筋炎">心筋炎</a></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="/w/index.php?title=%E5%BF%83%E8%87%93%E8%85%AB%E7%98%8D&amp;action=edit&amp;redlink=1" class="new" title="心臓腫瘍 (存在しないページ)">心臓腫瘍</a> | <a href="/w/index.php?title=%E5%BF%83%E8%87%93%E7%A5%9E%E7%B5%8C%E7%97%87&amp;action=edit&amp;redlink=1" class="new" title="心臓神経症 (存在しないページ)">心臓神経症</a> | <a href="/wiki/%E5%BF%83%E8%87%93%E6%80%A7%E5%96%98%E6%81%AF" title="心臓性喘息">心臓性喘息</a> | <a href="/wiki/%E8%82%BA%E6%80%A7%E5%BF%83" title="肺性心">肺性心</a></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E8%A1%80%E7%AE%A1%E7%96%BE%E6%82%A3" title="血管疾患">血管疾患</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;">
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align:left;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E5%8B%95%E8%84%88" title="動脈">動脈</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="/wiki/%E5%8B%95%E8%84%88%E7%A1%AC%E5%8C%96" title="動脈硬化" class="mw-redirect">動脈硬化</a> | <a href="/wiki/%E5%A4%A7%E5%8B%95%E8%84%88%E7%98%A4" title="大動脈瘤">大動脈瘤</a> | <a href="/wiki/%E5%A4%A7%E5%8B%95%E8%84%88%E8%A7%A3%E9%9B%A2" title="大動脈解離">大動脈解離</a> | <a href="/wiki/%E5%A4%A7%E5%8B%95%E8%84%88%E7%82%8E%E7%97%87%E5%80%99%E7%BE%A4" title="大動脈炎症候群">大動脈炎症候群</a> | <a href="/wiki/%E5%8B%95%E9%9D%99%E8%84%88%E7%98%BB" title="動静脈瘻">動静脈瘻</a> | <a href="/wiki/%E9%96%89%E5%A1%9E%E6%80%A7%E5%8B%95%E8%84%88%E7%A1%AC%E5%8C%96%E7%97%87" title="閉塞性動脈硬化症">閉塞性動脈硬化症</a> | <a href="/wiki/%E9%96%89%E5%A1%9E%E6%80%A7%E8%A1%80%E6%A0%93%E6%80%A7%E8%A1%80%E7%AE%A1%E7%82%8E" title="閉塞性血栓性血管炎">閉塞性血栓性血管炎</a> | <a href="/wiki/%E3%83%AC%E3%82%A4%E3%83%8E%E3%83%BC%E7%97%85" title="レイノー病">レイノー病</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align:left;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E9%9D%99%E8%84%88" title="静脈">静脈</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="/wiki/%E9%9D%99%E8%84%88%E7%98%A4" title="静脈瘤">静脈瘤</a> | <a href="/wiki/%E8%A1%80%E6%A0%93%E6%80%A7%E9%9D%99%E8%84%88%E7%82%8E" title="血栓性静脈炎">血栓性静脈炎</a> | <a href="/wiki/%E9%9D%99%E8%84%88%E8%A1%80%E6%A0%93%E5%A1%9E%E6%A0%93%E7%97%87" title="静脈血栓塞栓症">静脈血栓塞栓症</a> | <a href="/wiki/%E8%84%82%E8%82%AA%E5%A1%9E%E6%A0%93%E7%97%87" title="脂肪塞栓症">脂肪塞栓症</a></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="width:100%;;;;">
+<tr>
+<th style=";;" colspan="2" class="navbox-title">
+<div style="float:left; width:6em;text-align:left;">&#160;</div>
+<span style="font-size:100%;">病態・症候</span></th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;text-align:left;;;">
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E5%BF%83%E4%B8%8D%E5%85%A8" title="心不全">心不全</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="/wiki/%E5%B7%A6%E5%BF%83%E4%B8%8D%E5%85%A8" title="左心不全" class="mw-redirect">左心不全</a> | <a href="/wiki/%E5%8F%B3%E5%BF%83%E4%B8%8D%E5%85%A8" title="右心不全" class="mw-redirect">右心不全</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E8%A1%80%E5%9C%A7" title="血圧">血圧</a><a href="//ja.wiktionary.org/wiki/%E7%95%B0%E5%B8%B8" class="extiw" title="wikt:異常">異常</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;">
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align:left;;">
+<div style="padding:0em 0.75em;"><strong class="selflink">高血圧</strong></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="/w/index.php?title=%E6%9C%AC%E6%85%8B%E6%80%A7%E9%AB%98%E8%A1%80%E5%9C%A7%E7%97%87&amp;action=edit&amp;redlink=1" class="new" title="本態性高血圧症 (存在しないページ)">本態性高血圧症</a> | <a href="/w/index.php?title=%E4%BA%8C%E6%AC%A1%E6%80%A7%E9%AB%98%E8%A1%80%E5%9C%A7&amp;action=edit&amp;redlink=1" class="new" title="二次性高血圧 (存在しないページ)">二次性高血圧</a> | <a href="/w/index.php?title=%E6%82%AA%E6%80%A7%E9%AB%98%E8%A1%80%E5%9C%A7%E7%97%87&amp;action=edit&amp;redlink=1" class="new" title="悪性高血圧症 (存在しないページ)">悪性高血圧症</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="/wiki/%E4%BD%8E%E8%A1%80%E5%9C%A7" title="低血圧">低血圧</a></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="/wiki/%E5%BF%83%E8%87%93%E7%99%BA%E4%BD%9C" title="心臓発作">心臓発作</a> | <a href="/wiki/%E5%BF%83%E8%87%93%E8%82%A5%E5%A4%A7" title="心臓肥大">心臓肥大</a> | <a href="/wiki/%E5%BF%83%E5%81%9C%E6%AD%A2" title="心停止">心停止</a> | <a href="/wiki/%E5%BF%83%E8%82%BA%E5%81%9C%E6%AD%A2" title="心肺停止">心肺停止</a></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="width:100%;;;;">
+<tr>
+<th style=";;" colspan="2" class="navbox-title">
+<div style="float:left; width:6em;text-align:left;">&#160;</div>
+<span style="font-size:100%;">所見・検査</span></th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="/wiki/%E8%A1%80%E5%9C%A7%E8%A8%88" title="血圧計">血圧計</a> | <a href="/wiki/%E8%81%B4%E8%A8%BA#.E5.BF.83.E8.87.93.E9.9F.B3.E3.81.AE.E8.81.B4.E8.A8.BA" title="聴診">聴診</a> | <a href="/wiki/%E5%BF%83%E9%9B%91%E9%9F%B3" title="心雑音">心雑音</a> | <a href="/wiki/%E5%BF%83%E9%9B%BB%E5%9B%B3" title="心電図">心電図</a> | <a href="/wiki/%E5%BF%83%E9%9B%BB%E5%9B%B3%E3%83%A2%E3%83%8B%E3%82%BF" title="心電図モニタ">心電図モニタ</a> | <a href="/wiki/%E5%BF%83%E8%87%93%E8%B6%85%E9%9F%B3%E6%B3%A2%E6%A4%9C%E6%9F%BB" title="心臓超音波検査">心臓超音波検査</a> | <a href="/wiki/X%E7%B7%9A%E6%92%AE%E5%BD%B1#.E8.83.B8.E9.83.A8X.E7.B7.9A.E5.86.99.E7.9C.9F" title="X線撮影">胸部X線写真</a> | <a href="/wiki/X%E7%B7%9A%E6%92%AE%E5%BD%B1#.E8.83.B8.E9.83.A8X.E7.B7.9ACT" title="X線撮影">胸部X線CT</a> | <a href="/wiki/%E5%BF%83%E8%87%93%E3%82%AB%E3%83%86%E3%83%BC%E3%83%86%E3%83%AB%E6%A4%9C%E6%9F%BB" title="心臓カテーテル検査">心臓カテーテル検査</a>（<a href="/wiki/%E8%82%BA%E5%8B%95%E8%84%88%E3%82%AB%E3%83%86%E3%83%BC%E3%83%86%E3%83%AB" title="肺動脈カテーテル">肺動脈カテーテル</a>） | <a href="/wiki/%E5%BF%83%E8%87%93%E6%A0%B8%E5%8C%BB%E5%AD%A6%E6%A4%9C%E6%9F%BB" title="心臓核医学検査">心臓核医学検査</a></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="width:100%;;;;">
+<tr>
+<th style=";;" colspan="2" class="navbox-title">
+<div style="float:left; width:6em;text-align:left;">&#160;</div>
+<span style="font-size:100%;">治療</span></th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;">
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align:left;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E5%BF%83%E8%87%93%E8%A1%80%E7%AE%A1%E5%A4%96%E7%A7%91%E5%AD%A6" title="心臓血管外科学">外科的治療</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="/wiki/%E5%86%A0%E5%8B%95%E8%84%88%E5%A4%A7%E5%8B%95%E8%84%88%E3%83%90%E3%82%A4%E3%83%91%E3%82%B9%E7%A7%BB%E6%A4%8D%E8%A1%93" title="冠動脈大動脈バイパス移植術">冠動脈大動脈バイパス移植術</a> | <a href="/wiki/%E7%B5%8C%E7%9A%AE%E7%9A%84%E5%86%A0%E5%8B%95%E8%84%88%E5%BD%A2%E6%88%90%E8%A1%93" title="経皮的冠動脈形成術">経皮的冠動脈形成術</a> | <a href="/wiki/%E6%A4%8D%E3%81%88%E8%BE%BC%E3%81%BF%E5%9E%8B%E9%99%A4%E7%B4%B0%E5%8B%95%E5%99%A8" title="植え込み型除細動器">植え込み型除細動器</a> | <a href="/wiki/%E3%83%90%E3%83%81%E3%82%B9%E3%82%BF%E6%89%8B%E8%A1%93" title="バチスタ手術">バチスタ手術</a> | <a href="/wiki/%E4%BA%BA%E5%B7%A5%E5%BF%83%E8%87%93" title="人工心臓">人工心臓</a> | <a href="/wiki/%E5%BF%83%E8%87%93%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC" title="心臓ペースメーカー">心臓ペースメーカー</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align:left;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E5%BE%AA%E7%92%B0%E5%99%A8%E5%AD%A6" title="循環器学">内科的治療</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;">
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align:left;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E5%BF%83%E8%87%93" title="心臓">心臓</a>作動薬</div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;">
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align:left;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E6%8A%97%E4%B8%8D%E6%95%B4%E8%84%88%E8%96%AC" title="抗不整脈薬">抗不整脈薬</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">Ia群: <a href="/wiki/%E3%83%97%E3%83%AD%E3%82%AB%E3%82%A4%E3%83%B3%E3%82%A2%E3%83%9F%E3%83%89" title="プロカインアミド">プロカインアミド</a>, <a href="/wiki/%E3%82%AD%E3%83%8B%E3%82%B8%E3%83%B3" title="キニジン">キニジン</a><br />
+Ib群: <a href="/wiki/%E3%83%AA%E3%83%89%E3%82%AB%E3%82%A4%E3%83%B3" title="リドカイン">リドカイン</a>, <a href="/wiki/%E3%83%95%E3%82%A7%E3%83%8B%E3%83%88%E3%82%A4%E3%83%B3" title="フェニトイン">フェニトイン</a><br />
+Ic群: <a href="/w/index.php?title=%E3%83%95%E3%83%AC%E3%82%AB%E3%82%A4%E3%83%8B%E3%83%89&amp;action=edit&amp;redlink=1" class="new" title="フレカイニド (存在しないページ)">フレカイニド</a>, <a href="/w/index.php?title=%E3%83%97%E3%83%AD%E3%83%91%E3%83%95%E3%82%A7%E3%83%8E%E3%83%B3&amp;action=edit&amp;redlink=1" class="new" title="プロパフェノン (存在しないページ)">プロパフェノン</a><br />
+II群: <a href="/wiki/%E4%BA%A4%E6%84%9F%E7%A5%9E%E7%B5%8C%CE%B2%E5%8F%97%E5%AE%B9%E4%BD%93%E9%81%AE%E6%96%AD%E8%96%AC" title="交感神経β受容体遮断薬">交感神経β受容体遮断薬</a>（<a href="/wiki/%E3%83%97%E3%83%AD%E3%83%97%E3%83%A9%E3%83%8E%E3%83%AD%E3%83%BC%E3%83%AB" title="プロプラノロール">プロプラノロール</a>など）<br />
+III群: <a href="/wiki/%E3%82%A2%E3%83%9F%E3%82%AA%E3%83%80%E3%83%AD%E3%83%B3" title="アミオダロン">アミオダロン</a>, <a href="/w/index.php?title=%E3%82%BD%E3%82%BF%E3%83%AD%E3%83%BC%E3%83%AB&amp;action=edit&amp;redlink=1" class="new" title="ソタロール (存在しないページ)">ソタロール</a><br />
+IV群: <a href="/wiki/%E3%82%AB%E3%83%AB%E3%82%B7%E3%82%A6%E3%83%A0%E6%8B%AE%E6%8A%97%E5%89%A4" title="カルシウム拮抗剤">カルシウム拮抗剤</a>（<a href="/wiki/%E3%83%99%E3%83%A9%E3%83%91%E3%83%9F%E3%83%AB" title="ベラパミル">ベラパミル</a>, <a href="/wiki/%E3%82%B8%E3%83%AB%E3%83%81%E3%82%A2%E3%82%BC%E3%83%A0" title="ジルチアゼム">ジルチアゼム</a>など）</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align:left;;">
+<div style="padding:0em 0.75em;"><a href="/w/index.php?title=%E5%BF%83%E4%B8%8D%E5%85%A8%E6%B2%BB%E7%99%82%E8%96%AC&amp;action=edit&amp;redlink=1" class="new" title="心不全治療薬 (存在しないページ)">心不全治療薬</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="/wiki/%E5%88%A9%E5%B0%BF%E8%96%AC" title="利尿薬">利尿薬</a> | <a href="/wiki/%E8%A1%80%E7%AE%A1%E6%8B%A1%E5%BC%B5%E8%96%AC" title="血管拡張薬">血管拡張薬</a> | <a href="/wiki/%E5%BC%B7%E5%BF%83%E9%85%8D%E7%B3%96%E4%BD%93" title="強心配糖体">強心配糖体</a> | <a href="/wiki/%E6%98%87%E5%9C%A7%E5%89%A4#.E5.BC.B7.E5.BF.83.E5.89.A4" title="昇圧剤">強心剤</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align:left;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E7%8B%AD%E5%BF%83%E7%97%87%E6%B2%BB%E7%99%82%E8%96%AC" title="狭心症治療薬">狭心症治療薬</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="/wiki/%E4%BA%A4%E6%84%9F%E7%A5%9E%E7%B5%8C%CE%B2%E5%8F%97%E5%AE%B9%E4%BD%93%E9%81%AE%E6%96%AD%E8%96%AC" title="交感神経β受容体遮断薬">交感神経β受容体遮断薬</a> | <a href="/wiki/%E7%A1%9D%E9%85%B8%E8%96%AC" title="硝酸薬">硝酸薬</a></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align:left;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E8%A1%80%E7%AE%A1" title="血管">血管</a>作動薬</div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;">
+<tr>
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align:left;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/%E9%AB%98%E8%A1%80%E5%9C%A7%E6%B2%BB%E7%99%82%E8%96%AC" title="高血圧治療薬">高血圧治療薬</a></div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="/wiki/%E5%88%A9%E5%B0%BF%E8%96%AC" title="利尿薬">利尿薬</a> | <a href="/wiki/%E4%BA%A4%E6%84%9F%E7%A5%9E%E7%B5%8C%CE%B2%E5%8F%97%E5%AE%B9%E4%BD%93%E9%81%AE%E6%96%AD%E8%96%AC" title="交感神経β受容体遮断薬">交感神経β受容体遮断薬</a> | <a href="/wiki/%E3%83%AC%E3%83%8B%E3%83%B3-%E3%82%A2%E3%83%B3%E3%82%B8%E3%82%AA%E3%83%86%E3%83%B3%E3%82%B7%E3%83%B3%E7%B3%BB" title="レニン-アンジオテンシン系">レニン-アンジオテンシン系</a> (<a href="/wiki/ACE%E9%98%BB%E5%AE%B3%E8%96%AC" title="ACE阻害薬">ACE阻害薬</a>、<a href="/wiki/%E3%82%A2%E3%83%B3%E3%82%B8%E3%82%AA%E3%83%86%E3%83%B3%E3%82%B7%E3%83%B3II%E5%8F%97%E5%AE%B9%E4%BD%93%E6%8B%AE%E6%8A%97%E8%96%AC" title="アンジオテンシンII受容体拮抗薬">アンジオテンシンII受容体拮抗薬</a>、<a href="/w/index.php?title=%E3%83%AC%E3%83%8B%E3%83%B3%E9%98%BB%E5%AE%B3%E8%96%AC&amp;action=edit&amp;redlink=1" class="new" title="レニン阻害薬 (存在しないページ)">レニン阻害薬</a>) | <a href="/wiki/%E3%82%AB%E3%83%AB%E3%82%B7%E3%82%A6%E3%83%A0%E6%8B%AE%E6%8A%97%E5%89%A4" title="カルシウム拮抗剤">カルシウム拮抗剤</a> | <a href="/wiki/%E3%82%A2%E3%83%89%E3%83%AC%E3%83%8A%E3%83%AA%E3%83%B3%E4%BD%9C%E5%8B%95%E8%96%AC" title="アドレナリン作動薬">アドレナリン作動薬</a> | <a href="/wiki/%E8%84%82%E8%B3%AA%E9%99%8D%E4%B8%8B%E8%96%AC" title="脂質降下薬">脂質降下薬</a></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" style=";" colspan="2"><a href="/wiki/Template:%E5%BE%AA%E7%92%B0%E5%99%A8%E7%B3%BB" title="Template:循環器系"><b>循環器系の正常構造・生理</b></a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<div class="metadata plainlinks stub">
+<table cellspacing="2" cellpadding="3" style="border:solid #999 1px; background:#F8F8F8; margin:0.5em 10%; clear:both">
+<tr>
+<td class="mbox-image"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Esclapius_stick.svg" class="image" title="執筆の途中です"><img alt="執筆の途中です" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Esclapius_stick.svg/10px-Esclapius_stick.svg.png" width="10" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Esclapius_stick.svg/15px-Esclapius_stick.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Esclapius_stick.svg/20px-Esclapius_stick.svg.png 2x" /></a></td>
+<td class="mbox-text">この項目は、<b><a href="/wiki/%E5%8C%BB%E5%AD%A6" title="医学">医学</a></b>に関連した<b><a href="/wiki/Wikipedia:%E3%82%B9%E3%82%BF%E3%83%96" title="Wikipedia:スタブ">書きかけの項目</a></b>です。<a class="external text" href="//ja.wikipedia.org/w/index.php?title=%E9%AB%98%E8%A1%80%E5%9C%A7&amp;action=edit">この項目を加筆・訂正</a>などしてくださる<a href="/wiki/Category:%E5%8C%BB%E5%AD%A6%E9%96%A2%E9%80%A3%E3%81%AE%E3%82%B9%E3%82%BF%E3%83%96%E9%A0%85%E7%9B%AE" title="Category:医学関連のスタブ項目">協力者を求めています</a>（<a href="/wiki/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88:%E5%8C%BB%E5%AD%A6" title="プロジェクト:医学">プロジェクト:医学</a>／<a href="/wiki/Portal:%E5%8C%BB%E5%AD%A6%E3%81%A8%E5%8C%BB%E7%99%82" title="Portal:医学と医療">Portal:医学と医療</a>）。</td>
+</tr>
+</table>
+</div>
+<p><span id="interwiki-ceb-fa" style="display:none;"></span> <span id="interwiki-en-ga" style="display:none;"></span> <span id="interwiki-ml-fa" style="display:none;"></span> <span id="interwiki-hu-fa" style="display:none;"></span> <span id="interwiki-ro-fa" style="display:none;"></span> <span id="interwiki-pt-fa" style="display:none;"></span></p>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 9823/1000000
+Preprocessor generated node count: 40749/1500000
+Post‐expand include size: 270527/2048000 bytes
+Template argument size: 212614/2048000 bytes
+Highest expansion depth: 32/40
+Expensive parser function count: 1/500
+-->
+
+<!-- Saved in parser cache with key jawiki:pcache:idhash:27467-0!*!0!!ja!4!* and timestamp 20130704012140 -->
+</div>								<div class="printfooter">
+				「<a href="http://ja.wikipedia.org/w/index.php?title=高血圧&amp;oldid=47991824">http://ja.wikipedia.org/w/index.php?title=高血圧&amp;oldid=47991824</a>」から取得				</div>
+												<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA" title="特別:カテゴリ">カテゴリ</a>: <ul><li><a href="/wiki/Category:%E7%97%87%E5%80%99" title="Category:症候">症候</a></li><li><a href="/wiki/Category:%E9%AB%98%E8%A1%80%E5%9C%A7" title="Category:高血圧">高血圧</a></li><li><a href="/wiki/Category:%E5%8A%B4%E5%83%8D%E5%AE%89%E5%85%A8" title="Category:労働安全">労働安全</a></li><li><a href="/wiki/Category:%E5%8A%B4%E5%83%8D%E7%81%BD%E5%AE%B3" title="Category:労働災害">労働災害</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">隠しカテゴリ: <ul><li><a href="/wiki/Category:%E5%87%BA%E5%85%B8%E3%82%92%E5%BF%85%E8%A6%81%E3%81%A8%E3%81%99%E3%82%8B%E8%A8%98%E8%BF%B0%E3%81%AE%E3%81%82%E3%82%8B%E8%A8%98%E4%BA%8B/2011%E5%B9%B47%E6%9C%88" title="Category:出典を必要とする記述のある記事/2011年7月">出典を必要とする記述のある記事/2011年7月</a></li><li><a href="/wiki/Category:%E5%8C%BB%E5%AD%A6%E9%96%A2%E9%80%A3%E3%81%AE%E3%82%B9%E3%82%BF%E3%83%96%E9%A0%85%E7%9B%AE" title="Category:医学関連のスタブ項目">医学関連のスタブ項目</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>案内メニュー</h2>
+			<div id="mw-head">
+				<div id="p-personal" role="navigation" class="">
+	<h3>個人用ツール</h3>
+	<ul>
+<li id="pt-createaccount"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3&amp;returnto=%E9%AB%98%E8%A1%80%E5%9C%A7&amp;type=signup">アカウント作成</a></li><li id="pt-login"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3&amp;returnto=%E9%AB%98%E8%A1%80%E5%9C%A7" title="ログインすることを推奨します。ただし、必須ではありません。 [o]" accesskey="o">ログイン</a></li>	</ul>
+</div>
+				<div id="left-navigation">
+					<div id="p-namespaces" role="navigation" class="vectorTabs">
+	<h3>名前空間</h3>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/%E9%AB%98%E8%A1%80%E5%9C%A7"  title="本文を閲覧 [c]" accesskey="c">ページ</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/%E3%83%8E%E3%83%BC%E3%83%88:%E9%AB%98%E8%A1%80%E5%9C%A7"  title="本文ページについての議論 [t]" accesskey="t">ノート</a></span></li>
+			</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet">
+	<h3 id="mw-vector-current-variant">
+		</h3>
+	<h3><span>変種</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+				</div>
+				<div id="right-navigation">
+					<div id="p-views" role="navigation" class="vectorTabs">
+	<h3>表示</h3>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/%E9%AB%98%E8%A1%80%E5%9C%A7" >閲覧</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=%E9%AB%98%E8%A1%80%E5%9C%A7&amp;action=edit"  title="このページを編集できます。保存前にプレビューボタンを使用してください。 [e]" accesskey="e">編集</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=%E9%AB%98%E8%A1%80%E5%9C%A7&amp;action=history"  title="このページの過去の版 [h]" accesskey="h">履歴表示</a></span></li>
+			</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet">
+	<h3><span>操作</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+<div id="p-search" role="search">
+	<h3><label for="searchInput">検索</label></h3>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" placeholder="検索" title="Wikipedia内を検索する [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="この文字列が含まれるページを探す" id="searchButton"><img src="//bits.wikimedia.org/static-1.22wmf9/skins/vector/images/search-ltr.png?303-4" alt="検索" width="12" height="13" /></button>								<input type='hidden' name="title" value="特別:検索"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+					<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/commons/a/ad/Wikipedia-logo-v2-ja.png);" href="/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8"  title="メインページに移動する"></a></div>
+				<div class="portal" role="navigation" id='p-navigation'>
+	<h3>案内</h3>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage"><a href="/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" title="メインページに移動する [z]" accesskey="z">メインページ</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%BB%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB" title="このプロジェクトについて、できること、情報を入手する場所">コミュニティ・ポータル</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:%E6%9C%80%E8%BF%91%E3%81%AE%E5%87%BA%E6%9D%A5%E4%BA%8B" title="最近の出来事の背景を知る">最近の出来事</a></li>
+			<li id="n-newpages"><a href="/wiki/%E7%89%B9%E5%88%A5:%E6%96%B0%E3%81%97%E3%81%84%E3%83%9A%E3%83%BC%E3%82%B8" title="最近新規に作成されたページの一覧">新しいページ</a></li>
+			<li id="n-recentchanges"><a href="/wiki/%E7%89%B9%E5%88%A5:%E6%9C%80%E8%BF%91%E3%81%AE%E6%9B%B4%E6%96%B0" title="このウィキにおける最近の更新の一覧 [r]" accesskey="r">最近の更新</a></li>
+			<li id="n-randompage"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%81%8A%E3%81%BE%E3%81%8B%E3%81%9B%E8%A1%A8%E7%A4%BA" title="無作為に選択されたページを読み込む [x]" accesskey="x">おまかせ表示</a></li>
+			<li id="n-sandbox"><a href="/wiki/Wikipedia:%E3%82%B5%E3%83%B3%E3%83%89%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9" title="練習用のページ">練習用ページ</a></li>
+			<li id="n-commonsupload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=ja" title="画像やメディアファイルをウィキメディア・コモンズにアップロード">アップロード (ウィキメディア・コモンズ)</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-help'>
+	<h3>ヘルプ</h3>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:%E7%9B%AE%E6%AC%A1" title="情報を得る場所">ヘルプ</a></li>
+			<li id="n-villagepump"><a href="/wiki/Wikipedia:%E4%BA%95%E6%88%B8%E7%AB%AF" title="プロジェクトについての意見交換">井戸端</a></li>
+			<li id="n-notice"><a href="/wiki/Wikipedia:%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B" title="プロジェクトについてのお知らせ">お知らせ</a></li>
+			<li id="n-bugreportspage"><a href="/wiki/Wikipedia:%E3%83%90%E3%82%B0%E3%81%AE%E5%A0%B1%E5%91%8A" title="ウィキペディア・ソフトウェアのバグ報告">バグの報告</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ja.wikipedia.org&amp;uselang=ja" title="ご支援ください">寄付</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:%E9%80%A3%E7%B5%A1%E5%85%88" title="ウィキペディアやウィキメディア財団に関する連絡先">ウィキペディアに関するお問い合わせ</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-tb'>
+	<h3>ツールボックス</h3>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%83%AA%E3%83%B3%E3%82%AF%E5%85%83/%E9%AB%98%E8%A1%80%E5%9C%A7" title="ここにリンクしている全ウィキページの一覧 [j]" accesskey="j">リンク元</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/%E7%89%B9%E5%88%A5:%E9%96%A2%E9%80%A3%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%B3%81/%E9%AB%98%E8%A1%80%E5%9C%A7" title="このページからリンクしているページの最近の更新 [k]" accesskey="k">関連ページの更新状況</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89" title="ファイルをアップロードする [u]" accesskey="u">ファイルをアップロード</a></li>
+			<li id="t-specialpages"><a href="/wiki/%E7%89%B9%E5%88%A5:%E7%89%B9%E5%88%A5%E3%83%9A%E3%83%BC%E3%82%B8%E4%B8%80%E8%A6%A7" title="特別ページの一覧 [q]" accesskey="q">特別ページ</a></li>
+			<li id="t-print"><a href="/w/index.php?title=%E9%AB%98%E8%A1%80%E5%9C%A7&amp;printable=yes" rel="alternate" title="このページの印刷用ページ [p]" accesskey="p">印刷用バージョン</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=%E9%AB%98%E8%A1%80%E5%9C%A7&amp;oldid=47991824" title="このページのこの版への固定リンク">この版への固定リンク</a></li>
+			<li id="t-info"><a href="/w/index.php?title=%E9%AB%98%E8%A1%80%E5%9C%A7&amp;action=info">ページ情報</a></li>
+			<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q41861" title="関連付けられたデータリポジトリ項目へのリンク">データ項目</a></li>
+<li id="t-cite"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E5%BC%95%E7%94%A8&amp;page=%E9%AB%98%E8%A1%80%E5%9C%A7&amp;id=47991824" title="このページの引用方法">このページを引用</a></li>		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-lang'>
+	<h3>他言語版</h3>
+	<div class="body">
+		<ul>
+			<li class="interwiki-af"><a href="//af.wikipedia.org/wiki/Hipertensie" title="Hipertensie" lang="af" hreflang="af">Afrikaans</a></li>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D9%81%D8%B1%D8%B7_%D8%B6%D8%BA%D8%B7_%D8%A7%D9%84%D8%AF%D9%85" title="فرط ضغط الدم" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-ast"><a href="//ast.wikipedia.org/wiki/Hipertensi%C3%B3n_arterial" title="Hipertensión arterial" lang="ast" hreflang="ast">Asturianu</a></li>
+			<li class="interwiki-az"><a href="//az.wikipedia.org/wiki/Arterial_hipertenziya" title="Arterial hipertenziya" lang="az" hreflang="az">Azərbaycanca</a></li>
+			<li class="interwiki-ba"><a href="//ba.wikipedia.org/wiki/%D0%93%D0%B8%D0%BF%D0%B5%D1%80%D1%82%D0%BE%D0%BD%D0%B8%D1%8F" title="Гипертония" lang="ba" hreflang="ba">Башҡортса</a></li>
+			<li class="interwiki-bar"><a href="//bar.wikipedia.org/wiki/Bluadhochdruck" title="Bluadhochdruck" lang="bar" hreflang="bar">Boarisch</a></li>
+			<li class="interwiki-be"><a href="//be.wikipedia.org/wiki/%D0%90%D1%80%D1%82%D1%8D%D1%80%D1%8B%D1%8F%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B3%D1%96%D0%BF%D0%B5%D1%80%D1%82%D1%8D%D0%BD%D0%B7%D1%96%D1%8F" title="Артэрыяльная гіпертэнзія" lang="be" hreflang="be">Беларуская</a></li>
+			<li class="interwiki-be-x-old"><a href="//be-x-old.wikipedia.org/wiki/%D0%93%D1%96%D0%BF%D1%8D%D1%80%D1%82%D0%B0%D0%BD%D1%96%D1%8F" title="Гіпэртанія" lang="be-x-old" hreflang="be-x-old">Беларуская (тарашкевіца)‎</a></li>
+			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%90%D1%80%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D0%BD%D0%B0_%D1%85%D0%B8%D0%BF%D0%B5%D1%80%D1%82%D0%BE%D0%BD%D0%B8%D1%8F" title="Артериална хипертония" lang="bg" hreflang="bg">Български</a></li>
+			<li class="interwiki-bn"><a href="//bn.wikipedia.org/wiki/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%B0%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%9A%E0%A6%BE%E0%A6%AA" title="উচ্চরক্তচাপ" lang="bn" hreflang="bn">বাংলা</a></li>
+			<li class="interwiki-bs"><a href="//bs.wikipedia.org/wiki/Hipertenzija" title="Hipertenzija" lang="bs" hreflang="bs">Bosanski</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Hipertensi%C3%B3_arterial" title="Hipertensió arterial" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-ceb"><a href="//ceb.wikipedia.org/wiki/Alta_presyon" title="Alta presyon" lang="ceb" hreflang="ceb">Cebuano</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/Hypertenze" title="Hypertenze" lang="cs" hreflang="cs">Česky</a></li>
+			<li class="interwiki-da"><a href="//da.wikipedia.org/wiki/Hypertension" title="Hypertension" lang="da" hreflang="da">Dansk</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Arterielle_Hypertonie" title="Arterielle Hypertonie" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-dv"><a href="//dv.wikipedia.org/wiki/%DE%8D%DE%AD%DE%89%DE%A6%DE%87%DE%B0%DE%97%DE%A6%DE%81%DE%B0%DE%8B%DE%A8%DE%87%DE%AA%DE%82%DE%B0" title="ލޭމައްޗަށްދިއުން" lang="dv" hreflang="dv">ދިވެހިބަސް</a></li>
+			<li class="interwiki-el"><a href="//el.wikipedia.org/wiki/%CE%91%CF%81%CF%84%CE%B7%CF%81%CE%B9%CE%B1%CE%BA%CE%AE_%CF%85%CF%80%CE%AD%CF%81%CF%84%CE%B1%CF%83%CE%B7" title="Αρτηριακή υπέρταση" lang="el" hreflang="el">Ελληνικά</a></li>
+			<li class="interwiki-en"><a href="//en.wikipedia.org/wiki/Hypertension" title="Hypertension" lang="en" hreflang="en">English</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Alta_sangopremo" title="Alta sangopremo" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Hipertensi%C3%B3n_arterial" title="Hipertensión arterial" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-et"><a href="//et.wikipedia.org/wiki/H%C3%BCpertensioon" title="Hüpertensioon" lang="et" hreflang="et">Eesti</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Hipertentsio" title="Hipertentsio" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%B2%DB%8C%D8%A7%D8%AF%DB%8C_%D9%81%D8%B4%D8%A7%D8%B1_%D8%AE%D9%88%D9%86" title="زیادی فشار خون" lang="fa" hreflang="fa">فارسی</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Kohonnut_verenpaine" title="Kohonnut verenpaine" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Hypertension_art%C3%A9rielle" title="Hypertension artérielle" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-gl"><a href="//gl.wikipedia.org/wiki/Hipertensi%C3%B3n_arterial" title="Hipertensión arterial" lang="gl" hreflang="gl">Galego</a></li>
+			<li class="interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%99%D7%AA%D7%A8_%D7%9C%D7%97%D7%A5_%D7%93%D7%9D" title="יתר לחץ דם" lang="he" hreflang="he">עברית</a></li>
+			<li class="interwiki-hi"><a href="//hi.wikipedia.org/wiki/%E0%A4%89%E0%A4%9A%E0%A5%8D%E0%A4%9A_%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%9A%E0%A4%BE%E0%A4%AA" title="उच्च रक्तचाप" lang="hi" hreflang="hi">हिन्दी</a></li>
+			<li class="interwiki-hr"><a href="//hr.wikipedia.org/wiki/Hipertenzija" title="Hipertenzija" lang="hr" hreflang="hr">Hrvatski</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/Magas_v%C3%A9rnyom%C3%A1s" title="Magas vérnyomás" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-hy"><a href="//hy.wikipedia.org/wiki/%D4%B3%D5%A5%D6%80%D5%B3%D5%B6%D5%B7%D5%B8%D6%82%D5%B4" title="Գերճնշում" lang="hy" hreflang="hy">Հայերեն</a></li>
+			<li class="interwiki-id"><a href="//id.wikipedia.org/wiki/Tekanan_darah_tinggi" title="Tekanan darah tinggi" lang="id" hreflang="id">Bahasa Indonesia</a></li>
+			<li class="interwiki-is"><a href="//is.wikipedia.org/wiki/H%C3%A1%C3%BEr%C3%BDstingur" title="Háþrýstingur" lang="is" hreflang="is">Íslenska</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Ipertensione" title="Ipertensione" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-jv"><a href="//jv.wikipedia.org/wiki/Bludrek" title="Bludrek" lang="jv" hreflang="jv">Basa Jawa</a></li>
+			<li class="interwiki-kk"><a href="//kk.wikipedia.org/wiki/%D0%93%D0%B8%D0%BF%D0%B5%D1%80%D1%82%D0%BE%D0%BD%D0%B8%D1%8F%D0%BB%D1%8B%D2%9B_%D0%B0%D1%83%D1%80%D1%83" title="Гипертониялық ауру" lang="kk" hreflang="kk">Қазақша</a></li>
+			<li class="interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EA%B3%A0%ED%98%88%EC%95%95" title="고혈압" lang="ko" hreflang="ko">한국어</a></li>
+			<li class="interwiki-ku"><a href="//ku.wikipedia.org/wiki/Pestoya_bilind_a_xw%C3%AEn%C3%AA" title="Pestoya bilind a xwînê" lang="ku" hreflang="ku">Kurdî</a></li>
+			<li class="interwiki-lt"><a href="//lt.wikipedia.org/wiki/Hipertenzija" title="Hipertenzija" lang="lt" hreflang="lt">Lietuvių</a></li>
+			<li class="interwiki-lv"><a href="//lv.wikipedia.org/wiki/Hipertens%C4%ABv%C4%81_sirds_slim%C4%ABba" title="Hipertensīvā sirds slimība" lang="lv" hreflang="lv">Latviešu</a></li>
+			<li class="interwiki-ml"><a href="//ml.wikipedia.org/wiki/%E0%B4%B0%E0%B4%95%E0%B5%8D%E0%B4%A4%E0%B4%BE%E0%B4%A4%E0%B4%BF%E0%B4%AE%E0%B5%BC%E0%B4%A6%E0%B5%8D%E0%B4%A6%E0%B4%82" title="രക്താതിമർദ്ദം" lang="ml" hreflang="ml">മലയാളം</a></li>
+			<li class="interwiki-mr"><a href="//mr.wikipedia.org/wiki/%E0%A4%89%E0%A4%9A%E0%A5%8D%E0%A4%9A_%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%A6%E0%A4%BE%E0%A4%AC" title="उच्च रक्तदाब" lang="mr" hreflang="mr">मराठी</a></li>
+			<li class="interwiki-ms"><a href="//ms.wikipedia.org/wiki/Darah_tinggi" title="Darah tinggi" lang="ms" hreflang="ms">Bahasa Melayu</a></li>
+			<li class="interwiki-my"><a href="//my.wikipedia.org/wiki/%E1%80%9E%E1%80%BD%E1%80%B1%E1%80%B8%E1%80%90%E1%80%AD%E1%80%AF%E1%80%B8%E1%80%9B%E1%80%B1%E1%80%AC%E1%80%82%E1%80%AB" title="သွေးတိုးရောဂါ" lang="my" hreflang="my">မြန်မာဘာသာ</a></li>
+			<li class="interwiki-ne"><a href="//ne.wikipedia.org/wiki/%E0%A4%89%E0%A4%9A%E0%A5%8D%E0%A4%9A_%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%9A%E0%A4%BE%E0%A4%AA" title="उच्च रक्तचाप" lang="ne" hreflang="ne">नेपाली</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Hypertensie" title="Hypertensie" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Hypertensjon" title="Hypertensjon" lang="no" hreflang="no">Norsk bokmål</a></li>
+			<li class="interwiki-or"><a href="//or.wikipedia.org/wiki/%E0%AC%89%E0%AC%9A%E0%AD%8D%E0%AC%9A_%E0%AC%B0%E0%AC%95%E0%AD%8D%E0%AC%A4%E0%AC%9A%E0%AC%BE%E0%AC%AA" title="ଉଚ୍ଚ ରକ୍ତଚାପ" lang="or" hreflang="or">ଓଡ଼ିଆ</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Nadci%C5%9Bnienie_t%C4%99tnicze" title="Nadciśnienie tętnicze" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Hipertens%C3%A3o_arterial" title="Hipertensão arterial" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-qu"><a href="//qu.wikipedia.org/wiki/Llasaq_yawar" title="Llasaq yawar" lang="qu" hreflang="qu">Runa Simi</a></li>
+			<li class="interwiki-ro"><a href="//ro.wikipedia.org/wiki/Hipertensiune_arterial%C4%83" title="Hipertensiune arterială" lang="ro" hreflang="ro">Română</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%90%D1%80%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B3%D0%B8%D0%BF%D0%B5%D1%80%D1%82%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F" title="Артериальная гипертензия" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-sh"><a href="//sh.wikipedia.org/wiki/Hipertenzija" title="Hipertenzija" lang="sh" hreflang="sh">Srpskohrvatski / српскохрватски</a></li>
+			<li class="interwiki-simple"><a href="//simple.wikipedia.org/wiki/Hypertension" title="Hypertension" lang="simple" hreflang="simple">Simple English</a></li>
+			<li class="interwiki-sl"><a href="//sl.wikipedia.org/wiki/Visok_krvni_tlak" title="Visok krvni tlak" lang="sl" hreflang="sl">Slovenščina</a></li>
+			<li class="interwiki-sq"><a href="//sq.wikipedia.org/wiki/Hipertensioni" title="Hipertensioni" lang="sq" hreflang="sq">Shqip</a></li>
+			<li class="interwiki-sr"><a href="//sr.wikipedia.org/wiki/%D0%A5%D0%B8%D0%BF%D0%B5%D1%80%D1%82%D0%B5%D0%BD%D0%B7%D0%B8%D1%98%D0%B0" title="Хипертензија" lang="sr" hreflang="sr">Српски / srpski</a></li>
+			<li class="interwiki-su"><a href="//su.wikipedia.org/wiki/Hipert%C3%A9nsi" title="Hiperténsi" lang="su" hreflang="su">Basa Sunda</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Hypertoni" title="Hypertoni" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-ta"><a href="//ta.wikipedia.org/wiki/%E0%AE%89%E0%AE%AF%E0%AE%B0%E0%AF%8D_%E0%AE%87%E0%AE%B0%E0%AE%A4%E0%AF%8D%E0%AE%A4_%E0%AE%85%E0%AE%B4%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AF%8D" title="உயர் இரத்த அழுத்தம்" lang="ta" hreflang="ta">தமிழ்</a></li>
+			<li class="interwiki-te"><a href="//te.wikipedia.org/wiki/%E0%B0%85%E0%B0%A7%E0%B0%BF%E0%B0%95_%E0%B0%B0%E0%B0%95%E0%B1%8D%E0%B0%A4%E0%B0%AA%E0%B1%8B%E0%B0%9F%E0%B1%81" title="అధిక రక్తపోటు" lang="te" hreflang="te">తెలుగు</a></li>
+			<li class="interwiki-th"><a href="//th.wikipedia.org/wiki/%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%94%E0%B8%B1%E0%B8%99%E0%B9%82%E0%B8%A5%E0%B8%AB%E0%B8%B4%E0%B8%95%E0%B8%AA%E0%B8%B9%E0%B8%87" title="ความดันโลหิตสูง" lang="th" hreflang="th">ไทย</a></li>
+			<li class="interwiki-tl"><a href="//tl.wikipedia.org/wiki/Altapresyon" title="Altapresyon" lang="tl" hreflang="tl">Tagalog</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/Y%C3%BCksek_tansiyon" title="Yüksek tansiyon" lang="tr" hreflang="tr">Türkçe</a></li>
+			<li class="interwiki-tt"><a href="//tt.wikipedia.org/wiki/%D0%93%D0%B8%D0%BF%D0%B5%D1%80%D1%82%D0%BE%D0%BD%D0%B8%D1%8F" title="Гипертония" lang="tt" hreflang="tt">Татарча/tatarça</a></li>
+			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%90%D1%80%D1%82%D0%B5%D1%80%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0_%D0%B3%D1%96%D0%BF%D0%B5%D1%80%D1%82%D0%B5%D0%BD%D0%B7%D1%96%D1%8F" title="Артеріальна гіпертензія" lang="uk" hreflang="uk">Українська</a></li>
+			<li class="interwiki-ur"><a href="//ur.wikipedia.org/wiki/%D9%81%D8%B1%D8%B7_%D8%AA%D9%86%D8%A7%D8%A4" title="فرط تناؤ" lang="ur" hreflang="ur">اردو</a></li>
+			<li class="interwiki-vi"><a href="//vi.wikipedia.org/wiki/T%C4%83ng_huy%E1%BA%BFt_%C3%A1p" title="Tăng huyết áp" lang="vi" hreflang="vi">Tiếng Việt</a></li>
+			<li class="interwiki-war"><a href="//war.wikipedia.org/wiki/Altapresyon" title="Altapresyon" lang="war" hreflang="war">Winaray</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E9%AB%98%E8%A1%80%E5%A3%93" title="高血壓" lang="zh" hreflang="zh">中文</a></li>
+			<li class="interwiki-zh-min-nan"><a href="//zh-min-nan.wikipedia.org/wiki/Ko-hoeh-ap" title="Ko-hoeh-ap" lang="zh-min-nan" hreflang="zh-min-nan">Bân-lâm-gú</a></li>
+			<li class="interwiki-zh-yue"><a href="//zh-yue.wikipedia.org/wiki/%E9%AB%98%E8%A1%80%E5%A3%93" title="高血壓" lang="zh-yue" hreflang="zh-yue">粵語</a></li>
+			<li class="uls-p-lang-dummy"><a href="#"></a></li>
+			<li class="wbc-editpage"><a href="//www.wikidata.org/wiki/Q41861#sitelinks-wikipedia" title="言語間リンクを編集する">リンクを編集</a></li>
+		</ul>
+	</div>
+</div>
+			</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> 最終更新 2013年5月29日 (水) 12:14 （日時は<a href="/wiki/%E7%89%B9%E5%88%A5:%E5%80%8B%E4%BA%BA%E8%A8%AD%E5%AE%9A" title="特別:個人設定">個人設定</a>で未設定ならば<a href="/wiki/%E5%8D%94%E5%AE%9A%E4%B8%96%E7%95%8C%E6%99%82" title="協定世界時">UTC</a>）。<br /></li>
+											<li id="footer-info-copyright">テキストは<a href="//ja.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">クリエイティブ・コモンズ 表示-継承ライセンス</a>の下で利用可能です。追加の条件が適用される場合があります。詳細は<a href="//wikimediafoundation.org/wiki/%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84">利用規約</a>を参照してください。<br /></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC%E3%83%BB%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC" title="wikimedia:プライバシー・ポリシー">プライバシー・ポリシー</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%9A%E3%83%87%E3%82%A3%E3%82%A2%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6" title="Wikipedia:ウィキペディアについて">ウィキペディアについて</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:%E5%85%8D%E8%B2%AC%E4%BA%8B%E9%A0%85" title="Wikipedia:免責事項">免責事項</a></li>
+											<li id="footer-places-mobileview"><a href="//ja.m.wikipedia.org/wiki/%E9%AB%98%E8%A1%80%E5%9C%A7" class="noprint stopMobileRedirectToggle">モバイルビュー</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.22wmf9/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.WikiMiniAtlas","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.navigationTiming","mw.PopUpMediaTransform"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/ja.wikipedia.org/load.php?debug=false&amp;lang=ja&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by mw1028 in 0.228 secs. -->
+	</body>
+</html>
